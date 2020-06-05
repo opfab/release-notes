@@ -17,7 +17,10 @@
    -  authentication configuration located into nginx conf files (default.conf in docker-compose environment);
    -  replace or complete the web-ui.json of your docker-compose environment with your backed-up file;
    -  to use ng serve with deploy docker-compose, use default-web-dev.conf instead of default.conf.
-
+   -  removes useless dependencies;
+   -  allows SSE run for 24h;
+   -  enables ng serve on dev-environment docker-compose.
+   -  update documentation 
 [IMPORTANT]
 ====
 Before upgrading save a copy of your web-ui.json to back-up custom changes.
