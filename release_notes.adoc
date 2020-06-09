@@ -6,11 +6,9 @@
 * [OC-876] User Service : Implement group in JWT Token Option
 * [OC-402] As an Operator I want the archive screen to display an explicit message if no cards are found that match my filters
 * [OC-868] As an admin I would like to be able to hide the time filtrer : https://opfab.github.io/documentation/current/deployment/#_web_ui
-* [OC-900] Modifiy the CardPublication service with a new field : externalRecipients
 * [OC-864] As a user I want to be able to reset archives filters so I can change my search criteria => Add a space between the search button and the Minutes field
 * [OC-939] Synchronize timeline with feed (When a filter is set in the feed, it applies as well in the timeline (severity, tags or business period))
-* [OC-875] New endpoint cards/userCard to receive cards from users 
-* [OC-871] [OC-872][OC-874][OC-881] First implementation of "Smart notification" 
+* [OC-871] [OC-872][OC-874][OC-875][OC-881][OC-900] First implementation of "Smart notification" 
 +
 It is now possible for the user to reply to a card , the response is send back to an external app . Work is in progress, it is not usable yet in production. 
 * [OC-670] Remove registry/configuration components and replace gateway with Ngnix 
