@@ -28,6 +28,7 @@ It is now possible for the user to reply to a card , the response is send back t
 ====
 Before upgrading save a copy of your web-ui.json to back-up custom changes.
 ====
+* [OC-947] As a user I want to be able to click on the links in the bubble so that i can display the related card on the feed
 
 == Bugs
 * [OC-772] Bug on archives screen: clear results when exiting archive page.
