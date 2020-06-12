@@ -76,3 +76,4 @@ the other hand, you should checkout the associated X.X.X.RELEASE tag on `master`
 * [OC-972] Add charts functionnality in template +
 It uses `charts.js` library, templates as example can be found in `src/test/utils/karate/thirds/resources/bundle_test_api`
 * [OC-895] external configurations for all services , keycloak and docker-compose files to help with tests and demonstrations
+* [OC-924] Correct OpFab doc dead link in Entities section
