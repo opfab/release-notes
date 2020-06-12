@@ -72,4 +72,7 @@ the other hand, you should checkout the associated X.X.X.RELEASE tag on `master`
 * [OC-904] thirds service - added delete version of a third, minor changes on general synch working
 * [OC-943] Add a gradle task to launch sonar analysis
 * [OC-945] Add a spining icon when connection with server is lost
-* [OC-961] Remove code related to old action feature in front 
+* [OC-961] Remove code related to old action feature in front
+* [OC-972] Add charts functionnality in template +
+It uses `charts.js` library, templates as example can be found in `src/test/utils/karate/thirds/resources/bundle_test_api`
+* [OC-895] external configurations for all services , keycloak and docker-compose files to help with tests and demonstrations
