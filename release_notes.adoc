@@ -20,8 +20,7 @@ It is now possible for the user to reply to a card, the response is send back to
 +
 [IMPORTANT]
 ====
-
-Work is in progress, it is not usable yet in production. 
+Work is in progress, it is not documented and usable yet in production. 
 ====
 
 * Remove netflix stack ([OC-670] [OC-836] [OC-838]) :
