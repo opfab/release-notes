@@ -4,9 +4,9 @@
 == Issues
 
 * UI Improvements : 
+** [OC-868] As an admin I would like to be able to hide the time filter : https://opfab.github.io/documentation/current/deployment/#_web_ui
+** [OC-864] As a user I want to be able to reset archives filters so I can change my search criteria
 ** [OC-402] As an Operator I want the archive screen to display an explicit message if no cards are found that match my filters
-** [OC-868] As an admin I would like to be able to hide the time filtrer : https://opfab.github.io/documentation/current/deployment/#_web_ui
-** [OC-864] As a user I want to be able to reset archives filters so I can change my search criteria => Add a space between the search button and the Minutes field
 ** [OC-939] Synchronize timeline with feed (When a filter is set in the feed, it applies as well in the timeline (severity, tags or business period))
 ** [OC-947] As a user I want to be able to click on the links in the bubble so that i can display the related card on the feed
 ** [OC-945] Add a spining icon when connection with server is lost
@@ -66,14 +66,14 @@ This lets you test OperatorFabric with the latest merged code. If you're interes
 the other hand, you should checkout the associated X.X.X.RELEASE tag on `master`. The same is true for the
 `dev-environment` docker-compose._
 
-* [OC-897] Added operation delete for the resource thirds
 * [OC-907] Remove Keycloak from test-quality-environment docker-compose
 * [OC-885] User Service : Perimeter model evolution
 * [OC-909] Simplify third menu code (Front) 
 * [OC-911] Changing sounds due to incompatible license
+* [OC-897] Thirds service - added operation delete for the resource thirds
 * [OC-904] Thirds service - added delete version of a third, minor changes on general synch working
 * [OC-943] Add a gradle task to launch sonar analysis
 * [OC-961] Remove code related to old action feature in front
-* [OC-895] external configurations for all services , keycloak and docker-compose files to help with tests and demonstrations
+* [OC-895] External configurations for all services , keycloak and docker-compose files to help with tests and demonstrations
 * [OC-924] Correct OpFab doc dead link in Entities section
 * link:++https://opfab.atlassian.net/browse/OC-971++[[OC-971]] Update architecture documentation
