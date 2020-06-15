@@ -23,6 +23,10 @@ It is now possible for the user to reply to a card, the response is send back to
 Work is in progress, it is not documented and usable yet in production. 
 ====
 
+* Remove old action feature (front and back) ([OC-960][OC-961]) 
++
+This feature was not fully operationnal and is now replaced by the smart notification feature
+
 * Remove netflix stack ([OC-670] [OC-836] [OC-838]) :
    - remove registry/configuration components
    - replace gateway with Ngnix 
@@ -73,7 +77,6 @@ the other hand, you should checkout the associated X.X.X.RELEASE tag on `master`
 * [OC-897] Thirds service - added operation delete for the resource thirds
 * [OC-904] Thirds service - added delete version of a third, minor changes on general synch working
 * [OC-943] Add a gradle task to launch sonar analysis
-* [OC-961] Remove code related to old action feature in front
 * [OC-895] External configurations for all services , keycloak and docker-compose files to help with tests and demonstrations
 * [OC-924] Correct OpFab doc dead link in Entities section
 * link:++https://opfab.atlassian.net/browse/OC-971++[[OC-971]] Update architecture documentation
