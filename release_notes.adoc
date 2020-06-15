@@ -3,32 +3,31 @@
 
 == Issues
 
-* [OC-876] User Service : Implement group in JWT Token Option
-* [OC-402] As an Operator I want the archive screen to display an explicit message if no cards are found that match my filters
-* [OC-868] As an admin I would like to be able to hide the time filtrer : https://opfab.github.io/documentation/current/deployment/#_web_ui
-* [OC-864] As a user I want to be able to reset archives filters so I can change my search criteria => Add a space between the search button and the Minutes field
-* [OC-939] Synchronize timeline with feed (When a filter is set in the feed, it applies as well in the timeline (severity, tags or business period))
+* UI Improvements : 
+** [OC-402] As an Operator I want the archive screen to display an explicit message if no cards are found that match my filters
+** [OC-868] As an admin I would like to be able to hide the time filtrer : https://opfab.github.io/documentation/current/deployment/#_web_ui
+** [OC-864] As a user I want to be able to reset archives filters so I can change my search criteria => Add a space between the search button and the Minutes field
+** [OC-939] Synchronize timeline with feed (When a filter is set in the feed, it applies as well in the timeline (severity, tags or business period))
+** [OC-947] As a user I want to be able to click on the links in the bubble so that i can display the related card on the feed
+** [OC-945] Add a spining icon when connection with server is lost
+** [OC-972] Add charts functionnality in template +
+It uses `charts.js` library, templates as example can be found in `src/test/utils/karate/thirds/resources/bundle_test_api`
+
 * [OC-871] [OC-872][OC-874][OC-875][OC-881][OC-900]OC-916] First implementation of "Smart notification" 
 +
 It is now possible for the user to reply to a card , the response is send back to an external app . Work is in progress, it is not usable yet in production. 
-* [OC-670] Remove registry/configuration components and replace gateway with Ngnix 
-   -  removes infra services;
-   -  use Nginx as web server and reverse proxy;
-   -  change configuration from web-ui.yml to web-ui.json;
-   -  authentication configuration located into nginx conf files (default.conf in docker-compose environment);
-   -  replace or complete the web-ui.json of your docker-compose environment with your backed-up file;
-   -  to use ng serve with deploy docker-compose, use default-web-dev.conf instead of default.conf.
-   -  removes useless dependencies;
-   -  allows SSE run for 24h;
-   -  enables ng serve on dev-environment docker-compose.
-   -  update documentation 
+* [OC-670] [OC-836] [OC-838]  Remove netflix stack :
+   - remove registry/configuration components
+   - replace gateway with Ngnix 
+   - remove all calls  from business services to registry and configuration components
 
 +
 [IMPORTANT]
 ====
+UI configuration is now done via a json file (web-ui.json) instead of a yaml file (web-ui.yml).
 Before upgrading save a copy of your web-ui.json to back-up custom changes.
 ====
-* [OC-947] As a user I want to be able to click on the links in the bubble so that i can display the related card on the feed
+
 
 == Bugs
 * [OC-772] Bug on archives screen: clear results when exiting archive page.
@@ -36,8 +35,6 @@ Before upgrading save a copy of your web-ui.json to back-up custom changes.
 * [OC-775] Cards details remain displayed when selecting another criteria that doesn't return any result
 
 == Tasks
-* [OC-836] Remove netflix stack (eureka registry server) and config server for users microservice
-* [OC-838] Remove netflix stack (eureka registry server) and config server for cards-publication microservice
 * [OC-892] Add in documentation that it is not possible to use dot in json field names
 * [OC-845] Implement Git flow as our contribution and release workflow
 +
@@ -51,30 +48,25 @@ and how it translate into our link:./single_page_doc.html#_contribution_workflow
 _Now, the current state of developments is pushed daily to Docker Hub with the tag `SNAPSHOT`
 (rather than `snapshot` as before)._
 ====
-
-* [OC-838] Remove netflix stack (eureka registry server) and config server for cards-consultation microservice
-* [OC-836] Remove netflix stack (eureka registry server) and config server for thirds microservice
+* [OC-876] User Service : Implement group in JWT Token Option
 * [OC-888] Fix SonarCloud Frontend issues
 * [OC-692] Fix SonarCloud Backend issues
-* [OC-891] Removed mainRecipient
+* [OC-891] Removed unused field mainRecipient
 * [OC-899] Deploy and dev-env docker-compose should use SNAPSHOT version on develop branch
-* [OC-897] added operation delete for the resource thirds
 +
 _When working on branch `develop`, the `deploy` docker-compose will rely on `SNAPSHOT` docker images generated daily.
 This lets you test OperatorFabric with the latest merged code. If you're interested in running a particular release on
 the other hand, you should checkout the associated X.X.X.RELEASE tag on `master`. The same is true for the
 `dev-environment` docker-compose._
 
+* [OC-897] added operation delete for the resource thirds
 * [OC-907] Remove Keycloak from test-quality-environment docker-compose
 * [OC-885] User Service : Perimeter model evolution
 * [OC-909] Simplify third menu code (Front) 
 * [OC-911] Changing sounds due to incompatible license
 * [OC-904] thirds service - added delete version of a third, minor changes on general synch working
 * [OC-943] Add a gradle task to launch sonar analysis
-* [OC-945] Add a spining icon when connection with server is lost
 * [OC-961] Remove code related to old action feature in front
-* [OC-972] Add charts functionnality in template +
-It uses `charts.js` library, templates as example can be found in `src/test/utils/karate/thirds/resources/bundle_test_api`
 * [OC-895] external configurations for all services , keycloak and docker-compose files to help with tests and demonstrations
 * [OC-924] Correct OpFab doc dead link in Entities section
 * [OC-971] link:++https://opfab.atlassian.net/browse/OC-971++[Update architecture documentation ]
