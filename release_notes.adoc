@@ -20,6 +20,7 @@ It is now possible for the user to reply to a card, the response is send back to
 +
 [IMPORTANT]
 ====
+
 Work is in progress, it is not usable yet in production. 
 ====
 
@@ -76,4 +77,4 @@ the other hand, you should checkout the associated X.X.X.RELEASE tag on `master`
 * [OC-961] Remove code related to old action feature in front
 * [OC-895] external configurations for all services , keycloak and docker-compose files to help with tests and demonstrations
 * [OC-924] Correct OpFab doc dead link in Entities section
-* [OC-971] link:++https://opfab.atlassian.net/browse/OC-971++[Update architecture documentation ]
+* link:++https://opfab.atlassian.net/browse/OC-971++[[OC-971]] Update architecture documentation
