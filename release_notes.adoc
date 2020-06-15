@@ -13,7 +13,7 @@
 ** [OC-972] Add charts functionnality in template +
 It uses `charts.js` library, templates as example can be found in `src/test/utils/karate/thirds/resources/bundle_test_api`
 
-* First implementation of "Smart notification" ([OC-871] [OC-872][OC-874][OC-875][OC-881][OC-900]OC-916] )
+* First implementation of "Smart notification" ([OC-871] [OC-872][OC-874][OC-875][OC-881][OC-900]OC-916][OC-917])
 +
 It is now possible for the user to reply to a card, the response is send back to an external app.
 
