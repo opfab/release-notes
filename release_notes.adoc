@@ -80,4 +80,4 @@ the other hand, you should checkout the associated X.X.X.RELEASE tag on `master`
 * [OC-895] External configurations for all services , keycloak and docker-compose files to help with tests and demonstrations
 * [OC-924] Correct OpFab doc dead link in Entities section
 * link:++https://opfab.atlassian.net/browse/OC-971++[[OC-971]] Update architecture documentation
-* [OC-535] : make bin/run_all.sh run always from the root opfab
+* [OC-535] : make bin/run_all.sh run always from the opfab root directory
