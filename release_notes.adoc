@@ -82,3 +82,4 @@ the other hand, you should checkout the associated X.X.X.RELEASE tag on `master`
 * link:++https://opfab.atlassian.net/browse/OC-971++[[OC-971]] Update architecture documentation
 * [OC-535] : make bin/run_all.sh run always from the opfab root directory
 * link:++https://opfab.atlassian.net/browse/OC-954++[OC-954] Add name field for process/state and color for state in third
+* [OC-957] : Field recipient in card shoud be optionnal
