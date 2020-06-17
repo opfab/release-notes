@@ -23,7 +23,7 @@ It is now possible for the user to reply to a card, the response is send back to
 Work is in progress, it is not documented and usable yet in production. 
 ====
 
-* Remove old action feature (front and back) ([OC-960][OC-961]) 
+* Remove old action feature (front and back) ([OC-960][OC-961][OC-962]) 
 +
 This feature was not fully operationnal and is now replaced by the smart notification feature
 
