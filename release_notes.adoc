@@ -78,7 +78,7 @@ the other hand, you should checkout the associated X.X.X.RELEASE tag on `master`
 * [OC-897] Thirds service - added operation delete for the resource thirds
 * [OC-904] Thirds service - added delete version of a third, minor changes on general synch working
 * [OC-943] Add a gradle task to launch sonar analysis
-* [OC-535] Make bin/run_all.sh run even if not in the root directory
+* [OC-535] Make bin/run_all.sh working even if not in the root directory
 * [OC-954] Add name field for process/state and color for state in third
 * [OC-957] Field recipient in card shoud be optionnal
 
