@@ -19,7 +19,16 @@ It uses `charts.js` library, templates as example can be found in `src/test/util
 * *First implementation of "Smart notification"* ( [OC-871][OC-872][OC-874][OC-875][OC-881][OC-900][OC-916][OC-917] )
 +
 It is now possible for the user to reply to a card, the response is sent back to an external app.
++
+[IMPORTANT]
+====
+Work is in progress, it is not documented and usable yet in production. 
+====
 
+* *Work in progress for the "Routing" epic* 
+** [OC-885] User Service : Perimeter model evolution
+** [OC-876] User Service : Implement group in JWT Token Option
+** [OC-742] When sending a card to an entity , use the group perimeter to send to the good users
 +
 [IMPORTANT]
 ====
@@ -72,9 +81,6 @@ This lets you test OperatorFabric with the latest merged code. If you're interes
 the other hand, you should checkout the associated X.X.X.RELEASE tag on `master`._
 
 * [OC-907] Remove Keycloak from test-quality-environment docker-compose
-* [OC-885] User Service : Perimeter model evolution
-* [OC-876] User Service : Implement group in JWT Token Option
-* [OC-742] When sending a card to an entity , use the group perimeter to send to the good users
 * [OC-909] Simplify third menu code (Front) 
 * [OC-911] Changing sounds due to incompatible license
 * [OC-897] Thirds service - added operation delete for the resource thirds
@@ -82,5 +88,5 @@ the other hand, you should checkout the associated X.X.X.RELEASE tag on `master`
 * [OC-943] Add a gradle task to launch sonar analysis
 * [OC-535] Make bin/run_all.sh working even if not in the root directory
 * [OC-954] Add name field for process/state and color for state in third
-* [OC-957] Field recipient in card shoud be optionnal
+* [OC-957] Field recipient in card shoud be optional
 
