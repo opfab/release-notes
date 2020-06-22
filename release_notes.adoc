@@ -31,12 +31,13 @@ This feature was not fully operationnal and is now replaced by the smart notific
    - remove registry/configuration components
    - replace gateway with Ngnix 
    - remove all calls  from business services to registry and configuration components
+   - adapt documentation 
 
 +
 [IMPORTANT]
 ====
-UI configuration is now done via a json file (web-ui.json) instead of a yaml file (web-ui.yml).
-Before upgrading save a copy of your web-ui.json to back-up custom changes.
+- UI configuration is now done via a json file (web-ui.json) instead of a yaml file (web-ui.yml). Before upgrading save a copy of your web-ui.json to back-up custom changes.
+- As there is no config server anymore, content of services configuration files has changed , check in documentation and/or see default configuration file in dev/docker repository 
 ====
 
 
