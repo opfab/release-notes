@@ -38,6 +38,7 @@ This feature was not fully operationnal and is now replaced by the smart notific
 ====
 - UI configuration is now done via a json file (web-ui.json) instead of a yaml file (web-ui.yml). Before upgrading save a copy of your web-ui.json to back-up custom changes.
 - As there is no configuration server anymore, the content of services configuration files has changed, check in documentation and/or see default configuration files in dev/docker repository 
+- Deploying on Kubernetes required specific nginx configuration (contact opfab team via spectrum in case you deploy on Kubernetes) 
 ====
 
 
