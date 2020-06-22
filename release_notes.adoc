@@ -9,3 +9,6 @@
 
 
 
+== Tasks
+
+[OC-950] Rename RightsEnum
