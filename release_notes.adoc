@@ -44,7 +44,7 @@ This feature was not fully operationnal and is now replaced by the smart notific
 == Bugs
 * [OC-772] Bug on archives screen: clear results when exiting archive page.
 * [OC-898] In implicit mode, first name and last name are not displayed
-* [OC-775] Cards details remain displayed when selecting another criteria that doesn't return any result
+* [OC-775] Bug on archives screen: cards details remain displayed when selecting another criteria that doesn't return any result
 
 == Tasks
 * [OC-892] Add in documentation that it is not possible to use dot in json field names
