@@ -3,7 +3,7 @@
 
 == Issues
 
-* UI Improvements : 
+* *UI Improvements* : 
 ** [OC-868] As an admin I would like to be able to hide the time filter : https://opfab.github.io/documentation/current/deployment/#_web_ui
 ** [OC-864] As a user I want to be able to reset archives filters so I can change my search criteria
 ** [OC-402] As an Operator I want the archive screen to display an explicit message if no cards are found that match my filters
@@ -13,7 +13,7 @@
 ** [OC-972] Add charts functionnality in template +
 It uses `charts.js` library, templates as example can be found in `src/test/utils/karate/thirds/resources/bundle_test_api`
 
-* First implementation of "Smart notification" ( [OC-871] [OC-872][OC-874][OC-875][OC-881][OC-900][OC-916][OC-917] )
+* *First implementation of "Smart notification"* ( [OC-871] [OC-872][OC-874][OC-875][OC-881][OC-900][OC-916][OC-917] )
 +
 It is now possible for the user to reply to a card, the response is send back to an external app.
 
@@ -23,11 +23,11 @@ It is now possible for the user to reply to a card, the response is send back to
 Work is in progress, it is not documented and usable yet in production. 
 ====
 
-* Remove old action feature (front and back) ([OC-960][OC-961][OC-962]) 
+* *Remove old action feature* (front and back) ([OC-960][OC-961][OC-962]) 
 +
 This feature was not fully operationnal and is now replaced by the smart notification feature
 
-* Remove netflix stack ([OC-670] [OC-836] [OC-838][OC-971][OC-895]) :
+* *Remove netflix stack* ([OC-670] [OC-836] [OC-838][OC-971][OC-895]) :
    - remove registry/configuration components
    - replace gateway with Ngnix 
    - remove all calls  from business services to registry and configuration components
