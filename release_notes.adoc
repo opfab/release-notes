@@ -39,7 +39,7 @@ Work is in progress, it is not documented and usable yet in production.
 +
 This feature was not fully operational and is now replaced by the smart notification feature
 
-* *Remove Netflix stack* ([OC-670] [OC-836] [OC-838][OC-971][OC-895]) :
+* *Remove Netflix stack* ([OC-670][OC-836][OC-837][OC-838][OC-839][OC-971][OC-895][OC-906][OC-983][OC-996]) :
    - remove registry/configuration components
    - replace gateway with NGINX
    - remove all calls from business services to registry and configuration components
@@ -49,7 +49,7 @@ This feature was not fully operational and is now replaced by the smart notifica
 [IMPORTANT]
 ====
 - UI configuration is now done via a json file (web-ui.json) instead of a yaml file (web-ui.yml). Before upgrading, you should save a copy of your web-ui.json to back-up custom changes.
-- As there is no configuration server anymore, the content of services configuration files has changed, check the documentation and/or see default configuration files in dev/docker folders under config.
+- As there is no configuration server anymore, the content of services configuration files has changed, check the documentation and/or see default configuration files in dev/docker folders under config. We also took this as an opportunity to rearrange our docker-compose files so see the updated documentation on launching OperatorFabric.
 ====
 
 == Bugs
@@ -71,8 +71,9 @@ and how it translate into our link:./single_page_doc.html#_contribution_workflow
 _Now, the current state of developments is pushed daily to Docker Hub with the tag `SNAPSHOT`
 (rather than `snapshot` as before)._
 ====
-* [OC-888] [OC-692]  Fix SonarCloud issues
+* [OC-888][OC-692][OC-973] Fix SonarCloud issues
 * [OC-891] Removed unused field mainRecipient
+* [OC-896] Update getting started with 1.3.0.RELEASE and change getToken script
 * [OC-899] Use SNAPSHOT version on develop branch for docker and dev environment docker-compose 
 +
 _When working on branch `develop`, the docker-compose files will rely on `SNAPSHOT` docker images generated daily.
