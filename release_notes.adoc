@@ -11,4 +11,5 @@
 
 == Tasks
 
+[OC-922] new button to acknowledge and unacknowledge 
 [OC-950] Rename RightsEnum
