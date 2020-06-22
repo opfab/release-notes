@@ -16,7 +16,7 @@ See the link:https://opfab.github.io/documentation/current/deployment/#_web_ui[w
 +
 It uses `charts.js` library, templates as example can be found in `src/test/utils/karate/thirds/resources/bundle_test_api`
 
-* *First implementation of "Smart notification"* ( [OC-871][OC-872][OC-874][OC-875][OC-881][OC-900][OC-916][OC-917] )
+* *Work in progress for the "Smart notification" epic* ( [OC-871][OC-872][OC-874][OC-875][OC-881][OC-900][OC-916][OC-917] )
 +
 It is now possible for the user to reply to a card, the response is sent back to an external app.
 +
@@ -50,7 +50,6 @@ This feature was not fully operational and is now replaced by the smart notifica
 ====
 - UI configuration is now done via a json file (web-ui.json) instead of a yaml file (web-ui.yml). Before upgrading, you should save a copy of your web-ui.json to back-up custom changes.
 - As there is no configuration server anymore, the content of services configuration files has changed, check the documentation and/or see default configuration files in dev/docker folders under config.
-- Deploying on Kubernetes requires specific NGINX configuration (contact opfab team via spectrum in case you deploy on Kubernetes) 
 ====
 
 == Bugs
