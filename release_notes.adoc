@@ -13,3 +13,4 @@
 
 - [OC-922] new button to acknowledge and unacknowledge 
 - [OC-950] Rename RightsEnum
+- [OC-999] Minor edits to doc after 1rst git flow release 
