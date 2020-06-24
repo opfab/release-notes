@@ -21,3 +21,4 @@
 
 - [OC-1006] Archives - Bugs in pagination +
 **Information :** Parameters `operatorfabric.archive.filter.page.first` & `operatorfabric.archive.filter.publisher` in `web-ui.json` have been removed
+- [OC-990 ] Automatic saving of the settings . No need anymore to press enter to save setting changes.
