@@ -16,3 +16,8 @@
 - [OC-999] Minor edits to doc after 1rst git flow release 
 - [OC-951] Process and state fields of a card must be mandatory
 - [OC-1004] Add demo cards and template with svg drawing
+
+== Bugs
+
+- [OC-1006] Archives - Bugs in pagination +
+**Information :** Parameters `operatorfabric.archive.filter.page.first` & `operatorfabric.archive.filter.publisher` in `web-ui.json` have been removed
