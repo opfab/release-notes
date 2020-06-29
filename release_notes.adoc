@@ -17,6 +17,11 @@
 - [OC-951] Process and state fields of a card must be mandatory
 - [OC-1004] Add demo cards and template with svg drawing
 
+== Feature
+- [OC-949] Filter by publish date in feed when clicking on the clock icon +
+**NB** : When the timeline is not loaded (parameter `operatorfabric.feed.timeline.hide` set to true ), the time filter of the feed is based on business date.
+
+
 == Bugs
 
 - [OC-1006] Archives - Bugs in pagination +
