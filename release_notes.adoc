@@ -16,6 +16,8 @@
 - [OC-999] Minor edits to doc after 1rst git flow release 
 - [OC-951] Process and state fields of a card must be mandatory
 - [OC-1004] Add demo cards and template with svg drawing
+- [OC-1005] Clean karate tests
+
 
 
 == Feature
