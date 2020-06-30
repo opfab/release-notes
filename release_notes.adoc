@@ -17,6 +17,7 @@
 - [OC-951] Process and state fields of a card must be mandatory
 - [OC-1004] Add demo cards and template with svg drawing
 
+
 == Feature
 - [OC-949] Filter by publish date in feed when clicking on the clock icon +
 **NB** : When the timeline is not loaded (parameter `operatorfabric.feed.timeline.hide` set to true ), the time filter of the feed is based on business date.
@@ -26,5 +27,6 @@
 
 - [OC-1006] Archives - Bugs in pagination +
 **Information :** Parameters `operatorfabric.archive.filter.page.first` & `operatorfabric.archive.filter.publisher` in `web-ui.json` have been removed;
-- [OC-990 ] Automatic saving of the settings . No need anymore to press enter to save setting changes;
+- [OC-990] Automatic saving of the settings . No need anymore to press enter to save setting changes;
 - [OC-974] Redraw card when switching between day/night modes;
+- [OC-297] Card sent to another group or user is not discarded from the user feed
