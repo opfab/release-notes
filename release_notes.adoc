@@ -27,6 +27,7 @@
 **  [OC-918] When receiving a respond card in the UI, integrate the card in the template
 **  [OC-915] Front : Activate the possibility of response card depending on user rights && clear the error message in the card details when changing the card.
 **  [OC-982] Do not show action & acknowledge button in archive card 
+**  [OC-914] control authorizations for /userCard endpoint 
 
 
 == Bugs
