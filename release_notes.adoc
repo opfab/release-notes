@@ -24,6 +24,7 @@
 - [OC-949] Filter by publish date in feed when clicking on the clock icon +
 **NB** : When the timeline is not loaded (parameter `operatorfabric.feed.timeline.hide` set to true ), the time filter of the feed is based on business date.
 - [OC-918] When receiving a respond card in the UI, integrate the card in the template
+- [OC-915] Front : Activate the possibility of response card depending on user rights && clear the error message in the card details when changing the card.
 
 
 == Bugs
