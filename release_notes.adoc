@@ -34,3 +34,4 @@
 - [OC-990] Automatic saving of the settings . No need anymore to press enter to save setting changes;
 - [OC-974] Redraw card when switching between day/night modes;
 - [OC-297] Card sent to another group or user is not discarded from the user feed
+- [OC-1011] Access to opfab is not working when the user is member of no group
