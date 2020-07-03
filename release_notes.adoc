@@ -17,9 +17,10 @@
 - [OC-951] Process and state fields of a card must be mandatory
 - [OC-1004] Add demo cards and template with svg drawing
 - [OC-1005] Clean karate tests
-- [OC-1003] Rename processId in processInstanceId
 - [OC-1014] Load configuration files from outside docker in `config/docker/docker-compose.yml`
-- [OC-979] Link bundle with process instead of publisher 
+- Configuration of business process :
+** [OC-979] Link bundle with process instead of publisher 
+** [OC-1003] Rename processId in processInstanceId
 [WARNING]
 **Breaking change** : see migration guide
 
