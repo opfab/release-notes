@@ -27,16 +27,18 @@
 - [OC-922] New button to acknowledge and unacknowledge 
 - [OC-999] Minor edits to doc after 1rst git flow release 
 - [OC-951] Process and state fields of a card must be mandatory
-- [OC-981] Change way of creating card id . The id of the card is now build as process.processInstanceId and not anymore publisherID_process.
 - [OC-1004] Add demo cards and template with svg drawing
 - [OC-1005] Clean karate tests
 - [OC-1014] Load configuration files from outside docker in `config/docker/docker-compose.yml`
 - **Configuration of business process** :
-** [OC-979] Link bundle with process instead of publisher 
-** [OC-1003] Rename processId in processInstanceId
-** [OC-978] Rename third module to businessconfig module
 [WARNING]
 **Breaking change** : see migration guide
+
+** [OC-978] Rename third module to businessconfig module
+** [OC-979] Link bundle with process instead of publisher 
+** [OC-1003] Rename processId in processInstanceId
+** [OC-981] Change way of creating card id . The id of the card is now build as process.processInstanceId and not anymore publisherID_process.
+
 
 == Bugs
 
