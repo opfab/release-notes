@@ -10,7 +10,7 @@
 
 
 
-== Feature
+== Features
 - **UI** : 
 ** [OC-948] Button to hide or display the timeline
 ** [OC-949] Filter by publish date in feed when clicking on the clock icon +
