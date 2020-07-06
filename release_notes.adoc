@@ -9,34 +9,34 @@
 
 
 
+
+== Feature
+- **UI** : 
+** [OC-948] Button to hide or display the timeline
+** [OC-949] Filter by publish date in feed when clicking on the clock icon +
+**NB** : When the timeline is not loaded (parameter `operatorfabric.feed.timeline.hide` set to true ), the time filter of the feed is based on business date.
+- **Routing** ([OC-950] [OC-830])  : Routing mechanism is now fully functionnal, it is possible to define card visiblity per process/state for groups using perimeters (see users documentation) 
+- **Smart notification** :
+**  [OC-918] When receiving a respond card in the UI, integrate the card in the template
+**  [OC-915] Front : Activate the possibility of response card depending on user rights && clear the error message in the card details when changing the card.
+**  [OC-982] Do not show action & acknowledge button in archive card 
+**  [OC-914] control authorizations for /userCard endpoint
+
 == Tasks
 
 - [OC-922] New button to acknowledge and unacknowledge 
-- [OC-950] Rename RightsEnum
-- [OC-830] Update documentation with routing mechanism
 - [OC-999] Minor edits to doc after 1rst git flow release 
 - [OC-951] Process and state fields of a card must be mandatory
 - [OC-981] Change way of creating card id . The id of the card is now build as process.processInstanceId and not anymore publisherID_process.
 - [OC-1004] Add demo cards and template with svg drawing
 - [OC-1005] Clean karate tests
 - [OC-1014] Load configuration files from outside docker in `config/docker/docker-compose.yml`
-- Configuration of business process :
+- **Configuration of business process** :
 ** [OC-979] Link bundle with process instead of publisher 
 ** [OC-1003] Rename processId in processInstanceId
 ** [OC-978] Rename third module to businessconfig module
 [WARNING]
 **Breaking change** : see migration guide
-
-== Feature
-- [OC-949] Filter by publish date in feed when clicking on the clock icon +
-**NB** : When the timeline is not loaded (parameter `operatorfabric.feed.timeline.hide` set to true ), the time filter of the feed is based on business date.
-- Smart notification
-**  [OC-918] When receiving a respond card in the UI, integrate the card in the template
-**  [OC-915] Front : Activate the possibility of response card depending on user rights && clear the error message in the card details when changing the card.
-**  [OC-982] Do not show action & acknowledge button in archive card 
-**  [OC-914] control authorizations for /userCard endpoint
-- [OC-948] Button to hide or display the timeline
-
 
 == Bugs
 
