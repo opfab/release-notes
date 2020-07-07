@@ -38,7 +38,7 @@
 ** [OC-979] Link bundle with process instead of publisher 
 ** [OC-1003] Rename processId in processInstanceId
 ** [OC-981] Change way of creating card id . The id of the card is now build as process.processInstanceId and not anymore publisherID_process.
-
+- [OC-1029] possibility to hide some application menus
 
 == Bugs
 
