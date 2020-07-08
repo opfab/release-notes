@@ -15,7 +15,7 @@
 ** [OC-948] Button to hide or display the timeline
 ** [OC-949] Filter by publish date in feed when clicking on the clock icon +
 **NB** : When the timeline is not loaded (parameter `operatorfabric.feed.timeline.hide` set to true ), the time filter of the feed is based on business date.
-- **Routing** ([OC-950] [OC-830])  : Routing mechanism is now fully functionnal, it is possible to define card visiblity per process/state for groups using perimeters (see users documentation) 
+- **Routing** ([OC-950] [OC-830])  : New routing mechanism is now fully functionnal, it is possible to define card visiblity per process/state for groups using perimeters (see users documentation) 
 - **Smart notification** :
 **  [OC-918] When receiving a respond card in the UI, integrate the card in the template
 **  [OC-915] Front : Activate the possibility of response card depending on user rights && clear the error message in the card details when changing the card.
