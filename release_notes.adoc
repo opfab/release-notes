@@ -51,3 +51,4 @@
 - [OC-297] Card sent to another group or user is not discarded from the user feed
 - [OC-1011] Access to opfab is not working when the user is member of no group
 - [OC-1010] In PASSWORD authentication mode, afier having refresh UI, the user needs to enter login/pwd again
+- [OC-1035] Docker mode (config/dev) : cards and archivedCards stored in "test" database instead of "operator-fabric"
