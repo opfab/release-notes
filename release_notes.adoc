@@ -41,6 +41,7 @@
 ** [OC-981] Change way of creating card id . The id of the card is now build as process.processInstanceId and not anymore publisherID_process.
 - [OC-1029] possibility to hide some application menus
 - [OC-1036] Refactor configuration loading in front
+- [OC-735] Robustify subscription mechanism and refactoring
 
 == Bugs
 
