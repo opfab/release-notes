@@ -12,7 +12,7 @@
 
 == Features
 - **UI** : 
-** [OC-948] Button to hide or display the timeline
+** [OC-948][OC-1037] Button to hide or display the timeline
 ** [OC-949] Filter by publish date in feed when clicking on the clock icon +
 **NB** : When the timeline is not loaded (parameter `operatorfabric.feed.timeline.hide` set to true ), the time filter of the feed is based on business date.
 - **Routing** ([OC-950] [OC-830])  : New routing mechanism is now fully functionnal, it is possible to define card visiblity per process/state for groups using perimeters (see users documentation) 
