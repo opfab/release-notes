@@ -42,6 +42,8 @@
 - [OC-1029] possibility to hide some application menus
 - [OC-1036] Refactor configuration loading in front
 - [OC-735] Robustify subscription mechanism and refactoring
+- [OC-1013] @NotNull fields remove form XXXData.java, only need to set required fields in swagger.yml 
+
 
 == Bugs
 
