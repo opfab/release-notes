@@ -43,7 +43,9 @@
 - [OC-1036] Refactor configuration loading in front
 - [OC-735] Robustify subscription mechanism and refactoring
 - [OC-1013] @NotNull fields remove form XXXData.java, only need to set required fields in swagger.yml 
-
+- [OC-1030] : upgrade back to last version of librairies (SpringBoot,..) 
+[WARNING]
+The version of gradle has been changed, if you want to build operator fabric you need to upgrade gradle to version 6.5.1 (sdk install gradle 6.5.1) 
 
 == Bugs
 
