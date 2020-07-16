@@ -49,6 +49,7 @@ The version of gradle has been changed, if you want to build operator fabric you
 - [OC-1046] Refactoring card-consultation mongo access
 - [OC-1045] Remove unnecessary code (ngrx effect )
 - [OC-893] Check all subscribe in angular code
+- [OC-1047] Add a demo with response card in test/utils 
 
 == Bugs
 
@@ -61,3 +62,5 @@ The version of gradle has been changed, if you want to build operator fabric you
 - [OC-1010] In PASSWORD authentication mode, afier having refresh UI, the user needs to enter login/pwd again
 - [OC-1035] Docker mode (config/dev) : cards and archivedCards stored in "test" database instead of "operator-fabric"
 - [OC-1012] Missing id in existing bundles cause Businessconfig service to crash
+
+
