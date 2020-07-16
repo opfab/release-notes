@@ -46,7 +46,7 @@
 - [OC-1030] : upgrade back to last version of librairies (SpringBoot,..) 
 [WARNING]
 The version of gradle has been changed, if you want to build operator fabric you need to upgrade gradle to version 6.5.1 (sdk install gradle 6.5.1) 
-
+- [OC-1046] Refactoring card-consultation mongo access
 == Bugs
 
 - [OC-1006] Archives - Bugs in pagination +
