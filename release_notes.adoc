@@ -62,5 +62,6 @@ The version of gradle has been changed, if you want to build operator fabric you
 - [OC-1010] In PASSWORD authentication mode, afier having refresh UI, the user needs to enter login/pwd again
 - [OC-1035] Docker mode (config/dev) : cards and archivedCards stored in "test" database instead of "operator-fabric"
 - [OC-1012] Missing id in existing bundles cause Businessconfig service to crash
+- [OC-938] : In archives, reset button doesn't really clear selected card
 
 
