@@ -50,6 +50,7 @@ The version of gradle has been changed, if you want to build operator fabric you
 - [OC-1045] Remove unnecessary code (ngrx effect )
 - [OC-893] Check all subscribe in angular code
 - [OC-1047] Add a demo with response card in test/utils 
+- [OC-1017] Update governance documentation
 
 == Bugs
 
