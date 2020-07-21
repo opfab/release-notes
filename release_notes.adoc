@@ -22,6 +22,7 @@
 **  [OC-982] Do not show action & acknowledge button in archive card 
 **  [OC-914] control authorizations for /userCard endpoint
 **  [OC-966] When delete/update card , delete child cards
+**  [OC-980] Action & acknowledge button in bottom right
 
 - ** Acknowlegment ** ([OC-922][OC-923][OC-1033]): It is now possible for the user to acknowlege cards with a button on the bottom-right of the card .The feed can also been filtered to show acknowledged or not acknowledged cards. It is as well possible for the user to "unacknowledge" a card previously acknowlegded .This functionnality is activated on a process state basis via the setting of acknowledgementAllowed to true in the  config.json of the bundles (example in /src/test/utils/karate/src/test/utils/karate/businessconfig/resources/bundle_api_test/config.json)
 
