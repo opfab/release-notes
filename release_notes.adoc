@@ -57,6 +57,7 @@ Run `sdk install java 8.0.262-zulu` then `source ./bin/load_environment_light.sh
 - [OC-893] Check all subscribe in angular code
 - [OC-1047] Add a demo with response card in test/utils 
 - [OC-1017] Update governance documentation
+- [OC-1057] Explains how to use karate utilities
 
 == Bugs
 
