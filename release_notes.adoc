@@ -78,5 +78,6 @@ Run `sdk install java 8.0.262-zulu` then `source ./bin/load_environment_light.sh
 - [OC-1012] Missing id in existing bundles cause Businessconfig service to crash
 - [OC-938] In archives, reset button doesn't really clear selected card
 - [OC-988] In Archives- No result message appears before rendering the real result of a search
+- [OC-997] Fix Angular build warning
 
 
