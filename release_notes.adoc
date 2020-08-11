@@ -82,5 +82,8 @@ Run `sdk install java 8.0.262-zulu` then `source ./bin/load_environment_light.sh
 - [OC-997] Fix Angular build warning
 - [OC-941] Card deletion- The API doesn't return an error when the card deleted doesn't exist
 - [OC-1052] Cards sent to a user (rather than a group) don't appear immediately
+- [OC-713] Web-UI configuration: wrong yaml documented key + misspelled key in configuration
+[WARNING]
+Need to change in web-ui.json the key delagate-url into delegate-url.
 
 
