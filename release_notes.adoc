@@ -14,7 +14,7 @@
 - **UI** : 
 ** [OC-948][OC-1037] Button to hide or display the timeline
 ** [OC-949] Filter by publish date in feed when clicking on the clock icon +
-**NB** : When the timeline is not loaded (parameter `operatorfabric.feed.timeline.hide` set to true ), the time filter of the feed is based on business date.
+**NB:** When the timeline is not loaded (parameter `operatorfabric.feed.timeline.hide` set to true ), the time filter of the feed is based on business date.
 ** [OC-1038] Incoming cards are signaled as new (little eye icon) in the feed until they've been read
 ** [OC-1053] For each custom menu entry in the navbar, choose whether to integrate it as an iframe or an external link
 
@@ -32,7 +32,9 @@
 
 - ** Acknowlegment ** ([OC-922][OC-923][OC-1033]): It is now possible for the user to acknowlege cards with a button on the bottom-right of the card .The feed can also been filtered to show acknowledged or not acknowledged cards. It is as well possible for the user to "unacknowledge" a card previously acknowlegded .This functionnality is activated on a process state basis via the setting of acknowledgementAllowed to true in the  config.json of the bundles (example in /src/test/utils/karate/src/test/utils/karate/businessconfig/resources/bundle_api_test/config.json)
 
-- ** API ** [OC-934] : fix Issue with cards published with client jars (due to Instant). `cards-publication` service accepts cards from client jar.
+- ** API ** 
+** [OC-934] fix Issue with cards published with client jars (due to Instant). `cards-publication` service accepts cards from client jar.
+** [OC-1021] Endpoint do delete user
 
 == Tasks
 - [OC-999] Minor edits to doc after 1rst git flow release 
