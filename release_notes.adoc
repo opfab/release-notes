@@ -35,6 +35,7 @@
 - ** API ** 
 ** [OC-934] fix Issue with cards published with client jars (due to Instant). `cards-publication` service accepts cards from client jar.
 ** [OC-1021] Endpoint do delete user
+** [OC-1022] Endpoint to delete entity
 
 == Tasks
 - [OC-999] Minor edits to doc after 1rst git flow release 
