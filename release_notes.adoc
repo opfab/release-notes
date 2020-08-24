@@ -37,6 +37,7 @@
 ** [OC-1021] Endpoint do delete user
 ** [OC-1022] Endpoint to delete entity
 ** [OC-1023] Endpoint to delete group
+** [OC-1024] Endpoint to delete perimeter
 
 == Tasks
 - [OC-999] Minor edits to doc after 1rst git flow release 
