@@ -59,9 +59,9 @@
 - [OC-1030] : upgrade back to last version of librairies (SpringBoot,..) 
 [WARNING]
 The version of gradle has been changed, if you want to build operator fabric you need to upgrade gradle to version 6.5.1 (sdk install gradle 6.5.1) 
-- [OC-1050] Bumping Java version (minor) to one supported by sdkman
+- [OC-1063] Set java to version 8.0.265-zulu as current is no longer supported by sdkman
 [WARNING]
-Run `sdk install java 8.0.262-zulu` then `source ./bin/load_environment_light.sh ` to update your environment
+Run `sdk install java 8.0.265-zulu` then `source ./bin/load_environment_light.sh ` to update your environment
 - [OC-1046] Refactoring card-consultation mongo access
 - [OC-1045] Remove unnecessary code (ngrx effect )
 - [OC-893] Check all subscribe in angular code
