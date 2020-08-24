@@ -18,8 +18,6 @@
 ** [OC-1038] Incoming cards are signaled as new (little eye icon) in the feed until they've been read
 ** [OC-1053] For each custom menu entry in the navbar, choose whether to integrate it as an iframe or an external link
 
-[NOTE]
-4 new handlebars helpers added: 'keyValue', 'arrayContains', 'times', 'toBreakage'. You can consult the documentation at the following url to check how to use them: https://opfab.github.io/documentation/archives/1.4.0.RELEASE/docs/single_page_doc.html#templates
 
 - **Routing** ([OC-950] [OC-830])  : New routing mechanism is now fully functionnal, it is possible to define card visiblity per process/state for groups using perimeters (see users documentation) 
 - **Smart notification** :
@@ -32,8 +30,10 @@
 
 - ** Acknowlegment ** ([OC-922][OC-923][OC-1033]): It is now possible for the user to acknowlege cards with a button on the bottom-right of the card .The feed can also been filtered to show acknowledged or not acknowledged cards. It is as well possible for the user to "unacknowledge" a card previously acknowlegded .This functionnality is activated on a process state basis via the setting of acknowledgementAllowed to true in the  config.json of the bundles (example in /src/test/utils/karate/src/test/utils/karate/businessconfig/resources/bundle_api_test/config.json)
 
+- **Logging and monitoring** : [OC-1023] New screens to see cards in monitoring/logging views   (experimental) 
+
 - ** API ** 
-** [OC-934] fix Issue with cards published with client jars (due to Instant). `cards-publication` service accepts cards from client jar.
+
 ** [OC-1021] Endpoint do delete user
 ** [OC-1022] Endpoint to delete entity
 ** [OC-1023] Endpoint to delete group
@@ -69,6 +69,9 @@ Run `sdk install java 8.0.262-zulu` then `source ./bin/load_environment_light.sh
 - [OC-1017] Update governance documentation
 - [OC-1057] Explains how to use karate utilities
 - [OC-1041] Trace user actions, only acknowledgment for the moment
+- [OC-new-helpers] 4 new handlebars helpers added
+[NOTE]
+4 new handlebars helpers added: 'keyValue', 'arrayContains', 'times', 'toBreakage'. You can consult the documentation at the following url to check how to use them: https://opfab.github.io/documentation/archives/1.4.0.RELEASE/docs/single_page_doc.html#templates
 
 == Bugs
 
@@ -89,5 +92,5 @@ Run `sdk install java 8.0.262-zulu` then `source ./bin/load_environment_light.sh
 - [OC-713] Web-UI configuration: wrong yaml documented key + misspelled key in configuration
 [WARNING]
 Need to change in web-ui.json the key delagate-url into delegate-url.
-
+- [OC-934] fix Issue with cards published with client jars (due to Instant). `cards-publication` service accepts cards from client jar.
 
