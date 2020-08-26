@@ -75,6 +75,7 @@ Run `sdk install java 8.0.265-zulu` then `source ./bin/load_environment_light.sh
 4 new handlebars helpers added: 'keyValue', 'arrayContains', 'times', 'toBreakage'. You can consult the documentation at the following url to check how to use them: https://opfab.github.io/documentation/archives/1.4.0.RELEASE/docs/single_page_doc.html#templates
 - [OC-831] Update getting started documentation with routing mechanism
 - [OC-1065] Remove unused bundles
+- [OC-1067] GET /entities : allow all users for this operation
 
 == Bugs
 
