@@ -19,8 +19,8 @@
 ** [OC-1053] For each custom menu entry in the navbar, choose whether to integrate it as an iframe or an external link
 
 
-- **Routing** ([OC-950] [OC-830])  : New routing mechanism is now fully functionnal, it is possible to define card visiblity per process/state for groups using perimeters, see users documentation : https://opfab.github.io/documentation/current/docs/single_page_doc.html#users_management
-- **Response card** ([OC-918],[OC-915],[OC-982],[OC-914],[OC-966],[OC-980],[OC-1051],[OC-969]) : It is now possible for the user to reply on a card if configured, see documentation : https://opfab.github.io/documentation/current/docs/single_page_doc.html#response_cards
+- **Routing** ([OC-950] [OC-830])  : New routing mechanism is now fully functionnal, it is possible to define card visiblity per process/state for groups using perimeters, see users documentation : https://opfab.github.io/documentation/current/reference_doc/#_users_management
+- **Response card** ([OC-918],[OC-915],[OC-982],[OC-914],[OC-966],[OC-980],[OC-1051],[OC-969]) : It is now possible for the user to reply on a card if configured, see documentation : https://opfab.github.io/documentation/current/reference_doc/#_response_cards
 - ** Acknowlegment ** ([OC-922][OC-923][OC-1033]): It is now possible for the user to acknowlege cards with a button on the bottom-right of the card .The feed can also been filtered to show acknowledged or not acknowledged cards. It is as well possible for the user to "unacknowledge" a card previously acknowlegded .This functionnality is activated on a process state basis via the setting of acknowledgementAllowed to true in the  config.json of the bundles (example in /src/test/utils/karate/src/test/utils/karate/businessconfig/resources/bundle_api_test/config.json)
 
 - **Logging and monitoring** : [OC-1023] New screens to see cards in monitoring/logging views   (experimental)
@@ -42,7 +42,7 @@
 - [OC-1014] Load configuration files from outside docker in `config/docker/docker-compose.yml`
 - **Configuration of business process** :
 [WARNING]
-**Breaking change** : see migration guide
+**Breaking change** : see migration guide : https://opfab.github.io/documentation/current/docs/single_page_doc.html#_migration_guide_from_release_1_4_0_to_release_1_5_0
 
 ** [OC-978] Rename third module to businessconfig module
 ** [OC-979] Link bundle with process instead of publisher 
