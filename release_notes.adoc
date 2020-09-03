@@ -72,6 +72,8 @@ Run `sdk install java 8.0.265-zulu` then `source ./bin/load_environment_light.sh
 - [OC-1065] Remove unused bundles
 - [OC-1067] GET /entities : allow all users for this operation
 - [OC-1068] Simplify backend card notification mechanism
+- [OC-1070] Add new example in defaultBundle
+
 == Bugs
 
 - [OC-1006] Archives - Bugs in pagination +
