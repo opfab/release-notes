@@ -92,4 +92,5 @@ Run `sdk install java 8.0.265-zulu` then `source ./bin/load_environment_light.sh
 [WARNING]
 Need to change in web-ui.json the key delagate-url into delegate-url.
 - [OC-934] fix Issue with cards published with client jars (due to Instant). `cards-publication` service accepts cards from client jar.
+- [OC-1069] Limit  line when clicking on timeline
 
