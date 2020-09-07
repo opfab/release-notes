@@ -13,7 +13,7 @@
 == Features
 
 - **example** ([OC-XXX] [OC-XXX])  : .... 
-- [OC-XXX] ....
+- [OC-968] Add UI alert via a clock when ltdd time is approching 
 
 == Tasks
 
