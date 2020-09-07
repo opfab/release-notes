@@ -27,7 +27,7 @@
 - **Free Message** : [OC-928] First implementation of free message (permit the user to send card) , not useable yet
 
 
-- ** API ** : ([OC-1021] [OC-1022] [OC-1023] [OC-1024]) New endpoint to delete user,entity,group and perimeter
+- ** API ** : ([OC-1021] [OC-1022] [OC-1023] [OC-1024]) New endpoint to delete user, entity, group and perimeter
 
 == Tasks
 - [OC-999] Minor edits to doc after 1rst git flow release 
