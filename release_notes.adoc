@@ -11,13 +11,6 @@
 
 
 == Features
-- **UI** : 
-** [OC-948][OC-1037] Button to hide or display the timeline
-** [OC-949] Filter by publish date in feed when clicking on the clock icon +
-**NB:** When the timeline is not loaded (parameter `operatorfabric.feed.timeline.hide` set to true ), the time filter of the feed is based on business date.
-** [OC-1038] Incoming cards are signaled as new (little eye icon) in the feed until they've been read
-** [OC-1053] For each custom menu entry in the navbar, choose whether to integrate it as an iframe or an external link
-
 
 - **Routing** ([OC-950] [OC-830])  : New routing mechanism is now fully functionnal, it is possible to define card visiblity per process/state for groups using perimeters, see users documentation : https://opfab.github.io/documentation/current/reference_doc/#_users_management
 - **Response card (Smart notification) ** ([OC-918] [OC-915] [OC-982] [OC-914] [OC-966] [OC-980] [OC-1051] [OC-969] [OC-1071]) : It is now possible for the user to reply on a card if configured, see documentation : https://opfab.github.io/documentation/current/reference_doc/#_response_cards
@@ -26,8 +19,14 @@
 - **Logging and monitoring** : [OC-1023] New screens to see cards in monitoring/logging views   (experimental)
 - **Free Message** : [OC-928] First implementation of free message (permit the user to send card) , not useable yet
 
-
 - ** API ** : ([OC-1021] [OC-1022] [OC-1023] [OC-1024]) New endpoint to delete user, entity, group and perimeter
+
+- **UI** : 
+** [OC-948][OC-1037] Button to hide or display the timeline
+** [OC-949] Filter by publish date in feed when clicking on the clock icon +
+**NB:** When the timeline is not loaded (parameter `operatorfabric.feed.timeline.hide` set to true ), the time filter of the feed is based on business date.
+** [OC-1038] Incoming cards are signaled as new (little eye icon) in the feed until they've been read
+** [OC-1053] For each custom menu entry in the navbar, choose whether to integrate it as an iframe or an external link
 
 == Tasks
 - [OC-999] Minor edits to doc after 1rst git flow release 
