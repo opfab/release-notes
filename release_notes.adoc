@@ -17,5 +17,7 @@
 
 == Tasks
 
+- [OC-419] Correcting Publication Service Documentation (User Guide)
+
 == Bugs
 
