@@ -13,7 +13,8 @@
 == Features
 
 - **example** ([OC-XXX] [OC-XXX])  : .... 
-- [OC-968] Add UI alert via a clock when ltdd time is approching 
+- [OC-968] Add UI alert via a clock when ltdd time is approching
+- [OC-1056] View card in an agenda style screen
 
 == Tasks
 
