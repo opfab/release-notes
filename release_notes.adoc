@@ -20,7 +20,8 @@
 == Tasks
 
 - [OC-419] Correcting Publication Service Documentation (User Guide)
-- [OC-1080] When user has no right to repond to a card , instead of not showing response button , disable it 
+- [OC-1080] When user has no right to respond to a card , instead of not showing response button , disable it
+- [OC-1095] UI - Load i18n for all processes at startup
 
 == Bugs
 
