@@ -15,6 +15,7 @@
 - **example** ([OC-XXX] [OC-XXX])  : .... 
 - [OC-968] Add UI alert via a clock when ltdd time is approching
 - [OC-1056] View card in an agenda style screen
+- [OC-1076] Add a filter to see only revelant process in monitoring and logging screen. Reveleant process are configured in the config.json of each process
 
 == Tasks
 
