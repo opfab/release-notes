@@ -23,6 +23,9 @@
 - [OC-1080] When user has no right to respond to a card , instead of not showing response button , disable it
 - [OC-1095] UI - Load i18n for all processes at startup
 - [OC-1097] Remove unused vps env configuration
+- [OC-1082] UI - Remove use of method askUserApplicationRegistered
+- [OC-1072] UI - Load All Entities information in the UI when user is starting OpFab 
+
 
 == Bugs
 
