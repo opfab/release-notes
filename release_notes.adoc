@@ -25,6 +25,7 @@
 - [OC-1097] Remove unused vps env configuration
 - [OC-1082] UI - Remove use of method askUserApplicationRegistered
 - [OC-1072] UI - Load All Entities information in the UI when user is starting OpFab 
+- [OC-867] UI - Change time filter label, depending on the timeline hidden or not
 
 
 == Bugs
