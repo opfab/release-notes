@@ -15,7 +15,9 @@
 - **example** ([OC-XXX] [OC-XXX])  : .... 
 - [OC-968] Add UI alert via a clock when ltdd time is approching
 - [OC-1056] View card in an agenda style screen
-- [OC-1076] Add a filter to see only revelant process in monitoring and logging screen. Revelant processes are configured in the config.json of each process
+- ** Monitoring and logging screens **
+  * [OC-1076] Add a filter to see only revelant process in monitoring and logging screen. Revelant processes are configured in the config.json of each process
+  * [OC-1079] Adjust Monitoring and Logging pages
 - [OC-967] When showin an action card with responses , view the list of entity that had respond or not in the top of the card
 - [OC-1098] When opening an external app in an iframe from business menu ,the night/day mode (or style) is passed in the request via a param in the GET Request . When the user switch the mode, the iframe is reloaded
 - [OC-1116] Init hours and minutes to 00:00 in feed time filter instead of blank field
