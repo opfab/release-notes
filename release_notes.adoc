@@ -34,6 +34,7 @@
 - [OC-1094] Add write access for defaultprocess with state message in standard config and bundle cleaning
 - [OC-1096] Add an heardbeat mechanism to the SSE connection to avoid setting long timeout in nginx and to be compatible with the use of external proxies
 - [OC-1081] Add documentation for lttd and default config value for secondsBeforeLttdForClockDisplay
+- [OC-1122] Robustify permanent connection for card notification II
 
 
 == Bugs
