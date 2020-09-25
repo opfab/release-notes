@@ -18,14 +18,14 @@
 - [OC-1116] Init hours and minutes to 00:00 in feed time filter instead of blank field
 - [OC-1121] New ack icons in feed filter
 
-Experimental features:
+**Experimental features:**
 
-- [OC-1056] View card in an agenda style screen  (experimental)
-- ** Monitoring and logging screens **  (experimental)
+- [OC-1056] View card in an agenda style screen  
+- Monitoring and logging screens  
   * [OC-1076] Add a filter to see only revelant process in monitoring and logging screen. Revelant processes are configured in the config.json of each process
   * [OC-1079] Adjust Monitoring and Logging pages
-  * [OC-1118] adds publisher type to cards and sets it to ENTITY when user card end point called and to EXTERNAL otherwise ;
-  * [OC-1119] displays entity as sender in logging page for ENTITY publisher type
+  * [OC-1118] Adds publisher type to cards and sets it to ENTITY when user card end point called and to EXTERNAL otherwise ;
+  * [OC-1119] Displays entity as sender in logging page for ENTITY publisher type
 
 
 == Tasks
