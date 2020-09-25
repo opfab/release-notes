@@ -40,6 +40,7 @@
 - [OC-1081] Add documentation for lttd and default config value for secondsBeforeLttdForClockDisplay
 - [OC-1122] Robustify permanent connection for card notification II
 - [OC-1124] Refactor card detail component to avoid unnecessary processing
+- [OC-1129] Modify storage directory for bundle in docker reference configuration (in config/docker)
 
 == Bugs
 - [OC-1125) Card are sometimes not mark as read
