@@ -24,6 +24,7 @@
 - [OC-1098] When opening an external app in an iframe from business menu ,the night/day mode (or style) is passed in the request via a param in the GET Request . When the user switch the mode, the iframe is reloaded
 - [OC-1116] Init hours and minutes to 00:00 in feed time filter instead of blank field
 - [OC-1121] New ack icons in feed filter
+- [OC-1128] Add state as mandatory information in documentation
 
 == Tasks
 
