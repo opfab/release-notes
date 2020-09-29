@@ -9,7 +9,7 @@
 
 == Features
 
-- [OC-XXX] ...
+- [OC-1100] New version of userCard feature
 
 == Tasks
 
