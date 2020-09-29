@@ -13,6 +13,8 @@
 
 == Tasks
 
+- [OC-411] Remove unused property deletionDate
+
 == Bugs
 
 
