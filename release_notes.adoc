@@ -14,6 +14,7 @@
 == Tasks
 
 - [OC-411] Remove unused property deletionDate
+- [OC-1137] Improve UI initialization
 
 == Bugs
 
