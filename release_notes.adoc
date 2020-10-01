@@ -10,6 +10,7 @@
 == Features
 
 - [OC-1100] New version of userCard feature
+- [OC-1130] Add name of entity in logging screen
 
 == Tasks
 
