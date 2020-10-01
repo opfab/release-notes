@@ -15,6 +15,7 @@
 
 - [OC-411] Remove unused property deletionDate
 - [OC-1137] Improve UI initialization
+- [OC-1078] Implement notion of processGroup (WIP)
 
 == Bugs
 
