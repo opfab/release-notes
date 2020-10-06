@@ -13,6 +13,7 @@
 - [OC-1130] Add name of entity in logging screen
 - [OC-1044 ] Add buttons to export data in Excel format for logging and monitoring screen 
 - [OC-1025]: First version new administration module for users, entities and groups management (WIP)
+- [OC 1143] Improve new card feature
 
 == Tasks
 
