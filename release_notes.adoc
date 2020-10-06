@@ -20,10 +20,9 @@
 - [OC-411] Remove unused property deletionDate
 - [OC-1137] Improve UI initialization
 - [OC-1078] Implement notion of processGroup (WIP)
+- [OC-1147] displays modal in full screen and upgrade boostrap and other libraries
 
 == Bugs
-
--  [OC-1149] remove error in card detail
 
 
 
