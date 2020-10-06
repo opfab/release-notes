@@ -23,5 +23,7 @@
 
 == Bugs
 
+-  [OC-1149] remove error in card detail
+
 
 
