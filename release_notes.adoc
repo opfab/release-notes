@@ -21,6 +21,7 @@
 - [OC-1137] Improve UI initialization
 - [OC-1078] Implement notion of processGroup (WIP)
 - [OC-1147] displays modal in full screen and upgrade boostrap and other libraries
+- [OC-1151] Use new modal for agenda view
 
 == Bugs
 
