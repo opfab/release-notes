@@ -14,6 +14,7 @@
 - [OC-1044 ] Add buttons to export data in Excel format for logging and monitoring screen 
 - [OC-1025]: First version new administration module for users, entities and groups management (WIP)
 - [OC 1143] Improve new card feature
+- [OC-1109] As a user I want to see the lttd countdown on 'simple' card
 
 == Tasks
 
