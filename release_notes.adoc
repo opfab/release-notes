@@ -9,11 +9,10 @@
 
 == Features
 
-- [OC-1100] New version of userCard feature
+- [OC-1100] [OC-1143] New version of userCard feature
 - [OC-1130] Add name of entity in logging screen
 - [OC-1044] Add buttons to export data in Excel format for logging and monitoring screen 
-- [OC-1025]: First version new administration module for users, entities and groups management (WIP)
-- [OC 1143] Improve new card feature
+- [OC-1025] First version new administration module for users, entities and groups management (WIP)
 - [OC-1109] As a user I want to see the lttd countdown on 'simple' card
 
 == Tasks
@@ -21,10 +20,10 @@
 - [OC-411] Remove unused property deletionDate
 - [OC-1137] Improve UI initialization
 - [OC-1078] Implement notion of processGroup (WIP)
-- [OC-1147] displays modal in full screen and upgrade boostrap and other libraries
+- [OC-1147] Displays modal in full screen and upgrade boostrap and other libraries
 - [OC-1151] Use new modal for agenda view
 - [OC-1157] Colors modifications for day mode
-- [OC-1117] *Remove template and css arrays in bundle definition .This two arrays are not needed anymore in the config.json of the bundle*
+- [OC-1117] Remove template and css arrays in bundle definition .This two arrays are not needed anymore in the config.json of the bundle
 
 == Bugs
 
