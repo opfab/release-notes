@@ -24,6 +24,7 @@
 - [OC-1151] Use new modal for agenda view
 - [OC-1157] Colors modifications for day mode
 - [OC-1117] Remove template and css arrays in bundle definition .This two arrays are not needed anymore in the config.json of the bundle
+- [OC-1155] Optimize loading card from the UI
 
 == Bugs
 
