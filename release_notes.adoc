@@ -27,6 +27,7 @@
 - [OC-1117] Remove template and css arrays in bundle definition .This two arrays are not needed anymore in the config.json of the bundle
 - [OC-1155] Optimize loading card from the UI
 - [OC-1158] Add the option to view usercard in agenda
+- [OC-1169] : Set business log as optional (use operatorfabric.businessLogActivated in yaml configuration files to activate or not the business logs) 
 
 == Bugs
 
