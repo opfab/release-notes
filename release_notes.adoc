@@ -32,6 +32,7 @@
 == Bugs
 
 - [OC-1149] remove error in card detail
+- [OC-1175] Correct bug in datePicker : after opening the calendar, when clicking outside, the calendar shall disappear
 
 
 
