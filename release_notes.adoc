@@ -29,6 +29,7 @@
 - [OC-1158] Add the option to view usercard in agenda
 - [OC-1169] Set business log as optional (use operatorfabric.businessLogActivated in yaml configuration files to activate or not the business logs) 
 - [OC-1145] Add new multi-filter component to logging screen
+- [OC-1126] Add field userRecipients and groupRecipients when posting a card. Theses fields replace recipient field which is now deprecated. ( See documentation : https://opfab.github.io/documentation/current/reference_doc/#_cards_examples)
 
 == Bugs
 
