@@ -15,6 +15,7 @@
 - [OC-1025] First version new administration module for users, entities and groups management (WIP)
 - [OC-1109] As a user I want to see the lttd countdown on 'simple' card
 - [OC-1092] Add the possibility to delete a card from the UI when entity of the user is the card publisher
+- [OC 1178] Minor corrections in create card feature
 
 == Tasks
 
