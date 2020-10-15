@@ -12,7 +12,7 @@
 - [OC-1100] [OC-1143] New version of userCard feature
 - [OC-1130] Add name of entity in logging screen
 - [OC-1044] Add buttons to export data in Excel format for logging and monitoring screen 
-- [OC-1025] First version new administration module for users, entities and groups management (WIP)
+- [OC-1025] [OC-1088] [OC-1180] First version new administration module for users, entities and groups management (WIP)
 - [OC-1109] As a user I want to see the lttd countdown on 'simple' card
 - [OC-1092] Add the possibility to delete a card from the UI when entity of the user is the card publisher
 - [OC 1178] Minor corrections in create card feature
@@ -42,7 +42,6 @@
 - [OC-1149] Remove error in card detail
 - [OC-1175] Correct bug in datePicker : after opening the calendar, when clicking outside, the calendar shall disappear
 - [OC-1162] For the archives result, the tags and the processes chosen are not considered
-- [OC-1180] Exchange place of number of lines on administration screens
 
 
 
