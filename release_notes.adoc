@@ -39,9 +39,10 @@
 
 == Bugs
 
-- [OC-1149] remove error in card detail
+- [OC-1149] Remove error in card detail
 - [OC-1175] Correct bug in datePicker : after opening the calendar, when clicking outside, the calendar shall disappear
 - [OC-1162] For the archives result, the tags and the processes chosen are not considered
+- [OC-1180] Exchange place of number of lines on administration screens
 
 
 
