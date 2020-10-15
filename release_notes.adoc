@@ -36,6 +36,7 @@
   ** https://opfab.github.io/documentation/current/deployment/#_business_service_specific_configurations
   ** https://opfab.github.io/documentation/current/deployment/#ui_properties
 - [OC-1184] Refactors card-detail implementation
+- [OC-1077] Monitoring: displays card-details in a modal
 
 == Bugs
 
