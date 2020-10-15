@@ -9,7 +9,7 @@
 
 == Features
 
-- [OC-1100] [OC-1143] New version of userCard feature
+- [OC-1100] [OC-1143] [OC-1192] New version of userCard feature
 - [OC-1130] Add name of entity in logging screen
 - [OC-1044] Add buttons to export data in Excel format for logging and monitoring screen 
 - [OC-1025] [OC-1088] [OC-1180] First version new administration module for users, entities and groups management (WIP)
@@ -37,6 +37,7 @@
   ** https://opfab.github.io/documentation/current/deployment/#ui_properties
 - [OC-1184] Refactors card-detail implementation
 - [OC-1077] Monitoring: displays card-details in a modal
+- [OC-1192] Add end of timespan on timeline
 
 == Bugs
 
