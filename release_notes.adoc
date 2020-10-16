@@ -38,6 +38,7 @@
 - [OC-1184] Refactors card-detail implementation
 - [OC-1077] Monitoring: displays card-details in a modal
 - [OC-1192] Add end of timespan on timeline
+- [OC-1187] : Set the external recipient in the business process definition. You can find more information in the documentation : https://opfab.github.io/documentation/current/reference_doc/#_configure_the_response_in_config_json
 
 == Bugs
 
