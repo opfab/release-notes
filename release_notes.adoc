@@ -12,7 +12,7 @@
 - [OC-1100] [OC-1143] [OC-1192] New version of userCard feature
 - [OC-1130] Add name of entity in logging screen
 - [OC-1044] Add buttons to export data in Excel format for logging and monitoring screen 
-- [OC-1025] [OC-1088] [OC-1180] First version new administration module for users, entities and groups management (WIP)
+- [OC-1025] [OC-1088] [OC-1180] [OC-1026] [OC-1027] [OC-1028] [OC-1087] [OC-1181] First version new administration module for users, entities and groups management (WIP)
 - [OC-1109] As a user I want to see the lttd countdown on 'simple' card
 - [OC-1092] Add the possibility to delete a card from the UI when entity of the user is the card publisher
 - [OC 1178] Minor corrections in create card feature
@@ -38,15 +38,17 @@
 - [OC-1184] Refactors card-detail implementation
 - [OC-1077] Monitoring: displays card-details in a modal
 - [OC-1192] Add end of timespan on timeline
-- [OC-1187] : Set the external recipient in the business process definition. You can find more information in the documentation : https://opfab.github.io/documentation/current/reference_doc/#_configure_the_response_in_config_json
+- [OC-1187] Set the external recipient in the business process definition. You can find more information in the documentation : https://opfab.github.io/documentation/current/reference_doc/#_configure_the_response_in_config_json
+- [OC-1156] How to check regression of a branch
 
 == Bugs
 
 - [OC-1149] Remove error in card detail
 - [OC-1175] Correct bug in datePicker : after opening the calendar, when clicking outside, the calendar shall disappear
 - [OC-1162] For the archives result, the tags and the processes chosen are not considered
-- [OC-1171] load all translations during startup phase (Solve problem of translation after F5 action on admin screen)
+- [OC-1171] Load all translations during startup phase (Solve problem of translation after F5 action on admin screen)
 - [OC-1167] Fixes bug on deletion in administration page
+- [OC-1107] Lttd - only minutes and seconds are displayed in the countdown
 
 
 
