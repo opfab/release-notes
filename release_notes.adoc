@@ -35,12 +35,14 @@
   ** [OC-1137] Improve UI initialization
   ** [OC-411] Remove unused property deletionDate
 
-
  
-- [OC-1156] Add in documentation : How to check regression of a branch
-- [OC-1078] Implement notion of processGroup (WIP)
-- [OC-1147] Displays modal in full screen and upgrade boostrap and other libraries
-- [OC-1157] Colors modifications for day mode
+- Documentation :
+  ** [OC-1156] Add in documentation : How to check regression of a branch
+  
+- Miscellaneous
+  ** [OC-1078] Implement notion of processGroup (WIP)
+  ** [OC-1147] Displays modal in full screen and upgrade boostrap and other libraries
+  ** [OC-1157] Colors modifications for day mode
 
 == Bugs
 
