@@ -10,6 +10,7 @@
 == Features
 
 - [OC-1194] Add the possibility to send usercard with response card
+- [OC-1113]  Remove multiple tabs in card's details
 
 == Tasks
 
