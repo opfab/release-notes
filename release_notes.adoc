@@ -9,7 +9,7 @@
 
 == Features
 
-- [OC-XXX] ...
+- [OC-1194] Add the possibility to send usercard with response card
 
 == Tasks
 
