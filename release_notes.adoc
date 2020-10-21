@@ -12,6 +12,7 @@
 - [OC-1194] Add the possibility to send usercard with response card
 - [OC-1113] Remove multiple tabs in card's details
 - [OC-1176] Add edit user card feature
+- [OC-1148] Remove email address and date/time formatting parameters in the settings
 
 == Tasks
 
