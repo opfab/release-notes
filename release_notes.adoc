@@ -17,5 +17,7 @@
 
 == Bugs
 
+- [OC-1205] BUG in timeline when switching to winter time
+
 
 
