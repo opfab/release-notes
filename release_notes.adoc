@@ -16,6 +16,8 @@
 
 == Tasks
 
+- [OC-1189] Attach child card to parent card id and not parent uid
+
 == Bugs
 
 - [OC-1205] BUG in timeline when switching to winter time
