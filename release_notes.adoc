@@ -21,6 +21,7 @@
 == Bugs
 
 - [OC-1205] BUG in timeline when switching to winter time
+- [OC-1188] Solve bug when reloading monitoring/logging via F5, the translation for mutli filter was not loaded
 
 
 
