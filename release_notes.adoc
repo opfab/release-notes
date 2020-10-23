@@ -18,6 +18,7 @@
 == Tasks
 
 - [OC-1189] Attach child card to parent card id and not parent uid
+- [OC-1172] Rename users/groups and entities in test data . For testing opfab you shall use now operator1 and operator2 (instead of tso1-operator and tso2-operator) 
 
 == Bugs
 
