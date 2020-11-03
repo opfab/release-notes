@@ -23,6 +23,7 @@
 - [OC-665] Externalize menu configuration from bundle. Business menu configuration is not done in process definition anymore , a specific configuration file name ui-menu.json is used 
 - [OC-1213] Documentation modification
 - [OC-1209] Add an end point to set a card unread for the current user
+- [OC-1154] Update cards subscription on calendar dates range change
 
 == Bugs
 
