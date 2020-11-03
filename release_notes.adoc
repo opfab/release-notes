@@ -22,6 +22,7 @@
 - [OC-1172] Rename users/groups and entities in test data . For testing opfab you shall use now operator1 and operator2 (instead of tso1-operator and tso2-operator) 
 - [OC-665] Externalize menu configuration from bundle. Business menu configuration is not done in process definition anymore , a specific configuration file name ui-menu.json is used 
 - [OC-1213] Documentation modification
+- [OC-1209] Add an end point to set a card unread for the current user
 
 == Bugs
 
