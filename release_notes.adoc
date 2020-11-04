@@ -25,6 +25,7 @@
 - [OC-1209] Add an end point to set a card unread for the current user
 - [OC-1154] Update cards subscription on calendar dates range change
 - [OC-1002] Minor corrections for karate testing in docker mode
+- [OC-1222] Add an option to hard kill the processes in run_all.sh
 
 == Bugs
 
