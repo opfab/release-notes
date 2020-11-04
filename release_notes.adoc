@@ -24,6 +24,7 @@
 - [OC-1213] Documentation modification
 - [OC-1209] Add an end point to set a card unread for the current user
 - [OC-1154] Update cards subscription on calendar dates range change
+- [OC-1002] Minor corrections for karate testing in docker mode
 
 == Bugs
 
