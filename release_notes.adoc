@@ -27,6 +27,7 @@
 - [OC-1154] Update cards subscription on calendar dates range change
 - [OC-1002] Minor corrections for karate testing in docker mode
 - [OC-1222] Add an option to hard kill the processes in run_all.sh
+- [OC-1225] Add a script to automate api none-regression test
 
 == Bugs
 
