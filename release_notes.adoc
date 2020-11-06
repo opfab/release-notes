@@ -35,6 +35,7 @@
 - [OC-1188] Solve bug when reloading monitoring/logging via F5, the translation for mutli filter was not loaded
 - [OC-1215] Solve memory leaks
 - [OC-1224] Closing archive card was not possible anymore
+- [OC-1226] When the timeline is hidden by the user, dates displayed shall take into account the date format configured in web-ui.json. It applies only for the mode TR and 7D
 
 
 
