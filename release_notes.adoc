@@ -16,6 +16,7 @@
 - [OC-1190] Add an option in card to keep child card. You can find more information in the documentation : https://opfab.github.io/documentation/current/reference_doc/#_send_a_question_card
 - [OC-1196] [OC-1214] Add option to sort cards by read status
 - [OC-1144] Adds parent reference declaration to entity (A cycle detection is performed when post or patch of Entities)
+- [OC-1093] Add a reminder feature (see documentation : https://opfab.github.io/documentation/current/reference_doc/#_card_reminder_experimental )
 
 == Tasks
 
