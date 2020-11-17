@@ -48,5 +48,6 @@ For dev configuration (${OF_HOME}/config/dev), use on the first run the docker-c
 - [OC-1224] Closing archive card was not possible anymore
 - [OC-1226] When the timeline is hidden by the user, dates displayed shall take into account the date format configured in web-ui.json. It applies only for the mode TR and 7D
 - [OC-1232] documents workaround to resolve ng build failure
+- [OC-1235] Permit to use http for authentification in implicit mode
 
 
