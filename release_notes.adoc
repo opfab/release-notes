@@ -34,6 +34,7 @@
 - [OC-1225] Add a script to automate api none-regression test
 - [OC-1202] Renames 'ngnix.conf' files into 'nginx.conf'
 - [OC-1207] Update cards subscription period on monitoring date range change
+- [OC-1236] Add a new example of usercard (incident management)
 
 [WARNING]
 ====
