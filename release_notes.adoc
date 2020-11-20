@@ -20,7 +20,6 @@
 - [OC-1170] Filter notification screen for user--> First step : Backend filter storage 
 - [OC-1073][OC-1231] Add kafka support : possibility to send card to operator fabric via kafka and to send response card to kafka (link:https://opfab.github.io/documentation/current/dev_env/index.html#_kafka_implementatio[see documentation])
 - [OC-1233] Add prometheus monitoring endpoint (link:https://opfab.github.io/documentation/current/deployment/#_monitoring[see documentation])
-- [OC-1230] Recurrent reminder (first implementation, not complete yet)
 
 == Tasks
 
