@@ -34,6 +34,7 @@
 - [OC-1225] Add a script to automate api none-regression test
 - [OC-1202] Renames 'ngnix.conf' files into 'nginx.conf'
 - [OC-1244] Add a new buisness example (IGCC)
+- [OC-1245] Set button visibility for detail card
 
 [WARNING]
 ====
