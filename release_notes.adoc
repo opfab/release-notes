@@ -33,6 +33,7 @@
 - [OC-1222] Add an option to hard kill the processes in run_all.sh
 - [OC-1225] Add a script to automate api none-regression test
 - [OC-1202] Renames 'ngnix.conf' files into 'nginx.conf'
+- [OC-1244] Add a new buisness example (IGCC)
 
 [WARNING]
 ====
