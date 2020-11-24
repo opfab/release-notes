@@ -47,6 +47,7 @@ For dev configuration (${OF_HOME}/config/dev), use on the first run the docker-c
 - [OC-1210] Add a method in templateGateway.js to get entity names
 - [OC-1238] Permit to use keepChildCards in user card
 - [OC-1115] Include ExternalApp in build process and add in docker-compose
+- [OC-1216] uses java 11 for sonar analysis in travis configuration
 
 == Bugs
 
