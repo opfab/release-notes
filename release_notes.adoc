@@ -52,7 +52,7 @@ For dev configuration (${OF_HOME}/config/dev), use on the first run the docker-c
 
 [WARNING]
 ====
- Breaking change link:https://opfab.github.io/documentation/current/[see migration documentation]
+ Breaking change, see migration documentation : https://opfab.github.io/documentation/current/
 ====
 
 
