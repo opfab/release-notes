@@ -8,10 +8,11 @@
 = Version SNAPSHOT
 
 == Features
-
-- [OC-1194] Add the possibility to send usercard with response card
+- User cards : 
+  ** [OC-1208] Add translation in recepient multiselect field 
+  ** [OC-1194] Add the possibility to send usercard with response card
+  ** [OC-1176] Add edit user card feature
 - [OC-1113] Remove multiple tabs in card's details
-- [OC-1176] Add edit user card feature
 - [OC-1148] Remove email address and date/time formatting parameters in the settings
 - [OC-1190] Add an option in card to keep child card. You can find more information in the documentation : https://opfab.github.io/documentation/current/reference_doc/#_send_a_question_card
 - [OC-1196] [OC-1214] Add option to sort cards by read status
