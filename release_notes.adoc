@@ -9,7 +9,7 @@
 
 == Features
 - User cards : 
-  ** [OC-1208] Add translation in recepient multiselect field 
+  ** [OC-1208] Add translation in recipient multiselect field
   ** [OC-1194] Add the possibility to send usercard with response card
   ** [OC-1176] Add edit user card feature
 - [OC-1113] Remove multiple tabs in card's details
@@ -34,21 +34,22 @@
 - [OC-1222] Add an option to hard kill the processes in run_all.sh
 - [OC-1225] Add a script to automate api none-regression test
 - [OC-1202] Renames 'ngnix.conf' files into 'nginx.conf'
-- [OC-1244] Add a new buisness example (IGCC)
-- [OC-1245] Set button visibility for detail card
-- [OC-1246] Divide post6CardsSeverity.feature in 6 features
 
 [WARNING]
 ====
 For dev configuration (${OF_HOME}/config/dev), use on the first run the docker-compose.sh script.
 ====
 
+- [OC-1244] Add a new business example (IGCC)
+- [OC-1245] Set button visibility for detail card
+- [OC-1246] Divide post6CardsSeverity.feature in 6 features
 - [OC-1207] Update cards subscription period on monitoring date range change
 - [OC-1236] Add a new example of usercard (incident management)
 - [OC-1210] Add a method in templateGateway.js to get entity names
 - [OC-1238] Permit to use keepChildCards in user card
 - [OC-1115] Include ExternalApp in build process and add in docker-compose
 - [OC-1216] Uses java 11 for sonar analysis in travis configuration
+- [OC-1204] Update getting started documentation for release 1.8.0
 - [OC-1203] Refactor definition of detail in bundle 
 
 [WARNING]
@@ -65,7 +66,7 @@ Breaking change, see migration documentation : https://opfab.github.io/documenta
 - [OC-1224] Closing archive card was not possible anymore
 - [OC-1226] When the timeline is hidden by the user, dates displayed shall take into account the date format configured in web-ui.json. It applies only for the mode TR and 7D
 - [OC-1232] documents workaround to resolve ng build failure
-- [OC-1235] Permit to use http for authentification in implicit mode
+- [OC-1235] Permit to use http for authentication in implicit mode
 - [OC-1212] Fix bug on page reload when an external page is open in iframe
 
 
