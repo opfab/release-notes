@@ -68,5 +68,6 @@ Breaking change, see migration documentation : https://opfab.github.io/documenta
 - [OC-1232] documents workaround to resolve ng build failure
 - [OC-1235] Permit to use http for authentication in implicit mode
 - [OC-1212] Fix bug on page reload when an external page is open in iframe
+- [OC-1253] Correct bug with card read
 
 
