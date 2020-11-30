@@ -7,20 +7,34 @@
 
 = Version SNAPSHOT
 
+[WARNING]
+====
+This version introduce breaking change in buisness process and menu configuration , see migration documentation : https://opfab.github.io/documentation/current/docs/single_page_doc.html#_migration_guide_from_release_1_7_0_to_release_1_8_0
+====
+
+
 == Features
-- User cards : 
+-  **Add a reminder feature** : see documentation : https://opfab.github.io/documentation/current/reference_doc/#_card_reminder ([OC-1093] [OC-1230] [OC-1239])
+
+- **User cards** : 
   ** [OC-1208] Add translation in recipient multiselect field
   ** [OC-1194] Add the possibility to send usercard with response card
   ** [OC-1176] Add edit user card feature
-- [OC-1113] Remove multiple tabs in card's details
-- [OC-1148] Remove email address and date/time formatting parameters in the settings
-- [OC-1190] Add an option in card to keep child card. You can find more information in the documentation : https://opfab.github.io/documentation/current/reference_doc/#_send_a_question_card
-- [OC-1196] [OC-1214] Add option to sort cards by read status
-- [OC-1144] Adds parent reference declaration to entity (A cycle detection is performed when post or patch of Entities)
-- [OC-1093] [OC-1230] [OC-1239] Add a reminder feature (see documentation : https://opfab.github.io/documentation/current/reference_doc/#_card_reminder )
-- [OC-1170] Filter notification screen for user--> First step : Backend filter storage
-- [OC-1073][OC-1231][OC-1247] Add kafka support : possibility to send card to operator fabric via kafka and to send response card to kafka (link:https://opfab.github.io/documentation/current/dev_env/index.html#_kafka_implementatio[see documentation])
-- [OC-1233] Add prometheus monitoring endpoint (link:https://opfab.github.io/documentation/current/deployment/#_monitoring[see documentation])
+- **Response cards**:
+  ** [OC-1190] Add an option in card to keep child card. You can find more information in the documentation : https://opfab.github.io/documentation/current/reference_doc/#_send_a_question_card
+- **Card Feed**: 
+  ** [OC-1196] [OC-1214] Add option to sort cards by read status
+- **Integration fetaures**:
+  ** **Add kafka support** : possibility to send card to operator fabric via kafka and to send response card to kafka , link:https://opfab.github.io/documentation/current/dev_env/index.html#_kafka_implementatio[see documentation]  ([OC-1073][OC-1231][OC-1247])
+  **  **Add support for monitoring via prometheus**, link:https://opfab.github.io/documentation/current/deployment/#_monitoring[see documentation] (OC-1233)
+- **Feature removals** : 
+** [OC-1113] Remove multiple tabs in card's details
+** [OC-1148] Remove email address and date/time formatting parameters in the settings
+- **Work in progress** :
+** [OC-1144] Add the possibility to have a relation between entities (Notion of parent entity)
+** [OC-1170] Filter notification screen for user (First step implementation) 
+
+
 
 == Tasks
 
@@ -50,11 +64,7 @@ For dev configuration (${OF_HOME}/config/dev), use on the first run the docker-c
 - [OC-1115] Include ExternalApp in build process and add in docker-compose
 - [OC-1216] Uses java 11 for sonar analysis in travis configuration
 - [OC-1204] Update getting started documentation for release 1.8.0
-- [OC-1203] Refactor definition of detail in bundle 
-
-[WARNING]
-====
-Breaking change, see migration documentation : https://opfab.github.io/documentation/current/docs/single_page_doc.html#_migration_guide_from_release_1_7_0_to_release_1_8_0
+- [OC-1203] Refactor definition of detail in bundle see changes in : https://opfab.github.io/documentation/current/docs/single_page_doc.html#_migration_guide_from_release_1_7_0_to_release_1_8_0
 ====
 
 
