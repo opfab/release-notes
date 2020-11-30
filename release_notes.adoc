@@ -11,19 +11,19 @@ This version introduce a breaking change in buisness process and menu configurat
 
 
 == Features
--  **Add a reminder feature** : see documentation : https://opfab.github.io/documentation/current/reference_doc/#_card_reminder ([OC-1093] [OC-1230] [OC-1239])
+-  **Add a reminder feature** : see documentation : https://opfab.github.io/documentation/current/docs/single_page_doc.html#card_reminder ([OC-1093] [OC-1230] [OC-1239])
 
 - **User cards** : 
   ** [OC-1208] Add translation in recipient multiselect field
   ** [OC-1194] Add the possibility to send usercard with response card
   ** [OC-1176] Add edit user card feature
 - **Response cards**:
-  ** [OC-1190] Add an option in card to keep child card. You can find more information in the documentation : https://opfab.github.io/documentation/current/reference_doc/#_send_a_question_card
+  ** [OC-1190] Add an option in card to keep child card. You can find more information in the documentation : https://opfab.github.io/documentation/current/docs/single_page_doc.html#_send_a_question_card
 - **Card Feed**: 
   ** [OC-1196] [OC-1214] Add option to sort cards by read status
 - **Integration fetaures**:
-  ** **Add kafka support** : possibility to send card to operator fabric via kafka and to send response card to kafka , link:https://opfab.github.io/documentation/current/dev_env/index.html#_kafka_implementatio[see documentation]  ([OC-1073][OC-1231][OC-1247])
-  **  **Add support for monitoring via prometheus**, link:https://opfab.github.io/documentation/current/deployment/#_monitoring[see documentation] (OC-1233)
+  ** **Add kafka support** : possibility to send card to operator fabric via kafka and to send response card to kafka , link:https://opfab.github.io/documentation/current/dev_env/single_page_doc.html#_kafka_implementation[see documentation]  ([OC-1073][OC-1231][OC-1247])
+  **  **Add support for monitoring via prometheus**, link:https://opfab.github.io/documentation/current/docs/single_page_doc.html#_monitoring[see documentation] (OC-1233)
 - **Feature removals** : 
 ** [OC-1113] Remove multiple tabs in card's details
 ** [OC-1148] Remove email address and date/time formatting parameters in the settings
