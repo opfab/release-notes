@@ -20,8 +20,8 @@ This version introduce a breaking change in buisness process and menu configurat
 - **Response cards**:
   ** [OC-1190] Add an option in card to keep child card, link:https://opfab.github.io/documentation/archives/1.8.0.RELEASE/docs/single_page_doc.html#_send_a_question_card[see documentation]
 - **Card Feed**: 
-  ** [OC-1196] [OC-1214] Add option to sort cards by read status
-- **Integration fetaures**:
+  ** [OC-1196] [OC-1214] Add an option to sort cards by read status
+- **Integration features**:
   ** **Add kafka support** : possibility to send card to operator fabric via kafka and to send response card to kafka , link:https://opfab.github.io/documentation/archives/1.8.0.RELEASE/dev_env/single_page_doc.html#_kafka_implementation[see documentation]  ([OC-1073][OC-1231][OC-1247])
   **  **Add support for monitoring via prometheus**, link:https://opfab.github.io/documentation/archives/1.8.0.RELEASE/docs/single_page_doc.html#_monitoring[see documentation] (OC-1233)
 - **Feature removals** : 
@@ -67,7 +67,7 @@ For dev configuration (${OF_HOME}/config/dev), use the docker-compose.sh script 
 - [OC-1215] Solve memory leaks
 - [OC-1224] Closing archive card was not possible anymore
 - [OC-1226] When the timeline is hidden by the user, dates displayed shall take into account the date format configured in web-ui.json. It applies only for the mode TR and 7D
-- [OC-1232] documents workaround to resolve ng build failure
+- [OC-1232] Documents workaround to resolve ng build failure
 - [OC-1235] Permit to use http for authentication in implicit mode
 - [OC-1212] Fix bug on page reload when an external page is open in iframe
 - [OC-1253] Correct bug with card read
