@@ -7,7 +7,7 @@
 
 = Version SNAPSHOT
 
-This version introduce a breaking change in buisness process and menu configuration , see migration documentation : https://opfab.github.io/documentation/current/docs/single_page_doc.html#_migration_guide_from_release_1_7_0_to_release_1_8_0
+This version introduce a breaking change in buisness process and menu configuration,link:https://opfab.github.io/documentation/current/docs/single_page_doc.html#_migration_guide_from_release_1_7_0_to_release_1_8_0[see migration documentation]
 
 
 == Features
