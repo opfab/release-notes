@@ -10,6 +10,7 @@
 
 == Features
 
+- [OC-1218] Frontend : Create UI which allows the user to create their filters
 
 == Tasks
 
