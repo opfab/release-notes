@@ -7,10 +7,7 @@
 
 = Version SNAPSHOT
 
-[WARNING]
-====
-This version introduce breaking change in buisness process and menu configuration , see migration documentation : https://opfab.github.io/documentation/current/docs/single_page_doc.html#_migration_guide_from_release_1_7_0_to_release_1_8_0
-====
+This version introduce a breaking change in buisness process and menu configuration , see migration documentation : https://opfab.github.io/documentation/current/docs/single_page_doc.html#_migration_guide_from_release_1_7_0_to_release_1_8_0
 
 
 == Features
@@ -34,8 +31,6 @@ This version introduce breaking change in buisness process and menu configuratio
 ** [OC-1144] Add the possibility to have a relation between entities (Notion of parent entity)
 ** [OC-1170] Filter notification screen for user (First step implementation) 
 
-
-
 == Tasks
 
 - [OC-1189] Attach child card to parent card id and not parent uid
@@ -51,7 +46,7 @@ This version introduce breaking change in buisness process and menu configuratio
 
 [WARNING]
 ====
-For dev configuration (${OF_HOME}/config/dev), use on the first run the docker-compose.sh script.
+For dev configuration (${OF_HOME}/config/dev), use the docker-compose.sh script and do not start docker compose directly.
 ====
 
 - [OC-1244] Add a new business example (IGCC)
@@ -62,11 +57,8 @@ For dev configuration (${OF_HOME}/config/dev), use on the first run the docker-c
 - [OC-1210] Add a method in templateGateway.js to get entity names
 - [OC-1238] Permit to use keepChildCards in user card
 - [OC-1115] Include ExternalApp in build process and add in docker-compose
-- [OC-1216] Uses java 11 for sonar analysis in travis configuration
 - [OC-1204] Update getting started documentation for release 1.8.0
 - [OC-1203] Refactor definition of detail in bundle see changes in : https://opfab.github.io/documentation/current/docs/single_page_doc.html#_migration_guide_from_release_1_7_0_to_release_1_8_0
-====
-
 
 == Bugs
 
