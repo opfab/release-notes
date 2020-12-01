@@ -11,6 +11,7 @@
 == Features
 
 - [OC-1218] Frontend : Create UI which allows the user to create their filters
+- [OC-1229] send card to user using group entities
 
 == Tasks
 
