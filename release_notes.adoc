@@ -11,7 +11,8 @@
 == Features
 
 - [OC-1218] Frontend : Create UI which allows the user to create their filters
-- [OC-1229] Send card to user using group entities
+- [OC-1229] Send card to user using group of entities
+- [OC-1195] Set severity and date as optional for user card template
 
 == Tasks
 
