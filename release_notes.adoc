@@ -17,7 +17,7 @@
 
 - [OC-1060] Upgrade to Java 11
 
+- [OC-1198] Monitoring/logging : "Your search did not match any results." almost invisible , change color 
+
 == Bugs
-
-
 
