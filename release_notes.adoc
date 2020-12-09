@@ -14,6 +14,7 @@
 - [OC-1229] Send card to user using group of entities
 - [OC-1195] Set severity and date as optional for user card template
 - [OC-1241] View repeating event in calendar
+- [OC-1242] View repeating events in timeline
 
 == Tasks
 
