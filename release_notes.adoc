@@ -11,10 +11,11 @@
 == Features
 
 - [OC-1218] Frontend : Create UI which allows the user to create their filters
-- [OC-1229] Send card to user using group of entities
+- [OC-1229] Send card to user using group of entities ( WIP : not documented yet) 
 - [OC-1195] Set severity and date as optional for user card template
-- [OC-1241] View repeating event in calendar
+- [OC-1241] View repeating events in calendar
 - [OC-1242] View repeating events in timeline
+ -[OC-1272] Add the possibility to show ack button only if action is disabled for the user. The configuration of the acknowledge has changes see migration documentation 
 
 == Tasks
 
