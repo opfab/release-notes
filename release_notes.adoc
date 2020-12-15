@@ -16,7 +16,7 @@
 - [OC-1241] View repeating events in calendar
 - [OC-1242] View repeating events in timeline
 - [OC-1272] Add the possibility to show ack button only if action is disabled for the user. In consequence, the configuration of the acknowledgement feature  has changed , see migration documentation : https://opfab.github.io/documentation/current/docs/single_page_doc.html#_migration_guide_from_release_1_8_0_to_release_1_9_0
-- [OC-1277] Add the possiblity to set business menu visibility depending on group membership (see documentation) 
+- [OC-1277] Add the possiblity to set business menu visibility depending on group membership ((link:https://opfab.github.io/documentation/current/reference_doc/#menu_entries[see documentation])) 
 
 == Tasks
 
