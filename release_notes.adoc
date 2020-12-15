@@ -9,8 +9,7 @@
 
 
 == Features
-
-- [OC-1218] Frontend : Create UI which allows the user to create their filters
+- *Filter notification screen for user* (OC-1218 , OC-1219) : users can now filter the card they received in the feed with a configuration screen accessible throught the right menu 
 - [OC-1229] Send card to user using group of entities ( WIP : not documented yet) 
 - [OC-1195] Set severity and date as optional for user card template
 - [OC-1241] View repeating events in calendar
