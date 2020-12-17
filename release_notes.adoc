@@ -28,6 +28,7 @@
 - [OC-1223] Small evolutions of monitoring and logging screen
 - [OC-1136] Change checkbox labels style in settings page and feed type
 - [OC-824] DockerTagSnapshot task shouldn't tag latest as well
+- [OC-1273] Do not filter ack card for monitoring screen
 
 == Bugs
 
