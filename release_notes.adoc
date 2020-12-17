@@ -27,7 +27,7 @@
 - [OC-1139] Add in documentation : describe notion of processes groups
 - [OC-1223] Small evolutions of monitoring and logging screen
 - [OC-1136] Change checkbox labels style in settings page and feed type
-- [OC-824] : dockerTagSnapshot task shouldn't tag latest as well
+- [OC-824] DockerTagSnapshot task shouldn't tag latest as well
 
 == Bugs
 
