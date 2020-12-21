@@ -30,6 +30,7 @@
 - [OC-824] DockerTagSnapshot task shouldn't tag latest as well
 - [OC-1273] Do not filter ack card for monitoring screen
 - [OC-654] Correct deprecated code in cards-consultation
+- [OC-1286] Updated Kafka documentation
 
 == Bugs
 
