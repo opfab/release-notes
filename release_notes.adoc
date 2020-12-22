@@ -17,6 +17,7 @@
 - [OC-1272] Add the possibility to show ack button only if action is disabled for the user. In consequence, the configuration of the acknowledgement feature  has changed , see migration documentation : https://opfab.github.io/documentation/current/docs/single_page_doc.html#_migration_guide_from_release_1_8_0_to_release_1_9_0
 - [OC-1277] Add the possibility to set business menu visibility depending on group membership ((link:https://opfab.github.io/documentation/current/reference_doc/#menu_entries[see documentation]))
 - [OC-1279] User card feature enhancement
+- [OC-1289] Do not show child cards on the UI archive panel
 
 == Tasks
 
