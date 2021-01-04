@@ -34,6 +34,7 @@
 - [OC-1273] Do not filter ack card for monitoring screen
 - [OC-654] Correct deprecated code in cards-consultation
 - [OC-1286] Updated Kafka documentation
+- [OC-1276] Remove double state definition in process endpoint 
 
 == Bugs
 
