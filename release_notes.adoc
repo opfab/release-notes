@@ -22,6 +22,7 @@
 == Tasks
 
 - [OC-1060] Upgrade to Java 11
+- [OC-1285] Update backend dependencies to last versions 
 - [OC-1198] Monitoring/logging : "Your search did not match any results." almost invisible , change color
 - [OC-1206] Add config parameters for date and time rendering in the documentation
 - [OC-1234] Update documentation regarding entities and groups description
