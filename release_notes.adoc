@@ -19,6 +19,7 @@
 - [OC-1279] User card feature enhancement
 - [OC-1289] Do not show child cards on the UI archive panel
 - [OC-1200] Add update reponse button when there is already a reponse for the entity
+- [OC-1301] Logging - TIME OF ACTION shall be publish date and not start date
 
 == Tasks
 
