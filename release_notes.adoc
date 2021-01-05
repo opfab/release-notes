@@ -35,6 +35,7 @@
 - [OC-654] Correct deprecated code in cards-consultation
 - [OC-1286] Updated Kafka documentation
 - [OC-1276] Remove double state definition in process endpoint 
+- [OC-840] Modify getting started documentation (Explain how date are relative to today in cards) 
 
 == Bugs
 
