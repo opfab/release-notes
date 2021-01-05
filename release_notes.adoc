@@ -18,6 +18,7 @@
 - [OC-1277] Add the possibility to set business menu visibility depending on group membership ((link:https://opfab.github.io/documentation/current/reference_doc/#menu_entries[see documentation]))
 - [OC-1279] User card feature enhancement
 - [OC-1289] Do not show child cards on the UI archive panel
+- [OC-1200] Add update reponse button when there is already a reponse for the entity
 
 == Tasks
 
