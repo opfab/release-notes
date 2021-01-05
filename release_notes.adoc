@@ -39,6 +39,7 @@
 - [OC-1276] Remove double state definition in process endpoint 
 - [OC-840] Modify getting started documentation (Explain how date are relative to today in cards)
 - [OC-1183] Set login to lowercase
+- [OC-1290] Remove array of cards in cardOperation Object
 
 == Bugs
 
