@@ -23,6 +23,7 @@
 - [OC-1296] Show recipients list in alphabetic order in the create card form
 - [OC-1299] Remove the bubble related to the end of the business period
 - [OC-1295] Free Message : put 24h as default business period duration (instead of 1h)
+- [OC-1341] Monitoring screen adjustement
 
 == Tasks
 
