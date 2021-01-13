@@ -46,6 +46,7 @@
 - [OC-1290] Remove array of cards in cardOperation Object
 - [OC-1256] Add documentation for groups of entities
 - [OC-1335] Refactoring vertical scrollbar management
+- [OC-1101] Add user card documentation
 
 == Bugs
 
