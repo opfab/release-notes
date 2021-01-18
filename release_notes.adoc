@@ -50,3 +50,5 @@
 
 == Bugs
 
+- [OC-1355] Bug in creation/edit user with multiselect component
+
