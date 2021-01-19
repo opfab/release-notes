@@ -48,6 +48,7 @@
 - [OC-1256] Add documentation for groups of entities
 - [OC-1335] Refactoring vertical scrollbar management
 - [OC-1101] Add user card documentation
+- [OC-1309] Template communication improvement
 
 == Bugs
 
