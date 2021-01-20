@@ -50,6 +50,7 @@
 - [OC-1101] Add user card documentation
 - [OC-1309] Template communication improvement
 - [OC-1363] Start UI even if no processes defined (add a warning in the log)
+- [OC-1364] Rename archive results column title "description" in "summary"
 
 == Bugs
 
