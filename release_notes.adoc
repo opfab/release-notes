@@ -25,6 +25,7 @@
 - [OC-1295] Free Message : put 24h as default business period duration (instead of 1h)
 - [OC-1341] Monitoring screen adjustement
 - [OC-1353] Do not permit to have preview of card at the same time as view card in the feed
+- [OC-1360] : Add documentation for card notification filter feature
 
 == Tasks
 
