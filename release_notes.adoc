@@ -26,6 +26,9 @@
 - [OC-1341] Monitoring screen adjustement
 - [OC-1353] Do not permit to have preview of card at the same time as view card in the feed
 - [OC-1360] : Add documentation for card notification filter feature
+- [OC-1376] When clicking on an unread card, it should not move down in the feed
++
+NOTE: In previous versions, a card would lose its "unread" style (bold etc.) as soon as it was clicked. Now, the card will keep its "unread" style until its detail is closed (either manually or by clicking another card).
 
 == Tasks
 
