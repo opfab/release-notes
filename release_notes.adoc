@@ -56,6 +56,7 @@ NOTE: In previous versions, a card would lose its "unread" style (bold etc.) as 
 - [OC-1363] Start UI even if no processes defined (add a warning in the log)
 - [OC-1364] Rename archive results column title "description" in "summary"
 - [OC-1388] Cards in feed - minor style adjustments
+- [OC-1298] Prepare getting started for release 2.0 - update of documentation of getting-started
 
 == Bugs
 
