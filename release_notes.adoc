@@ -31,6 +31,7 @@
 NOTE: In previous versions, a card would lose its "unread" style (bold etc.) as soon as it was clicked. Now, the card will keep its "unread" style until its detail is closed (either manually or by clicking another card).
 +
 - [OC-1390] Change feed filter icon to white instead of blue when filter active
+- [OC-1411] Increase feed width
 
 == Tasks
 
