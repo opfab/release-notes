@@ -29,6 +29,8 @@
 - [OC-1376] When clicking on an unread card, it should not move down in the feed
 +
 NOTE: In previous versions, a card would lose its "unread" style (bold etc.) as soon as it was clicked. Now, the card will keep its "unread" style until its detail is closed (either manually or by clicking another card).
++
+- [OC-1390] Change feed filter icon to white instead of blue when filter active
 
 == Tasks
 
