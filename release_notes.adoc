@@ -44,10 +44,9 @@ This version also introduces a *notification filter management* interface for us
 - [OC-1206] Add config parameters for date and time rendering in the documentation
 - [OC-1234] Update documentation regarding entities and groups description
 - [OC-1286] Updated Kafka documentation
-- [OC-840] Modify getting started documentation (Explain how date are relative to today in cards)
+- [OC-840], [OC-1298] Modify Getting Started documentation
 - [OC-1256] Add documentation for groups of entities
 - [OC-1101] Add user card documentation
-- [OC-1298] Update of documentation of getting-started
 - [OC-1139] Add in documentation : describe notion of processes groups
 
 === Misc
