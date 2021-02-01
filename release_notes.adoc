@@ -7,11 +7,15 @@
 
 = Version SNAPSHOT
 
+We decided to make this a major version because in addition to providing new features, it also substancially changes (and hopefully improves!) the user experience (*new global style for the UI* and layout changes for some screens).
 
- - New UI : new style reword for useablity 
- - User card  /Agenda / Logging / monitoring screen : Prodcution Ready 
- - Notification filter 
-
+The following features introduced as beta in previous versions are now *production-ready*: 
+- User card
+- Agenda
+- Logging
+- Monitoring
+ 
+This version also introduces a notification filter management interface for users.
 
 == Features
 - *Filter notification screen for user* (OC-1218 , OC-1219 , OC-1275, OC-1360) : users can now filter the card they received in the feed with a configuration screen accessible throught the right menu 
