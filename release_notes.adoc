@@ -8,3 +8,6 @@
 = Version SNAPSHOT
 
 
+== Tasks: 
+
+- OC-1361 : Remove old notification feature via the browser
