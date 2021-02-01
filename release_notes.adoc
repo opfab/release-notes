@@ -22,20 +22,19 @@ This version also introduces a *notification filter management* interface for us
 
 == Features
 
-- *Filter notification screen for user* (OC-1218 , OC-1219 , OC-1275, OC-1360) : users can now filter the card they received in the feed with a configuration screen accessible throught the right menu 
-- [OC-1229] Send card to user using group of entities ( WIP : not documented yet) 
+- *Filter notification screen for user* (OC-1218 , OC-1219 , OC-1275, OC-1360): users can now filter the card they received in the feed with a configuration screen accessible throught the right menu 
+
+
+- [OC-1229] Send card to user using group of entities
 
 - [OC-1241] View repeating events in calendar
 - [OC-1242] View repeating events in timeline
 - [OC-1299] Remove the bubble related to the end of the business period
 - [OC-1272] Add the possibility to show ack button only if action is disabled for the user. In consequence, the configuration of the acknowledgement feature  has changed , see migration documentation : https://opfab.github.io/documentation/current/docs/single_page_doc.html#_migration_guide_from_release_1_8_0_to_release_2_0_0
 - [OC-1277] Add the possibility to set business menu visibility depending on group membership ((link:https://opfab.github.io/documentation/current/reference_doc/#menu_entries[see documentation]))
-- *User cards (Free Message) and responses*
-  - [OC-1279] User card feature enhancement
-  - [OC-1289] Do not show child cards on the UI archive panel
-  - [OC-1200] Add update reponse button when there is already a reponse for the entity
-  - [OC-1295] Free Message : put 24h as default business period duration (instead of 1h)
-  - [OC-1195] Set severity and date as optional for user card template
+- [OC-1289] Do not show child cards on the UI archive panel
+- [OC-1200] Add update reponse button when there is already a reponse for the entity
+- *User cards (Free Message)* (OC-1279, OC-1295, OC-1195): feature enhancement and changes to the card-sending form
 
 == Tasks
 
@@ -43,26 +42,29 @@ This version also introduces a *notification filter management* interface for us
 
 - [OC-1060] Upgrade to Java 11
 - [OC-1285] Update backend dependencies to last versions
+- [OC-824] DockerTagSnapshot task shouldn't tag latest as well
 
 === Documentation 
 
 - [OC-1206] Add config parameters for date and time rendering in the documentation
 - [OC-1234] Update documentation regarding entities and groups description
-- [OC-1250] Make externalRecipients-url param in cards-publication.yml not mandatory
-- [OC-1139] Add in documentation : describe notion of processes groups
-- [OC-824] DockerTagSnapshot task shouldn't tag latest as well
-- [OC-654] Correct deprecated code in cards-consultation
 - [OC-1286] Updated Kafka documentation
-- [OC-1276] Remove double state definition in process endpoint 
 - [OC-840] Modify getting started documentation (Explain how date are relative to today in cards)
-- [OC-1183] Set login to lowercase
 - [OC-1256] Add documentation for groups of entities
 - [OC-1101] Add user card documentation
-- [OC-1309] Template communication improvement
-- [OC-1363] Start UI even if no processes defined (add a warning in the log)
 - [OC-1298] Update of documentation of getting-started
+- [OC-1139] Add in documentation : describe notion of processes groups
+
+=== Misc
+
+- [OC-1250] Make externalRecipients-url param in cards-publication.yml not mandatory
+- [OC-1276] Remove double state definition in process endpoint 
+- [OC-1183] Set login to lowercase
+- [OC-1309] Template communication improvement
 
 == Bugs
 
 - [OC-1355] Bug in creation/edit user with multiselect component
+- [OC-1363] Start UI even if no processes defined (add a warning in the log)
+- [OC-654] Correct deprecated code in cards-consultation
 
