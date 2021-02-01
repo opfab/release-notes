@@ -9,7 +9,7 @@
 
 == Overview
 
-We decided to make this a major version because in addition to providing new features, it also substancially changes (and hopefully improves!) the user experience (*new global style for the UI* and layout changes for some screens).
+We decided to make this a major version because in addition to providing new features, it also substantially changes (and hopefully improves!) the user experience (*new global style for the UI* and layout changes for some screens).
 
 The following features introduced as beta in previous versions are now *production-ready*: 
 
