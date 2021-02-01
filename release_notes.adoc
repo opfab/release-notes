@@ -12,3 +12,4 @@
 
 - OC-1361 : Remove old notification feature via the browser
 - OC-1407 : Remove detailTitle in bundle config -> the title of the card always came from the title field of the card 
+- OC-1427 : Minor updates to release process doc
