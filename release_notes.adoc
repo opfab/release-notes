@@ -14,3 +14,6 @@
 - OC-1427 : Minor updates to release process doc
 - OC-1409 : When pushing the process group file check for duplicate process
 - OC-1429 : Update documentation for reviewer
+- OC-1191 : Replace lib ng2-table by ag-grid in admin
++
+NOTE: This entailed a few changes to the design of the screen.
