@@ -13,3 +13,4 @@
 - OC-1407 : Remove detailTitle in bundle config -> the title of the card always came from the title field of the card 
 - OC-1427 : Minor updates to release process doc
 - OC-1409 : When pushing the process group file check for duplicate process
+- OC-1429 : Update documentation for reviewer
