@@ -21,3 +21,4 @@
 - OC-1191 : Replace lib ng2-table by ag-grid in admin
 +
 NOTE: This entailed a few changes to the design of the screen.
+- OC-1430 : Adapt api testing script
