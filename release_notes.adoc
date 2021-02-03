@@ -7,6 +7,10 @@
 
 = Version SNAPSHOT
 
+== Features : 
+
+- OC-1395: When user exits the feed screen or exits operator fabric his fitlers/sorts options are memorized, when he goes back the filters/sorts options are set to the memorized values. 
+
 == Tasks: 
 
 - OC-1361 : Remove old notification feature via the browser
