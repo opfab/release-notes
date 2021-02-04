@@ -9,8 +9,9 @@
 
 == Features : 
 
-- OC-1395: When user exits the feed screen or exits operator fabric his fitlers/sorts options are memorized, when he goes back the filters/sorts options are set to the memorized values. 
-- OC-1399 Notification Screen - Display the states, process and processgroups in alphabetical order 
+- OC-1395 : When user exits the feed screen or exits operator fabric his fitlers/sorts options are memorized, when he goes back the filters/sorts options are set to the memorized values. 
+- OC-1399 : Notification Screen - Display the states, process and processgroups in alphabetical order 
+- OC-1438 : Add the possibility to show environment name in the top right corner
 
 == Tasks: 
 
