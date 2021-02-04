@@ -25,3 +25,4 @@
 NOTE: This entailed a few changes to the design of the screen.
 - OC-1430 : Adapt api testing script
 - OC-1405 : Fix Sonar Quality Gate
+- OC-1437 : Make AOT compilation the default for ng build
