@@ -12,10 +12,12 @@
 - OC-1395 : When user exits the feed screen or exits operator fabric his fitlers/sorts options are memorized, when he goes back the filters/sorts options are set to the memorized values. 
 - OC-1399 : Notification Screen - Display the states, process and processgroups in alphabetical order 
 - OC-1438 : Add the possibility to show environment name in the top right corner
+- OC-1201 : Inform the template when lttd has expired
 
 == Bugs
 
 - OC-1428 : Fix bug on Feed Filter when setting only date and not time
+- OC-1436 : Error message does not appear correctly in usercard
 
 == Tasks
 
@@ -30,4 +32,4 @@ NOTE: This entailed a few changes to the design of the screen.
 - OC-1430 : Adapt api testing script
 - OC-1405 : Fix Sonar Quality Gate
 - OC-1437 : Make AOT compilation the default for ng build
-- OC-1436 : Error message does not appear correctly in usercard
+
