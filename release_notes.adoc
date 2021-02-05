@@ -7,13 +7,17 @@
 
 = Version SNAPSHOT
 
-== Features : 
+== Features
 
 - OC-1395 : When user exits the feed screen or exits operator fabric his fitlers/sorts options are memorized, when he goes back the filters/sorts options are set to the memorized values. 
 - OC-1399 : Notification Screen - Display the states, process and processgroups in alphabetical order 
 - OC-1438 : Add the possibility to show environment name in the top right corner
 
-== Tasks: 
+== Bugs
+
+- OC-1428 : Fix bug on Feed Filter when setting only date and not time
+
+== Tasks
 
 - OC-1361 : Remove old notification feature via the browser
 - OC-1407 : Remove detailTitle in bundle config -> the title of the card always came from the title field of the card 
