@@ -19,6 +19,7 @@
 - OC-1428 : Fix bug on Feed Filter when setting only date and not time
 - OC-1436 : Error message does not appear correctly in usercard
 - OC-1452 : Translation error : criticity -> criticality
+- OC-890 : When using PASSWORD flow, once the token is expired the user isn't notified
 
 == Tasks
 
