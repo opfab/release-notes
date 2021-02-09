@@ -15,6 +15,7 @@
 - OC-1201 : Inform the template when lttd has expired
 - OC-1396 : Communicate to the template the screen size calling setScreenSize() method
 - OC-1400 : Add "service" field in the free message feature
+- OC-1270 : Timeline circles : open popover on mouseover
 
 == Bugs
 
