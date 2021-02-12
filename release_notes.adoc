@@ -24,6 +24,7 @@
 - OC-1452 : Translation error : criticity -> criticality
 - OC-890 : When using PASSWORD flow, once the token is expired the user isn't notified
 - OC-1472 : Card detail show last seen card for few instants before showing the selected card (rework of OC-1419)
+- OC-1347 : Fix bug with keepChilCards default value
 
 == Tasks
 
