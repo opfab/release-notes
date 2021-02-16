@@ -26,6 +26,7 @@
 - OC-1472 : Card detail show last seen card for few instants before showing the selected card (rework of OC-1419)
 - OC-1347 : Fix bug with keepChilCards default value
 - OC-1459 : Admin - Propagate entity/group update to users
+- OC-1469 : Fix Bug - publisherType not set to external when receiving a card via card endPoint
 
 == Tasks
 
