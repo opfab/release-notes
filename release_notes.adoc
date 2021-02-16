@@ -45,4 +45,5 @@ NOTE: This entailed a few changes to the design of the screen.
 - OC-1447 : Introduce notion of type of state
 - OC-1061 : Upgrade Angular from v8.2 to v10.2
 - OC-1468 : Addressing CommonJs dependencies warnings
+- OC-1083 Refactoring of ngnix endpoints for groups and entities : "/users/entities" instead of "/entities" and "/users/groups" instead of "/groups"
 
