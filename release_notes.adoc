@@ -27,6 +27,7 @@
 - OC-1347 : Fix bug with keepChilCards default value
 - OC-1459 : Admin - Propagate entity/group update to users
 - OC-1469 : Fix Bug - publisherType not set to external when receiving a card via card endPoint
+- OC-1478 : Fix Bug in calendar day mode when event spans multiple days
 
 == Tasks
 
