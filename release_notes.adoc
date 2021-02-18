@@ -53,6 +53,8 @@ NOTE: This entailed a few changes to the design of the screen.
 - OC-1392 : Remove Angular Material in UI
 - OC-1447 : Introduce notion of type of state
 - OC-1061 : Upgrade Angular from v8.2 to v10.2
++
+NOTE: This shouldn't have any impact for deployments using docker. If you need to build the UI however, you need to run "npm install" first to get the new dependencies. We found it best to delete the node_modules folder before running npm_install to avoid errors. In addition, see the https://opfab.github.io/documentation/archives/2.1.0.RELEASE/docs/single_page_doc.html#_build[documentation] to troubleshoot any errors.
 - OC-1468 : Addressing CommonJs dependencies warnings
 - OC-1083 : Refactoring of ngnix endpoints for groups and entities : "/users/entities" instead of "/entities" and "/users/groups" instead of "/groups"
 - OC-1457 : Admin : Do not limit size of input field
