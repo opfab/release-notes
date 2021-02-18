@@ -28,6 +28,7 @@
 - OC-1459 : Admin - Propagate entity/group update to users
 - OC-1469 : Fix Bug - publisherType not set to external when receiving a card via card endPoint
 - OC-1478 : Fix Bug in calendar day mode when event spans multiple days
+- OC-1489 : Fix bug on delayed display of countdown counter
 
 == Tasks
 
