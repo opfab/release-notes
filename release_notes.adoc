@@ -19,6 +19,7 @@
 - OC-964 : Deal with user in more than one entity
 +
 Now if the entity to respond with cannot be resolved because a user is a member of several entities that are allowed to respond to a card, the response action is disabled.
+- OC-1431 - Display names rather than IDs for entities/groups in the users table (Administration)
 
 == Bugs
 
