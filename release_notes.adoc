@@ -34,6 +34,7 @@ Now if the entity to respond with cannot be resolved because a user is a member 
 - OC-1478 : Fix Bug in calendar day mode when event spans multiple days
 - OC-1489 : Fix bug on delayed display of countdown counter
 - OC-1425 : Export data : title of the columns are not translated
+- OC-1496 : Admin UI : In day mode : when trying to delete user/group/entity, popup is displayed in night mode
 
 == Tasks
 
