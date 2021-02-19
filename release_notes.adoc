@@ -33,6 +33,7 @@ Now if the entity to respond with cannot be resolved because a user is a member 
 - OC-1469 : Fix Bug - publisherType not set to external when receiving a card via card endPoint
 - OC-1478 : Fix Bug in calendar day mode when event spans multiple days
 - OC-1489 : Fix bug on delayed display of countdown counter
+- OC-1425 : Export data : title of the columns are not translated
 
 == Tasks
 
