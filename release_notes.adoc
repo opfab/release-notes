@@ -9,6 +9,8 @@
 
 == Features
 
+- OC-1440 : New logging screen filters
+
 == Bugs
 
 == Tasks
