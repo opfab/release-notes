@@ -10,6 +10,7 @@
 == Features
 
 - OC-1440 : New logging screen filters
+- OC-1089 : Add perimeter management to admin screen
 
 == Bugs
 
