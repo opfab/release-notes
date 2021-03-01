@@ -13,6 +13,7 @@
 - OC-1089 : Add perimeter management to admin screen
 - OC-1503 : Add an opfab style for border box with label in exmaple templates
 - OC-1508 : Communicate to the template if the user can respond by calling templateGateway.setUserCanRespond(boolean) function
+- OC-1499 : Disable service and process fields when editing a user card
 
 == Bugs
 
