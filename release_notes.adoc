@@ -14,6 +14,7 @@
 - OC-1503 : Add an opfab style for border box with label in example templates
 - OC-1508 : Communicate to the template if the user can respond by calling templateGateway.setUserCanRespond(boolean) function
 - OC-1512 : Adapt UI for small screens (Feed)
+- OC-1499 : Disable service and process fields when editing a user card
 
 == Bugs
 
