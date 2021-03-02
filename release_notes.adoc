@@ -23,3 +23,5 @@
 
 == Tasks
 
+- OC-1514 : Add documentation for json handlebars helper
+
