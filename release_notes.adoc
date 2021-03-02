@@ -15,6 +15,9 @@
 - OC-1508 : Communicate to the template if the user can respond by calling templateGateway.setUserCanRespond(boolean) function
 - OC-1512 : Adapt UI for small screens (Feed)
 - OC-1499 : Disable service and process fields when editing a user card
+- OC-1446 : In client lib avoid serialization of null fields
++
+NOTE : You can now find an example client application using the client library to send a card under src/test/clientApp.
 
 == Bugs
 
