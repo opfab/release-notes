@@ -31,4 +31,6 @@ See the documentation for details.
 == Tasks
 
 - OC-1514 : Add documentation for json handlebars helper
-
+- OC-1511 : Permit to add param to third party iframe defined in menu configuration
++
+NOTE : This allows business applications to be called from cards with some of the card's context.
