@@ -19,6 +19,10 @@
 +
 NOTE : You can now find an example client application using the client library to send a card under src/test/clientApp.
 
+- OC-1498 Add the possibility to set the response state from the template
++
+See the documentation for details.
+
 == Bugs
 
 - OC-1502 : Correct rendering of chosen values in multi-select input field
