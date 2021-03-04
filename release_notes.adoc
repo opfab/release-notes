@@ -34,3 +34,5 @@ See the documentation for details.
 - OC-1511 : Permit to add param to third party iframe defined in menu configuration
 +
 NOTE : This allows business applications to be called from cards with some of the card's context.
++
+- OC-1521 : Upgrade to MongoDB 4.4.4
