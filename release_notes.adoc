@@ -27,8 +27,11 @@ See the documentation for details.
 == Bugs
 
 - OC-1502 : Correct rendering of chosen values in multi-select input field
-- OC-1497 Fixing issue with card edition and IT incident example
+- OC-1497 : Fixing issue with card edition and IT incident example
 - OC-1464 : Fix bug when deleting all bundles
+- OC-1526 : Fixes configuration in cards-consultation and cards-publication docker images
++
+NOTE : 2.1.0.RELEASE images for these two services did not take custom configuration passed through docker-compose into account properly
 
 == Tasks
 
