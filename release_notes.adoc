@@ -27,6 +27,7 @@ See the documentation for details.
 
 - OC-1502 : Correct rendering of chosen values in multi-select input field
 - OC-1497 Fixing issue with card edition and IT incident example
+- OC-1464 : Fix bug when deleting all bundles
 
 == Tasks
 
