@@ -22,7 +22,8 @@ NOTE : You can now find an example client application using the client library t
 - OC-1498 Add the possibility to set the response state from the template
 +
 See the documentation for details.
-- OC-1515 Memorize choosen domain for timeline 
+- OC-1515 Memorize choosen domain for timeline
+- OC-1530 : Usercard : when sending the card send it as well to the current user
 
 == Bugs
 
