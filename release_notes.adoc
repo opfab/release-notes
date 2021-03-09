@@ -19,10 +19,10 @@
 +
 NOTE : You can now find an example client application using the client library to send a card under src/test/clientApp.
 
-- OC-1498 Add the possibility to set the response state from the template
+- OC-1498 : Add the possibility to set the response state from the template
 +
 See the documentation for details.
-- OC-1515 Memorize choosen domain for timeline
+- OC-1515 : Memorize choosen domain for timeline
 - OC-1530 : Usercard : when sending the card send it as well to the current user
 
 == Bugs
@@ -33,6 +33,7 @@ See the documentation for details.
 - OC-1526 : Fixes configuration in cards-consultation and cards-publication docker images
 +
 NOTE : 2.1.0.RELEASE images for these two services did not take custom configuration passed through docker-compose into account properly
+- OC-1532 : Usercard - if process has no state available for sending card , do not show it
 
 == Tasks
 
