@@ -46,6 +46,7 @@ NOTE : 2.1.0.RELEASE images for these two services did not take custom configura
 NOTE : This allows business applications to be called from cards with some of the card's context.
 +
 - OC-1521 : Upgrade to MongoDB 4.4.4
+- OC-1473 : Upgrade to keycloak 12.0.2
 - OC-1524 : Admin UI - Avoid dismissal of modals on outside click
 - OC-1519 : Start users, cards-consultation and cards-publication after mongo and rabbit (in docker-compose)
 - OC-1555 : Permit to access opfab directly from localhost:2002 without /ui/
