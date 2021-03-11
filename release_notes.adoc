@@ -24,7 +24,8 @@ NOTE : You can now find an example client application using the client library t
 See the documentation for details.
 - OC-1515 : Memorize choosen domain for timeline
 - OC-1530 : Usercard : when sending the card send it as well to the current user
-- OC-1257 : Set groups of entities compatible with response card. Added "entityAllowedToSendCard "boolean field to Entity.
+- OC-1257 : Set groups of entities compatible with response card. Added "entityAllowedToSendCard " boolean field to Entity.
+- OC-1529 : Show card entity publisher on feed and card detail
 
 == Bugs
 
