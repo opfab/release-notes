@@ -48,3 +48,4 @@ NOTE : This allows business applications to be called from cards with some of th
 - OC-1521 : Upgrade to MongoDB 4.4.4
 - OC-1524 : Admin UI - Avoid dismissal of modals on outside click
 - OC-1519 : Start users, cards-consultation and cards-publication after mongo and rabbit (in docker-compose)
+- OC-1555 : Permit to access opfab directly from localhost:2002 without /ui/
