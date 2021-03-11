@@ -27,6 +27,10 @@ See the documentation for details.
 - OC-1257 : Set groups of entities compatible with response card. Added "entityAllowedToSendCard " boolean field to Entity.
 - OC-1529 : Show card entity publisher on feed and card detail
 - OC-1441 : New monitoring screen
+- OC-1506 Add field entitiesRequiredToRespond to cards
++
+A new optional field "entitiesRequiredToRespond" has been added to cards. If it is present, this list will be used to display the expected responses in the card detail header instead of the list from "entitiesAllowedToRespond".
+If present, "entitiesRequiredToRespond" should be a subset of "entitiesAllowedToRespond" or the card will be rejected.
 
 == Bugs
 
