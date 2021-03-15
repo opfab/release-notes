@@ -43,6 +43,7 @@ If present, "entitiesRequiredToRespond" should be a subset of "entitiesAllowedTo
 NOTE : 2.1.0.RELEASE images for these two services did not take custom configuration passed through docker-compose into account properly
 - OC-1532 : Usercard - if process has no state available for sending card , do not show it
 - OC-1563 : Bug Chrome - Timeline domain list on two lines sometimes
+- OC-1540 : Moved JAVA_OPTIONS environment parameter in docker-entrypoint shell script. In the old position it was placed behind the -jar parameter. This caused java to skip the JAVA_OPTIONS and ignore the optional extra settings.
 
 == Tasks
 
