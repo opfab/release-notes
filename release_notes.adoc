@@ -34,6 +34,7 @@
   * OC-1506 : A new optional field "entitiesRequiredToRespond" has been added to cards. If it is present, this list will be used to display the expected responses in the card detail header instead of the list from "entitiesAllowedToRespond".
 If present, "entitiesRequiredToRespond" should be a subset of "entitiesAllowedToRespond" or the card will be rejected.
   * OC-1531 : Change rule of visibility for cards with no endDate : card will be visible when startDate is between start and end of chosen period. It applies to feed , archives , monitoring and loggin screens
+  * OC-1451 : Add support for Authorization flow 'NONE'
 
 == Bugs
 
