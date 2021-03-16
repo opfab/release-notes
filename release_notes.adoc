@@ -9,6 +9,9 @@
 
 == Features
 
+[OC-1562] Remove web-ui option to hidetime line as the user can himself hide timeline
+
 == Bugs
 
 == Tasks
+
