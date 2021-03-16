@@ -12,6 +12,7 @@
 OC-1562 : Remove web-ui option to hidetime line as the user can himself hide timeline
 
 == Bugs
+OC-1538 : FeedNotification configuration - processes not sorted by their label
 
 == Tasks
 
