@@ -17,3 +17,4 @@ OC-1538 : FeedNotification configuration - processes not sorted by their label
 == Tasks
 
 OC-1556 : Modify Karate API test to add test card with no end date
+OC-1566 : Addapt doc for settings.tags.hide option
