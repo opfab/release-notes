@@ -9,9 +9,10 @@
 
 == Features
 
-[OC-1562] Remove web-ui option to hidetime line as the user can himself hide timeline
+OC-1562 : Remove web-ui option to hidetime line as the user can himself hide timeline
 
 == Bugs
 
 == Tasks
 
+OC-1556 : Modify Karate API test to add test card with no end date
