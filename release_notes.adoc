@@ -21,3 +21,4 @@
 * OC-1556 : Modify Karate API test to add test card with no end date
 * OC-1566 : Addapt doc for settings.tags.hide option
 * OC-1552 : Entity emitting the card shall not be able to respond
+* OC-1476 : Migrating ngrx from v9 to v10
