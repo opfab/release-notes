@@ -22,3 +22,4 @@
 * OC-1566 : Addapt doc for settings.tags.hide option
 * OC-1552 : Entity emitting the card shall not be able to respond
 * OC-1476 : Migrating ngrx from v9 to v10
+* OC-1462 : Admin UI - Adapt column fiter to night mode
