@@ -23,3 +23,6 @@
 * OC-1552 : Entity emitting the card shall not be able to respond
 * OC-1476 : Migrating ngrx from v9 to v10
 * OC-1462 : Admin UI - Adapt column fiter to night mode
+* OC-1471 : Updating to Angular v11 and bringing dependencies up to date
++
+NOTE: This shouldn’t have any impact for deployments using docker. If you need to build the UI however, you need to run "npm install" first to get the new dependencies. In addition, see the documentation to troubleshoot any errors.
