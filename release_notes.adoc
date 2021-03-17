@@ -14,7 +14,8 @@
 == Bugs
 
 * OC-1538 : FeedNotification configuration - processes not sorted by their label
-* OC-1560 User card : fix title when using "process example" template
+* OC-1560 : User card : fix title when using "process example" template
+* OC-1509 : Fix recurring error message when posting user cards (endDate constraint)
 
 == Tasks
 
