@@ -10,6 +10,7 @@
 == Features
 
 * OC-1562 : Remove web-ui option to hidetime line as the user can himself hide timeline
+- OC-1227 : Add lttd field as an option in user card
 
 == Bugs
 
