@@ -10,7 +10,7 @@
 == Features
 
 * OC-1562 : Remove web-ui option to hidetime line as the user can himself hide timeline
-- OC-1227 : Add lttd field as an option in user card
+* OC-1227 : Add lttd field as an option in user card
 * OC-1572 : Do not use entiyAllowedToRespond to show/hide the clock for last time to decide
 
 == Bugs
@@ -31,3 +31,4 @@
 NOTE: This shouldn’t have any impact for deployments using docker. If you need to build the UI however, you need to run "npm install" first to get the new dependencies. In addition, see the documentation to troubleshoot any errors.
 +
 * OC-1567 : Activate nginx gzip compression
+* OC-1537 : Fix karate tests to work with Karate 1.0.0
