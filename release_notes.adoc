@@ -34,3 +34,4 @@ NOTE: This shouldn’t have any impact for deployments using docker. If you need
 * OC-1537 : Fix karate tests to work with Karate 1.0.0
 * OC-1554 : Adapting CICD for hotfixes
 * OC-1575 : Refacto api tests launching to adapt for karate 1.0.0
+* OC-1571 : Create a repository with common bundles
