@@ -12,6 +12,7 @@
 * OC-1562 : Remove web-ui option to hidetime line as the user can himself hide timeline
 * OC-1227 : Add lttd field as an option in user card
 * OC-1572 : Do not use entiyAllowedToRespond to show/hide the clock for last time to decide
+* OC-1505 : Add parent entities to edition modal in Admin
 
 == Bugs
 
@@ -35,4 +36,5 @@ NOTE: This shouldn’t have any impact for deployments using docker. If you need
 * OC-1554 : Adapting CICD for hotfixes
 * OC-1575 : Refacto api tests launching to adapt for karate 1.0.0
 * OC-1571 : Create a repository with common bundles
-* OC-1505 : Add parent entities to edition modal in Admin
+* OC-1522 : Remove unused SpringFox dependency 
+
