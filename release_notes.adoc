@@ -41,4 +41,5 @@ NOTE: This shouldn’t have any impact for deployments using docker. If you need
 * OC-1522 : Remove unused SpringFox dependency 
 * OC-1578 : Create shell scripts for creating/deleting perimeters and cards. It replaces karate scripts (in src/test/utils/karate) for manual testing
 * OC-1580 : Remove irrelevant UI tests
+* OC-1491 : UserCard: check that end date is after start date, show a clear error message otherwise
 
