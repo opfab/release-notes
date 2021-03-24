@@ -44,4 +44,5 @@ NOTE: This shouldn’t have any impact for deployments using docker. If you need
 * OC-1580 : Remove irrelevant UI tests
 * OC-1573 : Re-factorize countdown module
 * OC-1588 : Minor Kafka documentation update. Now mentions the card response topic setting.
+* OC-1569 : Remove unused ui-home-e2e project configuration in angular.json
 
