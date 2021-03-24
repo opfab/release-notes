@@ -14,6 +14,7 @@
 * OC-1572 : Do not use entiyAllowedToRespond to show/hide the clock for last time to decide
 * OC-1505 : Add parent entities to edition modal in Admin
 * OC-1491 : UserCard: check that end date is after start date, show a clear error message otherwise
+* OC-1589 : Move the "from entity" for user cards from title to summary in feed
 
 == Bugs
 
