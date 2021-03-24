@@ -13,6 +13,7 @@
 * OC-1227 : Add lttd field as an option in user card
 * OC-1572 : Do not use entiyAllowedToRespond to show/hide the clock for last time to decide
 * OC-1505 : Add parent entities to edition modal in Admin
+* OC-1491 : UserCard: check that end date is after start date, show a clear error message otherwise
 
 == Bugs
 
@@ -41,6 +42,6 @@ NOTE: This shouldn’t have any impact for deployments using docker. If you need
 * OC-1522 : Remove unused SpringFox dependency 
 * OC-1578 : Create shell scripts for creating/deleting perimeters and cards. It replaces karate scripts (in src/test/utils/karate) for manual testing
 * OC-1580 : Remove irrelevant UI tests
-* OC-1491 : UserCard: check that end date is after start date, show a clear error message otherwise
 * OC-1573 : Re-factorize countdown module
+* OC-1588 : Minor Kafka documentation update. Now mentions the card response topic setting.
 
