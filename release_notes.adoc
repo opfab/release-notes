@@ -24,6 +24,7 @@
 * OC-1559 : EntitiesRequiredToRespond constraint doesn't handle parent entities
 * OC-1582 : Fix bug when exporting to excel in logging screen
 * OC-1581 : Deleting an entity that is listed as parent entity in some children entities should cause it to be removed from said children
+* OC-1591 : Notification configuration screen : bug in display near the "save" button
 
 == Tasks
 
