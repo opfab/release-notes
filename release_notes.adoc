@@ -53,3 +53,4 @@ NOTE: This shouldn’t have any impact for deployments using docker. If you need
 * OC-1536 : Usercard - Do not show Process or State if only one choice
 * OC-1590 : Update dependencies
 * OC-1601 : Launch api tests via gradle
+* OC-1282 : Test with karate endpoint cardSubscription
