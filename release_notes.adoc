@@ -55,4 +55,8 @@ NOTE: This shouldn’t have any impact for deployments using docker. If you need
 * OC-1601 : Launch api tests via gradle
 * OC-1282 : Test with karate endpoint cardSubscription
 * OC-1481 : When card references an existing process but for a state that doesn't exist, an error should be thrown
+* OC-1597: Improve communication between template and opfab
++
+IMPORTANT: This change the way of exchanging between opfab and template when using response cards . If you are using response cards, you must modify your templates . To migrate your templates, see https://opfab.github.io/documentation/current/docs/single_page_doc.html#_migration_guide_from_release_2_2_0_to_release_2_3_0
++
 
