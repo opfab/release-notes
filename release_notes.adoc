@@ -54,3 +54,5 @@ NOTE: This shouldn’t have any impact for deployments using docker. If you need
 * OC-1590 : Update dependencies
 * OC-1601 : Launch api tests via gradle
 * OC-1282 : Test with karate endpoint cardSubscription
+* OC-1481 : When card references an existing process but for a state that doesn't exist, an error should be thrown
+
