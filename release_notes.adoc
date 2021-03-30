@@ -59,4 +59,4 @@ NOTE: This shouldn’t have any impact for deployments using docker. If you need
 +
 IMPORTANT: This change the way of exchanging between opfab and template when using response cards . If you are using response cards, you must modify your templates . To migrate your templates, see https://opfab.github.io/documentation/current/docs/single_page_doc.html#_migration_guide_from_release_2_2_0_to_release_2_3_0
 +
-
+* OC-1605 : Stop angular building for IE11
