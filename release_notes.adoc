@@ -51,7 +51,7 @@ NOTE: This shouldn’t have any impact for deployments using docker. If you need
 * OC-1569 : Remove unused ui-home-e2e project configuration in angular.json
 * OC-1487 : UI - User model exports (duplicate) Entity class
 * OC-1536 : Usercard - Do not show Process or State if only one choice
-* OC-1590 : Update dependencies
+* OC-1590 : Update dependencies (Update nginx to v1.19.9,gradle to v6.8.3 )
 * OC-1601 : Launch api tests via gradle
 * OC-1282 : Test with karate endpoint cardSubscription
 * OC-1481 : When card references an existing process but for a state that doesn't exist, an error should be thrown
