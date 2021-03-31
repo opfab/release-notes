@@ -26,6 +26,7 @@
 * OC-1581 : Deleting an entity that is listed as parent entity in some children entities should cause it to be removed from said children
 * OC-1591 : Notification configuration screen : bug in display near the "save" button
 * OC-1598 : ConfigService.getConfigValue() : function always returns the fallback if the variable is a boolean set to false (in web-ui.json)
+* OC-1608 : Timeline buttons : replace "7 Day" by "7 Days"
 
 == Tasks
 
