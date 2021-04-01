@@ -16,6 +16,7 @@
 * OC-1491 : UserCard: check that end date is after start date, show a clear error message otherwise
 * OC-1589 : Move the "from entity" for user cards from title to summary in feed
 * OC-1606 : Add method isUserMemberOfAnEntityRequiredToRespond() for card template
+* OC-1288 : Add a link to acknowledge all notification in 1 click (optional feature) 
 
 == Bugs
 
