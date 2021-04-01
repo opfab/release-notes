@@ -64,3 +64,4 @@ IMPORTANT: This change the way of exchanging between opfab and template when usi
 * OC-1605 : Stop angular building for IE11
 * OC-666  : Execute api none regression tests in travis build process
 * OC-1586 : Remove TitlePositionEnum (dead code) 
+* OC-1610 : Confirmation popups : harmonize the closing cross
