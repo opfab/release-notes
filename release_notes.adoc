@@ -66,3 +66,4 @@ IMPORTANT: This change the way of exchanging between opfab and template when usi
 * OC-666  : Execute api none regression tests in travis build process
 * OC-1586 : Remove TitlePositionEnum (dead code) 
 * OC-1610 : Confirmation popups : harmonize the closing cross
+* OC-1594 : Translate true/false values in the Entity admin table
