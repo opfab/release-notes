@@ -7,6 +7,9 @@
 
 = Version SNAPSHOT
 
+This release change the way of exchanging between opfab and template when using response cards . If you are using response cards, you must modify your templates .To migrate your templates, see https://opfab.github.io/documentation/current/docs/single_page_doc.html#_migration_guide_from_release_2_2_0_to_release_2_3_0
+
+
 == Features
 
 * OC-1562 : Remove web-ui option to hidetime line as the user can himself hide timeline
