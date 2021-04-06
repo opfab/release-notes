@@ -33,6 +33,7 @@ This release changes the way of exchanging between opfab and template when using
 * OC-1598 : ConfigService.getConfigValue() : function always returns the fallback if the variable is a boolean set to false (in web-ui.json)
 * OC-1608 : Timeline buttons : replace "7 Day" by "7 Days"
 * OC-1628 : BUG - Feed - receiving cards : changing a user setting stops cards reception
+* OC-1629 : Bug when resetting user cache in consultation card service
 
 == Tasks
 
