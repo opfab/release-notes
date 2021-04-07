@@ -10,6 +10,8 @@
 
 == Features
 
+- OC-1602: Add delete cards endpoint to delete multiple cards by date criteria
+
 == Bugs
 
 == Tasks
