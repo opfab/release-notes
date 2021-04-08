@@ -18,10 +18,12 @@
 
 == Tasks
 
-* OC-1630 Adding package-lock.json to git for npm ci
+* OC-1630 : Adding package-lock.json to git for npm ci
 +
 _From now on, to build the ui:_
 +
 _If you have changed anything in the package.json, use *npm install* to install/update the dependency and update the package-lock.json accordingly._
 +
 _If you just want to reproduce the current state of the ui, use *npm ci* instead: it will clear node_modules and install dependencies using the versions stated in package-lock.json, ensuring that what your local development environment is identical to what's being built on the CI/CD pipeline._
+
+* OC-1611 : Remove core-js dependency
