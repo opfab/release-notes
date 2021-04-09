@@ -27,3 +27,4 @@ _If you have changed anything in the package.json, use *npm install* to install/
 _If you just want to reproduce the current state of the ui, use *npm ci* instead: it will clear node_modules and install dependencies using the versions stated in package-lock.json, ensuring that what your local development environment is identical to what's being built on the CI/CD pipeline._
 
 * OC-1611 : Remove core-js dependency
+* OC-1624 : Card preview in user card shall not set the template in full screen mode
