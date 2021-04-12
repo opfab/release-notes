@@ -32,3 +32,4 @@ _If you just want to reproduce the current state of the ui, use *npm ci* instead
 * OC-1624 : Card preview in user card shall not set the template in full screen mode
 * OC-1635 : Allow Cypress tests to run with ng serve
 * OC-1625 : Usercard process template example : store in the card data the status value
+* OC-1622 : Set a value for state.description fields in all card examples
