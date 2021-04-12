@@ -15,6 +15,7 @@
 == Bugs
 * OC-1621 : Admin UI - When deleting a Perimeter remove it also from cache
 * OC-1623 : Fix bug when removing a timeline domain from web-ui configuration
+* OC-1585 : Authorization mode 'NONE' fix with CardService and Perimeters. 
 
 == Tasks
 
