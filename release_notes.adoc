@@ -7,10 +7,10 @@
 
 = Version SNAPSHOT
 
-
 == Features
 
 * OC-1602 : Add delete cards endpoint to delete multiple cards by date criteria
+* OC-1636 : UserCard : Choose the first service in the list by default 
 
 == Bugs
 * OC-1621 : Admin UI - When deleting a Perimeter remove it also from cache
@@ -20,7 +20,9 @@
 * OC-1607 : Remove reactive code from card publication and solve a bug (hang of HTTP requests)
 +
 IMPORTANT: This changes things for card-sending endpoints (see https://opfab.github.io/documentation/current/docs/single_page_doc.html#_migration_guide_from_release_2_3_0_to_release_2_4_0[migration guide])
-
++
+* OC-1624 : Card preview in user card shall not set the template in full screen mode
+* OC-1644 : When only one process is accessible to usercard , it does not work 
 
 == Tasks
 
@@ -33,7 +35,7 @@ _If you have changed anything in the package.json, use *npm install* to install/
 _If you just want to reproduce the current state of the ui, use *npm ci* instead: it will clear node_modules and install dependencies using the versions stated in package-lock.json, ensuring that what your local development environment is identical to what's being built on the CI/CD pipeline._
 
 * OC-1611 : Remove core-js dependency
-* OC-1624 : Card preview in user card shall not set the template in full screen mode
+
 * OC-1635 : Allow Cypress tests to run with ng serve
 * OC-1625 : Usercard process template example : store in the card data the status value
 * OC-1622 : Set a value for state.description fields in all card examples
