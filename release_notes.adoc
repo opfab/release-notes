@@ -23,7 +23,8 @@
 IMPORTANT: This changes things for card-sending endpoints (see https://opfab.github.io/documentation/current/docs/single_page_doc.html#_migration_guide_from_release_2_3_0_to_release_2_4_0[migration guide])
 +
 * OC-1624 : Card preview in user card shall not set the template in full screen mode
-* OC-1644 : When only one process is accessible to usercard , it does not work 
+* OC-1644 : When only one process is accessible to usercard , it does not work
+* OC-1641 : When card selected in the feed is updated, it should stay unread
 
 == Tasks
 
