@@ -10,7 +10,8 @@
 == Features
 
 * OC-1602 : Add delete cards endpoint to delete multiple cards by date criteria
-* OC-1636 : UserCard : Choose the first service in the list by default 
+* OC-1636 : UserCard : Choose the first service in the list by default
+* OC-1652 : Admin screen : permit to create logins of 3 characters
 
 == Bugs
 * OC-1621 : Admin UI - When deleting a Perimeter remove it also from cache
