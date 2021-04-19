@@ -46,3 +46,4 @@ _If you just want to reproduce the current state of the ui, use *npm ci* instead
 * OC-1609 : Confirmation popups : harmonize size for text and title
 * OC-1613 : Confirmation popup shall be on the middle of the screen
 * OC-1656 : user.service.ts : rework isCurrentUserAdmin() and isCurrentUserInAnyGroup()
+* OC-1657 : Card deletion result should be displayed with an alert message instead of popover
