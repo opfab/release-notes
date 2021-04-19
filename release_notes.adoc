@@ -25,6 +25,7 @@ IMPORTANT: This changes things for card-sending endpoints (see https://opfab.git
 * OC-1624 : Card preview in user card shall not set the template in full screen mode
 * OC-1644 : When only one process is accessible to usercard , it does not work
 * OC-1641 : When card selected in the feed is updated, it should stay unread
+* OC-1634 : When changing perimeter attached to a group it is not propagated to the card-publication service 
 
 == Tasks
 
