@@ -49,3 +49,6 @@ _If you just want to reproduce the current state of the ui, use *npm ci* instead
 * OC-1657 : Card deletion result should be displayed with an alert message instead of popover
 * OC-1661 : Removing inconsistent tooling configuration and changing gradle node plugin
 * OC-1604 : Acknowledge all cards : manage states with acknowledgmentAllowed set to "OnlyWhenResponseDisabledForUser"
+* OC-1654 : After an update of a question card, the entities that have already answered shall be orange in card header
++
+NOTE: The entities will be marked in green only once they give an answer to the updated version of card.
