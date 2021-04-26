@@ -14,19 +14,35 @@
 * OC-1652 : Admin screen : permit to create logins of 3 characters
 
 == Bugs
-* OC-1621 : Admin UI - When deleting a Perimeter remove it also from cache
+
+.Administration screen 
+
+* OC-1621 : Admin UI - When deleting a Perimeter remove from cache as well
+* OC-1634 : When changing perimeter attached to a group it is not propagated to the card-publication service 
+
+.User cards
+
+* OC-1624 : Card preview in user card shall not set the template in full screen mode
+* OC-1644 : When only one process is accessible to usercard , it does not work
+* OC-1674 : Editing a usercard : multi-select component for state field is not set with the right value
+
+.Feed screen
+
 * OC-1623 : Fix bug when removing a timeline domain from web-ui configuration
-* OC-1585 : Authorization mode 'NONE' fix with CardService and Perimeters. 
+* OC-1641 : When card selected in the feed is updated, it should stay unread
+* OC-1604 : Acknowledge all cards : manage states with acknowledgmentAllowed set to "OnlyWhenResponseDisabledForUser"
+* OC-1654 : After an update of a question card, the entities that have already answered shall be orange in card header
++
+NOTE: The entities will be marked in green only once they give an answer to the updated version of card.
+
+.Miscellaneous
+
 * OC-1627 : Tasks card example does not fill the repetition date, duration and hour/min when editing the card
 * OC-1607 : Remove reactive code from card publication and solve a bug (hang of HTTP requests)
 +
 IMPORTANT: This changes things for card-sending endpoints (see https://opfab.github.io/documentation/current/docs/single_page_doc.html#_migration_guide_from_release_2_3_0_to_release_2_4_0[migration guide])
 +
-* OC-1624 : Card preview in user card shall not set the template in full screen mode
-* OC-1644 : When only one process is accessible to usercard , it does not work
-* OC-1641 : When card selected in the feed is updated, it should stay unread
-* OC-1634 : When changing perimeter attached to a group it is not propagated to the card-publication service 
-* OC-1674 : Editing a usercard : multi-select component for state field is not set with the right value
+* OC-1585 : Authorization mode 'NONE' fix with CardService and Perimeters. 
 
 == Tasks
 
@@ -49,8 +65,5 @@ _If you just want to reproduce the current state of the ui, use *npm ci* instead
 * OC-1656 : user.service.ts : rework isCurrentUserAdmin() and isCurrentUserInAnyGroup()
 * OC-1657 : Card deletion result should be displayed with an alert message instead of popover
 * OC-1661 : Removing inconsistent tooling configuration and changing gradle node plugin
-* OC-1604 : Acknowledge all cards : manage states with acknowledgmentAllowed set to "OnlyWhenResponseDisabledForUser"
-* OC-1654 : After an update of a question card, the entities that have already answered shall be orange in card header
-+
-NOTE: The entities will be marked in green only once they give an answer to the updated version of card.
+
 * OC-1664 : UI tests - removal of unused class ProcessesServiceMock
