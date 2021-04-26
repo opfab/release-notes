@@ -9,7 +9,7 @@
 
 == Features
 
-* OC-1584: Usercard : permit to have a restricted list of recipient 
+* OC-1584: Usercard : permit to have a restricted list of recipients 
 //TODO Add link to documentation/example once it's generated
 
 == Bugs
