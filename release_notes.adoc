@@ -13,7 +13,7 @@
 //TODO Add link to documentation/example once it's generated
 * OC-1639: Add option to use user perimeter to populate services/process/state list in archives/logging/monitoring/feedconfiguration
 //TODO Add link to documentation/example once it's generated
-* [OC-1612] Improve design for very small screen
+* OC-1612: Improve design for very small screen
 
 == Bugs
 
