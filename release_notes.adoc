@@ -14,6 +14,9 @@
 * OC-1639: Add option to use user perimeter to populate services/process/state list in archives/logging/monitoring/feedconfiguration
 //TODO Add link to documentation/example once it's generated
 * OC-1612: Improve design for very small screen
+* OC-255, OC-1513: Making the client library available in Maven Central
++
+Starting from this release, you can now pull the client library as a regular dependency rather than building the jar locally. The clientApp example is now relying on these published jars.
 
 == Bugs
 
