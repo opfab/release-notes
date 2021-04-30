@@ -21,6 +21,8 @@ Starting from this release, you can now pull the client library as a regular dep
 * OC-1442 Add the possibility to have a specific export in monitoring
 // TODO : add link to documentation 
 
+* OC-1682 : Usercard : Let the possibility to have no recipient
+
 
 == Bugs
 
