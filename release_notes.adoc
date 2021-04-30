@@ -21,9 +21,14 @@ Starting from this release, you can now pull the client library as a regular dep
 * OC-1442 Add the possibility to have a specific export in monitoring
 // TODO : add link to documentation 
 
+
 == Bugs
 
 
 == Tasks
 
 * OC-1659: Refactoring DetailComponent for using functions of new UI service "ActionService"
+* OC-1646 : Change the response of the card creation endpoint
++
+IMPORTANT: Please see our https://opfab.github.io/documentation/current/docs/single_page_doc.html#_migration_guide_from_release_2_4_0_to_release_2_5_0[migration guide]
++
