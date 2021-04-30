@@ -18,6 +18,9 @@
 +
 Starting from this release, you can now pull the client library as a regular dependency rather than building the jar locally. The clientApp example is now relying on these published jars.
 
+* OC-1442 Add the possibility to have a specific export in monitoring
+// TODO : add link to documentation 
+
 == Bugs
 
 
