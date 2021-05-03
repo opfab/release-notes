@@ -9,16 +9,16 @@
 
 == Features
 
-* OC-1584: Usercard : permit to have a restricted list of recipients 
+* OC-1584 : Usercard : permit to have a restricted list of recipients
 //TODO Add link to documentation/example once it's generated
-* OC-1639: Add option to use user perimeter to populate services/process/state list in archives/logging/monitoring/feedconfiguration
+* OC-1639 : Add option to use user perimeter to populate services/process/state list in archives/logging/monitoring/feedconfiguration
 //TODO Add link to documentation/example once it's generated
-* OC-1612: Improve design for very small screen
-* OC-255, OC-1513: Making the client library available in Maven Central
+* OC-1612 : Improve design for very small screen
+* OC-255, OC-1513 : Making the client library available in Maven Central
 +
 Starting from this release, you can now pull the client library as a regular dependency rather than building the jar locally. The clientApp example is now relying on these published jars.
 
-* OC-1442 Add the possibility to have a specific export in monitoring
+* OC-1442 : Add the possibility to have a specific export in monitoring
 // TODO : add link to documentation 
 
 * OC-1682 : Usercard : Let the possibility to have no recipient
@@ -29,8 +29,9 @@ Starting from this release, you can now pull the client library as a regular dep
 
 == Tasks
 
-* OC-1659: Refactoring DetailComponent for using functions of new UI service "ActionService"
+* OC-1659 : Refactoring DetailComponent for using functions of new UI service "ActionService"
 * OC-1646 : Change the response of the card creation endpoint
 +
 IMPORTANT: Please see our https://opfab.github.io/documentation/current/docs/single_page_doc.html#_migration_guide_from_release_2_4_0_to_release_2_5_0[migration guide]
 +
+* OC-1690 : Improve card detail view when state or process does not exist
