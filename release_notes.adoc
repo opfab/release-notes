@@ -27,7 +27,7 @@ Starting from this release, you can now pull the client library as a regular dep
 == Bugs
 
 * OC-1673 : Editing a usercard : a wrong template is loaded at the beginning of display
-
+* OC-1684 : Bug in usercard preview when displaying a lot of recipients
 
 == Tasks
 
