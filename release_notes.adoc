@@ -23,6 +23,7 @@ Starting from this release, you can now pull the client library as a regular dep
 
 * OC-1682 : Usercard : Let the possibility to have no recipient
 * OC-1692 : Monitoring screen - set text color for Process Status value
+* OC-1655 : Add representative concept when sending card
 
 == Bugs
 
