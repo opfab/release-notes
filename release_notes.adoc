@@ -25,6 +25,7 @@ Starting from this release, you can now pull the client library as a regular dep
 * OC-1692 : Monitoring screen - set text color for Process Status value
 * OC-1655 : Add representative concept when sending card
 * OC-1649 : New handlebars helper : replace character
+* OC-1653 : See on feed when there is a response form the entity of the user
 
 == Bugs
 
