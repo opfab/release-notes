@@ -44,3 +44,4 @@ IMPORTANT: Please see our https://opfab.github.io/documentation/current/docs/sin
 IMPORTANT: This deprecated field is now deleted, so please see our https://opfab.github.io/documentation/current/docs/single_page_doc.html#_migration_guide_from_release_2_4_0_to_release_2_5_0[migration guide]
 * OC-1693 : Add an option that waits for opfab to start in run_all.sh
 * OC-1577 : Documentation - add an example for routing card with perimeter
+* OC-1696 : Name and surname shall not be mandatory in admin screen
