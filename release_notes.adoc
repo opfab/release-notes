@@ -52,4 +52,5 @@ IMPORTANT: This deprecated field is now deleted, so please see our https://opfab
 * OC-1693 : Add an option that waits for opfab to start in run_all.sh
 * OC-1577 : Documentation - add an example for routing card with perimeter
 * OC-1696 : Name and surname shall not be mandatory in admin screen
-* OC-1670 : Deletion of ADMIN group should not be possible
+* OC-1670 : Deletion of ADMIN group should not be possibleOC-1702 Upgrade to last version of chart.js
+* OC-1702 : Upgrade to last version of chart.js
