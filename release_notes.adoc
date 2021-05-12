@@ -11,10 +11,6 @@
 * UserCard
   - OC-1584 : Permit to have a restricted list of recipients
   - OC-1682 : Let the possibility to have no recipient
-  
-
-
-
 
 * Monitoring 
   - OC-1692 : Monitoring screen - set text color for Process Status value
@@ -28,12 +24,13 @@
 +
 Starting from this release, you can now pull the client library as a regular dependency rather than building the jar locally. The clientApp example is now relying on these published jars.
 
-* Misc: 
-  - OC-1639 : Add option to use user perimeter to populate services/process/state list in archives/logging/monitoring/feedconfiguration
+* UI: 
   - OC-1612 : Improve design for very small screen
   - OC-1653 : See on feed when there is a response form the entity of the user
+
+* Misc :
+  - OC-1639 : Add option to use user perimeter to populate services/process/state list in archives/logging/monitoring/feedconfiguration
   - OC-1655 : Add representative concept when sending card
-  
     
 == Bugs
 
