@@ -8,26 +8,33 @@
 = Version SNAPSHOT
 
 == Features
+* UserCard
+  - OC-1584 : Permit to have a restricted list of recipients
+  - OC-1682 : Let the possibility to have no recipient
+  
 
-* OC-1584 : Usercard : permit to have a restricted list of recipients
+
+
+
+* Monitoring 
+  - OC-1692 : Monitoring screen - set text color for Process Status value
+  - OC-1442 : Add the possibility to have a specific export in monitoring
 //TODO Add link to documentation/example once it's generated
-* OC-1639 : Add option to use user perimeter to populate services/process/state list in archives/logging/monitoring/feedconfiguration
-//TODO Add link to documentation/example once it's generated
-* OC-1612 : Improve design for very small screen
-* OC-255, OC-1513 : Making the client library available in Maven Central
+
+* Tech 
+  - OC-1649 : New handlebars helper : replace character
+  - OC-1648 : Add an option for control of IP address for user access (WIP) 
+  - OC-255, OC-1513 : Making the client library available in Maven Central
 +
 Starting from this release, you can now pull the client library as a regular dependency rather than building the jar locally. The clientApp example is now relying on these published jars.
 
-* OC-1442 : Add the possibility to have a specific export in monitoring
-// TODO : add link to documentation 
-
-* OC-1682 : Usercard : Let the possibility to have no recipient
-* OC-1692 : Monitoring screen - set text color for Process Status value
-* OC-1655 : Add representative concept when sending card
-* OC-1649 : New handlebars helper : replace character
-* OC-1653 : See on feed when there is a response form the entity of the user
-* OC-1648 : Add an option for control of IP address for user access (WIP) 
-
+* Misc: 
+  - OC-1639 : Add option to use user perimeter to populate services/process/state list in archives/logging/monitoring/feedconfiguration
+  - OC-1612 : Improve design for very small screen
+  - OC-1653 : See on feed when there is a response form the entity of the user
+  - OC-1655 : Add representative concept when sending card
+  
+    
 == Bugs
 
 * OC-1673 : Editing a usercard : a wrong template is loaded at the beginning of display
