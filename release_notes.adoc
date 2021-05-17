@@ -37,6 +37,7 @@ Starting from this release, you can now pull the client library as a regular dep
 * OC-1673 : Editing a usercard : a wrong template is loaded at the beginning of display
 * OC-1684 : Bug in usercard preview when displaying a lot of recipients
 * OC-1704 : Correct bug when displaying feed on mobile phone
+* OC-1715 : Acknowledging a card shouldn't trigger sound
 
 == Tasks
 
