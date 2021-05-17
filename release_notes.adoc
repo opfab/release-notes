@@ -14,8 +14,9 @@
 
 * Monitoring 
   - OC-1692 : Monitoring screen - set text color for Process Status value
-  - OC-1442 : Add the possibility to have a specific export in monitoring
-//TODO Add link to documentation/example once it's generated
+  - OC-1442 : Add the possibility to have a specific export format in monitoring
+ +
+ See the https://opfab.github.io/documentation/current/docs/single_page_doc.html#_export_configuration[documentation] for details on how to configure it.
 
 * Tech 
   - OC-1649 : New handlebars helper : replace character
@@ -50,8 +51,9 @@ IMPORTANT: Please see our https://opfab.github.io/documentation/current/docs/sin
 * OC-1619 : Remove "recipient" deprecated card field
 +
 IMPORTANT: This deprecated field is now deleted, so please see our https://opfab.github.io/documentation/current/docs/single_page_doc.html#_migration_guide_from_release_2_4_0_to_release_2_5_0[migration guide]
++
 * OC-1693 : Add an option that waits for opfab to start in run_all.sh
 * OC-1577 : Documentation - add an example for routing card with perimeter
 * OC-1696 : Name and surname shall not be mandatory in admin screen
-* OC-1670 : Deletion of ADMIN group should not be possibleOC-1702 Upgrade to last version of chart.js
+* OC-1670 : Deletion of ADMIN group should not be possible
 * OC-1702 : Upgrade to last version of chart.js
