@@ -8,6 +8,8 @@
 = Version SNAPSHOT
 
 == Features
+
+* OC-1695: Add authorized ip address settings in user administration screen
     
 == Bugs
 
