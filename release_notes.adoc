@@ -18,3 +18,5 @@
 * OC-1712 Screen adjustement for archives screen when resolution smaller than 1920*1080
 
 == Tasks
+
+* OC-1729: Removing push_card_loop script (use instead scripts provided in ./src/test/resources) 
