@@ -11,6 +11,7 @@
 
 * OC-1695: Add authorized ip address settings in user administration screen
 * OC-1723: UserCard: check that Lttd is not before start date and not after endDate
+* OC-1697: Provide an endpoint to get access to open subscriptions
     
 == Bugs
 
