@@ -21,7 +21,8 @@
 * OC-1713 : Screen adjustement for logging screen when resolution smaller than 1920*1080
 * OC-1722 : Response to card example IT incident is not confirmed
 * OC-1728 : Acknowledging all cards shouldn't change their read status
-* OC-1716 : Adjustement to view for mobile phone when language is set to french 
+* OC-1716 : Adjustement to view for mobile phone when language is set to French
+* OC-1736 : Correct bug when child card is received before parent card
 
 == Tasks
 
