@@ -13,6 +13,8 @@
 * OC-1723 : UserCard: check that Lttd is not before start date and not after endDate
 * OC-1697 : Provide an endpoint to get access to open subscriptions
 * OC-1633 : Add the option to filter notifications that has already been answered by user own entity
+* OC-1672 : Reload the UI configuration when bundles change
+
     
 == Bugs
 
