@@ -23,6 +23,7 @@
 * OC-1728 : Acknowledging all cards shouldn't change their read status
 * OC-1716 : Adjustement to view for mobile phone when language is set to French
 * OC-1736 : Correct bug when child card is received before parent card
+* OC-1714 : Invalid group from token shall not prevent to start application
 
 == Tasks
 
