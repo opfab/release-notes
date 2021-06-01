@@ -32,3 +32,4 @@
 * OC-1729 : Removing push_card_loop script (use instead scripts provided in ./src/test/resources) 
 * OC-1730 : Fixing baseUrls in swagger for documentation
 * OC-1701 : Set indexes in mongoDB
+* OC-1737 : Do not freeze the UI when loading a lot of cards
