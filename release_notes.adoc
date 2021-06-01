@@ -33,3 +33,4 @@
 * OC-1730 : Fixing baseUrls in swagger for documentation
 * OC-1701 : Set indexes in mongoDB
 * OC-1737 : Do not freeze the UI when loading a lot of cards
+* OC-1743 : Add cypress tests for acknowledgment feature
