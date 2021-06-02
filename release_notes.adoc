@@ -35,4 +35,7 @@
 * OC-1701 : Set indexes in mongoDB
 * OC-1737 : Do not freeze the UI when loading a lot of cards
 * OC-1743 : Add cypress tests for acknowledgment feature
+* OC-1663 : Removing Ribbon and updating Spring Boot to 2.4.6
+Please see the migration guide regarding the configuration of a new mandatory deployment property.
+//TODO Add link
 
