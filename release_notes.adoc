@@ -16,6 +16,7 @@
 * OC-1672 : Reload the UI configuration when bundles change
 * OC-1699 : Add an admin screen to see open subscriptions
 * OC-1740 : Use entity description attribute for recipient list in user card as an option
+* OC-1741 : Remove detail card view when card is deleted
 
     
 == Bugs
