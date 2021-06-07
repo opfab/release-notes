@@ -13,3 +13,4 @@
 
 == Tasks
 
+* OC-1748 : Card detail screen deleted when the card is deleted : Adding a cypress test
