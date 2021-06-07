@@ -33,6 +33,7 @@
 * OC-1736 : Correct bug when child card is received before parent card
 * OC-1714 : Invalid group from token shall not prevent to start application
 * OC-1721 : When getting entities from token, it shall take into account groups of entities configured in mongo
+* OC-1738 : Parent card data not available in child card when using Kafka
 
 == Tasks
 
