@@ -10,8 +10,9 @@
 == Features
 
 == Bugs
+* OC-1750 : Sometimes cards does not show on calendar
 
 == Tasks
 
 * OC-1748 : Card detail screen deleted when the card is deleted : Adding a cypress test
-* OC-1750 : BUG - Sometimes cards does not show on calendar
+* OC-1739 : Simplify Gradle dependency management
