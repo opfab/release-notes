@@ -13,6 +13,7 @@
 * OC-1750 : Sometimes cards does not show on calendar
 * OC-1717 : Issue with usercard process template
 * OC-1776 : Bug in dev mode when using moment object in ngrx store
+* OC-1775 : Reminder isn't triggered when "Minutes to remind before task" is 0
 
 == Tasks
 
