@@ -11,6 +11,7 @@
 
 == Bugs
 * OC-1750 : Sometimes cards does not show on calendar
+* OC-1717 : Issue with usercard process template
 
 == Tasks
 
