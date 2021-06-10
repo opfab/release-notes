@@ -20,3 +20,4 @@
 * OC-1748 : Card detail screen deleted when the card is deleted : Adding a cypress test
 * OC-1739 : Simplify Gradle dependency management
 * OC-1779 : Updating swagger-codegen-cli to 2.4.20
+* OC-1777 : Remove dead code related to old version of monitoring screen
