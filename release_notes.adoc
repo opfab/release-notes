@@ -8,6 +8,9 @@
 = Version SNAPSHOT
 
 == Features
+* OC-1671 : UI - Telling the user that his config has changed.
++
+NOTE: In the backend the notifications of user updates are distributed using RabbitMQ exchanges instead of Spring Cloud Bus.
 
 == Bugs
 * OC-1750 : Sometimes cards does not show on calendar
