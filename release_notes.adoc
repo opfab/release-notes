@@ -14,6 +14,9 @@
 * OC-1717 : Issue with usercard process template
 * OC-1776 : Bug in dev mode when using moment object in ngrx store
 * OC-1775 : Reminder isn't triggered when "Minutes to remind before task" is 0
+* OC-1760 : Monitoring screen : need to click again on search sometimes
+* OC-1759 : Monitoring screen : cards no longer displayed unless you click on search
+
 
 == Tasks
 
