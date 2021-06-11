@@ -16,7 +16,7 @@
 * OC-1775 : Reminder isn't triggered when "Minutes to remind before task" is 0
 * OC-1760 : Monitoring screen : need to click again on search sometimes
 * OC-1759 : Monitoring screen : cards no longer displayed unless you click on search
-
+* OC-1765 : UI does not take into account uiVisibility configuration
 
 == Tasks
 
