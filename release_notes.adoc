@@ -24,3 +24,4 @@
 * OC-1739 : Simplify Gradle dependency management
 * OC-1779 : Updating swagger-codegen-cli to 2.4.20
 * OC-1777 : Remove dead code related to old version of monitoring screen
+* OC-1747 : Authorize the use of . for login when creating new user in admin screen
