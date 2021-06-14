@@ -21,6 +21,7 @@ NOTE: In the backend the notifications of user updates are distributed using Rab
 * OC-1760 : Monitoring screen : need to click again on search sometimes
 * OC-1759 : Monitoring screen : cards no longer displayed unless you click on search
 * OC-1765 : UI does not take into account uiVisibility configuration
+* OC-1752 : User card: changing process/state does not reset startDate, endDate and lttd
 
 == Tasks
 
