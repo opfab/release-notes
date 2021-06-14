@@ -11,6 +11,7 @@
 * OC-1671 : UI - Telling the user that his config has changed.
 +
 NOTE: In the backend the notifications of user updates are distributed using RabbitMQ exchanges instead of Spring Cloud Bus.
+* OC-1762 : When all user entities are not allowed to send card do not show user card form
 
 == Bugs
 * OC-1750 : Sometimes cards does not show on calendar
