@@ -12,6 +12,7 @@
 +
 NOTE: In the backend the notifications of user updates are distributed using RabbitMQ exchanges instead of Spring Cloud Bus.
 * OC-1762 : When all user entities are not allowed to send card do not show user card form
+* OC-1772 : Monitoring and logging screen adjustment
 
 == Bugs
 * OC-1750 : Sometimes cards does not show on calendar
