@@ -36,3 +36,4 @@ NOTE: In the backend the notifications of user updates are distributed using Rab
 * OC-1747 : Authorize the use of . for login when creating new user in admin screen
 * OC-1698 : Fix validation conditions for login in admin screen to only allow lowercase
 * OC-1788 : Doc adjustment regarding response card
+* OC-1787 : Refactoring of logging screen
