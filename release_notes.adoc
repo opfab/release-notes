@@ -9,11 +9,13 @@
 
 == Features
 * OC-1671 : UI - Telling the user that his config has changed.
-+
-NOTE: In the backend the notifications of user updates are distributed using RabbitMQ exchanges instead of Spring Cloud Bus.
 * OC-1762 : When all user entities are not allowed to send card do not show user card form
 * OC-1772 : Monitoring and logging screen adjustment
 * OC-1691 : Add publisherName in child card for custom export in monitoring
+* OC-1734 : Secure endPoint for sending card
+
+The API endPoint `cards` will now require authentication by default. 
+It is possible to configure the endpoint to not require authentication by setting the configuration parameter `checkAuthenticationForCardSending` to `false` in cards-publication service configuration file.
 
 
 
