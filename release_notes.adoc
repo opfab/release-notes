@@ -28,6 +28,7 @@ It is possible to configure the endpoint to not require authentication by settin
 * OC-1759 : Monitoring screen : cards no longer displayed unless you click on search
 * OC-1765 : UI does not take into account uiVisibility configuration
 * OC-1752 : User card: changing process/state does not reset startDate, endDate and lttd
+* OC-1790 : Card not seen when removing sender entity
 
 == Tasks
 
