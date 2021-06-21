@@ -41,3 +41,9 @@ It is possible to configure the endpoint to not require authentication by settin
 * OC-1788 : Doc adjustment regarding response card
 * OC-1787 : Refactoring of logging screen
 * OC-1792 : Fixed the failing Kafka Autoconfiguration Unit test by adding a default for the value deserializer.
+* OC-1746 : Update Spring librairies
+** Spring Boot 2.5.1
+** Spring Cloud 2020.0.3
+** Spring Webflux 5.3.8
+** Spring Security 5.5.0
+** Spring Retry 1.3.1
