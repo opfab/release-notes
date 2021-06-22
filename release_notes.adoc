@@ -17,9 +17,14 @@
 IMPORTANT: The API endPoint `cards` will now require authentication by default. 
 It is possible to configure the endpoint to not require authentication by setting the configuration parameter `checkAuthenticationForCardSending` to `false` in cards-publication service configuration file.
 +
+* OC-1768 : Make possible the no displaying of a State in the Monitoring screen
++
+NOTE: Cards with a process state without 'type' property will not be displayed in monitoring screen
++
 
 
 == Bugs
+
 * OC-1750 : Sometimes cards does not show on calendar
 * OC-1717 : Issue with usercard process template
 * OC-1776 : Bug in dev mode when using moment object in ngrx store
