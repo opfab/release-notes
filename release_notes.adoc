@@ -37,6 +37,7 @@ NOTE: Cards with a process state without 'type' property will not be displayed i
 * OC-1752 : User card: changing process/state does not reset startDate, endDate and lttd
 * OC-1790 : Card not seen when removing sender entity
 * OC-1786 : Bug when using entity with name matching an i18n prefix
+* OC-1791 : Bug when a non existing entity is set in userCard.recipientList
 
 == Tasks
 
