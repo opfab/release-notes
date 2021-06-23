@@ -22,6 +22,7 @@ It is possible to configure the endpoint to not require authentication by settin
 NOTE: Cards with a process state without 'type' property will not be displayed in monitoring screen
 +
 * OC-1794 : Monitoring export (experimental) : allow exporting more that one array from json 
+* OC-1742 : Add a spinner in feed when opfab is loading cards in background
 
 
 == Bugs
