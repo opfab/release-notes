@@ -38,6 +38,7 @@ NOTE: Cards with a process state without 'type' property will not be displayed i
 * OC-1790 : Card not seen when removing sender entity
 * OC-1786 : Bug when using entity with name matching an i18n prefix
 * OC-1791 : Bug when a non existing entity is set in userCard.recipientList
+* OC-1761 : Admin interface - Deal with invalid perimeter
 
 == Tasks
 
