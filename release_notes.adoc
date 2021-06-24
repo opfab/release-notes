@@ -13,9 +13,7 @@
   - OC-1772 : Monitoring and logging screen adjustment
   - OC-1691 : Add publisherName in child card for custom export in monitoring
   - OC-1794 : Monitoring export : allow exporting more that one array from json 
-  - OC-1768 : Make possible the no displaying of a State in the Monitoring screen
-+
-NOTE: Cards with a process state without 'type' property will not be displayed in monitoring screen
+  - OC-1768 : Cards with a process state that doesn't have a 'type' property won't be displayed in monitoring screen
 +
 * OC-1734 : Secure endPoint for sending card
 +
