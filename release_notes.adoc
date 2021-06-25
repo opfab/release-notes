@@ -40,6 +40,9 @@ It is possible to configure the endpoint to not require authentication by settin
 * OC-1786 : Bug when using entity with name matching an i18n prefix
 * OC-1791 : Bug when a non existing entity is set in userCard.recipientList
 * OC-1761 : Admin interface - Deal with invalid perimeter
+* OC-1804 : Do not round up publish date to the second
++
+NOTE: In previous versions, when a card was published its publication date was rounded up to the nearest second (that's why all publishDate values ended with 000). It caused issues when several updates of the cards were published in rapid succession (in the same second) as their order was not taken into account.
 
 == Tasks
 
