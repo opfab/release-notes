@@ -9,7 +9,6 @@
 
 == Features
 
-* OC-XXX : ....
 
 == Bugs
 
