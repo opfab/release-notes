@@ -15,3 +15,5 @@
 
 == Tasks
 
+* OC-1789 : Remove unused btnColor in process.state (businessConfig)
+
