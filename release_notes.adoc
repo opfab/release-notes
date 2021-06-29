@@ -26,4 +26,5 @@ IMPORTANT: From now, whatever the type(s) of recipient(s), the perimeters are al
 * OC-1687 : Manage Web-UI configuration variants
 +
 See migration guide for details (//TODO add link once doc is generated)
+* OC-1813 : Move documentation for "showDetailCardHeader" config value
 
