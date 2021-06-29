@@ -17,6 +17,8 @@ IMPORTANT: From now, whatever the type(s) of recipient(s), the perimeters are al
 
 == Bugs
 
+* OC-1800 : Error in style when showing field description in settings tab
+
 == Tasks
 
 * OC-1789 : Remove unused btnColor in process.state (businessConfig)
