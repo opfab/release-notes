@@ -15,4 +15,7 @@
 == Tasks
 
 * OC-1789 : Remove unused btnColor in process.state (businessConfig)
+* OC-1687 : Manage Web-UI configuration variants
++
+See migration guide for details (//TODO add link once doc is generated)
 
