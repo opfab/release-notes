@@ -9,6 +9,7 @@
 
 == Features
 
+* OC-1749 : Take into account lttd when ack set to OnlyWhenResponseDisabledForUser
 
 == Bugs
 
