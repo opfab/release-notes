@@ -13,6 +13,7 @@
 * OC-1683 : Always use perimeter when routing cards
 +
 IMPORTANT: From now, whatever the type(s) of recipient(s), the perimeters are always checked. So if you are using users directly or groups as card recipients, you will now need to add receive rights (Receive or ReceiveAndWrite) for the corresponding process/state of the card.
+* #1264 : Date filters : make impossible to enter a start date later than end date
 
 
 == Bugs
