@@ -30,5 +30,6 @@ IMPORTANT: From now, whatever the type(s) of recipient(s), the perimeters are al
 See migration guide for details (//TODO add link once doc is generated)
 * OC-1813 : Move documentation for "showDetailCardHeader" config value
 * #1253 : Update ngrx to v12
-* #1255 : Update Angular to v12
+* #1372 : Update Angular to v12.1
+* #1236 : Add cypress tests for archives screen
 
