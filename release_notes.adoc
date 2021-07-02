@@ -32,5 +32,6 @@ See migration guide for details (//TODO add link once doc is generated)
 * #1253 : Update ngrx to v12
 * #1372 : Update Angular to v12.1
 * #1236 : Add cypress tests for archives screen
+* #1169 : Add cypress tests for Real time users screen
 * #1303 : Create external-config folder in Dockerfile
 
