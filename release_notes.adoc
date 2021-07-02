@@ -9,8 +9,8 @@
 
 == Features
 
-* OC-1749 : Take into account lttd when ack set to OnlyWhenResponseDisabledForUser
-* OC-1683 : Always use perimeter when routing cards
+* #1241 : Take into account lttd when ack set to OnlyWhenResponseDisabledForUser
+* #1242 : Always use perimeter when routing cards
 +
 IMPORTANT: From now, whatever the type(s) of recipient(s), the perimeters are always checked. So if you are using users directly or groups as card recipients, you will now need to add receive rights (Receive or ReceiveAndWrite) for the corresponding process/state of the card.
 * #1264 : Date filters : make impossible to enter a start date later than end date
@@ -18,17 +18,17 @@ IMPORTANT: From now, whatever the type(s) of recipient(s), the perimeters are al
 
 == Bugs
 
-* OC-1800 : Error in style when showing field description in settings tab
-* OC-1757 : Deleting cards by endDateBefore using api does not remove cards from the feed
+* #1245 : Error in style when showing field description in settings tab
+* #1243 : Deleting cards by endDateBefore using api does not remove cards from the feed
 * #1273 : In Archive page the values of service multifilter should not wrap
 
 == Tasks
 
-* OC-1789 : Remove unused btnColor in process.state (businessConfig)
-* OC-1687 : Manage Web-UI configuration variants
+* #1244 : Remove unused btnColor in process.state (businessConfig)
+* #1240 : Manage Web-UI configuration variants
 +
 See migration guide for details (//TODO add link once doc is generated)
-* OC-1813 : Move documentation for "showDetailCardHeader" config value
+* #1247 : Move documentation for "showDetailCardHeader" config value
 * #1253 : Update ngrx to v12
 * #1372 : Update Angular to v12.1
 * #1236 : Add cypress tests for archives screen
