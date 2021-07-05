@@ -39,3 +39,4 @@ See migration guide for details (//TODO add link once doc is generated)
 * #1193 : Update spring security to v5.5.1
 * #1271 : Upgrade to rxjs 7.1.0
 * #1285 : Update feign to v11.2
+* #1265 : Admin table styling
