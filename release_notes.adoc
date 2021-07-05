@@ -37,4 +37,5 @@ See migration guide for details (//TODO add link once doc is generated)
 * #1303 : Create external-config folder in Dockerfile
 * #1282 : Update timeline dependency @swimlane/ngx-charts to v18
 * #1193 : Update spring security to v5.5.1
+* #1271 : Upgrade to rxjs 7.1.0
 
