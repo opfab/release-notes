@@ -22,6 +22,7 @@ IMPORTANT: From now, whatever the type(s) of recipient(s), the perimeters are al
 * #1243 : Deleting cards by endDateBefore using api does not remove cards from the feed
 * #1273 : In Archive page the values of service multifilter should not wrap
 * #1272 : Posting a perimeter with blank string state cause 500 internal error
+* #1384 : Clean templateGateway when loading card from archives or usercard
 
 == Tasks
 
