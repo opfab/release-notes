@@ -36,7 +36,7 @@ Core menus such as the archives, usercard creation, settings etc. are now manage
 See migration guide for details (//TODO add link once doc is generated)
 * #1247 : Move documentation for "showDetailCardHeader" config value
 * #1253 : Update ngrx to v12
-* #1372 : Update Angular to v12.1
+* #1372 : Update Angular to v12.1.1
 * #1236 : Add cypress tests for archives screen
 * #1169 : Add cypress tests for Real time users screen
 * #1303 : Create external-config folder in Dockerfile
@@ -46,3 +46,6 @@ See migration guide for details (//TODO add link once doc is generated)
 * #1285 : Update feign to v11.2
 * #1265 : Admin table styling
 * #1396 : Add common library (/tools) analysis in SonarCloud
+* #1392 : Simplified MongoDB configuration
++
+This requires a change in your configuration files. See migration guide for details (//TODO add link once doc is generated)
