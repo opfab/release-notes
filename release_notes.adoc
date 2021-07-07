@@ -14,6 +14,10 @@
 +
 IMPORTANT: From now, whatever the type(s) of recipient(s), the perimeters are always checked. So if you are using users directly or groups as card recipients, you will now need to add receive rights (Receive or ReceiveAndWrite) for the corresponding process/state of the card.
 * #1264 : Date filters : make impossible to enter a start date later than end date
+* #1257 : Manage core menu visibility
++
+Core menus such as the archives, usercard creation, settings etc. are now managed in the ui-menu.json file, and can be made visible to certain groups only just like custom menus. See the migration guide for details as it will require changes to your configuration.
+//TODO Link to migration guide
 
 
 == Bugs
