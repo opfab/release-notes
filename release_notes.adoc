@@ -28,6 +28,7 @@ Core menus such as the archives, usercard creation, settings etc. are now manage
 * #1273 : In Archive page the values of service multifilter should not wrap
 * #1272 : Posting a perimeter with blank string state cause 500 internal error
 * #1384 : Clean templateGateway when loading card from archives or usercard
+* #1387 : Card publication service does not start if rabbit goes up too late 
 
 == Tasks
 
