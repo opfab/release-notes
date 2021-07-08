@@ -52,3 +52,5 @@ See migration guide for details (//TODO add link once doc is generated)
 * #1392 : Simplified MongoDB configuration
 +
 This requires a change in your configuration files. See migration guide for details (//TODO add link once doc is generated)
++
+* #1417 : Remove unused code in tools/generic/utilities
