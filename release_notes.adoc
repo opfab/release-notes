@@ -16,7 +16,7 @@ IMPORTANT: From now, whatever the type(s) of recipient(s), the perimeters are al
 * #1264 : Date filters : make impossible to enter a start date later than end date
 * #1257 : Manage core menu visibility
 +
-Core menus such as the archives, usercard creation, settings etc. are now managed in the ui-menu.json file, and can be made visible to certain groups only just like custom menus. See the migration guide for details as it will require changes to your configuration.
+IMPORTANT: Core menus such as the archives, usercard creation, settings etc. are now managed in the ui-menu.json file, and can be made visible to certain groups only just like custom menus. See the migration guide for details as it will require changes to your configuration.
 //TODO Link to migration guide
 
 * #1275 : Add the possibility to send a user card to a third party via the use of externalRecipients
