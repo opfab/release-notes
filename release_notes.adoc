@@ -29,6 +29,7 @@ IMPORTANT: Core menus such as the archives, usercard creation, settings etc. are
 * #1272 : Posting a perimeter with blank string state cause 500 internal error
 * #1384 : Clean templateGateway when loading card from archives or usercard
 * #1387 : Card publication service does not start if rabbit goes up too late 
+* #1412 : Users with a login claim containing capital letters are not authenticated
 
 == Tasks
 
