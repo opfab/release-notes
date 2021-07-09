@@ -54,3 +54,5 @@ See migration guide for details (//TODO add link once doc is generated)
 This requires a change in your configuration files. See migration guide for details (//TODO add link once doc is generated)
 +
 * #1417 : Remove unused code in tools/generic/utilities
+* #1312 : Caching cypress installation to speed up CI/CD 
+Maybe bundle it with other issues under "Speeding up Gradle build"?
