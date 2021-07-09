@@ -55,4 +55,5 @@ This requires a change in your configuration files. See migration guide for deta
 +
 * #1417 : Remove unused code in tools/generic/utilities
 * #1312 : Caching cypress installation to speed up CI/CD 
+* #1413 : Only trigger UI build if inputs or outputs have changed
 
