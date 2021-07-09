@@ -57,4 +57,7 @@ This requires a change in your configuration files. See migration guide for deta
 * #1312 : Caching cypress installation to speed up CI/CD 
 * #1413 : Only trigger UI build if inputs or outputs have changed
 * #1302 : Update Kafka/AVRO libraries 
+* #1359 : Remove dependency reporting plugins from Gradle build
++
+Reports regarding dependency licences and security vulnerabilities are now provided by LFX Security
 
