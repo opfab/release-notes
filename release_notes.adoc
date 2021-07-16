@@ -61,4 +61,6 @@ This requires a change in your configuration files. See migration guide for deta
 * #1359 : Remove dependency reporting plugins from Gradle build
 +
 Reports regarding dependency licences and security vulnerabilities are now provided by LFX Security
++
+* #1454 : Handlebars helpers - Fix dateFormat to work with strings#1454] dateFormat helper doesn't work with strings (returns undefined) + new helper objectContainsKey + new helper objectContainsKey
 
