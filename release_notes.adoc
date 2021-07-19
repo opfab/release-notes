@@ -39,15 +39,17 @@ IMPORTANT: Core menus such as the archives, usercard creation, settings etc. are
 +
 See migration guide for details (//TODO add link once doc is generated)
 * #1247 : Move documentation for "showDetailCardHeader" config value
-* #1253 : Update ngrx to v12
-* #1372 : Update Angular to v12.1.1
+* Dependency updates:
+** #1253 : Update ngrx to v12
+** #1372 : Update Angular to v12.1.1
+** #1282 : Update timeline dependency @swimlane/ngx-charts to v18
+** #1193 : Update spring security to v5.5.1
+** #1271 : Upgrade to rxjs 7.1.0
+** #1285 : Update feign to v11.2
+** #1302 : Update Kafka/AVRO libraries 
 * #1236 : Add cypress tests for archives screen
 * #1169 : Add cypress tests for Real time users screen
 * #1303 : Create external-config folder in Dockerfile
-* #1282 : Update timeline dependency @swimlane/ngx-charts to v18
-* #1193 : Update spring security to v5.5.1
-* #1271 : Upgrade to rxjs 7.1.0
-* #1285 : Update feign to v11.2
 * #1265 : Admin table styling
 * #1396 : Add common library (/tools) analysis in SonarCloud
 * #1392 : Simplified MongoDB configuration
@@ -57,10 +59,9 @@ This requires a change in your configuration files. See migration guide for deta
 * #1417 : Remove unused code in tools/generic/utilities
 * #1312 : Caching cypress installation to speed up CI/CD 
 * #1413 : Only trigger UI build if inputs or outputs have changed
-* #1302 : Update Kafka/AVRO libraries 
 * #1359 : Remove dependency reporting plugins from Gradle build
 +
 Reports regarding dependency licences and security vulnerabilities are now provided by LFX Security
 +
-* #1454 : Handlebars helpers - Fix dateFormat to work with strings#1454] dateFormat helper doesn't work with strings (returns undefined) + new helper objectContainsKey + new helper objectContainsKey
+* #1454 : Handlebars helpers - Fix dateFormat to work with strings + new helper objectContainsKey
 
