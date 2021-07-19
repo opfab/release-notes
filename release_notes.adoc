@@ -36,7 +36,7 @@ IMPORTANT: Core menus such as the archives, usercard creation, settings etc. are
 * #1244 : Remove unused btnColor in process.state (businessConfig)
 * #1240 : Manage Web-UI configuration variants
 +
-See https://opfab.github.io/documentation/archives/2.8.0.RELEASE/docs/single_page_doc.html#_ui_configuration_management[migration guide] for details.
+IMPORTANT: See https://opfab.github.io/documentation/archives/2.8.0.RELEASE/docs/single_page_doc.html#_ui_configuration_management[migration guide] for details.
 +
 * #1247 : Move documentation for "showDetailCardHeader" config value
 * Dependency updates:
@@ -54,7 +54,7 @@ See https://opfab.github.io/documentation/archives/2.8.0.RELEASE/docs/single_pag
 * #1396 : Add common library (/tools) analysis in SonarCloud
 * #1392 : Simplified MongoDB configuration
 +
-This requires a change in your configuration files. See https://opfab.github.io/documentation/archives/2.8.0.RELEASE/docs/single_page_doc.html#_simplification_mongodb_configuration[migration guide] for details.
+IMPORTANT: This requires a change in your configuration files. See https://opfab.github.io/documentation/archives/2.8.0.RELEASE/docs/single_page_doc.html#_simplification_mongodb_configuration[migration guide] for details.
 +
 * #1417 : Remove unused code in tools/generic/utilities
 * #1312 : Caching cypress installation to speed up CI/CD 
