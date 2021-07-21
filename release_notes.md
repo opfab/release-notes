@@ -7,7 +7,8 @@
 
 # Features
 
-* In card header change the status value (#1430) : Card detail header for question cards now displays state type rather than state name
+* #1430 : In card header change the status value -> Card detail header for question cards now displays state type rather than state name
+* #1248 : Export monitoring : add on option to convert epochdate to date
 
 # Bugs
 
