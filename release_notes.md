@@ -7,6 +7,8 @@
 
 # Features
 
+* In card header change the status value (#1430) : Card detail header for question cards now displays state type rather than state name
+
 # Bugs
 
 # Tasks
