@@ -14,6 +14,6 @@
 # Dependency updates
 
 * Update nginx Docker image used in web-ui to v1.21.1
-
+* Update angular to v12.1.2
 
 
