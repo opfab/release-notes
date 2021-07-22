@@ -7,12 +7,13 @@
 
 # Features
 
-* #1430 : In card header change the status value -> Card detail header for question cards now displays state type rather than state name
-* #1248 : Export monitoring : add on option to convert epochdate to date
+* In card header change the status value -> Card detail header for question cards now displays state type rather than state name (#1430)
+* Export monitoring : add on option to convert epochdate to date (#1248)
+* Add a method for template to get the list of entities allowed to respond (#1274)
 
 # Bugs
 
-* #1479 : Correct responsive problem with cards examples containing charts
+* Correct responsive problem with cards examples containing charts (#1479)
 
 # Tasks
 
