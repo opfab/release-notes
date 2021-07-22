@@ -12,6 +12,8 @@
 
 # Bugs
 
+* #1479 : Correct responsive problem with cards examples containing charts
+
 # Tasks
 
 # Dependency updates
