@@ -16,6 +16,7 @@
 * Correct responsive problem with cards examples containing charts (#1479)
 
 # Tasks
+* Remove unused btnText field (#1501)
 
 # Dependency updates
 
