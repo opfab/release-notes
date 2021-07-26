@@ -18,6 +18,7 @@
 
 # Tasks
 * Remove unused btnText field (#1501)
+* Remove unused operatorfabric.security.* config in common.yml (#1348)
 
 # Dependency updates
 
