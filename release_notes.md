@@ -27,5 +27,6 @@
 
 * Update nginx Docker image used in web-ui to v1.21.1
 * Update angular to v12.1.2
+* Update angular-oauth2-oidc to v12.0.0
 
 
