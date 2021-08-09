@@ -13,6 +13,7 @@
 * Prevent setting end date before start date in user card (#1453)
 * Archives UI: see history of a card when clicking on + (#1266)
 * Add configuration to exclude some states from the notification configuration screen (#1263). For more information : https://opfab.github.io/documentation/current/reference_doc/#_configure_the_response_in_config_json
+* Modify current UI behavior when lttd is reached (#1431)
 
 # Bugs
 
