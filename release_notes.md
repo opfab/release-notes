@@ -25,6 +25,7 @@
 # Tasks
 * Remove unused btnText field (#1501)
 * Remove unused operatorfabric.security.* config in common.yml (#1348)
+* Add the possibility to use time as axis in chartjs (#1415)
 
 # Dependency updates
 
