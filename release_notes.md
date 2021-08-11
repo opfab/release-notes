@@ -21,6 +21,7 @@
 * Correct responsive problem with cards examples containing charts (#1479)
 * Restore margin for table in admin screens (#1519)
 * Correct conditions for allowing acknowledgment (#1504)
+* Admin UI : translate placeholder for multi-select component. Add placeholder for single-filter component (#1456)
 
 # Tasks
 * Remove unused btnText field (#1501)
