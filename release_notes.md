@@ -22,6 +22,7 @@
 * Restore margin for table in admin screens (#1519)
 * Correct conditions for allowing acknowledgment (#1504)
 * Admin UI : translate placeholder for multi-select component. Add placeholder for single-filter component (#1456)
+* Business Period selection for realtime screens - synchronization is incoherent (#1441)
 
 # Tasks
 * Remove unused btnText field (#1501)
