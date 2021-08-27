@@ -17,6 +17,7 @@
 * Limit the number of lines visible on Monitoring (#1407)
 * Admin screen : do not display trash icon for admin user line (and ADMIN group) (#1287)
 * Add the possibility to use time as axis in chartjs (#1415)
+* Allow feed notifications to be configured for a whole process (#1399)
 
 # Bugs
 
