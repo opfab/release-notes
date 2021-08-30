@@ -18,6 +18,7 @@
 * Admin screen : do not display trash icon for admin user line (and ADMIN group) (#1287)
 * Add the possibility to use time as axis in chartjs (#1415)
 * Allow feed notifications to be configured for a whole process (#1399)
+* Card detail: add last response received information on card footer (#1444)
 
 # Bugs
 
