@@ -27,6 +27,7 @@
 * Correct conditions for allowing acknowledgment (#1504)
 * Admin UI : translate placeholder for multi-select component. Add placeholder for single-filter component (#1456)
 * Business Period selection for realtime screens - synchronization is incoherent (#1441)
+* On startup of the application, sometimes loading in progress appears when no cards are available for user (#1605)
 
 # Tasks
 * Remove unused btnText field (#1501)
