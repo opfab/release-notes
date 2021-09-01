@@ -33,6 +33,7 @@
 * Remove unused btnText field (#1501)
 * Remove unused operatorfabric.security.* config in common.yml (#1348)
 * Double the width of popups for admin interface (#1518)
+* Improve configuration notification screen display with lot of processes (#1628)
 
 # Dependency updates
 
