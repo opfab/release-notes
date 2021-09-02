@@ -15,6 +15,7 @@
 * Monitoring :
   - #1248 : Export monitoring : add on option to convert epochdate to date
   - #1407 : Limit the number of lines visible on Monitoring 
+  - #1661 : Sort monitoring results by publish date
 * Notification configuration screen :
   - #1263 Add configuration to exclude some states from the notification configuration screen. For more information : https://opfab.github.io/documentation/current/reference_doc/#_configure_the_response_in_config_json
   - #1399 Allow feed notifications to be configured for a whole process
