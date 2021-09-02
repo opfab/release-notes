@@ -11,7 +11,7 @@
 * Export monitoring : add on option to convert epochdate to date (#1248)
 * Add a method for template to get the list of entities allowed to respond (#1274)
 * Prevent setting end date before start date in user card (#1453)
-* Archives UI: see history of a card when clicking on + (#1266)
+* Archives UI: see history of a card when clicking on + (#1266 #1615)
 * Add configuration to exclude some states from the notification configuration screen (#1263). For more information : https://opfab.github.io/documentation/current/reference_doc/#_configure_the_response_in_config_json
 * Modify current UI behavior when lttd is reached (#1431)
 * Limit the number of lines visible on Monitoring (#1407)
