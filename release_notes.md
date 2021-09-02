@@ -16,9 +16,11 @@
 * Modify current UI behavior when lttd is reached (#1431)
 * Limit the number of lines visible on Monitoring (#1407)
 * Admin screen : do not display trash icon for admin user line (and ADMIN group) (#1287)
+* Double the width of popups for admin interface (#1518)
 * Add the possibility to use time as axis in chartjs (#1415)
 * Allow feed notifications to be configured for a whole process (#1399)
 * Card detail: add last response received information on card footer (#1444)
+* Improve configuration notification screen display when there is a  lot of processes (#1628)
 
 # Bugs
 
@@ -33,8 +35,7 @@
 # Tasks
 * Remove unused btnText field (#1501)
 * Remove unused operatorfabric.security.* config in common.yml (#1348)
-* Double the width of popups for admin interface (#1518)
-* Improve configuration notification screen display with lot of processes (#1628)
+
 
 
 
