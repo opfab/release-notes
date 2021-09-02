@@ -7,20 +7,25 @@
 
 # Features
 
-* In card header change the status value -> Card detail header for question cards now displays state type rather than state name (#1430)
-* Export monitoring : add on option to convert epochdate to date (#1248)
-* Add a method for template to get the list of entities allowed to respond (#1274)
-* Prevent setting end date before start date in user card (#1453)
-* Archives UI: see history of a card when clicking on + (#1266 #1615)
-* Add configuration to exclude some states from the notification configuration screen (#1263). For more information : https://opfab.github.io/documentation/current/reference_doc/#_configure_the_response_in_config_json
-* Modify current UI behavior when lttd is reached (#1431)
-* Limit the number of lines visible on Monitoring (#1407)
-* Admin screen : do not display trash icon for admin user line (and ADMIN group) (#1287)
-* Double the width of popups for admin interface (#1518)
-* Add the possibility to use time as axis in chartjs (#1415)
-* Allow feed notifications to be configured for a whole process (#1399)
-* Card detail: add last response received information on card footer (#1444)
-* Improve configuration notification screen display when there is a  lot of processes (#1628)
+* Card detail view: 
+  - #1430 : In card header change the status value -> Card detail header for question cards now displays state type rather than state name
+  - #1274 : Add a method for template to get the list of entities allowed to respond
+  - #1415 : Add the possibility to use time as axis in chartjs
+  - #1444 : Add last response received information on card footer 
+* Monitoring :
+  - #1248 : Export monitoring : add on option to convert epochdate to date
+  - #1407 : Limit the number of lines visible on Monitoring 
+* Notification configuration screen :
+  - #1263 Add configuration to exclude some states from the notification configuration screen. For more information : https://opfab.github.io/documentation/current/reference_doc/#_configure_the_response_in_config_json
+  - #1399 Allow feed notifications to be configured for a whole process
+  - #1628 Improve configuration notification screen display when there is a  lot of processes
+* Admin screens :
+  - #1287 Admin screen : do not display trash icon for admin user line (and ADMIN group) 
+  - #1518 Double the width of popups for admin interface 
+* Misc :
+  - #1453 Prevent setting end date before start date in user card
+  - #1266 #1615 Archives UI: see history of a card when clicking on +
+  - #1431 Modify current UI behavior when lttd is reached 
 
 # Bugs
 
