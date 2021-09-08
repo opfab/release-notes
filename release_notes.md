@@ -7,6 +7,7 @@
 
 # Bugs
 
+* #1677 Do not show popover when lttd expired icon is not visible
 
 # Tasks
 
