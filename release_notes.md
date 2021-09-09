@@ -8,6 +8,7 @@
 # Bugs
 
 * #1677 Do not show popover when lttd expired icon is not visible
+* #1700 Fix lttd expired message in card detail
 
 # Tasks
 
