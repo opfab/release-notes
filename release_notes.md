@@ -12,7 +12,7 @@
 # Tasks
 
 * #1270 Synchronize JWT token data with database
-
+* #1686 Add cypress tests for card detail rendering
 
 
 
