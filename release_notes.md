@@ -7,6 +7,7 @@
 * #1445 Add opfab style for color warning, alert and success
 * #1645 Add a method for template to get the entity used for response
 * #1681 Add spinner when loading cards on monitoring screen
+* #1429 Add state column to logging screen. Group states by process in multiselect.
 
 # Bugs
 
