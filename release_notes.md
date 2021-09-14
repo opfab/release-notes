@@ -19,6 +19,7 @@
 
 * #1270 Synchronize JWT token data with database
 * #1686 Add cypress tests for card detail rendering
+* #1729 Optimize light cards loading when browser is slow
 
 
 
