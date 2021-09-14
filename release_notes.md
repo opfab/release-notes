@@ -6,6 +6,7 @@
 * #1647 Add getDisplayContext() method to the template to know in which context the rendering is done
 * #1445 Add opfab style for color warning, alert and success
 * #1645 Add a method for template to get the entity used for response
+* #1681 Add spinner when loading cards on monitoring screen
 
 # Bugs
 
