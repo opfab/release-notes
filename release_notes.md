@@ -8,6 +8,7 @@
 * #1645 Add a method for template to get the entity used for response
 * #1681 Add spinner when loading cards on monitoring screen
 * #1429 Add state column to logging screen. Group states by process in multiselect.
+* #1267 Add advance table for monitoring screen
 
 # Bugs
 
