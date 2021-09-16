@@ -15,6 +15,7 @@
 * #1677 Do not show popover when lttd expired icon is not visible
 * #1700 Fix lttd expired message in card detail
 * #1678 Process name not translated in monitoring screen when no process group defined
+* #1680 Charts not well display in archives screen
 
 # Tasks
 
