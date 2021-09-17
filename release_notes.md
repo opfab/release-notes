@@ -16,6 +16,7 @@
 * #1700 Fix lttd expired message in card detail
 * #1678 Process name not translated in monitoring screen when no process group defined
 * #1680 Charts not well display in archives screen
+* #1715 Check perimeters existence on group creation or update
 
 # Tasks
 
