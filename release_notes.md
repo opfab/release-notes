@@ -10,6 +10,7 @@
 * #1429 Add state column to logging screen. Group states by process in multiselect.
 * #1267 Add advance table for monitoring screen
 * #1682 Add an "export in progress" popup when export data from monitoring screen
+* #1736 Notification configuration screen : add a checkbox for filtering by processGroup
 
 # Bugs
 
