@@ -13,6 +13,7 @@
 * #1736 Notification configuration screen : add a checkbox for filtering by processGroup
 * #1761 Archives screen : Add an option to activate / desactivate collapsible updates
 * #1743 Monitoring screen : apply the sort to the export file
+* #1774 Add option to store card only in archives DB
 
 # Bugs
 
