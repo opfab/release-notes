@@ -14,6 +14,7 @@
 * #1761 Archives screen : Add an option to activate / desactivate collapsible updates
 * #1743 Monitoring screen : apply the sort to the export file
 * #1774 Add option to store card only in archives DB
+* #1807 Add entity name in top-right of the screen
 
 # Bugs
 
