@@ -1,20 +1,22 @@
 
 
 # Features
-
+* Monitoring screen : 
+  * #1681 Add spinner when loading cards 
+  * #1267 Add advance table 
+  * #1682 Add an "export in progress" popup when export data 
+  * #1743 Apply the sort to the export file
 * #1639 Add a response when creating card with API 
 * #1647 Add getDisplayContext() method to the template to know in which context the rendering is done
 * #1445 Add opfab style for color warning, alert and success
 * #1645 Add a method for template to get the entity used for response
-* #1681 Add spinner when loading cards on monitoring screen
 * #1429 Add state column to logging screen. Group states by process in multiselect.
-* #1267 Add advance table for monitoring screen
-* #1682 Add an "export in progress" popup when export data from monitoring screen
 * #1736 Notification configuration screen : add a checkbox for filtering by processGroup
 * #1761 Archives screen : Add an option to activate / desactivate collapsible updates
-* #1743 Monitoring screen : apply the sort to the export file
 * #1774 Add option to store card only in archives DB
 * #1807 Add entity name in top-right of the screen
+* #1762 Sort by alphabetical order state / process filters in archives/logging screen
+* #1804 In card detail header sort the entities to respond by name
 
 # Bugs
 
@@ -31,10 +33,4 @@
 # Tasks
 
 * #1270 Synchronize JWT token data with database
-* #1686 Add cypress tests for card detail rendering
 * #1729 Optimize light cards loading when browser is slow
-* #1762 Sort by alphabetical order state / process filters in archives/logging screen
-* #1804 In card detail header the entities to respond are not sorted by name
-
-
-
