@@ -34,6 +34,7 @@
 * #1686 Add cypress tests for card detail rendering
 * #1729 Optimize light cards loading when browser is slow
 * #1762 Sort by alphabetical order state / process filters in archives/logging screen
+* #1804 In card detail header the entities to respond are not sorted by name
 
 
 
