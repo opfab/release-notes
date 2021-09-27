@@ -26,6 +26,7 @@
 * #1547 Error messages and status are mixed up in ExternalAppClientImpl
 * #1770 Wrong display when setting a process with only state having "isOnlyAChildState" set to true
 * #1777 Default value for acknowledgmentAllowed is not coherent with documentation
+* #1813 Optimization to avoid OutOfMemory or mongoDB exception using archive screen
 
 # Tasks
 
