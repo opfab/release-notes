@@ -5,7 +5,10 @@
 
 See documentation (//TODO Add link) for the relevant configuration properties.
 
+
 # Bugs
 
 # Tasks
+
+* #1286 : web-ui.json : rename parameters settings.infos.* in settings.infos.hide.*
 
