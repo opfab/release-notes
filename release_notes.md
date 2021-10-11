@@ -11,4 +11,5 @@ See documentation (//TODO Add link) for the relevant configuration properties.
 # Tasks
 
 * #1286 : web-ui.json : rename parameters `settings.infos.*` as `settings.infos.hide.*`
+* #1859: Optimization - Remove use of ngrx for lightCard list processing
 
