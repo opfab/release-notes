@@ -3,7 +3,7 @@
 # Features
 * #1808: Replay sound notifications until user interacts with app
 
-See documentation (//TODO Add link) for the relevant configuration properties.
+See the [documentation]https://opfab.github.io/documentation/archives/3.0.0.RELEASE/docs/single_page_doc.html#ui_properties for the relevant configuration properties.
 
 
 # Bugs
