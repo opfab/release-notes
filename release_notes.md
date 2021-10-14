@@ -1,6 +1,7 @@
 
 
 # Features
+* #1851: Admin szcreen : add an error message when creating a premeter with an existing id 
 * #1808: Replay sound notifications until user interacts with app
 
 See the [documentation](https://opfab.github.io/documentation/archives/3.0.0.RELEASE/docs/single_page_doc.html#ui_properties) for the relevant configuration properties.
