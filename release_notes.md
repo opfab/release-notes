@@ -9,6 +9,8 @@ See the [documentation](https://opfab.github.io/documentation/archives/3.0.0.REL
 
 # Bugs
 
+* #1821: Avoid having template.isLocked value to true when displaying an archive card
+
 # Tasks
 
 * #1286 : web-ui.json : rename parameters `settings.infos.*` as `settings.infos.hide.*`
