@@ -1,6 +1,10 @@
 
 
 # Features
+
+
+
+* #1923 #1790 #1818 #1884 #1788 #1789 #1786 #1785 #1782 #1824 #1787 #1784 #1783 : Remove business data translation mechanism
 * #1851 : Admin screen : add an error message when creating a perimeter with an existing id 
 * #1918 : Permit log rotation for nginx logs (web-ui)
 * #1589 : Monitoring - adding filter for already answered cards
