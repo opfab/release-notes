@@ -9,6 +9,7 @@
 * #1918 : Permit log rotation for nginx logs (web-ui)
 * #1589 : Monitoring - adding filter for already answered cards
 * #1925 : Avoid having to clean browser cache after opfab ui configuration change
+* #1819 : Set template.userMemberOfAnEntityRequiredToRespond value for archives card
 
 # Bugs
 
