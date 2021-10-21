@@ -8,6 +8,7 @@
 * #1851 : Admin screen : add an error message when creating a perimeter with an existing id 
 * #1918 : Permit log rotation for nginx logs (web-ui)
 * #1589 : Monitoring - adding filter for already answered cards
+* #1925 : Avoid having to clean browser cache after opfab ui configuration change
 
 # Bugs
 
