@@ -10,6 +10,7 @@
 * #1589 : Monitoring - adding filter for already answered cards
 * #1925 : Avoid having to clean browser cache after opfab ui configuration change
 * #1819 : Set template.userMemberOfAnEntityRequiredToRespond value for archives card
+* #1791 : Make impossible to set the uid field when posting a card
 
 # Bugs
 
