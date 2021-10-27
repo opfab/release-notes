@@ -16,9 +16,10 @@
 # Bugs
 
 * #1821 : Avoid having template.isLocked value to true when displaying an archive card
+* #1901 : First day of week does not automaticaly change in time line when changing language
 
 # Tasks
 
 * #1286 : web-ui.json : rename parameters `settings.infos.*` as `settings.infos.hide.*`
 
-
+//TODO : link to documentation for settings 
