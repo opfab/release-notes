@@ -12,6 +12,7 @@
 * #1819 : Set template.userMemberOfAnEntityRequiredToRespond value for archives card
 * #1791 : Make impossible to set the uid field when posting a card
 * #1916 : Usercard : Set the possibility to fix lttd via the template code
+* #1930 : Remove "service" and "proces" columns from the monitoring screen
 
 # Bugs
 
