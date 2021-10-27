@@ -12,12 +12,13 @@
 * #1819 : Set template.userMemberOfAnEntityRequiredToRespond value for archives card
 * #1791 : Make impossible to set the uid field when posting a card
 * #1916 : Usercard : Set the possibility to fix lttd via the template code
-* #1930 : Remove "service" and "proces" columns from the monitoring screen
+* #1930 : Remove "service" and "process" columns from the monitoring screen
+* #1970 : Do not make a sound for card sent by current user
 
 # Bugs
 
 * #1821 : Avoid having template.isLocked value to true when displaying an archive card
-* #1901 : First day of week does not automaticaly change in time line when changing language
+* #1901 : First day of week does not automatically change in time line when changing language
 
 # Tasks
 
