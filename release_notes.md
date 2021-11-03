@@ -15,6 +15,7 @@
 * #1930 : Remove "service" and "process" columns from the monitoring screen
 * #1970 : Do not make a sound for card sent by current user
 * #1915 : Add "Emitter" column in the monitoring screen
+* #1873 : Authorize sending response from entity emitting user card. Use 'state.response.emittingEntityAllowedToRespond' field in bundle config.json to enable it.
 
 # Bugs
 
