@@ -23,6 +23,7 @@
 * #1901 : First day of week does not automatically change in time line when changing language
 * #1987 : uiVisibility.monitoring/logging not taken into account for processes without process group
 * #1984 : With slow network feed can end up empty after user change notification reception configuration
+* #2004 : Usercard restricted recipient list persists when changing process/state
 
 # Tasks
 
