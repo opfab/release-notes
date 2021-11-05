@@ -29,5 +29,6 @@
 # Tasks
 
 * #1286 : web-ui.json : rename parameters `settings.infos.*` as `settings.infos.hide.*`
+* #1990 : Add a spinner when loading archives
 
 //TODO : link to documentation for settings 
