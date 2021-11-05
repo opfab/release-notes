@@ -26,6 +26,7 @@
 * #1984 : With slow network feed can end up empty after user change notification reception configuration
 * #2004 : Usercard restricted recipient list persists when changing process/state
 * #2014 : Admin UI : in groups and perimeters tables, edit and delete icons are truncated
+* #2005 : Recipients list not well positioned in conference user card
 
 # Tasks
 
