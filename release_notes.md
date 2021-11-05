@@ -25,6 +25,7 @@
 * #1987 : uiVisibility.monitoring/logging not taken into account for processes without process group
 * #1984 : With slow network feed can end up empty after user change notification reception configuration
 * #2004 : Usercard restricted recipient list persists when changing process/state
+* #2014 : Admin UI : in groups and perimeters tables, edit and delete icons are truncated
 
 # Tasks
 
