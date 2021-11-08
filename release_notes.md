@@ -27,6 +27,7 @@
 * #2004 : Usercard restricted recipient list persists when changing process/state
 * #2014 : Admin UI : in groups and perimeters tables, edit and delete icons are truncated
 * #2005 : Recipients list not well positioned in conference user card
+* #2025 : Feedconfiguration screen : wrong display when no process/state for user but bundles exist
 
 # Tasks
 
