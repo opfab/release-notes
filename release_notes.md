@@ -32,6 +32,5 @@
 # Tasks
 
 * #1286 : web-ui.json : rename parameters `settings.infos.*` as `settings.infos.hide.*`
+See [documentation](https://opfab.github.io/documentation/archives/SNAPSHOT/docs/single_page_doc.html#ui_properties).
 * #1990 : Add a spinner when loading archives
-
-//TODO : link to documentation for settings 
