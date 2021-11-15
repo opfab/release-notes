@@ -1,5 +1,7 @@
 # Features
 
+* #1937: External devices support - alpha version
+
 
 # Bugs
 
