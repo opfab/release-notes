@@ -1,12 +1,13 @@
 # Features
 
 * #1937: External devices support - alpha version
-* #2002 : Add vertical scroll bar for usercard preview
+* #2002: Add vertical scroll bar for usercard preview
+* #1849: Notify external recipients when one of their cards is deleted
 
 
 # Bugs
 
-* #2056 : Recipients list is partially visible when usercard screen is too small
+* #2056: Recipients list is partially visible when usercard screen is too small
 
 # Tasks
 
