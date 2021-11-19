@@ -16,6 +16,7 @@
 * Updated to avro plugin v 1.2.1
 * #2066 : Explain how sounds for browser notifications can be customized
 * #1294 : Organize i18n assets (particularly filters)
+* #1350 : Gradle - Removing legacy/duplicate plugin declaration
 
 
 
