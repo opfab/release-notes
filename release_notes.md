@@ -3,6 +3,7 @@
 * #1937, #2039 and #2037 : External devices support - alpha version
 * #2002: Add vertical scroll bar for usercard preview
 * #1849: Notify external recipients when one of their cards is deleted
+* #2091: Add a change password menu
 
 
 # Bugs
