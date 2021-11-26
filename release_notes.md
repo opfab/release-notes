@@ -10,6 +10,7 @@
 # Bugs
 
 * #2056: Recipients list is partially visible when usercard screen is too small
+* #2135 : Monitoring & Feed - Answers not visible after card update
 
 # Tasks
 
