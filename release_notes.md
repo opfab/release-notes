@@ -12,13 +12,12 @@
 * #2056 : Recipients list is partially visible when usercard screen is too small
 * #2135 : Monitoring & Feed - Answers not visible after card update
 * #2090 : The LTTD value does not change when a usercard is modified
-* #2043 : When no process group is defined, double select field for process is displayed (in archives and logging screens)
+* #2043 : When no process group is defined, process selection is displayed twice (in archives and logging screens)
 
 # Tasks
 
-* #2060: Updated AVRO files to better reflect CardPublicationData. See the migration guide for details.
-* #1532: Fixed AVRO compiler warnings
-* Updated to avro plugin v 1.2.1
+* #2060 : Updated AVRO files to better reflect CardPublicationData. See the migration guide for details.
+* #1532 : Fixed AVRO compiler warnings (updated to avro plugin v 1.2.1)
 * #2066 : Explain how sounds for browser notifications can be customized
 * #1294 : Organize i18n assets (particularly filters)
 * #1350 : Gradle - Removing legacy/duplicate plugin declaration
