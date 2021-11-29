@@ -12,7 +12,6 @@
 * #2056 : Recipients list is partially visible when usercard screen is too small
 * #2135 : Monitoring & Feed - Answers not visible after card update
 * #2090 : The LTTD value does not change when a usercard is modified
-* #2043 : When no process group is defined, process selection is displayed twice (in archives and logging screens)
 
 # Tasks
 
