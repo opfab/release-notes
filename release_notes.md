@@ -1,3 +1,7 @@
+# Migration from 3.0
+
+See [Migration Guide from release 3.0.0 to release 3.1.0 ](https://opfab.github.io/documentation/archives/3.1.0.RELEASE/docs/single_page_doc.html#_migration_guide_from_release_3_0_0_to_release_3_1_0)
+
 # Features
 
 * #1937, #2039, #2037, #1644 and #1862 : External devices support - alpha version
