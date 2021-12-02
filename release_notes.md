@@ -8,6 +8,8 @@
 # Tasks
 
 * #1991: Add a spinner when loading logging cards
+* #2155: Publish documentation for the external devices API to website
+* #2156: Set up publication of client jar for external devices in build
 
 
 
