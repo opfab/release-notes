@@ -1,5 +1,8 @@
 # Features
 
+* #2126 : Admin screen : Use state names instead of state ids for perimeter screens
+* #1991 : Add a spinner when loading logging cards
+
 # Bugs
 
 * #2136 : Monitoring screen - Answers filtering based on id instead of name
@@ -8,7 +11,7 @@
 
 # Tasks
 
-* #1991 : Add a spinner when loading logging cards
+
 * #2155 : Publish documentation for the external devices API to website
 * #2156 : Set up publication of client jar for external devices in build
 * #2170 : Do not cache i18n files to avoid the user having to clean his cache when upgrading opfab
