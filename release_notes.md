@@ -8,6 +8,7 @@
 * #2136 : Monitoring screen - Answers filtering based on id instead of name
 * #2028 : Admin screen - pagination and displayed results not coherent after a delete
 * #2137 : Archives screen : spinner almost hidden when already displayed results
+* #2184 : Usercard update : startDate and endDate overwritten with default value
 
 # Tasks
 
