@@ -2,6 +2,7 @@
 
 * #2126 : Admin screen : Use state names instead of state ids for perimeter screens
 * #1991 : Add a spinner when loading logging cards
+* #2181 : Add checkbox to apply filters to timeline or not
 
 # Bugs
 
