@@ -4,6 +4,7 @@
 * #1991 : Add a spinner when loading logging cards
 * #2181 : Add checkbox to apply filters to timeline or not
 * #2145 : Put scrollbar of administration modals directly in modals
+* #2197 : Remove unused tag feature
 
 # Bugs
 
@@ -15,11 +16,11 @@
 
 # Tasks
 
-
 * #2155 : Publish documentation for the external devices API to website
 * #2156 : Set up publication of client jar for external devices in build
 * #2170 : Do not cache i18n files to avoid the user having to clean his cache when upgrading opfab
 * #2161 : Add the external devices service & dummies to default docker-compose
+* #2054 : Update to Angular v13
 
 
 
