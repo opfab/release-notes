@@ -5,6 +5,7 @@
 * #2181 : Add checkbox to apply filters to timeline or not
 * #2145 : Put scrollbar of administration modals directly in modals
 * #2197 : Remove unused tag feature
+* #1646 : Permit multiple entity to edit the same card
 
 # Bugs
 
