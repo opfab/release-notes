@@ -15,6 +15,7 @@
 * #2184 : Usercard update : startDate and endDate overwritten with default value
 * #2171 : Monitoring : The sort by severity doesn't work anymore
 * #2144 : Admin screen : remove empty space in array of users/groups/entities/perimeters
+* #2133 : In usercard sometimes lttd is after enddate
 
 # Tasks
 
