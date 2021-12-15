@@ -17,6 +17,7 @@
 * #2144 : Admin screen : remove empty space in array of users/groups/entities/perimeters
 * #2133 : In usercard sometimes lttd is after enddate
 * #2240 : Correct bug in usercard when using same stateId in different processes
+* #2141 : Fitlering column State Rights in perimeter management screen is not working
 
 # Tasks
 
