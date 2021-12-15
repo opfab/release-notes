@@ -6,6 +6,7 @@
 * #2145 : Put scrollbar of administration modals directly in modals
 * #2197 : Remove unused tag feature
 * #1646 : Permit multiple entity to edit the same card
+* #2127 : To make editable the labels of the validation/edition of the Smart Notification according to the "State"
 
 # Bugs
 
