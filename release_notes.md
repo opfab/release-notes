@@ -16,6 +16,7 @@
 * #2171 : Monitoring : The sort by severity doesn't work anymore
 * #2144 : Admin screen : remove empty space in array of users/groups/entities/perimeters
 * #2133 : In usercard sometimes lttd is after enddate
+* #2240 : Correct bug in usercard when using same stateId in different processes
 
 # Tasks
 
