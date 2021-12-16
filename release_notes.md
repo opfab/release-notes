@@ -7,6 +7,7 @@
 * #2197 : Remove unused tag feature
 * #1646 : Permit multiple entity to edit the same card
 * #2127 : Make editable the labels of the validation/edition buttons of the reponse according to the "State"
+* #2195 : Improve external devices configuration management API
 
 # Bugs
 
