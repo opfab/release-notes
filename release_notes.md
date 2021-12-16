@@ -19,6 +19,7 @@
 * #2133 : In usercard sometimes lttd is after enddate
 * #2240 : Correct bug in usercard when using same stateId in different processes
 * #2141 : Fitlering column State Rights in perimeter management screen is not working
+* #2236 : Perimeters management UI : sorting on State Rights column is not good
 
 # Tasks
 
