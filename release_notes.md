@@ -6,7 +6,7 @@
 * #2145 : Put scrollbar of administration modals directly in modals
 * #2197 : Remove unused tag feature
 * #1646 : Permit multiple entity to edit the same card
-* #2127 : To make editable the labels of the validation/edition of the Smart Notification according to the "State"
+* #2127 : Make editable the labels of the validation/edition buttons of the reponse according to the "State"
 
 # Bugs
 
@@ -27,6 +27,7 @@
 * #2170 : Do not cache i18n files to avoid the user having to clean his cache when upgrading opfab
 * #2161 : Add the external devices service & dummies to default docker-compose
 * #2054 : Update to Angular v13
+* #2104 : UI - Deal with delete child card
 
 
 
