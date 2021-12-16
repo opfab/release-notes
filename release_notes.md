@@ -21,6 +21,7 @@
 * #2240 : Correct bug in usercard when using same stateId in different processes
 * #2141 : Fitlering column State Rights in perimeter management screen is not working
 * #2236 : Perimeters management UI : sorting on State Rights column is not good
+* #2243 : Editing a received card "breaks" subsequent sound notifications
 
 # Tasks
 
