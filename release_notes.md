@@ -24,6 +24,7 @@
 * #2236 : Perimeters management UI : sorting on State Rights column is not good
 * #2243 : Editing a received card "breaks" subsequent sound notifications
 * #2029 : Instance-wide default values mechanism for settings properties can be confusing
+* #2271 : Monitoring screen: Missing '-' between startDate and endDate in column business period in export file
 
 # Tasks
 
