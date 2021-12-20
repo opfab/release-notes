@@ -25,6 +25,7 @@
 * #2243 : Editing a received card "breaks" subsequent sound notifications
 * #2029 : Instance-wide default values mechanism for settings properties can be confusing
 * #2271 : Monitoring screen: Missing '-' between startDate and endDate in column business period in export file
+* #2289 : Sound activation improvements . Using chromium based browser, when reloading the application (via F5 for example) the sound is only activated if user interact with the application (due to autoplay policy ). This correction force the user to click on the page to activate the sound if the case arise
 
 # Tasks
 
