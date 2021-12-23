@@ -9,6 +9,7 @@
 * #2268 : Admin screen : words can be cut and displayed in two lines sometimes
 * #2277 : Logging export file : bad name of the file
 * #2301 : Handling empty configurations for external devices ("Empty" configurations cause Internal Server Error when posting notifications)
+* #2269 : Admin screen : filtering on several columns doesn't work
 
 
 # Tasks
