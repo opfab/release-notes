@@ -12,7 +12,8 @@
 * #2277 : Logging export file : bad name of the file
 * #2301 : Handling empty configurations for external devices ("Empty" configurations cause Internal Server Error when posting notifications)
 * #2269 : Admin screen : filtering on several columns doesn't work
-* #2309 : Timeline automatic shifting does not work properly 
+* #2309 : Timeline automatic shifting does not work properly
+* #2235 : Admin screen - the popup for the filters is sometimes half hidden
 
 
 # Tasks
