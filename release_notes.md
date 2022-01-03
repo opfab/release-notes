@@ -2,7 +2,8 @@
 
 * #2205 : Use publish date to show card on the feed : if card publish date is in user business selected period card will be visible even if card business period does not match with user selected business period.
 * #2283 : Adding security to the External Devices API - External devices API should only be accessible to ADMIN users - except notifications endpoint 
-* #2296 : Possibility to get entity information and the list of all entities in templates 
+* #2296 : Possibility to get entity information and the list of all entities in templates
+* #2257 : Permit to access to log api only to members of admin group
 
 
 # Bugs
