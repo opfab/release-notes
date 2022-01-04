@@ -22,6 +22,7 @@
 
 * #2274 : Do not change button name for response on questionState for defaultProcess example
 * #2281 : Adding Karate tests for External Devices
-* #1946 : Docker recreates volumes every time a docker-compose up is triggered (add a stopOpfab.sh script) 
+* #1946 : Docker recreates volumes every time a docker-compose up is triggered (add a stopOpfab.sh script)
+* #2293 : Improve subscription mechanism to be more resilient with cut or slow networks
 
 
