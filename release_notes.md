@@ -14,6 +14,7 @@
 * #2269 : Admin screen : filtering on several columns doesn't work
 * #2309 : Timeline automatic shifting does not work properly
 * #2235 : Admin screen - the popup for the filters is sometimes half hidden
+* #2270 : Admin screen : Incoherence between pagination and displayed results after deleting a filter
 
 
 # Tasks
