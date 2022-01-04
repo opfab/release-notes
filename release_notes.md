@@ -15,6 +15,7 @@
 * #2309 : Timeline automatic shifting does not work properly
 * #2235 : Admin screen - the popup for the filters is sometimes half hidden
 * #2270 : Admin screen : Incoherence between pagination and displayed results after deleting a filter
+* #2282 : Wrong behaviour trying to load a not existent card
 
 
 # Tasks
