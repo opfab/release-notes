@@ -5,6 +5,7 @@
 * #2296 : Possibility to get entity information and the list of all entities in templates
 * #2257 : Permit to access to log api only to members of admin group
 * #2273 : Hide "Play sound on external device" setting if none is configured for the user
+* #2337 : Add sound when user session end
 
 
 # Bugs
