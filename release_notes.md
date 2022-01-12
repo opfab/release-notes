@@ -1,5 +1,6 @@
 # Features
 
+- #2092 : Add the possibility to set entityAllowedToRespond and entitiesRequiredToRespond in usercard template
 
 # Bugs
 
