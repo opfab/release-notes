@@ -11,3 +11,4 @@
 - #2342 : Update test scripts to work on macOS out of the box
 - #2354 : Modify examples users and entities
 - #2370 : Provide secure nginx conf when checkAuthenticationForCardSending is set to false
+- #2238 : Add controls on tasks times when creating user card task example
