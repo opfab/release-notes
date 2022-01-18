@@ -1,6 +1,7 @@
 # Features
 
 - #2092 : Add the possibility to set entityAllowedToRespond and entitiesRequiredToRespond in usercard template
+- #2357 : Add an admin screen to configure external devices for users
 
 # Bugs
 
