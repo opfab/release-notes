@@ -4,6 +4,7 @@
 - #2357 : Add an admin screen to configure external devices for users
 - #2360 : Inform template when rendering is done (via method templateGateway.onTemplateRenderingComplete())
 - #2386 : Add 'labels' field to Entity model to allow associate labels to an entity
+- #2356, #2387, #2355 : New Real Time Users screen. More information here : https://opfab.github.io/documentation/current/reference_doc/#_real_time_users
 
 # Bugs
 
