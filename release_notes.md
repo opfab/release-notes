@@ -3,6 +3,7 @@
 - #2092 : Add the possibility to set entityAllowedToRespond and entitiesRequiredToRespond in usercard template
 - #2357 : Add an admin screen to configure external devices for users
 - #2360 : Inform template when rendering is done (via method templateGateway.onTemplateRenderingComplete())
+- #2386 : Add 'labels' field to Entity model to allow associate labels to an entity
 
 # Bugs
 
