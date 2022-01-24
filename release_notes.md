@@ -11,6 +11,7 @@
 - #2407 : If user is in entitiesAllowedToEdit but publisher is external, editing card is not allowed
 - #2421 : Close subscription when token expired
 - #2400 : When using a non existing state in perimeter, admin perimeter management is not working well
+- #2430 : Exception in console when loading administration screen
 
 
 # Tasks
