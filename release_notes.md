@@ -9,6 +9,7 @@
 # Bugs
 
 - #2407 : If user is in entitiesAllowedToEdit but publisher is external, editing card is not allowed
+- #2421 : Close subscription when token expired
 
 
 # Tasks
