@@ -5,6 +5,7 @@
 - #2360 : Inform template when rendering is done (via method templateGateway.onTemplateRenderingComplete())
 - #2386 : Add 'labels' field to Entity model to allow associate labels to an entity
 - #2356, #2387, #2355, #2417: New Real Time Users screen. More information here : https://opfab.github.io/documentation/current/reference_doc/#_real_time_users
+- #2401 : Add endpoint to list all versions of a business process
 
 # Bugs
 
