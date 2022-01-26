@@ -7,6 +7,7 @@
 - #2356, #2387, #2355, #2417: New Real Time Users screen. More information here : https://opfab.github.io/documentation/current/reference_doc/#_real_time_users
 - #2401 : Add endpoint to list all versions of a business process
 - #2428 : Monitoring column answers : showing only EntitiesRequiredToRespond if present
+- #2423 : Improve message in api response when error arise when posting card
 
 # Bugs
 
