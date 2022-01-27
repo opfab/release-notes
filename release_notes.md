@@ -17,6 +17,7 @@
 - #2400 : When using a non-existing state in perimeter, admin perimeter management is not working well
 - #2430 : Exception in console when loading administration screen
 - #2435 : Monitoring screen : sometimes down arrow is hidden for the answers column
+- #2388 : Take perimeter into account for search fields in archives and logging screen when no process groups
 
 
 # Tasks
