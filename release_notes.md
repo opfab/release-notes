@@ -8,6 +8,7 @@
 - #2401 : Add endpoint to list all versions of a business process
 - #2428 : Monitoring column answers : showing only EntitiesRequiredToRespond if present
 - #2423 : Improve message in api response when error arise when posting card
+- #1569 : Automatically send response from entity emitting user card - Experimental feature 
 
 # Bugs
 
