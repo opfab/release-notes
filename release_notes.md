@@ -18,6 +18,7 @@
 - #2430 : Exception in console when loading administration screen
 - #2435 : Monitoring screen : sometimes down arrow is hidden for the answers column
 - #2388 : Take perimeter into account for search fields in archives and logging screen when no process groups
+- #2460 : Loading in progress not visible anymore when loading a card
 
 
 # Tasks
