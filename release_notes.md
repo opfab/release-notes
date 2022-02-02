@@ -4,7 +4,7 @@
 
 # Bugs
 
-
+- #2449 : the right side of the menus is not visible when the screen size is about 1024 x 600
 
 # Tasks
 
