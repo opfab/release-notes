@@ -10,3 +10,4 @@
 
 # Tasks
 
+- #2427 : Add translation for date picker
