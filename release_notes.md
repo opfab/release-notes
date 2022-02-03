@@ -8,6 +8,8 @@
 - #2482 : Bug when in usercard the first process has only one state
 - #2451 : Task example usercard : field "minutesForReminder" overwritten by default value when editing the card
 - #2462 : Admin perimeter management is not working well when using a non-exising process in perimeter
+- #2450 : Monitoring screen - "Card with response form my entity" should be darker color in day mode
+- #2455 : Monitoring screen - Problem with padding below "Cards with response from my entities"
 
 # Tasks
 
