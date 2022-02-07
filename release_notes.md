@@ -1,6 +1,7 @@
 # Features
 
 - #1386 : Permit to access edition mode (CREATE or EDITION) from user card template
+- #2467 : Remove timezone management feature
 
 # Bugs
 
