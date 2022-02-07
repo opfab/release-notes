@@ -2,7 +2,7 @@
 
 - #1386 : Permit to access edition mode (CREATE or EDITION) from user card template
 - #2467 : Remove timezone management featur
-- #2498  Usercard : in edition mode, give to the template the child card of the current user
+- #2498 : Usercard : in edition mode, give to the template the child card of the current user
 
 # Bugs
 
@@ -12,6 +12,7 @@
 - #2462 : Admin perimeter management is not working well when using a non-exising process in perimeter
 - #2450 : Monitoring screen - "Card with response form my entity" should be darker color in day mode
 - #2455 : Monitoring screen - Problem with padding below "Cards with response from my entities"
+- #2454 : Feed : mix between french and english in summary of light card
 
 # Tasks
 
