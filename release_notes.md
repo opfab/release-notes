@@ -13,6 +13,7 @@
 - #2450 : Monitoring screen - "Card with response form my entity" should be darker color in day mode
 - #2455 : Monitoring screen - Problem with padding below "Cards with response from my entities"
 - #2454 : Feed : mix between french and english in summary of light card
+- #2503 : Problem of html encoding with handlebars
 
 # Tasks
 
