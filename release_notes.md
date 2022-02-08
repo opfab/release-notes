@@ -3,6 +3,7 @@
 - #1386 : Permit to access edition mode (CREATE or EDITION) from user card template
 - #2467 : Remove timezone management feature
 - #2498 : Usercard : in edition mode, give to the template the child card of the current user
+- #2429 : Add a possibility for user to restrict the list of entities he is connected to
 
 # Bugs
 
