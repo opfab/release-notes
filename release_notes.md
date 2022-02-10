@@ -4,6 +4,7 @@
 - #2467 : Remove timezone management feature
 - #2498 : Usercard : in edition mode, give to the template the child card of the current user
 - #2429, #2479 : Add a possibility for user to restrict the list of entities he is connected to
+- #2491 : Set default publishDate search period in Archives and Logging screens
 
 # Bugs
 
