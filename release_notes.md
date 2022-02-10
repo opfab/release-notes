@@ -15,6 +15,7 @@
 - #2455 : Monitoring screen - Problem with padding below "Cards with response from my entities"
 - #2454 : Feed : mix between french and english in summary of light card
 - #2503 : Problem of html encoding with handlebars
+- #2497 : Archives screen : title and summary columns not indented for collapsible archives
 
 # Tasks
 
