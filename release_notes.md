@@ -8,7 +8,7 @@
 
 # Bugs
 
-- #2449 : the right side of the menus is not visible when the screen size is about 1024 x 600
+- #2449 : The right side of the menus is not visible when the screen size is about 1024 x 600
 - #2482 : Bug when in usercard the first process has only one state
 - #2451 : Task example usercard : field "minutesForReminder" overwritten by default value when editing the card
 - #2462 : Admin perimeter management is not working well when using a non-exising process in perimeter
@@ -17,6 +17,7 @@
 - #2454 : Feed : mix between french and english in summary of light card
 - #2503 : Problem of html encoding with handlebars
 - #2497 : Archives screen : title and summary columns not indented for collapsible archives
+- #2539 : Connection not closed when exiting opfab on chrome or edge chromium
 
 # Tasks
 
