@@ -23,3 +23,4 @@
 
 - #2427 : Add translation for date picker
 - #2505 : Mongo requests for archived cards optimization
+- #2456 : Add new user operator5_fr and configure existing users as members ENTITY3_FR and ENTITY4_FR
