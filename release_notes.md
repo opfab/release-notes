@@ -5,6 +5,7 @@
 - #2498 : Usercard : in edition mode, give to the template the child card of the current user
 - #2429, #2479 : Add a possibility for user to restrict the list of entities he is connected to
 - #2491 : Set default publishDate search period in Archives and Logging screens
+- #2519 : Added ability to deeplink to iFrames (give the possiblity to use subpath when calling business menu) 
 
 # Bugs
 
