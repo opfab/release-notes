@@ -7,6 +7,7 @@
 - #2491 : Set default publishDate search period in Archives and Logging screens
 - #2519 : Added ability to deeplink to iFrames (give the possiblity to use subpath when calling business menu) 
 - #2521 : Usercard : Add the possibility to set start date via template
+- #2535 : Added Dutch translation
 
 # Bugs
 
