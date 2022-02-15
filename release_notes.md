@@ -21,6 +21,7 @@
 - #2503 : Problem of html encoding with handlebars
 - #2497 : Archives screen : title and summary columns not indented for collapsible archives
 - #2539 : Connection not closed when exiting opfab on chrome or edge chromium
+- #2506 : Logging screen : set max width on table columns
 
 # Tasks
 
