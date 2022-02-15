@@ -22,6 +22,7 @@
 - #2497 : Archives screen : title and summary columns not indented for collapsible archives
 - #2539 : Connection not closed when exiting opfab on chrome or edge chromium
 - #2506 : Logging screen : set max width on table columns
+- #2472 : Card summary and card title showing Hex code instead of special characters
 
 # Tasks
 
