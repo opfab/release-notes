@@ -24,6 +24,7 @@
 - #2506 : Logging screen : set max width on table columns
 - #2472 : Card summary and card title showing Hex code instead of special characters
 - #2529 : Acknowledge button on new line with screen size 1680*1050
+- #2543 : Logrotate for nginx does not work.
 
 # Tasks
 
