@@ -10,6 +10,7 @@
 - #2535 : Added Dutch translation
 - #2494 : When editing a user card view childcard in preview
 - #2381 : Add the possibility to lock/unlock the visibility domain in the feed and monitoring screens (when lock the visibilty domain does not shift with time)  
+- #2567 : Add remote logging feature
 
 # Bugs
 
