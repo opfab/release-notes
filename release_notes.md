@@ -5,7 +5,7 @@
 - #2498 : Usercard : in edition mode, give to the template the child card of the current user
 - #2429, #2479 #2480: Add a possibility for user to restrict the list of entities he is connected to
 - #2491 : Set default publishDate search period in Archives and Logging screens
-- #2519 : Added ability to deeplink to iFrames (give the possiblity to use subpath when calling business menu) 
+- #2519 #2546 : Added ability to deeplink to iFrames (give the possiblity to use subpath when calling business menu), breaking change for redirectToBusinessMenu template method : see [migration documentation](https://opfab.github.io/documentation/archives/3.4.1.RELEASE/docs/single_page_doc.html#_migration_guide_from_release_3_4_0_to_release_3_5_0)
 - #2521 : Usercard : Add the possibility to set start date via template
 - #2535 : Added Dutch translation
 
