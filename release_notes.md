@@ -1,16 +1,20 @@
 # Features
+- User cards
+     - #1386 : Permit to access edition mode (CREATE or EDITION) from user card template
+     - #2498 : In edition mode, give to the template the child card of the current user
+     - #2521 : Add the possibility to set start date via template
+     - #2494 : When editing a user card view childcard in preview
 
-- #1386 : Permit to access edition mode (CREATE or EDITION) from user card template
 - #2467 : Remove timezone management feature
-- #2498 : Usercard : in edition mode, give to the template the child card of the current user
+
 - #2429, #2479 #2480: Add a possibility for user to restrict the list of entities he is connected to
 - #2491 : Set default publishDate search period in Archives and Logging screens
 - #2519 #2546 : Added ability to deeplink to iFrames (give the possiblity to use subpath when calling business menu), breaking change for redirectToBusinessMenu template method : see [migration documentation](https://opfab.github.io/documentation/archives/3.4.1.RELEASE/docs/single_page_doc.html#_migration_guide_from_release_3_4_0_to_release_3_5_0)
-- #2521 : Usercard : Add the possibility to set start date via template
 - #2535 : Added Dutch translation
-- #2494 : When editing a user card view childcard in preview
+
 - #2381 : Add the possibility to lock/unlock the visibility domain in the feed and monitoring screens (when lock the visibilty domain does not shift with time)  
 - #2567 : Add remote logging feature
+- #2427 : Add translation for date picker
 
 # Bugs
 
@@ -30,8 +34,8 @@
 - #2543 : Logrotate for nginx does not work.
 - #2558 : No sound on external device when session ended 
 
+
 # Tasks
 
-- #2427 : Add translation for date picker
 - #2505 : Mongo requests for archived cards optimization
 - #2456 : Add new user operator5_fr and configure existing users as members ENTITY3_FR and ENTITY4_FR
