@@ -1,6 +1,7 @@
 # Features
 
 - #2594 Added Dutch translation for date picker
+- #2526 : Usercard : permit to choose the entity that publish if more than one is possible for the current user
 
 
 # Bugs
