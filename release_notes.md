@@ -7,3 +7,4 @@
 
 
 # Tasks
+- #2586 : Add information about minimum resolution to use OperatorFabric
