@@ -10,3 +10,4 @@
 # Tasks
 - #2586 : Add information about minimum resolution to use OperatorFabric
 - #2587 : Add remoteLoggingEnabled UI parameters in documentation
+- #2459 : Entity labels : Add label with no need for the user to click enter
