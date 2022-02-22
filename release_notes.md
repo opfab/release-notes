@@ -8,3 +8,4 @@
 
 # Tasks
 - #2586 : Add information about minimum resolution to use OperatorFabric
+- #2587 : Add remoteLoggingEnabled UI parameters in documentation
