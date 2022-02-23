@@ -6,6 +6,9 @@
 
 # Bugs
 
+- #2593 : Monitoring: ag-grid filter is not localized
+- #2585 : Missing ag-grid translation in filter column feature
+
 
 # Tasks
 - #2586 : Add information about minimum resolution to use OperatorFabric
