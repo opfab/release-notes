@@ -8,6 +8,7 @@
 
 - #2593 : Monitoring: ag-grid filter is not localized
 - #2585 : Missing ag-grid translation in filter column feature
+- #2596 : External devices screen : filter popup sometimes hidden
 
 
 # Tasks
