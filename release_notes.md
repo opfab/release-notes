@@ -17,3 +17,4 @@
 - #2587 : Add remoteLoggingEnabled UI parameters in documentation
 - #2459 : Entity labels : Add label with no need for the user to click enter
 - #2573 : Add entity name in templates example instead of entityId
+- #2578 : Add opfab version in package.json and use it for the about screen
