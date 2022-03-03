@@ -12,6 +12,7 @@
 - #2583 : Feed : card indented whereas it should not
 - #2581 : In settings, control the value "Interval between sound replays"
 - #2592 : Administration screen : create new user/entity/group with existing id is permitted whereas it should not
+- #2582 : In day mode, numbers in bubbles on timeline are not always fully visible
 
 
 # Tasks
