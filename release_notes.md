@@ -13,9 +13,10 @@
 - #2581 : In settings, control the value "Interval between sound replays"
 - #2592 : Administration screen : create new user/entity/group with existing id is permitted whereas it should not
 - #2582 : In day mode, numbers in bubbles on timeline are not always fully visible
-
+- #2140 : Fix card publishing path in nginx-cors-permissive.conf
 
 # Tasks
+
 - #2586 : Add information about minimum resolution to use OperatorFabric
 - #2587 : Add remoteLoggingEnabled UI parameters in documentation
 - #2459 : Entity labels : Add label with no need for the user to click enter
