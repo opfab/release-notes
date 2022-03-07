@@ -5,6 +5,7 @@
 - #2493 : Usercard : add the access to the current process and state in user card templates
 - #2527 : Card response : permit the user to choose entity when responding to a card
 - #2584 : Enable to set temporarily startDate after endDate during userCard creation
+- #2595 : Allow user to filter by process without choosing a process group in archives, monitoring and logging screens
 
 # Bugs
 
