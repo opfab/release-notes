@@ -4,6 +4,7 @@
 - #2526 : Usercard : permit to choose the entity that publish if more than one is possible for the current user
 - #2493 : Usercard : add the access to the current process and state in user card templates
 - #2527 : Card response : permit the user to choose entity when responding to a card
+- #2584 : Enable to set temporarily startDate after endDate during userCard creation
 
 # Bugs
 
