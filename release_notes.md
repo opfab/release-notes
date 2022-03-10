@@ -6,6 +6,7 @@
 - #2527 : Card response : permit the user to choose entity when responding to a card
 - #2584 : Enable to set temporarily startDate after endDate during userCard creation
 - #2595 : Allow user to filter by process without choosing a process group in archives, monitoring and logging screens
+- #2665 : Remove unused feature business logs
 
 # Bugs
 
