@@ -8,6 +8,7 @@
 - #2595 : Allow user to filter by process without choosing a process group in archives, monitoring and logging screens
 - #2665 : Remove unused feature business logs
 - #2574 : Display disabled buttons in gray in pagination
+- #2495 : Add method in userTemplateGateway to set/get startDate,endDate, lttd
 
 # Bugs
 
