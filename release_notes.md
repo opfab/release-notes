@@ -28,3 +28,4 @@
 - #2573 : Add entity name in templates example instead of entityId
 - #2578 : Add opfab version in package.json and use it for the about screen
 - #2557 : Start even if translation file is not present for a declared language
+- #1305 : Ensure version consistence by relying entirely on Gradle wrapper for building
