@@ -9,6 +9,7 @@
 - #2665 : Remove unused feature business logs
 - #2574 : Display disabled buttons in gray in pagination
 - #2495 : Add method in userTemplateGateway to set/get startDate,endDate, lttd
+- #2673 : In usercard screen, show process select even if there is only one process
 
 # Bugs
 
