@@ -21,6 +21,7 @@
 - #2592 : Administration screen : create new user/entity/group with existing id is permitted whereas it should not
 - #2582 : In day mode, numbers in bubbles on timeline are not always fully visible
 - #2140 : Fix card publishing path in nginx-cors-permissive.conf
+- #2689 : Limit custom logo height to 48px (the parameter logo.limitSize in web-ui.json is not used anymore) to avoid hiding part of the ui.
 
 # Tasks
 
