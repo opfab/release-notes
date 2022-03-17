@@ -10,6 +10,7 @@
 - #2574 : Display disabled buttons in gray in pagination
 - #2495 : Add method in userTemplateGateway to set/get startDate,endDate, lttd
 - #2673 : In usercard screen, show process select even if there is only one process
+- #2675 : Add a method to tell the usercard template the entity used to send card
 
 # Bugs
 
