@@ -12,6 +12,7 @@
 - #2673 : In usercard screen, show process select even if there is only one process
 - #2675 : Add a method to tell the usercard template the entity used to send card
 - #2670 : Add acknowledgement at the entity level. Now when a user acknowledges a card, he also acknowledges it for his(its) entity(ies).
+- #2560 : Add child cards in archive detail cards
 
 # Bugs
 
