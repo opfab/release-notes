@@ -13,6 +13,7 @@
 - #2675 : Add a method to tell the usercard template the entity used to send card
 - #2670 : Add acknowledgement at the entity level. Now when a user acknowledges a card, he also acknowledges it for his(its) entity(ies).
 - #2560 : Add child cards in archive detail cards
+- #2712 : Add the possibility for the usercard template to set the list of recipient choices or the list of recipients
 
 # Bugs
 
