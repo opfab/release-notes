@@ -11,7 +11,6 @@
 - #2495 : Add method in userTemplateGateway to set/get startDate,endDate, lttd
 - #2673 : In usercard screen, show process select even if there is only one process
 - #2675 : Add a method to tell the usercard template the entity used to send card
-- In Features section, I propose to add #2671 at the existing issue #2670
 - #2670 , #2671 : Show entity acknowledgement for the card emitter
 - #2560 : Add child cards in archive detail cards
 - #2712 : Add the possibility for the usercard template to set the list of recipient choices or the list of recipients
