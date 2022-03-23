@@ -39,3 +39,4 @@
 - #1305 : Ensure version consistence by relying entirely on Gradle wrapper for building
 - #2659 : Adding cypress tests for export file in archives and logging screens
 - #2577 : Transfert method getSpecificCardInformation from templateGateway to usercardTemplateGateway (use of templateGateway.getSpecificCardInformation is now deprecated)
+- #2715 : improve ui log library
