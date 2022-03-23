@@ -40,3 +40,4 @@
 - #2659 : Adding cypress tests for export file in archives and logging screens
 - #2577 : Transfert method getSpecificCardInformation from templateGateway to usercardTemplateGateway (use of templateGateway.getSpecificCardInformation is now deprecated)
 - #2715 : improve ui log library
+- #2737 : Upgrade bootstrap to v5.1.3
