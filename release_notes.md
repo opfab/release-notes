@@ -14,6 +14,7 @@
 - #2670 , #2671 : Show entity acknowledgement for the card emitter
 - #2560 : Add child cards in archive detail cards
 - #2712 : Add the possibility for the usercard template to set the list of recipient choices or the list of recipients
+- #2692 : Add the possiblity to automatically pin card 
 
 # Bugs
 
