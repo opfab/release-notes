@@ -41,3 +41,4 @@
 - #2577 : Transfert method getSpecificCardInformation from templateGateway to usercardTemplateGateway (use of templateGateway.getSpecificCardInformation is now deprecated)
 - #2715 : improve ui log library
 - #2737 : Upgrade bootstrap to v5.1.3
+- #2756 : Adjust log permission for nginx logs files
