@@ -44,3 +44,4 @@
 - #2737 : Upgrade bootstrap to v5.1.3
 - #2756 : Adjust log permission for nginx logs files
 - #2760 : New chart example
+- #2759 : Upgrade to chartjs 3.7.1
