@@ -17,6 +17,7 @@
 - #2692 : Add the possiblity to automatically pin card 
 - #2752 : Remove checkPerimeterForResponseCard parameter 
 - #2789 : Adapt keyValue handlebars helper (Add the possibility to have the index of the key in the result)
+- #2765 : Automatically connect external devices on startup
 
 # Bugs
 
