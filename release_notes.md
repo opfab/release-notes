@@ -56,3 +56,4 @@
 - #2756 : Adjust log permission for nginx logs files
 - #2760 : New chart example
 - #2759 : Upgrade to chartjs 3.7.1
+- #2798, #2797 : Upgrade spring components to solve security issue cve-2022-22965
