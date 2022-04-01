@@ -1,24 +1,30 @@
 # Features
 
-- #2594 : Added Dutch translation for date picker
-- #2526 : Usercard : permit to choose the entity that publish if more than one is possible for the current user
-- #2493 : Usercard : add the access to the current process and state in user card templates
-- #2527 : Card response : permit the user to choose entity when responding to a card
-- #2584 : Enable to set temporarily startDate after endDate during userCard creation
-- #2595 : Allow user to filter by process without choosing a process group in archives, monitoring and logging screens
-- #2665 : Remove unused feature business logs
-- #2574 : Display disabled buttons in gray in pagination
-- #2495 : Add method in userTemplateGateway to set/get startDate,endDate, lttd
-- #2673 : In usercard screen, show process select even if there is only one process
-- #2675 : Add a method to tell the usercard template the entity used to send card
-- #2670 , #2671 : Show entity acknowledgement for the card emitter
-- #2560 : Add child cards in archive detail cards
-- #2712 : Add the possibility for the usercard template to set the list of recipient choices or the list of recipients
-- #2692 : Add the possiblity to automatically pin card 
-- #2752 : Remove checkPerimeterForResponseCard parameter 
-- #2789 : Adapt keyValue handlebars helper (Add the possibility to have the index of the key in the result)
-- #2765 : Automatically connect external devices on startup
-- #2668 Do not allow the same user to be connected twice at the same time
+- General features :
+  * #2692 : Add the possiblity to automatically pin card 
+- Card detail view :
+  * #2670 , #2671 : Show entity acknowledgement in card detail for the card emitter
+  * #2560 : Add child cards in archive detail cards
+  * #2789 : Adapt keyValue handlebars helper (Add the possibility to have the index of the key in the result)
+- User cards 
+  * #2526 : Permit to choose the entity that publish if more than one is possible for the current user
+  * #2493 : Add the access to the current process and state in user card templates
+  * #2584 : Enable to set temporarily startDate after endDate during userCard creation
+  * #2495 : Add method in userTemplateGateway to set/get startDate,endDate, lttd
+  * #2673 : In usercard screen, show process select even if there is only one process
+  * #2675 : Add a method to tell the usercard template the entity used to send card
+  * #2712 : Add the possibility for the usercard template to set the list of recipient choices or the list of recipients
+- Reponse cards : 
+  * #2527 : Card response : permit the user to choose entity when responding to a card
+  * #2752 : Remove checkPerimeterForResponseCard parameter 
+- External devices
+  * #2765 : Automatically connect external devices on startup
+- Misc 
+  * #2594 : Added Dutch translation for date picker
+  * #2574 : Display disabled buttons in gray in pagination
+  * #2668 : Do not allow the same user to be connected twice at the same time
+  * #2595 : Allow user to filter by process without choosing a process group in archives, monitoring and logging screens
+  * #2665 : Remove unused feature business logs
 
 # Bugs
 
