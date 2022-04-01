@@ -18,6 +18,7 @@
 - #2752 : Remove checkPerimeterForResponseCard parameter 
 - #2789 : Adapt keyValue handlebars helper (Add the possibility to have the index of the key in the result)
 - #2765 : Automatically connect external devices on startup
+- #2668 Do not allow the same user to be connected twice at the same time
 
 # Bugs
 
