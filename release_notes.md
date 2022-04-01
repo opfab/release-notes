@@ -14,6 +14,7 @@
   * #2673 : In usercard screen, show process select even if there is only one process
   * #2675 : Add a method to tell the usercard template the entity used to send card
   * #2712 : Add the possibility for the usercard template to set the list of recipient choices or the list of recipients
+  * #2577 : Transfert method getSpecificCardInformation from templateGateway to usercardTemplateGateway (use of templateGateway.getSpecificCardInformation is now deprecated)
 - Reponse cards : 
   * #2527 : Card response : permit the user to choose entity when responding to a card
   * #2752 : Remove checkPerimeterForResponseCard parameter 
@@ -49,9 +50,7 @@
 - #2578 : Add opfab version in package.json and use it for the about screen
 - #2557 : Start even if translation file is not present for a declared language
 - #1305 : Ensure version consistence by relying entirely on Gradle wrapper for building
-- #2659 : Adding cypress tests for export file in archives and logging screens
-- #2577 : Transfert method getSpecificCardInformation from templateGateway to usercardTemplateGateway (use of templateGateway.getSpecificCardInformation is now deprecated)
-- #2715 : improve ui log library
+- #2715 : Improve ui log library
 - #2737 : Upgrade bootstrap to v5.1.3
 - #2756 : Adjust log permission for nginx logs files
 - #2760 : New chart example
