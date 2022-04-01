@@ -15,6 +15,7 @@
   * #2675 : Add a method to tell the usercard template the entity used to send card
   * #2712 : Add the possibility for the usercard template to set the list of recipient choices or the list of recipients
   * #2577 : Transfert method getSpecificCardInformation from templateGateway to usercardTemplateGateway (use of templateGateway.getSpecificCardInformation is now deprecated)
+  * #2767 : Order by alphabetical order process and services in usercard screen
 - Reponse cards : 
   * #2527 : Card response : permit the user to choose entity when responding to a card
   * #2752 : Remove checkPerimeterForResponseCard parameter 
