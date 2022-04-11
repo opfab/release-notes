@@ -6,5 +6,6 @@
 - #2803 : Admin screen : typo error in french version
 - #2808 : Add box around the acknowledged footer of the card in day mode
 - #2822 : External devices configuration screen : single-filters are no longer aligned
+- #2806 : Display of pin cards not correct when too much cards  
 
 # Tasks
