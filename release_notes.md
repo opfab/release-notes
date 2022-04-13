@@ -10,5 +10,6 @@
 - #2822 : External devices configuration screen : single-filters are no longer aligned
 - #2806 : Display of pin cards not correct when too much cards  
 - #2811 : Settings screen/Admin screens : Description for fields not in uppercase letters
+- #2865 : Too much margin in popup  
 
 # Tasks
