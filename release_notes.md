@@ -15,3 +15,5 @@
 - #2813 : Usercard edition : deal with the possibility to modify the emitter entity
 
 # Tasks
+
+- #2892 : Add some examples for opfab css styles in documentation  
