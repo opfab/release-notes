@@ -1,6 +1,7 @@
 # Features
 
 - #2858 : Change the mouse cursor when going over the pin card
+- #2807 Add the user name to the userAlreadyConnected pop up
 
 # Bugs
 
