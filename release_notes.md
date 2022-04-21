@@ -15,6 +15,7 @@
 - #2850 : Exception when clicking on timeline and card not present in feed
 - #2813 : Usercard edition : deal with the possibility to modify the emitter entity
 - #2815 : Modify answer button should appear in real time
+- #2821 : Fix text and background colors in time pickers
 
 # Tasks
 
