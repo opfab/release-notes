@@ -2,6 +2,7 @@
 
 - #2858 : Change the mouse cursor when going over the pin card
 - #2807 : Add the user name to the userAlreadyConnected pop up
+- #2786 : User cards: add the possibility to set timespans
 
 # Bugs
 
