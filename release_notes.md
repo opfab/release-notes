@@ -16,6 +16,7 @@
 - #2813 : Usercard edition : deal with the possibility to modify the emitter entity
 - #2815 : Modify answer button should appear in real time
 - #2821 : Fix text and background colors in time pickers
+- #2921 : Fix issue with sendCard.sh script in MacOS
 
 # Tasks
 
