@@ -18,6 +18,7 @@
 - #2815 : Modify answer button should appear in real time
 - #2821 : Fix text and background colors in time pickers
 - #2921 : Fix issue with sendCard.sh script in MacOS
+- #2916 : Stop active repetitive sound alarm when user is disconnected by new user
 
 # Tasks
 
