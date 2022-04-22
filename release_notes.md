@@ -20,6 +20,7 @@
 - #2821 : Fix text and background colors in time pickers
 - #2921 : Fix issue with sendCard.sh script in MacOS
 - #2916 : Stop active repetitive sound alarm when user is disconnected by new user
+- #2899 : Disable sound activation pop up if sounds are played on an external device
 
 # Tasks
 
