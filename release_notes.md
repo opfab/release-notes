@@ -4,6 +4,7 @@
 - #2807 : Add the user name to the userAlreadyConnected pop up
 - #2786 : User cards: add the possibility to set timespans
 - #2848 : Deal with groups of entities in acknowledged footer
+- #2905 : Propagate user token to external recipient
 
 # Bugs
 
