@@ -5,6 +5,7 @@
 - #2786 : User cards: add the possibility to set timespans
 - #2848 : Deal with groups of entities in acknowledged footer
 - #2905 : Propagate user token to external recipient
+- #2918 : Enable to have several sound devices connected at the same time for each user
 
 # Bugs
 
