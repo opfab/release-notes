@@ -23,6 +23,7 @@
 - #2916 : Stop active repetitive sound alarm when user is disconnected by new user
 - #2899 : Disable sound activation pop up if sounds are played on an external device
 - #2866 : External devices configuration page : show error message when the service is not available
+- #2959 : Large screen size reset when switching night/day mode
 
 # Tasks
 
