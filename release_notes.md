@@ -26,6 +26,7 @@
 - #2899 : Disable sound activation pop up if sounds are played on an external device
 - #2866 : External devices configuration page : show error message when the service is not available
 - #2959 : Large screen size reset when switching night/day mode
+- #2820 : Feed screen : No spinner when it takes time to load a card
 
 # Tasks
 
