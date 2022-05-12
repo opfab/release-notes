@@ -6,7 +6,7 @@
 - #2848 : Deal with groups of entities in acknowledged footer
 - #2905 : Propagate user token to external recipient
 - #2918 : Enable to have several sound devices connected at the same time for each user
-- #2940 : Add option to group cards by tag in the feed
+- #2940,#2974 : Add option to group cards by tag in the feed (Experimental feature)
 
 # Bugs
 
