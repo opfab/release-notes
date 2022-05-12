@@ -7,6 +7,7 @@
 - #2905 : Propagate user token to external recipient
 - #2918 : Enable to have several sound devices connected at the same time for each user
 - #2940,#2974 : Add option to group cards by tag in the feed (Experimental feature)
+- #2696: Force reload ui when front version is not the same as back version
 
 # Bugs
 
