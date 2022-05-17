@@ -8,6 +8,8 @@
 - #2918 : Enable to have several sound devices connected at the same time for each user
 - #2940,#2974 : Add option to group cards by tag in the feed (Experimental feature)
 - #2772: New option to consider acknowledgment at the entity level. Please see the documentation about acknowledgment for more information.
+- #2849 : Add already connected users in activity area screen
+- #2696: Force reload ui when front version is not the same as back version
 
 # Bugs
 
@@ -28,7 +30,9 @@
 - #2866 : External devices configuration page : show error message when the service is not available
 - #2959 : Large screen size reset when switching night/day mode
 - #2820 : Feed screen : No spinner when it takes time to load a card
+- #2805 : User card: in card preview lightcard should not be clickable
 
 # Tasks
 
-- #2892 : Add some examples for opfab css styles in documentation  
+- #2892 : Add some examples for opfab css styles in documentation
+- 2923 : Rename generated service jar names and add external-devices by default in bin/run_all.sh script
