@@ -1,37 +1,9 @@
 # Features
 
-- #2858 : Change the mouse cursor when going over the pin card
-- #2807 : Add the user name to the userAlreadyConnected pop up
-- #2786 : User cards: add the possibility to set timespans
-- #2848 : Deal with groups of entities in acknowledged footer
-- #2905 : Propagate user token to external recipient
-- #2918 : Enable to have several sound devices connected at the same time for each user
-- #2940,#2974 : Add option to group cards by tag in the feed (Experimental feature)
-- #2772: New option to consider acknowledgment at the entity level. Please see the documentation about acknowledgment for more information.
-- #2849 : Add already connected users in activity area screen
 
 # Bugs
 
-- #2816 : Exception in remoteLog back service when too much log
-- #2803 : Admin screen : typo error in french version
-- #2808 : Add box around the acknowledged footer of the card in day mode
-- #2822 : External devices configuration screen : single-filters are no longer aligned
-- #2806 : Display of pin cards not correct when too much cards  
-- #2811 : Settings screen/Admin screens : Description for fields not in uppercase letters
-- #2865 : Too much margin in popup
-- #2850 : Exception when clicking on timeline and card not present in feed
-- #2813 : Usercard edition : deal with the possibility to modify the emitter entity
-- #2815 : Modify answer button should appear in real time
-- #2821 : Fix text and background colors in time pickers
-- #2921 : Fix issue with sendCard.sh script in MacOS
-- #2916 : Stop active repetitive sound alarm when user is disconnected by new user
-- #2899 : Disable sound activation pop up if sounds are played on an external device
-- #2866 : External devices configuration page : show error message when the service is not available
-- #2959 : Large screen size reset when switching night/day mode
-- #2820 : Feed screen : No spinner when it takes time to load a card
-- #2805 : User card: in card preview lightcard should not be clickable
+
 
 # Tasks
 
-- #2892 : Add some examples for opfab css styles in documentation
-- #2923 : Rename generated service jar names and add external-devices by default in bin/run_all.sh script
