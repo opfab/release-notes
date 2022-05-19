@@ -1,5 +1,5 @@
 # Features
-
+* #2844 : Pinned cards : add pinned icon
 
 # Bugs
 * #3006 : Log in screen : "Sign in" button not well centered
