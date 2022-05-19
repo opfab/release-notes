@@ -9,4 +9,5 @@
 * #3014 : Entities acks : button "cancel ack" proposed whereas it should not
 
 # Tasks
+* #2876 : Add prettier configuration
 
