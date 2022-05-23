@@ -10,6 +10,7 @@
 * #3014 : Entities acks : button "cancel ack" proposed whereas it should not
 * #3013 : Bug in archives and logging screens when searching by state
 * #3052 : Changing activity area does not always propagate to cards-consultation service
+* #3009 : Admin screen : deal with the realtime parameter for groups
 
 # Tasks
 * #2876 : Add prettier configuration
