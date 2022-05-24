@@ -13,6 +13,7 @@
 * #3013 : Bug in archives and logging screens when searching by state
 * #3052 : Changing activity area does not always propagate to cards-consultation service
 * #2997 : Mouse cursor is not the good one in different places
+* #2928 : Solve bug : usercardTemplateGateway.getStartDate() method returns outdated value
 
 
 # Tasks
