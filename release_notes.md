@@ -15,6 +15,7 @@
 * #3052 : Changing activity area does not always propagate to cards-consultation service
 * #2997 : Mouse cursor is not the good one in different places
 * #2928 : Solve bug : usercardTemplateGateway.getStartDate() method returns outdated value
+* #3029 : Hide timeline on two lines in french with resolution 1680x1050 
 
 
 # Tasks
