@@ -4,6 +4,7 @@
 * #3009 : Admin screen : deal with the realtime parameter for groups
 * #2861 : Choose your entities on login
 * #2986 : Usercard : add a method to set initial selected recipient list
+* #3025 : Add an option to hide unacknowledge button
 
 # Bugs
 * #3006 : Log in screen : "Sign in" button not well centered
