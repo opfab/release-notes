@@ -23,4 +23,5 @@
 
 # Tasks
 * #2876 : Add prettier configuration
+* #2868 : Use Virtual Select component (https://sa-si-dev.github.io/virtual-select/#/) for multiselect
 
