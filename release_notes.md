@@ -8,7 +8,8 @@
 * #3000 : Change icons for menus "External devices configuration" and "Realtime users"
 * #3001 : Add a spinner when loading external devices list in modal
 * #3010 : Archives and Logging: Add spinners or loading messages
-*
+* #2804 : Prevent to have several tabs connected at the same time in the same browser with the same opfab url
+
 # Bugs
 * #3006 : Log in screen : "Sign in" button not well centered
 * #3007 : Settings screen : "play sounds for cards with severity" field not well aligned
