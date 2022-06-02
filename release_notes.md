@@ -5,7 +5,8 @@
 * #2861 : Choose your entities on login
 * #2986 : Usercard : add a method to set initial selected recipient list
 * #3025 : Add an option to hide unacknowledge button
-* #3000 Change icons for menus "External devices configuration" and "Realtime users"
+* #3000 : Change icons for menus "External devices configuration" and "Realtime users"
+* #3001 : Add a spinner when loading external devices list in modal
 
 # Bugs
 * #3006 : Log in screen : "Sign in" button not well centered
