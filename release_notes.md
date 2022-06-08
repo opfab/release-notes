@@ -9,6 +9,7 @@
 * #3001 : Add a spinner when loading external devices list in modal
 * #3010 : Archives and Logging: Add spinners or loading messages
 * #2804 : Prevent to have several tabs connected at the same time in the same browser with the same opfab url
+* #3005 : Add message when trying to open a card that is not found in the feed
 
 # Bugs
 * #3006 : Log in screen : "Sign in" button not well centered
@@ -29,5 +30,5 @@
 # Tasks
 * #2876 : Add prettier configuration
 * #2868 : Use Virtual Select component (https://sa-si-dev.github.io/virtual-select/#/) for multiselect
-*  #3054 : Ag-grid: replace deprecated property localeTextFunc
+* #3054 : Ag-grid: replace deprecated property localeTextFunc
 
