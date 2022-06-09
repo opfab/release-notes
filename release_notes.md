@@ -7,10 +7,10 @@
 * #3025 : Add an option to hide unacknowledge button
 * #3000 : Change icons for menus "External devices configuration" and "Realtime users"
 * #3001 : Add a spinner when loading external devices list in modal
-* #3010 #2999 : Archives and Logging: Add spinners or loading messages
+* #3010 #2999 : Archives and Logging screens : Add spinners or loading messages
 * #2804 : Prevent to have several tabs connected at the same time in the same browser with the same opfab url
 * #3005 : Add message when trying to open a card that is not found in the feed
-* #3105 : Sort alphabetically state rights in perimeter administration table (#3105)
+* #3105 : Sort alphabetically state rights in perimeter administration table
 
 # Bugs
 * #3006 : Log in screen : "Sign in" button not well centered
