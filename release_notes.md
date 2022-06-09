@@ -7,9 +7,10 @@
 * #3025 : Add an option to hide unacknowledge button
 * #3000 : Change icons for menus "External devices configuration" and "Realtime users"
 * #3001 : Add a spinner when loading external devices list in modal
-* #3010 : Archives and Logging: Add spinners or loading messages
+* #3010 #2999 : Archives and Logging: Add spinners or loading messages
 * #2804 : Prevent to have several tabs connected at the same time in the same browser with the same opfab url
 * #3005 : Add message when trying to open a card that is not found in the feed
+* #3105 : Sort alphabetically state rights in perimeter administration table (#3105)
 
 # Bugs
 * #3006 : Log in screen : "Sign in" button not well centered
@@ -25,7 +26,6 @@
 * #2995 : See briefly "you are not allowed to send card" with slow network
 * #2993 : Fix bug when getting not existing card with slow network
 * #3073 : Add space between environment name and user name
-* #2999 : Archives screen : no spinner when we are in mode "collapsible updates" 
 
 
 # Tasks
