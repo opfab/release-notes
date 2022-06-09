@@ -25,6 +25,7 @@
 * #2995 : See briefly "you are not allowed to send card" with slow network
 * #2993 : Fix bug when getting not existing card with slow network
 * #3073 : Add space between environment name and user name
+* #2999 : Archives screen : no spinner when we are in mode "collapsible updates" 
 
 
 # Tasks
