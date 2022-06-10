@@ -32,4 +32,5 @@
 * #2876 : Add prettier configuration
 * #2868 : Use Virtual Select component (https://sa-si-dev.github.io/virtual-select/#/) for multiselect
 * #3054 : Ag-grid: replace deprecated property localeTextFunc
+* #3065 : Update dependency chart.js to v3.8.0
 
