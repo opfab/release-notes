@@ -26,7 +26,7 @@
 * #2995 : See briefly "you are not allowed to send card" with slow network
 * #2993 : Fix bug when getting not existing card with slow network
 * #3073 : Add space between environment name and user name
-
+* #2958 : Force logins to be stored with lowercase letters when it comes from an init file
 
 # Tasks
 * #2876 : Add prettier configuration
