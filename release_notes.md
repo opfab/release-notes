@@ -11,6 +11,7 @@
 * #2804 : Prevent to have several tabs connected at the same time in the same browser with the same opfab url
 * #3005 : Add message when trying to open a card that is not found in the feed
 * #3105 : Sort alphabetically state rights in perimeter administration table
+* #3104 : When reload is requested, ask the user to reload via an alert
 
 # Bugs
 * #3006 : Log in screen : "Sign in" button not well centered
