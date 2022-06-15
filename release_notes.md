@@ -12,6 +12,7 @@
 * #3005 : Add message when trying to open a card that is not found in the feed
 * #3105 : Sort alphabetically state rights in perimeter administration table
 * #3104 : When reload is requested, ask the user to reload via an alert
+* #3131 : Deliver the application as progressive web app
 
 # Bugs
 * #3006 : Log in screen : "Sign in" button not well centered
