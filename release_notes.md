@@ -14,6 +14,7 @@
 * #3104 : When reload is requested, ask the user to reload via an alert
 * #3131 : Deliver the application as progressive web app
 * #2868 #3126 #3143 : Add possibility to use a multi select component in templates 
+* #2950 : Add a geographical map view (Experimental)
 
 # Bugs
 * #3006 : Log in screen : "Sign in" button not well centered
