@@ -39,4 +39,5 @@
 * #3054 : Ag-grid: replace deprecated property localeTextFunc
 * #3065 : Update dependency chart.js to v3.8.0
 * #3078 : Do not send null or empty json field to limit the network bandwidth
+* #3101 : Remove environment choice in setSecurityAuthFlow.sh
 
