@@ -1,3 +1,8 @@
+# Migration from 3.7.0
+
+See [Migration Guide from release 3.7.0 to release 3.8.0](https://opfab.github.io/documentation/archives/3.8.0.RELEASE/docs/single_page_doc.html#_migration_guide_from_release_3_7_0_to_release_3_8_0)
+
+
 # Features
 * #2844 : Pinned cards : add pinned icon
 * #2985 : Usercard : add a method to set initial selected severity from template
