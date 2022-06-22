@@ -7,6 +7,7 @@
 * #3162 : Mouse cursor is not correct on "Edit" and "Delete" buttons
 * #3184 : Archives/logging screens : multi-filters not well aligned
 * #3181 : Acknowledgments footer : sort entities alphabetically
+* #3171 : Entities management screen : filter on parent entities is not working
 
 # Tasks
 
