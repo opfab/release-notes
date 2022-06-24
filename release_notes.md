@@ -11,3 +11,4 @@
 
 # Tasks
 
+* #3146 : Usercard : Replace single filter component
