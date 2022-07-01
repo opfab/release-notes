@@ -1,6 +1,7 @@
 # Features
 
 * #3128 : Add administration endpoint for sending messages on subscription
+* #3248 : Authorize PWA conditionally and only for chrome based browsers
 
 # Bugs
 
@@ -17,3 +18,4 @@
 # Tasks
 
 * #3146 : Usercard : Replace single filter component
+
