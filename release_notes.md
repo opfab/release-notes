@@ -14,6 +14,7 @@
 * #3181 : Acknowledgments footer : sort entities alphabetically
 * #3171 : Entities management screen : filter on parent entities is not working
 * #3200 : When both the geomap and grouped cards are enbled, multiple cards show up on the map
+* #3240 : TemplateGateway.getEntity should return entity labels
 
 
 # Tasks
