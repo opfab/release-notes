@@ -5,6 +5,7 @@
 * #3163 : Creation of a spinner component and spinners added in real time users screen and in activity area screen
 * #3153 : Add group type
 * #3237 : Disable the button "Validate answer" as long as the answer is not saved 
+* #3167 : Add spinner in user card creation screen
 
 # Bugs
 
