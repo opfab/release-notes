@@ -7,6 +7,7 @@
 * #3237 : Disable the button "Validate answer" as long as the answer is not saved 
 * #3167 : Add spinner in user card creation screen
 * #3238 : Add the possibility to enable/disable the possibility to have the same OpFab url used several times at the same time
+* #3256 : Replace single filter with new multiselect component in external devices configuration screen
 
 # Bugs
 
