@@ -26,4 +26,5 @@
 
 * #3146 : Usercard : Replace single filter component
 * #3251 : Do not cache index.html to ease application update in production
+* #3288 : Change nginx log format
 
