@@ -8,6 +8,7 @@
 * #3167 : Add spinner in user card creation screen
 * #3238 : Add the possibility to enable/disable the possibility to have the same OpFab url used several times at the same time
 * #3256 : Replace single filter with new multiselect component in external devices configuration screen
+* #3183 : Add an error message when a user without entity tries to send a card
 
 # Bugs
 
