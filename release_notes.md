@@ -22,6 +22,7 @@
 * #3171 : Entities management screen : filter on parent entities is not working
 * #3200 : When both the geomap and grouped cards are enbled, multiple cards show up on the map
 * #3240 : TemplateGateway.getEntity should return entity labels
+* #3284 : Group administration screen : description field should not be mandatory
 
 
 # Tasks
