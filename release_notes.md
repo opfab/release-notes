@@ -28,6 +28,7 @@
 * #3240 : TemplateGateway.getEntity should return entity labels
 * #3284 : Group administration screen : description field should not be mandatory
 * #3279 : Card detail: show action buttons only after template is loaded
+* #3246 : Feed notification configuration : display problem if the user has no right for a process group
 
 
 # Tasks
