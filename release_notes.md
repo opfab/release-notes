@@ -13,6 +13,7 @@
 * #3183 : Add an error message when a user without entity tries to send a card
 * #3221 : Display all connected users per group on realtime users dashboard
 * #3145 : Provide a way to access all cards in archives/logging screens for admin user
+* #3190 : Add the possibility to display a spinner in the card template
 
 # Bugs
 
