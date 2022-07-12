@@ -10,6 +10,7 @@
 * #3256 : Replace single filter with new multiselect component in external devices configuration screen
 * #3262 : Replace single filter with new multiselect component in group administration
 * #3257 : Replace single filter with new multiselect component in realtime users screen
+* #3259 : Replace single filter with new multiselect component in emitter choice in user card
 * #3183 : Add an error message when a user without entity tries to send a card
 * #3221 : Display all connected users per group on realtime users dashboard
 * #3145 : Provide a way to access all cards in archives/logging screens for admin user
