@@ -7,12 +7,7 @@
 * #3237 : Disable the button "Validate answer" as long as the answer is not saved 
 * #3167 : Add spinner in user card creation screen
 * #3238 : Add the possibility to enable/disable the possibility to have the same OpFab url used several times at the same time
-* #3256 : Replace single filter with new multiselect component in external devices configuration screen
-* #3262 : Replace single filter with new multiselect component in group administration
-* #3257 : Replace single filter with new multiselect component in realtime users screen
-* #3259 : Replace single filter with new multiselect component in emitter choice in user card
-* #3260 : Replace single filter with new multiselect component in entity choice for response in detail card
-* #3255 Replace single filter with new multiselect component in settings
+* #3255, #3256, #3257, #3259, #3260, #3262 : Replace single filter with new multiselect component in different places
 * #3183 : Add an error message when a user without entity tries to send a card
 * #3221 : Display all connected users per group on realtime users dashboard
 * #3145 : Provide a way to access all cards in archives/logging screens for admin user
