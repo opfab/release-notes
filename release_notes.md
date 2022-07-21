@@ -35,6 +35,9 @@
 * #3332 : Bug in calendar when no daysOfWeek in recurrence
 * #3346 : Timeline : bad display when "hide timeline" activated
 * #3348 : Bad display for timeline when it is hidden and we switch between domains
+* #3356 : Archives/Logging screens : error for control in hours/minutes fields
+* #3365 : Usercard start/end dates : no error for wrong date
+* #3373 : Problem with the feed filter pop up
 
 # Tasks
 
