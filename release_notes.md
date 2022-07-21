@@ -33,6 +33,7 @@
 * #3279 : Card detail: show action buttons only after template is loaded
 * #3246 : Feed notification configuration : display problem if the user has no right for a process group
 * #3332 : Bug in calendar when no daysOfWeek in recurrence
+* #3346 : Timeline : bad display when "hide timeline" activated
 
 # Tasks
 
