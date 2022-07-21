@@ -1,47 +1,7 @@
-# Migration from 3.8.x
-
-See [Migration Guide from release 3.8.x to release 3.9.0](https://opfab.github.io/documentation/archives/3.9.0.RELEASE/docs/single_page_doc.html#_migration_guide_from_release_3_8_x_to_release_3_9_0)
-
 # Features
 
-* #3128 : Add administration endpoint for sending messages on subscription
-* #3248 : Authorize PWA conditionally and only for chrome based browsers
-* #3163 : Creation of a spinner component and spinners added in real time users screen and in activity area screen
-* #3153 : Add group type
-* #3237 : Disable the button "Validate answer" as long as the answer is not saved 
-* #3167 : Add spinner in user card creation screen
-* #3238 : Add the possibility to enable/disable the possibility to have the same OpFab url used several times at the same time
-* #3255, #3256, #3257, #3259, #3260, #3262 : Replace single filter with new multiselect component in different places
-* #3183 : Add an error message when a user without entity tries to send a card
-* #3221 : Display all connected users per group on realtime users dashboard
-* #3145 : Provide a way to access all cards in archives/logging screens for admin user
-* #3190 : Add the possibility to display a spinner in the card template
 
 # Bugs
 
-* #3168 : Archives/logging screens : set color gray for the cards list (like monitoring)
-* #3184 : Archives/logging screens : multi-filters not well aligned
-* #3173 : Archives/logging screens : datepicker forbidden dates are not disabled
-* #3165 : Monitoring screen : "Export data" button displayed too in the bottom of the page
-* #3162 : Mouse cursor is not correct on "Edit" and "Delete" buttons
-* #3181 : Acknowledgments footer : sort entities alphabetically
-* #3171 : Entities management screen : filter on parent entities is not working
-* #3200 : When both the geomap and grouped cards are enbled, multiple cards show up on the map
-* #3240 : TemplateGateway.getEntity should return entity labels
-* #3284 : Group administration screen : description field should not be mandatory
-* #3279 : Card detail: show action buttons only after template is loaded
-* #3246 : Feed notification configuration : display problem if the user has no right for a process group
-* #3332 : Bug in calendar when no daysOfWeek in recurrence
-* #3346 : Timeline : bad display when "hide timeline" activated
-* #3348 : Bad display for timeline when it is hidden and we switch between domains
-* #3356 : Archives/Logging screens : error for control in hours/minutes fields
-* #3365 : Usercard start/end dates : no error for wrong date
-* #3373 : Problem with the feed filter pop up
 
 # Tasks
-
-* #3146 : Usercard : Replace single filter component
-* #3251 : Do not cache index.html to ease application update in production
-* #3288 : Change nginx log format
-* #3253 : Add an example for external web application for testing
-
