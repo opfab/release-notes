@@ -1,3 +1,7 @@
+# Migration from 3.8.x
+
+See [Migration Guide from release 3.8.x to release 3.9.0](https://opfab.github.io/documentation/archives/3.9.0.RELEASE/docs/single_page_doc.html#_migration_guide_from_release_3_8_x_to_release_3_9_0)
+
 # Features
 
 * #3128 : Add administration endpoint for sending messages on subscription
