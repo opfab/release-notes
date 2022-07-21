@@ -34,6 +34,7 @@
 * #3246 : Feed notification configuration : display problem if the user has no right for a process group
 * #3332 : Bug in calendar when no daysOfWeek in recurrence
 * #3346 : Timeline : bad display when "hide timeline" activated
+* #3348 : Bad display for timeline when it is hidden and we switch between domains
 
 # Tasks
 
