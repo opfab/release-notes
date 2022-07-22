@@ -11,5 +11,6 @@
  - #3172 : Checkboxes can be checked even outside the text
  - #3306 : Remove settings value playSoundOnExternalDevice when removing user link to external device
  - #3371 : Cursor not valid in << and >> (monitoring screen and feed when timeline is hidden)
+ - #3367 : Cursor for "Acknowledge all cards" link is not the good one
 
 # Tasks
