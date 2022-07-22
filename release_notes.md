@@ -10,5 +10,6 @@
  - #3361 : Admin checkbox : mouseover text overflows the screen
  - #3172 : Checkboxes can be checked even outside the text
  - #3306 : Remove settings value playSoundOnExternalDevice when removing user link to external device
+ - #3371 : Cursor not valid in << and >> (monitoring screen and feed when timeline is hidden)
 
 # Tasks
