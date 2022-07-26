@@ -13,5 +13,6 @@
  - #3371 : Cursor not valid in << and >> (monitoring screen and feed when timeline is hidden)
  - #3367 : Cursor for "Acknowledge all cards" link is not the good one
  - #3368 : Feed : "Reset all filters" link is clickable on more than just the text
+ - #3350 : Spinner too small when we send a usercard
 
 # Tasks
