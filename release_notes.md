@@ -14,6 +14,7 @@
 - #3367 : Cursor for "Acknowledge all cards" link is not the good one
 - #3368 : Feed : "Reset all filters" link is clickable on more than just the text
 - #3350 : Spinner too small when we send a usercard
+- #3422 : Not using default sound settings defined in web-ui.json when user has no settings
 
 # Tasks
 
