@@ -1,5 +1,6 @@
 # Features
 
+- #3357 : Add spinner when changing connected entities in activity area screen
 
 # Bugs
 
