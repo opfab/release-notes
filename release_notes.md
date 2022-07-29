@@ -1,6 +1,7 @@
 # Features
 
 - #3357 : Add spinner when changing connected entities in activity area screen
+- #3349 : Add a spinner when delete a card if slow network
 
 # Bugs
 
