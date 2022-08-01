@@ -24,3 +24,4 @@
 # Tasks
 
 - #3327 : Move the about configuration away from settings in web-ui.json
+- #3430 : Update dependency chart.js to v3.8.2
