@@ -20,6 +20,7 @@
 - #3350 : Spinner too small when we send a usercard
 - #3422 : Not using default sound settings defined in web-ui.json when user has no settings
 - #3374 : Bad display of "Response closed" dutch version
+- #3435 : Unused fields in request when update/create a perimeter via admin UI
 
 # Tasks
 
