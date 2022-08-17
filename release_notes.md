@@ -4,6 +4,7 @@
 - #3349 : Add a spinner when delete a card if slow network
 - #3347 : Add a spinner when logout is slow
 - #3149 : Show entities concerned by card in footer
+- #3328 : Settings screen configuration : move "settings.infos.hide" section to ''settingsScreen.hiddenSettings"
 
 # Bugs
 
