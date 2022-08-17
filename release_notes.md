@@ -21,6 +21,7 @@
 - #3422 : Not using default sound settings defined in web-ui.json when user has no settings
 - #3374 : Bad display of "Response closed" dutch version
 - #3435 : Unused fields in request when update/create a perimeter via admin UI
+- #3372 : Send HTTP error 500 when external application endpoint is not found
 
 # Tasks
 
