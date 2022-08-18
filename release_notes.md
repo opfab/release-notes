@@ -5,6 +5,7 @@
 - #3347 : Add a spinner when logout is slow
 - #3149 : Show entities concerned by card in footer
 - #3328 : Settings screen configuration : move "settings.infos.hide" section to ''settingsScreen.hiddenSettings"
+- #3383 : Permit to select more than one entity if possible when sending a response card
 
 # Bugs
 
