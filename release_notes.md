@@ -24,6 +24,7 @@
 - #3374 : Bad display of "Response closed" dutch version
 - #3435 : Unused fields in request when update/create a perimeter via admin UI
 - #3372 : Send HTTP error 500 when external application endpoint is not found
+- #3362 : Spinner for loading opfab : use shared spinner component
 
 # Tasks
 
