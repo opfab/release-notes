@@ -25,6 +25,7 @@
 - #3435 : Unused fields in request when update/create a perimeter via admin UI
 - #3372 : Send HTTP error 500 when external application endpoint is not found
 - #3362 : Spinner for loading opfab : use shared spinner component
+- #3466 : Group/entity/perimeter creation : some special characters in id field are not forbidden
 
 # Tasks
 
