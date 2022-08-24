@@ -26,6 +26,7 @@
 - #3372 : Send HTTP error 500 when external application endpoint is not found
 - #3362 : Spinner for loading opfab : use shared spinner component
 - #3466 : Group/entity/perimeter creation : some special characters in id field are not forbidden
+- #3353 : Logout with slow network show "session expired" popup
 
 # Tasks
 
