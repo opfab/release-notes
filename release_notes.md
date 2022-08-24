@@ -27,6 +27,7 @@
 - #3362 : Spinner for loading opfab : use shared spinner component
 - #3466 : Group/entity/perimeter creation : some special characters in id field are not forbidden
 - #3353 : Logout with slow network show "session expired" popup
+- #2998 : No sound on Firefox after closing and reopening the browser
 
 # Tasks
 
