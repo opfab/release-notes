@@ -30,6 +30,7 @@
 - #3466 : Group/entity/perimeter creation : some special characters in id field are not forbidden
 - #3353 : Logout with slow network show "session expired" popup
 - #2998 : No sound on Firefox after closing and reopening the browser
+- #3471 : Migration script to opfab 3 : special characters not well translated
 
 # Tasks
 
