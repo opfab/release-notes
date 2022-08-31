@@ -8,6 +8,7 @@
 - #3383 : Permit to select more than one entity if possible when sending a response card
 - #3405 : Add opfab button in shared css
 - #3408 : User cards: Permit to add a list of recipients via the template & user choice
+- #3452 : Add hover and zoom-to-card on the geomap function 
 
 # Bugs
 
