@@ -34,6 +34,7 @@
 - #3353 : Logout with slow network show "session expired" popup
 - #2998 : No sound on Firefox after closing and reopening the browser
 - #3471 : Migration script to opfab 3 : special characters not well translated
+- #3488 : Fix pinned cards display for long titles
 
 # Tasks
 
