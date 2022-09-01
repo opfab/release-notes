@@ -6,7 +6,7 @@
 - #3149 : Show entities concerned by card in footer
 - #3328 : Settings screen configuration : move "settings.infos.hide" section to ''settingsScreen.hiddenSettings"
 - #3383 : Permit to select more than one entity if possible when sending a response card
-- #3405 : Add opfab button in shared css
+- #3310, #3405 : Provide shared css/js to external applications
 - #3408 : User cards: Permit to add a list of recipients via the template & user choice
 - #3452 : Add hover and zoom-to-card on the geomap function 
 - #3486 : Add remote logs for debugging purpose
