@@ -9,7 +9,8 @@
 - #3405 : Add opfab button in shared css
 - #3408 : User cards: Permit to add a list of recipients via the template & user choice
 - #3452 : Add hover and zoom-to-card on the geomap function 
-- #3486 : Add remote logs for debugging purpose 
+- #3486 : Add remote logs for debugging purpose
+- #1328 : Prevent the removal of the administration group for the admin user
 
 # Bugs
 
