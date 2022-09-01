@@ -41,3 +41,4 @@
 - #3327 : Move the about configuration away from settings in web-ui.json
 - #3430 : Update dependency chart.js to v3.8.2
 - #3320 : Remove unecessary error management in ui
+- #3487 : Reduce space between reponse and ack icons in feed
