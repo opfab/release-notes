@@ -35,6 +35,7 @@
 - #2998 : No sound on Firefox after closing and reopening the browser
 - #3471 : Migration script to opfab 3 : special characters not well translated
 - #3488 : Fix pinned cards display for long titles
+- #3176 : Updates for users/entities/groups should be sent to components that need it
 
 # Tasks
 
