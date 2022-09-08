@@ -12,6 +12,7 @@
 - #3486 : Add remote logs for debugging purpose
 - #1328 : Prevent the removal of the administration group for the admin user
 - #3299 : Regularly try to reconnect disconnected external devices
+- #3234 : Refuse sending card if process or state does not exist
 
 # Bugs
 
