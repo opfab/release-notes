@@ -39,6 +39,7 @@
 - #3471 : Migration script to opfab 3 : special characters not well translated
 - #3488 : Fix pinned cards display for long titles
 - #3176 : Updates for users/entities/groups should be sent to components that need it
+- #3512 : Realtime screen bug when a connected user has no entity
 
 # Tasks
 
