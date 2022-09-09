@@ -14,6 +14,7 @@
 - #3299 : Regularly try to reconnect disconnected external devices
 - #3234 : Refuse sending card if process or state does not exist
 - #3331 : Add a possibility to have non filterable notifications
+- #1318 : Resource identifiers should only contain letters, digits, dashes or underscores
 
 # Bugs
 
