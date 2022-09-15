@@ -15,6 +15,7 @@
 - #3234, #3543 : Refuse sending card if process or state does not exist (feature can be desactivate by configuration) 
 - #3331 : Add a possibility to have non filterable notifications
 - #1318 : Resource identifiers should only contain letters, digits, dashes or underscores
+- #3503 : Add export feature for admin screens
 
 # Bugs
 
