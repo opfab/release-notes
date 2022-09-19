@@ -18,6 +18,7 @@
 - #3503 : Add export feature for admin screens
 - #3450 : Geographical map: add a optional chart to display number of cards by severity
 - #3545 : Add a possibility to not close card when user acknowledge
+- #3534 : Administration screen : Add in groups popup the list of members
 
 # Bugs
 
