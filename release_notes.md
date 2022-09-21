@@ -46,6 +46,7 @@
 - #3488 : Fix pinned cards display for long titles
 - #3176 : Updates for users/entities/groups should be sent to components that need it
 - #3512 : Realtime screen bug when a connected user has no entity
+- #3562 : Admin screens: do not cut long values for ID column
 
 # Tasks
 
