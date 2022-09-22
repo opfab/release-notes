@@ -21,6 +21,7 @@
 - #3534 : Administration screen : Add in groups popup the list of members
 - #3544 : Add the possibility to hide edit or delete card link
 - #3565 : Add option to sort cards by start and end date
+- #3589 : Add logs when user ack/read/unack/unread
 
 # Bugs
 
