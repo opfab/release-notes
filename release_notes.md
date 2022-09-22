@@ -23,6 +23,7 @@
 - #3565 : Add option to sort cards by start and end date
 - #3589 : Add logs when user ack/read/unack/unread
 - #3570 : Set default feed filtering and sorting values in web-ui.json
+- #3595 : Add methods for templates to set selected values and options list in multiselect component
 
 # Bugs
 
