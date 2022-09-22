@@ -22,6 +22,7 @@
 - #3544 : Add the possibility to hide edit or delete card link
 - #3565 : Add option to sort cards by start and end date
 - #3589 : Add logs when user ack/read/unack/unread
+- #3570 : Set default feed filtering and sorting values in web-ui.json
 
 # Bugs
 
