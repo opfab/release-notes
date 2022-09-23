@@ -24,6 +24,7 @@
 - #3589 : Add logs when user ack/read/unack/unread
 - #3570 : Set default feed filtering and sorting values in web-ui.json
 - #3595 : Add methods for templates to set selected values and options list in multiselect component
+- #3566 : Add setting to automatically open the first card in list
 
 # Bugs
 
