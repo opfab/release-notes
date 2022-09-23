@@ -25,6 +25,7 @@
 - #3570 : Set default feed filtering and sorting values in web-ui.json
 - #3595 : Add methods for templates to set selected values and options list in multiselect component
 - #3566 : Add setting to automatically open the first card in list
+- #3603 : Administration screen : Add in entity popup the list of members
 
 # Bugs
 
