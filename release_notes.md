@@ -26,6 +26,7 @@
 - #3595 : Add methods for templates to set selected values and options list in multiselect component
 - #3566 : Add setting to automatically open the first card in list
 - #3603 : Administration screen : Add in entity popup the list of members
+- #3623 : Feed filters : red color for the icon in case filtering is activated
 
 # Bugs
 
