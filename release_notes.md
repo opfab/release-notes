@@ -5,3 +5,5 @@
 # Bugs
 
 # Tasks
+
+- #3619 : Add margin-right and margin-left in external application example
