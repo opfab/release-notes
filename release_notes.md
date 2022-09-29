@@ -5,6 +5,8 @@
 
 # Bugs
 
+- #3632 : Correct invalid CSS style property
+
 # Tasks
 
 - #3619 : Add margin-right and margin-left in external application example
