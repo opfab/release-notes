@@ -7,6 +7,7 @@
 # Bugs
 
 - #3632 : Correct invalid CSS style property
+- #3630 : Archives and Logging page : filter is applied on pagination change
 
 # Tasks
 
