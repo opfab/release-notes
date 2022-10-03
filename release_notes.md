@@ -3,6 +3,7 @@
 - #3620 : Disable footer when using iFrames
 - #3621 : Archive card footer : "Deleted or updated" instead of "Deleted"
 - #3639 : Support for POLYGON geometry when using the geographical map, allowing cards to highlight a region on the map.
+- #3178 : Refuse cards if no translation file or no translation
 
 # Bugs
 
