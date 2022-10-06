@@ -13,6 +13,7 @@
 - #3651 : In usercard, sometimes template does not change when changing process
 - #3634 : Question cards : text not well aligned
 - #3635 : Ag-grid tables : cursor not the good one on the left part of columns titles
+- #3615 : Avoid vertical scroll bar in agenda detail card view
 
 # Tasks
 
