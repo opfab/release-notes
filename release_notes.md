@@ -4,6 +4,7 @@
 - #3621 : Archive card footer : "Deleted or updated" instead of "Deleted"
 - #3639 : Support for POLYGON geometry when using the geographical map, allowing cards to highlight a region on the map.
 - #3178 : Refuse cards if no translation file or no translation
+- #3622 : Add a method for template to avoid potential script injection
 
 # Bugs
 
