@@ -5,6 +5,7 @@
 - #3639 : Support for POLYGON geometry when using the geographical map, allowing cards to highlight a region on the map.
 - #3178 : Refuse cards if no translation file or no translation
 - #3622 : Add a method for template to avoid potential script injection
+- #3614 : Add Add onStyleChange() method to templateGateway
 
 # Bugs
 
@@ -14,6 +15,7 @@
 - #3634 : Question cards : text not well aligned
 - #3635 : Ag-grid tables : cursor not the good one on the left part of columns titles
 - #3615 : Avoid vertical scroll bar in agenda detail card view
+- #3614 : Template input field reset when going in full screen or change day/night mode
 
 # Tasks
 
