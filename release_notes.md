@@ -19,6 +19,7 @@
 - #3614 : Template input field reset when going in full screen or change day/night mode
 - #3672 : Acknowledgments lost when setting card in full screen mod
 - #3628 : Solve bug : In templates , with slow network, style is apply long after template processing
+- #3664 : Chekboxes in external configuration screen lose state when changing page
 
 # Tasks
 
