@@ -17,7 +17,8 @@
 - #3635 : Ag-grid tables : cursor not the good one on the left part of columns titles
 - #3615 : Avoid vertical scroll bar in agenda detail card view
 - #3614 : Template input field reset when going in full screen or change day/night mode
-- #3672 : Acknowledgments lost when setting card in full screen mode
+- #3672 : Acknowledgments lost when setting card in full screen mod
+- #3628 : Solve bug : In templates , with slow network, style is apply long after template processing
 
 # Tasks
 
