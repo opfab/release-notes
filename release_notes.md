@@ -5,7 +5,8 @@
 - #3639 : Support for POLYGON geometry when using the geographical map, allowing cards to highlight a region on the map.
 - #3178 : Refuse cards if no translation file or no translation
 - #3622 : Add a method for template to avoid potential script injection
-- #3614 : Add Add onStyleChange() method to templateGateway
+- #3614 : Add onStyleChange() method to templateGateway
+- #3590 : Control perimeter when an external application send a card
 
 # Bugs
 
