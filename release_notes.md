@@ -21,3 +21,4 @@
 # Tasks
 
 - #3619 : Add margin-right and margin-left in external application example
+- #3626 : Add information on the documentation regarding small resolution supported
