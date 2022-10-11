@@ -7,6 +7,7 @@
 - #3622 : Add a method for template to avoid potential script injection
 - #3614 : Add onStyleChange() method to templateGateway
 - #3590 : Control perimeter when an external application send a card
+- #3613 : In confirmation example, show response input only after user clicks on modify answer
 
 # Bugs
 
