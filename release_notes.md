@@ -29,3 +29,4 @@
 
 - #3619 : Add margin-right and margin-left in external application example
 - #3626 : Add information on the documentation regarding small resolution supported
+- #3718 : Add an explicit error message when web-ui.json is not well-formed
