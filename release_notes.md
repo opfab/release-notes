@@ -11,6 +11,7 @@
 - #3681 : Permit to retrieve the list of selected recipients before sending a User Card
 - #3695 : Set checkbox disabled style available for templates
 - #2814 : Show pinned cards also on small screen view 
+- #3685 : Show entities already acknowledged in card footer for user having more than one entities concerned
 
 # Bugs
 
