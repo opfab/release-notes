@@ -10,6 +10,7 @@
 - #3613 : In confirmation example, show response input only after user clicks on modify answer
 - #3681 : Permit to retrieve the list of selected recipients before sending a User Card
 - #3695 : Set checkbox disabled style available for templates
+- #2814 : Show pinned cards also on small screen view 
 
 # Bugs
 
