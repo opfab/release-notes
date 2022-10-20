@@ -29,6 +29,7 @@
 - #3628 : Solve bug : In templates , with slow network, style is apply long after template processing
 - #3664 : Chekboxes in external configuration screen lose state when changing page
 - #3665 : When process name is long, it overlaps the following process name in notification configuration screen
+- #3716 : Error message when sending card message example
 
 # Tasks
 
