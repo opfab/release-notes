@@ -14,6 +14,7 @@
 - #3685 : Show entities already acknowledged in card footer for user having more than one entities concerned
 - #3447 : Make card titles case configurable
 - #3720 : Use less space for edit/delete columns in admin screens
+- #3702 : Reminder feature : deal with time field when it is non filled
 
 # Bugs
 
