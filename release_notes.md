@@ -16,6 +16,7 @@
 - #3720 : Use less space for edit/delete columns in admin screens
 - #3702 : Reminder feature : deal with time field when it is non filled
 - #3525 : Add configuration option for custom background layer for geo maps
+- #3738 : Add environment banner on the login screen
 
 # Bugs
 
