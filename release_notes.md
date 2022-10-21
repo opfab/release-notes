@@ -33,6 +33,7 @@
 - #3665 : When process name is long, it overlaps the following process name in notification configuration screen
 - #3716 : Error message when sending card message example
 - #3750 : Failed to delete subscription when logging out
+- #3755 : Remove vertical scrollbar in login screen
 
 # Tasks
 
