@@ -17,6 +17,7 @@
 - #3702 : Reminder feature : deal with time field when it is non filled
 - #3525 : Add configuration option for custom background layer for geo maps
 - #3738 : Add environment banner on the login screen
+- #3751 : Permit to show acknowledgment footer to all users
 
 # Bugs
 
