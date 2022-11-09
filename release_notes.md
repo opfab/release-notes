@@ -19,6 +19,7 @@
 - #3738 : Add environment banner on the login screen
 - #3751 : Permit to show acknowledgment footer to all users
 - #3604 : Add months possibility for repeating reminder feature
+- #3781 : Make disabled checkboxes coherent in notification configuration screen
 
 # Bugs
 
