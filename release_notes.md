@@ -38,7 +38,8 @@
 - #3716 : Error message when sending card message example
 - #3750 : Failed to delete subscription when logging out
 - #3755 : Remove vertical scrollbar in login screen
-- #3222 : Grouped cards have graphical bug in day mode 
+- #3222 : Grouped cards have graphical bug in day mode
+- #3826 : Code injection in multiselect component
 
 # Tasks
 
