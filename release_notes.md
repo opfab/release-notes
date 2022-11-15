@@ -1,3 +1,7 @@
+# Migration from 3.10.x
+
+See [Migration Guide from release 3.10.x to release 3.11.0](https://opfab.github.io/documentation/archives/3.11.0.RELEASE/docs/single_page_doc.html#_migration_guide_from_release_3_10_x_to_release_3_11_0)
+
 # Features
 
 - #3620 : Disable footer when using iFrames
