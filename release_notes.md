@@ -21,6 +21,7 @@
 - #3604 : Add months possibility for repeating reminder feature
 - #3781 : Make disabled checkboxes coherent in notification configuration screen
 - #3805 : Improve display of multi-line card titles 
+- #3833 : Define a minimum value for sound replayInterval
 
 # Bugs
 
