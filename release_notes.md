@@ -9,5 +9,6 @@
 - #3818 : Admin screens, dots after edit button
 - #3824 : Pinned cards : error log in console with reduced view
 - #3752 : Entity acknowledgment should mark the card as acknowledged for all users of the entity
+- #3831 : Problem with "active from/to" and "publish from/to" dates in archives/logging screens
 
 # Tasks
