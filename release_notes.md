@@ -2,6 +2,7 @@
 
 - #3717: Add business logs
 - #3731 : Do not show unacknowledgment button when ack is at the entity level
+- #3776 : Add in archives footer card detail the entity recipients
 
 # Bugs
 - #3829 : Monitoring : wrong label in multiselect for service when process groups not totally configured
