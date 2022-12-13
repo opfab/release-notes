@@ -7,6 +7,7 @@
 - #3884 : Add an option to have no keepAlive for connections to external devices
 - #3888 : Open only one connection to a physical external device
 - #3793 : Logging: add search filters on title and summary columns
+- #3722 : Add opfab user roles
 
 # Bugs
 - #3829 : Monitoring : wrong label in multiselect for service when process groups not totally configured
