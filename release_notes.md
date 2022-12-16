@@ -8,6 +8,7 @@
 - #3888 : Open only one connection to a physical external device
 - #3793 : Logging: add search filters on title and summary columns
 - #3722 : Add opfab user roles
+- #3762 : Automatic deletion of cards after an expiration date time has been reached
 
 # Bugs
 - #3829 : Monitoring : wrong label in multiselect for service when process groups not totally configured
