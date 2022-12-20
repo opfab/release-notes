@@ -21,3 +21,5 @@
 - #3825 : The arrow from the grouped cards symbol would appear even though there are no grouped cards due to the filter settings.
 
 # Tasks
+
+- #3931 : Archives: fetch archived cards using ArchivedCardsFilter
