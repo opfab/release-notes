@@ -27,3 +27,4 @@
 
 - #3931 : Archives: fetch archived cards using ArchivedCardsFilter
 - #3915 : External app : changing the type of the returned object
+- #3628 : Removed padding on column headers for the loggings screen
