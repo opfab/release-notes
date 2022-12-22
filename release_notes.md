@@ -26,3 +26,4 @@
 # Tasks
 
 - #3931 : Archives: fetch archived cards using ArchivedCardsFilter
+- #3915 : External app : changing the type of the returned object
