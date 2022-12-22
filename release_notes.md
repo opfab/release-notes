@@ -21,6 +21,7 @@
 - #3831 : Problem with "active from/to" and "publish from/to" dates in archives/logging screens
 - #3854 : Cannot add user external device config when slow network
 - #3825 : The arrow from the grouped cards symbol would appear even though there are no grouped cards due to the filter settings.
+- #3950 : Fix reset button does not clear tags filter in Archives page
 
 # Tasks
 
