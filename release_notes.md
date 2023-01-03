@@ -11,6 +11,7 @@
 - #3762 : Automatic deletion of cards after an expiration date time has been reached
 - #3772 : Add READONLY opfab role
 - #3930 : Add the possibility to show menu based on roles
+- #3959 : Map the JWT custom name field to the family_name field
 
 # Bugs
 - #3829 : Monitoring : wrong label in multiselect for service when process groups not totally configured
