@@ -30,3 +30,4 @@
 - #3915 : External app : changing the type of the returned object
 - #3628 : Removed padding on column headers for the loggings screen
 - #3911 : Update dependency chart.js to v4
+- #3993 : Add a new example for getting started
