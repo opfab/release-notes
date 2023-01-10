@@ -31,4 +31,5 @@
 - #3628 : Removed padding on column headers for the loggings screen
 - #3911 : Update dependency chart.js to v4
 - #3993 : Add a new example for getting started
-- #4002 : Upgrade Keycloak and MongoDB #4002
+- #4002 : Upgrade Keycloak and MongoDB 
+- #2730 : Remove deprecated method templateGateway.getSpecificCardInformation()
