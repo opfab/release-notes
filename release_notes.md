@@ -7,13 +7,11 @@
 - #3884 : Add an option to have no keepAlive for connections to external devices
 - #3888 : Open only one connection to a physical external device
 - #3793 : Logging: add search filters on title and summary columns
-- #3722 : Add opfab user roles
 - #3762 : Automatic deletion of cards after an expiration date time has been reached
-- #3772 : Add READONLY opfab role
-- #3930 : Add the possibility to show menu based on roles
 - #3959 : Map the JWT custom name field to the family_name field
 - #3618 : Disabled the pop up button if no entities are selected when responding to a card
-- #3627 :Added the pop up text when hovering the response arrow in the monitoring feed
+- #3627 : Added the pop up text when hovering the response arrow in the monitoring feed
+- #4006 : Add a permission mechanism 
 
 # Bugs
 - #3829 : Monitoring : wrong label in multiselect for service when process groups not totally configured
