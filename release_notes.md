@@ -13,6 +13,7 @@
 - #3930 : Add the possibility to show menu based on roles
 - #3959 : Map the JWT custom name field to the family_name field
 - #3618 : Disabled the pop up button if no entities are selected when responding to a card
+- #3627 :Added the pop up text when hovering the response arrow in the monitoring feed
 
 # Bugs
 - #3829 : Monitoring : wrong label in multiselect for service when process groups not totally configured
