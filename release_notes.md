@@ -25,6 +25,7 @@
 - #3825 : The arrow from the grouped cards symbol would appear even though there are no grouped cards due to the filter settings.
 - #3950 : Fix reset button does not clear tags filter in Archives page
 - #3848 : Deeplink iFrame link bug
+- #3375 : Lock answer in archived cards detail
 
 # Tasks
 
