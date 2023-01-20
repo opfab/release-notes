@@ -12,6 +12,7 @@
 - #3618 : Disabled the pop up button if no entities are selected when responding to a card
 - #3627 : Added the pop up text when hovering the response arrow in the monitoring feed
 - #4006 : Add a permission mechanism 
+- #4008 : Set autofocus on OK button in admin confirmation popups
 
 # Bugs
 - #3829 : Monitoring : wrong label in multiselect for service when process groups not totally configured
