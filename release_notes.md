@@ -26,6 +26,7 @@
 - #3950 : Fix reset button does not clear tags filter in Archives page
 - #3848 : Deeplink iFrame link bug
 - #3375 : Lock answer in archived cards detail
+- #4062 : Fix error in console when opening card with no childs from Archives screen
 
 # Tasks
 
