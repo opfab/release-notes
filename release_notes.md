@@ -13,6 +13,7 @@
 - #3627 : Added the pop up text when hovering the response arrow in the monitoring feed
 - #4006 : Add a permission mechanism 
 - #4008 : Set autofocus on OK button in admin confirmation popups
+- #3773 : New reminder feature using RFC 5545 recurrence structure
 
 # Bugs
 - #3829 : Monitoring : wrong label in multiselect for service when process groups not totally configured
@@ -37,3 +38,4 @@
 - #3993 : Add a new example for getting started
 - #4002 : Upgrade Keycloak and MongoDB 
 - #2730 : Remove deprecated method templateGateway.getSpecificCardInformation()
+
