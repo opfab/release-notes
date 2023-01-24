@@ -14,6 +14,7 @@
 - #4006 : Add a permission mechanism 
 - #4008 : Set autofocus on OK button in admin confirmation popups
 - #3773 : New reminder feature using RFC 5545 recurrence structure
+- #4063 : Do not show menu when user has not the good permission
 
 # Bugs
 - #3829 : Monitoring : wrong label in multiselect for service when process groups not totally configured
