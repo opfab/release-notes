@@ -29,6 +29,7 @@
 - #3848 : Deeplink iFrame link bug
 - #3375 : Lock answer in archived cards detail
 - #4062 : Fix error in console when opening card with no childs from Archives screen
+- #4087 : Admin users : field "authorizedIPAddresses" not taken into account
 
 # Tasks
 
