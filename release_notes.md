@@ -1,3 +1,7 @@
+# Migration from 3.11.x
+
+See [Migration Guide from release 3.11.x to release 3.12.0](https://opfab.github.io/documentation/archives/3.12.0.RELEASE/docs/single_page_doc.html#_migration_guide_from_release_3_11_x_to_release_3_12_0)
+
 # Features
 
 - #3717 : Add business logs
