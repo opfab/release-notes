@@ -8,6 +8,7 @@
 - #4088 : Fix error in console log when creating a new group
 - #4098 : Fix Feed search placeholder is not translated
 - #4099 : Fix Feed search clear icon style
+- #4092 : Fix Admin menu entry not translated in french
 
 # Tasks
 
