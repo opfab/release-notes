@@ -6,6 +6,7 @@
 
 - #3819 : Fix choose activity area on login does not take into account day mode
 - #4088 : Fix error in console log when creating a new group
+- #4098 : Fix Feed search placeholder is not translated
 
 # Tasks
 
