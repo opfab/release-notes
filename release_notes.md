@@ -10,6 +10,7 @@
 - #4098 : Fix Feed search placeholder is not translated
 - #4099 : Fix Feed search clear icon style
 - #4092 : Fix Admin menu entry not translated in french
+- #4101 : Fix spinner position when search in feed activated
 
 # Tasks
 
