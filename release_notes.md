@@ -1,6 +1,7 @@
 # Features
 
 -  #1321 : Prevented entity name and group name duplication
+-  #3798 : Add ADMIN_BUSINESS_PROCESS permission for pushing bundles
 
 # Bugs
 
