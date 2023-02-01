@@ -14,3 +14,5 @@
 
 # Tasks
 
+- #4104 : Add seconds in Date column in user action logs
+
