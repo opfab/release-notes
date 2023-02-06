@@ -3,6 +3,7 @@
 -  #1321 : Prevented entity name and group name duplication
 -  #3798 : Add ADMIN_BUSINESS_PROCESS permission for pushing bundles
 -  #4107 : Added tooltips for the new card and calendar buttons
+-  #4104 : Add seconds in Date column in user action logs
 
 # Bugs
 
@@ -16,6 +17,5 @@
 
 # Tasks
 
-- #4104 : Add seconds in Date column in user action logs
 - #4145 : Updated to Spring Kafka V3.x
 
