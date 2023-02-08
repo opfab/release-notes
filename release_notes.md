@@ -7,6 +7,7 @@
 -  #4134 : Play sound and show alert when a new card is not visible in feed
 -  #4184 : Add a disable/enable method for multiselect component
 -  #4181 : Add an option to deactivate user action log
+-  #4170 : Renamed the viewCardInAgenda parameter to viewCardInCalendar
 
 # Bugs
 
