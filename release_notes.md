@@ -6,6 +6,7 @@
 -  #4104 : Add seconds in Date column in user action logs
 -  #4134 : Play sound and show alert when a new card is not visible in feed
 -  #4184 : Add a disable/enable method for multiselect component
+-  #4181 : Add an option to deactivate user action log
 
 # Bugs
 
