@@ -5,6 +5,7 @@
 -  #4107 : Added tooltips for the new card and calendar buttons
 -  #4104 : Add seconds in Date column in user action logs
 -  #4134 : Play sound and show alert when a new card is not visible in feed
+-  #4184 : Add a disable/enable method for multiselect component
 
 # Bugs
 
