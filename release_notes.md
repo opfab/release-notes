@@ -9,6 +9,7 @@
 -  #4181 : Add an option to deactivate user action log
 -  #4170 : Renamed the viewCardInAgenda parameter to viewCardInCalendar
 -  #4159 : lttdVisible & expirationDateVisible set by default to false
+-  #4185 : Added the possibility to never show the acknowledgement footer
 
 # Bugs
 
