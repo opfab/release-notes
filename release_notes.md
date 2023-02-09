@@ -10,6 +10,7 @@
 -  #4170 : Renamed the viewCardInAgenda parameter to viewCardInCalendar
 -  #4159 : lttdVisible & expirationDateVisible set by default to false
 -  #4185 : Added the possibility to never show the acknowledgement footer
+-  #3981 : Add new feature in task advanced example (Monthly recurrence)
 
 # Bugs
 
