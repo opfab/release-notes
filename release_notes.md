@@ -12,6 +12,7 @@
 -  #4185 : Added the possibility to never show the acknowledgement footer
 -  #3981 : Add new feature in task advanced example (Monthly recurrence)
 -  #4105 : Open corresponding archive card when clicking on card id in user action logs screen
+-  #1280 IP address format validator when adding or editing a user in the admin screen
 
 # Bugs
 
