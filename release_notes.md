@@ -14,6 +14,7 @@
 -  #4105 : Open corresponding archive card when clicking on card id in user action logs screen
 -  #1280 : IP address format validator when adding or editing a user in the admin screen
 -  #4126 : Show popup with list of cards on the geomap
+-  #4216 : Remove space in end of login to avoid user mistake
 
 # Bugs
 
