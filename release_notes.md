@@ -26,6 +26,7 @@
 - #4101 : Fix spinner position when search in feed activated
 - #4156 : IT incident example card : "impacted services" not selected in edit mode
 - #4154 : Usercard template does not change when switching from same state id in a different process
+- #4096 : Real time screen : vertical scrollbar sometimes without any reason
 
 # Tasks
 
