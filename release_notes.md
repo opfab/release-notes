@@ -28,6 +28,7 @@
 - #4156 : IT incident example card : "impacted services" not selected in edit mode
 - #4154 : Usercard template does not change when switching from same state id in a different process
 - #4096 : Real time screen : vertical scrollbar sometimes without any reason
+- #4228 : Geomap graph size is smaller than original size
 
 # Tasks
 
