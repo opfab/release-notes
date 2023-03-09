@@ -10,5 +10,6 @@
 # Tasks
 
 - #4214 : Update dependency chart.js to v4.2.1
+- #4234 : Remove use of deprecated method authorizeRequests()
 
 
