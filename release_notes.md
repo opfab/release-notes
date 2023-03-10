@@ -6,6 +6,8 @@
 
 # Bugs
 
+- #4230 : Fix task duration not used in calendar
+
 
 # Tasks
 
