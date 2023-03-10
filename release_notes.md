@@ -5,6 +5,7 @@
 - #4252 : Update the days name in the X-axis of the timeline under the "month" setting
 - #4295 : Reduced login format requirements to just have at least 1 character
 - #4243 : Reinforce form controls when sending a recurrent card in Task Advanced example
+- #4280 : Geographical map: Add GeoJSON layers to map from config
 
 # Bugs
 
