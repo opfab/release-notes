@@ -6,6 +6,7 @@
 - #4295 : Reduced login format requirements to just have at least 1 character
 - #4243 : Reinforce form controls when sending a recurrent card in Task Advanced example
 - #4280 : Geographical map: Add GeoJSON layers to map from config
+- #4288 : In task example : add a checkbox to select/unselect all month/week
 
 # Bugs
 
