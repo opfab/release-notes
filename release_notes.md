@@ -4,6 +4,7 @@
 - #4251 : Scrollable card list in popup of timeline 
 - #4252 : Update the days name in the X-axis of the timeline under the "month" setting
 - #4295 : Reduced login format requirements to just have at least 1 character
+- #4243 : Reinforce form controls when sending a recurrent card in Task Advanced example
 
 # Bugs
 
