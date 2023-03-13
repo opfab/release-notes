@@ -12,6 +12,7 @@
 
 - #4230 : Fix task duration not used in calendar
 - #4245 : Fix browser stuck for user tryin to connect without authorized IP address
+- #4237 : Field 'recipientList' in config.json should not be used for default selected values
 
 
 # Tasks
