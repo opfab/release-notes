@@ -11,6 +11,7 @@
 # Bugs
 
 - #4230 : Fix task duration not used in calendar
+- #4245 : Fix browser stuck for user tryin to connect without authorized IP address
 
 
 # Tasks
