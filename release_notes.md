@@ -7,6 +7,7 @@
 - #4243 : Reinforce form controls when sending a recurrent card in Task Advanced example
 - #4280 : Geographical map: Add GeoJSON layers to map from config
 - #4288 : In task example : add a checkbox to select/unselect all month/week
+- #4220 : Display the feed filters and sort on the left of the screen
 
 # Bugs
 
