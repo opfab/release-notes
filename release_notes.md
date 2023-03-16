@@ -9,6 +9,7 @@
 - #4288 : In task example : add a checkbox to select/unselect all month/week
 - #4220 : Display the feed filters and sort on the left of the screen
 - #4153 : Add new field "entityRecipientsForInformation"
+- #4180 : User action logs older than 61 days (default value) are automatically deleted.
 
 # Bugs
 
