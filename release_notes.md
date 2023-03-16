@@ -10,6 +10,7 @@
 - #4220 : Display the feed filters and sort on the left of the screen
 - #4153 : Add new field "entityRecipientsForInformation"
 - #4180 : User action logs older than 61 days (default value) are automatically deleted.
+- #4202 : Added an experimental feature in the available tabs. A dashboard allowing a summarized view of the different unacknowledged cards.
 
 # Bugs
 
