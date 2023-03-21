@@ -20,6 +20,7 @@
 - #4245 : Fix browser stuck for user tryin to connect without authorized IP address
 - #4237 : Field 'recipientList' in config.json should not be used for default selected values
 - #4313 : Handle remind cards like other cards when hidden from filters
+- #4336 : Card with spaces in processInstanceId are not visible in card detail
 
 
 # Tasks
