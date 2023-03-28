@@ -32,4 +32,5 @@
 - #4234 : Remove use of deprecated method authorizeRequests()
 - #4296 : Updated mongodb to 5.0.15
 - #4346 : Refacto RabbitMQ usage
+- #4320 : Moved the bundle storage one folder deeper
 
