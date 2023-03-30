@@ -15,6 +15,7 @@
 - #3778 : Add options to use operating system notifications
 - #4323 : Add permission VIEW_USER_ACTION_LOGS
 - #4340 : Add permission request for push notifications 
+- #4344 : Scrollable list in the geomap popup
 
 # Bugs
 
