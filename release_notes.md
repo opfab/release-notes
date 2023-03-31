@@ -17,6 +17,7 @@
 - #4340 : Add permission request for push notifications 
 - #4344 : Scrollable list in the geomap popup
 - #4367 : Improve alert message for cards hidden by filter
+- #4373 : Sound notification enhancement
 
 # Bugs
 
