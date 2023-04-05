@@ -27,6 +27,7 @@
 - #4313 : Handle remind cards like other cards when hidden from filters
 - #4336 : Card with spaces in processInstanceId are not visible in card detail
 - #4341 : Card detail fail to process template for old bundle version
+- #4345 : First and last name for new user in keycloak are not set properly in opfab
 
 
 # Tasks
