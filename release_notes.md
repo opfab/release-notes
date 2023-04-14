@@ -20,6 +20,7 @@
 - #4373 : Sound notification enhancement
 - #4332 : It is now possible to push json files in businessconfig/businessdata and to access those files from templates
 - #4399 : Adjust column width in logging screen
+- #4410 : Add a js method for template to open a specific card in the feed
 
 # Bugs
 
