@@ -32,6 +32,7 @@
 - #4341 : Card detail fail to process template for old bundle version
 - #4345 : First and last name for new user in keycloak are not set properly in opfab
 - #4349 : The "Process" drop-down list is not displayed when a user has no rights on any process
+- #4318 : Unexpected error message on the console from the card feed tab
 
 
 # Tasks
