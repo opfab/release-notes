@@ -12,9 +12,8 @@
 - #4180 : User action logs older than 61 days (default value) are automatically deleted.
 - #4202 : Added an experimental feature in the available tabs. A dashboard allowing a summarized view of the different unacknowledged cards.
 - #4300 : Add SASL Oauth capability for Kafka
-- #3778 : Add options to use operating system notifications
+- #3778, #4340 : Add options to use operating system notifications
 - #4323 : Add permission VIEW_USER_ACTION_LOGS
-- #4340 : Add permission request for push notifications 
 - #4344 : Scrollable list in the geomap popup
 - #4367 : Improve alert message for cards hidden by filter
 - #4373 : Sound notification enhancement
