@@ -2,6 +2,7 @@
 
 - #4408 : Add an API method to delete all businessdata files
 - #4427 : Sorted the names of the processes in the dashboard
+- #4339 : Process , state and processInstanceId can not contain anymore '#' , '?' or '/'
 
 # Bugs
 
