@@ -9,3 +9,4 @@
 # Tasks
 
 - #4382 : Add migration script to pass from version 3.X.X to 3.14.X
+- #4486 : Simplify proxy configuration for docker images build and improve documentation regarding proxy
