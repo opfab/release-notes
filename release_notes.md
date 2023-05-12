@@ -7,6 +7,8 @@
 
 # Bugs
 
+- #4479 : Fix space between the menus navigation bar and the top of the page
+
 # Tasks
 
 - #4382 : Add migration script to pass from version 3.X.X to 3.14.X
