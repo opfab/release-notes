@@ -8,6 +8,7 @@
 # Bugs
 
 - #4479 : Fix space between the menus navigation bar and the top of the page
+- #4480 : Do not limit the number of cards returned in archives export
 
 # Tasks
 
