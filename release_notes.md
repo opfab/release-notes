@@ -4,7 +4,8 @@
 - #4427 : Sorted the names of the processes in the dashboard
 - #4339 : Process , state and processInstanceId can not contain anymore '#' , '?' or '/'
 - #2373 : Remove deprecated use of recipientList in state definition 
-- #4439 Remove group column from activity area screen choice
+- #4439 : Remove group column from activity area screen choice
+- #4435 : Remove use of groups in realtime screen
 
 # Bugs
 
