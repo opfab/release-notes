@@ -12,6 +12,7 @@
 - #4479 : Fix space between the menus navigation bar and the top of the page
 - #4480 : Do not limit the number of cards returned in archives export
 - #4509 : Reload external application when clicking again on the application link in navbar menu
+- #4514 : Session closed in implicit mode without warning
 
 # Tasks
 
