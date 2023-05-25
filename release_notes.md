@@ -6,6 +6,7 @@
 - #2373 : Remove deprecated use of recipientList in state definition 
 - #4439 : Remove group column from activity area screen choice
 - #4435 : Remove use of groups in realtime screen
+- #4417 : Sending a heartbeat to the back from the user interface to better detect loss of connection 
 
 # Bugs
 
