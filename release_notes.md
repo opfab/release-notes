@@ -7,6 +7,7 @@
 - #4439 : Remove group column from activity area screen choice
 - #4435 : Remove use of groups in realtime screen
 - #4417 : Sending a heartbeat to the back from the user interface to better detect loss of connection 
+- #4494 : Add possibility to restrict the list of entities for sending card
 
 # Bugs
 
