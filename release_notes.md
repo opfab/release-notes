@@ -16,6 +16,7 @@
 - #4480 : Do not limit the number of cards returned in archives export
 - #4509 : Reload external application when clicking again on the application link in navbar menu
 - #4514 : Session closed in implicit mode without warning
+- #4543 : Fix ack filter default value and reset
 
 # Tasks
 
