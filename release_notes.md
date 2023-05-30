@@ -8,6 +8,7 @@
 - #4435 : Remove use of groups in realtime screen
 - #4417 : Sending a heartbeat to the back from the user interface to better detect loss of connection 
 - #4494 : Add possibility to restrict the list of entities for sending card
+- #4526 : Adding of the new helper 'findObjectByProperty'
 
 # Bugs
 
