@@ -4,6 +4,7 @@
 - #4396 : Add service cards-external-diffusion 
 - #4448 : Create usercard as a copy
 - #4546 : Add a message if the user has no process/state in the dashboard
+- #4447 : Add connection status circle next to entities in card preview
 
 # Bugs
 
