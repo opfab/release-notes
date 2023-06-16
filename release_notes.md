@@ -6,6 +6,7 @@
 - #4546 : Add a message if the user has no process/state in the dashboard
 - #4447 : Add connection status circle next to entities in card preview
 - #4438 : Opfab API V1
+- #3629 : Optimize grouping feed feature when a lot of cards are present
 
 # Bugs
 
