@@ -7,6 +7,7 @@
 - #4447 : Add connection status circle next to entities in card preview
 - #4438 : Opfab API V1
 - #3629 : Optimize grouping feed feature when a lot of cards are present
+- #4607 : Add reload page button to the application-loading screen #4607
 
 # Bugs
 
