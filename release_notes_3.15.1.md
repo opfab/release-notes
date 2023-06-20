@@ -2,6 +2,7 @@
 - #4573 : See card sent by your entities
 
 # Bugs
+- #4608 : Fixed the showDetailCardHeader condition
 
 # Tasks
 - #4525 : Control the process id in config.json files (Security issue)
