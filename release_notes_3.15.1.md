@@ -5,6 +5,6 @@
 
 # Tasks
 - #4525 : Control the process id in config.json files (Security issue)
-
+- #4636 : Sanitize inputs in business config service (Security issue)
 
 
