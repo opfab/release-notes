@@ -17,7 +17,6 @@
 - #4542 : Dashboard : unexpected redirection to the feed after editing and updating a card
 - #4536 : Fix datepicker reset
 - #4537 : Removed scrollbar and fullscreen button from dashboard cards
-- #4608 : Fixed the showDetailCardHeader condition
 - #4533 : Fixed the date format when 'Day' is selected on the timeline while hidden
 
 
