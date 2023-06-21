@@ -8,7 +8,10 @@
 - #4438 : Opfab API V1
 - #3629 : Optimize grouping feed feature when a lot of cards are present
 - #4607 : Add reload page button to the application-loading screen
-- #4596 : Remove "Write" right for perimeters 
+- #4596 : Remove "Write" right for perimeters
+- #4451 : If navigation bar menu has only one entry, show submenu anyway
+
+
 
 # Bugs
 
