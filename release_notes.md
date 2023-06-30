@@ -26,3 +26,4 @@
 # Tasks
 
  - #4454 : Add scripts to change log level on services
+ - #4586 : Transfer card reminder management from ui to backend
