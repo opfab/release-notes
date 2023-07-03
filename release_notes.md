@@ -10,6 +10,7 @@
 - #4607 : Add reload page button to the application-loading screen
 - #4596 : Remove "Write" right for perimeters
 - #4451 : If navigation bar menu has only one entry, show submenu anyway
+- #4640 : Do not authorize space in login and minimum length 2 characters
 
 
 
