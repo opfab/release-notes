@@ -1,7 +1,7 @@
 # Features
 
 - #4442 : Add a more customizable navigation bar menu
-- #4396 : Add service cards-external-diffusion 
+- #4396 : Add a service to send card reception alerte via mail (cards-external-diffusion service)
 - #4448 : Create usercard as a copy
 - #4546 : Add a message if the user has no process/state in the dashboard
 - #4447 : Add connection status circle next to entities in card preview
@@ -12,6 +12,7 @@
 - #4451 : If navigation bar menu has only one entry, show submenu anyway
 - #4640 : Do not authorize space in login and minimum length 2 characters
 - #4320 : Add a ui screen to manage buisness data file
+- #4449 : Add a supervisor for connections and not acknowledged cards (supervisor service)
 
 
 
@@ -29,5 +30,5 @@
 # Tasks
 
  - #4454 : Add scripts to change log level on services
- - #4586 : Transfer card reminder management from ui to backend
+ - #4586 : Transfer card reminder management from ui to backend (cards-reminder service)
  - #4687 : Simplify opfab configuration
