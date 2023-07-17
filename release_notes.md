@@ -13,7 +13,8 @@
 - #4640 : Do not authorize space in login and minimum length 2 characters
 - #4320 : Add a ui screen to manage buisness data file
 - #4449 : Add a supervisor for connections and not acknowledged cards (supervisor service)
-- #4641 When adding or editing a user, it's possible to see, add or edit a comment about the user
+- #4641 : When adding or editing a user, it's possible to see, add or edit a comment about the user
+- #4669 : No longer consider case when checking login is equal to publisher / representative for card sending
 
 
 
