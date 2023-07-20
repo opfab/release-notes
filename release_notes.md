@@ -15,7 +15,7 @@
 - #4449 : Add a supervisor for connections and not acknowledged cards (supervisor service)
 - #4641 : When adding or editing a user, it's possible to see, add or edit a comment about the user
 - #4669 : No longer consider case when checking login is equal to publisher / representative for card sending
-
+- #4764 : Added the option 'hideBusinessMessages' to web-ui.json to hide alert messages with level "BUSINESS'and renamed and moved alertMessageBusinessAutoClose and alertMessageOnBottomOfTheScreen to a new alerts section in the config
 
 
 # Bugs
