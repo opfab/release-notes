@@ -32,6 +32,6 @@
 # Tasks
 
  - #4454 : Add scripts to change log level on services
- - #4586 : Transfer card reminder management from ui to backend (cards-reminder service)
+ - #4586, #4732 : Transfer card reminder management from ui to backend (cards-reminder service)
  - #4687 : Simplify opfab configuration
  - #4704 : Migrate to java 17.0.7
