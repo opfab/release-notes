@@ -37,3 +37,4 @@
  - #4586, #4732 : Transfer card reminder management from ui to backend (cards-reminder service)
  - #4687 : Simplify opfab configuration
  - #4704 : Migrate to java 17.0.8
+ - #4689 : Add a mongoDB index for field parentCardId (in cards and in archives)
