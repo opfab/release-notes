@@ -39,3 +39,4 @@
  - #4687 : Simplify opfab configuration
  - #4704 : Migrate to java 17.0.8
  - #4689 : Add a mongoDB index for field parentCardId (in cards and in archives)
+ - #4834 : Simplify endpoints configuration in UI
