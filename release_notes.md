@@ -41,3 +41,4 @@
  - #4689 : Add a mongoDB index for field parentCardId (in cards and in archives)
  - #4834 : Simplify endpoints configuration in UI
  - #4804 : Update dependency chart.js to v4.3.3
+ - #4738 : Load processes with all versions on ui startup
