@@ -18,7 +18,8 @@
 - #4764 : Added the option 'hideBusinessMessages' to web-ui.json to hide alert messages with level "BUSINESS'and renamed and moved alertMessageBusinessAutoClose and alertMessageOnBottomOfTheScreen to a new alerts section in the config
 - #4727 : Titles of cards in the front are truncated if too long
 - #4329 : Rate limiter for card sending
-- #4776 : Add a tooltip to show user connected entities 
+- #4776 : Add a tooltip to show user connected entities
+- #4368 In archives view / export : removed field business period, added fields publisher, entity recipients and process
 
 
 # Bugs
