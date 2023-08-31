@@ -19,7 +19,8 @@
 - #4727 : Titles of cards in the front are truncated if too long
 - #4329 : Rate limiter for card sending
 - #4776 : Add a tooltip to show user connected entities
-- #4368 In archives view / export : removed field business period, added fields publisher, entity recipients and process
+- #4368 : In archives view / export : removed field business period, added fields publisher, entity recipients and process
+- #4884 : Add business period in card footer for archives detail card 
 
 
 # Bugs
