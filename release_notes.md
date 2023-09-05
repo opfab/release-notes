@@ -22,6 +22,7 @@
 - #4368 : In archives view / export : removed field business period, added fields publisher, entity recipients and process
 - #4884 : Add business period in card footer for archives detail card
 - #4632 : Grouped cards : blue arrow should not be displayed if only one card
+- #4948 : Permit to send geo information from a user card
 
 
 # Bugs
