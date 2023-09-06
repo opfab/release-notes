@@ -23,6 +23,7 @@
 - #4884 : Add business period in card footer for archives detail card
 - #4632 : Grouped cards : blue arrow should not be displayed if only one card
 - #4948 : Permit to send geo information from a user card
+- #4794 : Add the possibility to set the publisher of the card via getUserResponse
 
 
 # Bugs
