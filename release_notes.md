@@ -1,7 +1,7 @@
 # Features
 
 - #4442, #4706 : Add a more customizable navigation bar menu
-- #4396 : Add a service to send card reception alerte via mail (cards-external-diffusion service)
+- #4396, #4712 : Add a service to send card reception alerte via mail (cards-external-diffusion service)
 - #4448 : Create usercard as a copy
 - #4546 : Add a message if the user has no process/state in the dashboard
 - #4447 : Add connection status circle next to entities in card preview
