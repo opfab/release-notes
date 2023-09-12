@@ -47,6 +47,6 @@
  - #4704 : Migrate to java 17.0.8
  - #4689 : Add a mongoDB index for field parentCardId (in cards and in archives)
  - #4834 : Simplify endpoints configuration in UI
- - #4804 : Update dependency chart.js to v4.3.3
+ - #4914 : Update dependency chart.js to v4.4.0
  - #4738 : Load processes with all versions on ui startup
  - #4984 : Prevent log injection
