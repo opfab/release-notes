@@ -49,3 +49,4 @@
  - #4834 : Simplify endpoints configuration in UI
  - #4804 : Update dependency chart.js to v4.3.3
  - #4738 : Load processes with all versions on ui startup
+ - #4984 : Prevent log injection
