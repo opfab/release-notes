@@ -26,6 +26,7 @@
 - #4794 : Add the possibility to set the publisher of the card via getUserResponse
 - #4518 : Add a tooltip component for template or external apps
 - #4963 : Add methods userCardTemplate.setSelectedRecipients and userCardTemplate.setSelectedRecipientsForInformation
+- #4900 : Realtime screen : only show users member of specific groups
 
 
 # Bugs
