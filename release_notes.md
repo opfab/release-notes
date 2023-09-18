@@ -54,3 +54,4 @@
  - #4984 : Prevent log injection
  - #4922 : Create an operatorfabric docker for RabbitMQ to fix rabbit version
  - #4945 : Rename external recipients config params
+ - #5030 : Close eventStream when session is really expired
