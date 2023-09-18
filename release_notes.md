@@ -53,3 +53,4 @@
  - #4738 : Load processes with all versions on ui startup
  - #4984 : Prevent log injection
  - #4922 : Create an operatorfabric docker for RabbitMQ to fix rabbit version
+ - #4945 : Rename external recipients config params
