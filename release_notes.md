@@ -27,6 +27,7 @@
 - #4518 : Add a tooltip component for template or external apps
 - #4963 : Add methods userCardTemplate.setSelectedRecipients and userCardTemplate.setSelectedRecipientsForInformation
 - #4900 : Realtime screen : only show users member of specific groups
+- #4752 Added message selection from a JSON file as a built-in template
 
 
 # Bugs
