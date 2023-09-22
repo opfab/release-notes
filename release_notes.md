@@ -40,6 +40,7 @@
 - #4533 : Fixed the date format when 'Day' is selected on the timeline while hidden
 - #4691 : Error in the formating of delete confirmation for the admin table in dutch
 - #4946 : Fix External application theme when opened in new tab
+- #5068 : Fix bug when accessing a deleted archived card via user actions log screen
 
 
 # Tasks
