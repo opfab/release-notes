@@ -7,7 +7,7 @@ New major features :
 - #4737 : Add build-in templates
 - #4438 : Opfab API V1
 - #4329 : Rate limiter for card sending
-- Configuration simplification and normalisation 
+- #4687,#4834,#4934,#4945 : Configuration simplification and normalisation 
 
 Usercard : 
 
@@ -66,13 +66,10 @@ Misc:
 
  - #4454 : Add scripts to change log level on services
  - #4586, #4732 : Transfer card reminder management from ui to backend (cards-reminder service)
- - #4687 : Simplify opfab configuration
  - #4704 : Migrate to java 17.0.8
  - #4689 : Add a mongoDB index for field parentCardId (in cards and in archives)
- - #4834 : Simplify endpoints configuration in UI
  - #4914 : Update dependency chart.js to v4.4.0
  - #4738 : Load processes with all versions on ui startup
  - #4984 : Prevent log injection
  - #4922 : Create an operatorfabric docker for RabbitMQ to fix rabbit version
- - #4945 : Rename external recipients config params
  - #5030 : Close eventStream when session is really expired
