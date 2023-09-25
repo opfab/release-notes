@@ -47,6 +47,7 @@ Misc:
 - #4632 : Grouped cards : blue arrow should not be displayed if only one card
 - #4518 : Add a tooltip component for template or external apps
 - #4900 : Realtime screen : only show users member of specific groups
+- #5013 : Mask params in navigation bar for external apps
 
 
 # Bugs
