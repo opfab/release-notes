@@ -7,6 +7,7 @@ New major features :
 - #4737 : Add build-in templates
 - #4438 : Opfab API V1
 - #4329 : Rate limiter for card sending
+- Configuration simplification and normalisation 
 
 Usercard : 
 
