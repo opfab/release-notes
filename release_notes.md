@@ -1,3 +1,6 @@
+See [Migration Guide from release 3.15.2 to release 4.0.0](https://github.com/opfab/operatorfabric-core/blob/develop/src/docs/asciidoc/resources/migration_guide_to_4.0.adoc)
+
+
 # Features
 
 New major features :
