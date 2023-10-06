@@ -2,6 +2,7 @@
 # Features
 
 - #5058 : Added recipients for information in message or question list
+- #4751 : Added advanced task as a built-in template
 
 
 # Bugs
