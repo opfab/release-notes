@@ -10,6 +10,7 @@
 
 - #5129 : Avoid never ending spinner if a request to archives fails
 - #5144 : Avoid latency when receiving cards
+- #5115 : Remove border in opfab table
 
 
 # Tasks
