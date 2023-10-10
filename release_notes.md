@@ -13,6 +13,7 @@
 - #5115 : Remove border in opfab table
 - #5169 : Fix search in the Card Feed when the translatedSummary is missing
 - #5102 : Avoid truncated pinned cards
+- #5101 : Fix Automatic full screen mode for card detail in feed when filters visible
 
 
 # Tasks
