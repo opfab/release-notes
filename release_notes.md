@@ -12,6 +12,7 @@
 - #5144 : Avoid latency when receiving cards
 - #5115 : Remove border in opfab table
 - #5169 : Fix search in the Card Feed when the translatedSummary is missing
+- #5102 : Avoid truncated pinned cards
 
 
 # Tasks
