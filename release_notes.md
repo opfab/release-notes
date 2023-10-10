@@ -17,3 +17,4 @@
 # Tasks
 
 - #5116 : Add a script to load supervisor configuration
+- #5117 : Added coordinates to some example cards for richer view on the map
