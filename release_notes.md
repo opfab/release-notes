@@ -22,3 +22,4 @@
 
 - #5116 : Add a script to load supervisor configuration
 - #5117 : Added coordinates to some example cards for richer view on the map
+- #5206 : Set /var/log/opfab as log directory in all node-service dockers
