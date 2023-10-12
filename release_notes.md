@@ -15,6 +15,7 @@
 - #5102 : Avoid truncated pinned cards
 - #5101 : Fix Automatic full screen mode for card detail in feed when filters visible
 - #5112 : Question usercard : it should be impossible to set a lttd anterior to the current date
+- #5120 : Exception in console when geographical map activated 
 
 
 # Tasks
