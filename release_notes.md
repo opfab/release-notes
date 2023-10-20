@@ -18,6 +18,7 @@
 - #5112 : Question usercard : it should be impossible to set a lttd anterior to the current date
 - #5120 : Exception in console when geographical map activated
 - #5177 : Updated the file size limit of uploads to 100 MB
+- #5253 : Do not group cards that have no tag set
 
 
 # Tasks
