@@ -3,8 +3,9 @@
 
 - #5058 : Added recipients for information in message or question list
 - #4751 : Added advanced task as a built-in template
-- #5029 : Add healthcheck endpoint for node services
-- #5103 Added an API endpoint to reset rate limiter
+- #5029 : Added healthcheck endpoint for node services
+- #5103 : Added an API endpoint to reset rate limiter
+- #5056 : Added a permission VIEW_ALL_ARCHIVED_CARDS_FOR_USER_PERIMETERS
 
 
 # Bugs
