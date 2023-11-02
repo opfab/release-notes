@@ -20,6 +20,7 @@
 - #5120 : Exception in console when geographical map activated
 - #5177 : Updated the file size limit of uploads to 100 MB
 - #5253 : Do not group cards that have no tag set
+- #5145 : Activity areas can bypass restriction on emitting entity allowed to respond 
 
 
 # Tasks
