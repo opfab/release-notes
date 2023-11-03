@@ -31,3 +31,4 @@
 - #5117 : Added coordinates to some example cards for richer view on the map
 - #5206 : Set /var/log/opfab as log directory in all node-service dockers
 - #4009 : Migrate to keycloak quarkus
+- #5319 : Add scripts to help dependency analysis
