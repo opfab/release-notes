@@ -23,6 +23,7 @@
 - #5253 : Do not group cards that have no tag set
 - #5145 : Activity areas can bypass restriction on emitting entity allowed to respond
 - #5310 : Correct various bug in card reminder
+- #5334 : Fix bug on buildin template task, for task description field
 
 
 # Tasks
