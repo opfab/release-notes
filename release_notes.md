@@ -8,6 +8,7 @@
 - #5056 : Added a permission VIEW_ALL_ARCHIVED_CARDS_FOR_USER_PERIMETERS
 - #4697 : Process monitoring screen - experimental feature
 - #5108 : Preview of users connected takes notification configuration into account
+- #5312 : The API now allows to call all the entities the user can answer on behalf of
 
 
 # Bugs
