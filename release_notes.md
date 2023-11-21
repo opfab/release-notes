@@ -27,7 +27,8 @@
 - #5310 : Correct various bug in card reminder
 - #5334 : Fix bug on buildin template task, for task description field
 - #5110 : Opening a card from dashboard now closes the tooltip
-- #5389 : Fixed the message-or-question-list message selection #5389
+- #5389 : Fixed the message-or-question-list message selection
+- #5343 : Popover tooltips from the colored circles of timeline and dashboard don't appear or disappear properly
 
 
 # Tasks
