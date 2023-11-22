@@ -10,6 +10,7 @@
 - #5108 : Preview of users connected takes notification configuration into account
 - #5312 : The API now allows to call all the entities the user can answer on behalf of
 - #5028 : Add an admin screen for supervisor
+- #5375 : Use rich text editor in message build in templates
 
 
 # Bugs
