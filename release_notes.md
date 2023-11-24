@@ -41,3 +41,4 @@
 - #5206 : Set /var/log/opfab as log directory in all node-service dockers
 - #4009 : Migrate to keycloak quarkus
 - #5319 : Add scripts to help dependency analysis
+- #5440 : Add an index on mongoDB archivedCards collection for field processInstanceId
