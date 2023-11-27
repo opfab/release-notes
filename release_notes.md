@@ -27,7 +27,7 @@
 - #5177 : Updated the file size limit of uploads to 100 MB
 - #5253 : Do not group cards that have no tag set
 - #5145 : Activity areas can bypass restriction on emitting entity allowed to respond
-- #5310 : Correct various bug in card reminder
+- #5310 : Correct various bug in card reminder
 - #5334 : Fix bug on buildin template task, for task description field
 - #5110 : Opening a card from dashboard now closes the tooltip
 - #5389 : Fixed the message-or-question-list message selection
