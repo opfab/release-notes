@@ -13,6 +13,7 @@
 - #5375 : Use rich text editor in message build in templates
 - #5436 : Removed the type attribute of groups
 - #5490 : Task advanced : make impossible a card without any month/weekday selected
+- #5486 : Fix admin screen missing translations
 
 
 # Bugs
