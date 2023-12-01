@@ -1,6 +1,6 @@
 
 # Features
-
+- #5475 : Rich text editor: highlight active styling buttons
 
 # Bugs
 
