@@ -1,6 +1,7 @@
 
 # Features
 - #5475 : Rich text editor: highlight active styling buttons
+- #5448 : Use badge to show entity recipients for user card preview
 
 # Bugs
 
