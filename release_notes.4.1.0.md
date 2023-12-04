@@ -35,6 +35,7 @@
 - #5389 : Fixed the message-or-question-list message selection
 - #5343 : Popover tooltips from the colored circles of timeline and dashboard don't appear or disappear properly
 - #5481 : Task advanced : in the template, it should be impossible to set a negative number in "task duration" and "minutes to remind before task"
+- #5546 : No reminder occurs when secondsBeforeTimeSpanForReminder is set to 0
 
 
 # Tasks
