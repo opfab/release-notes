@@ -14,3 +14,5 @@
 
 # Tasks
 
+- Updated Spring Kafka to 3.1.0
+
