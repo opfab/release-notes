@@ -11,6 +11,7 @@
 - #5496 : Task advanced : a last comma that should not be displayed
 - #5495 : Task advanced : typo error and no uppercase letters for weekdays and months for french version
 - #5499 : Fix navbar hovering style in day mode
+- #5555 : Reminder shall remove ack at the entity level
 
 # Tasks
 
