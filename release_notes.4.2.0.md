@@ -12,6 +12,7 @@
 - #5495 : Task advanced : typo error and no uppercase letters for weekdays and months for french version
 - #5499 : Fix navbar hovering style in day mode
 - #5555 : Reminder shall remove ack at the entity level
+- #5567 : Right menu entries shall not be grayed out
 
 # Tasks
 
