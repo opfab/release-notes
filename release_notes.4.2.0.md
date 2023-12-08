@@ -3,7 +3,7 @@
 - #5475 : Rich text editor: highlight active styling buttons
 - #5448 : Use badge to show entity recipients for user card preview
 - #5432 : In question card build in template add date column for responses
-
+  
 # Bugs
 
 - #5489 : Remove default value https://quiljs.com in link edition in rich text editor
@@ -13,6 +13,7 @@
 - #5499 : Fix navbar hovering style in day mode
 - #5555 : Reminder shall remove ack at the entity level
 - #5567 : Right menu entries shall not be grayed out
+- #5474 : Prevent non admin users from accessing the admin screen through the URL
 
 # Tasks
 
