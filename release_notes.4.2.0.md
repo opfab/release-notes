@@ -14,6 +14,7 @@
 - #5555 : Reminder shall remove ack at the entity level
 - #5567 : Right menu entries shall not be grayed out
 - #5474 : Prevent non admin users from accessing the admin screen through the URL
+- #5483 : Recurrent card : add a control in the code to forbid negative number for "minutes to remind before task"
 
 # Tasks
 
