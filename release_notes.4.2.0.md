@@ -3,6 +3,7 @@
 - #5475 : Rich text editor: highlight active styling buttons
 - #5448 : Use badge to show entity recipients for user card preview
 - #5432 : In question card build in template add date column for responses
+- #5428 : Add a rate limiter for mail sending per destination address
   
 # Bugs
 
