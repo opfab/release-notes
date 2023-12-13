@@ -25,4 +25,5 @@
 - Update dependency org.apache.commons:commons-lang3 to v3.14.0
 - Update dependency ol to v8.2.0 
 - Update dependency rrule to v2.8.1
+- Migrate to angular 17
 
