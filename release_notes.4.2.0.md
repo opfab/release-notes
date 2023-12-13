@@ -19,6 +19,7 @@
 
 # Tasks
 
+- Card external diffusion : store in mongoDB mails already sent (#5589)
 - Updated Spring Kafka to 3.1.0
 - Update rabbitmq Docker tag to v3.12.10
 - Update dependency commons-io:commons-io to v2.15.1
