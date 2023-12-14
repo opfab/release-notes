@@ -4,6 +4,7 @@
 - #5448 : Use badge to show entity recipients for user card preview
 - #5432 : In question card build in template add date column for responses
 - #5428 : Add a rate limiter for mail sending per destination address
+- #5422 : Added the role attribute to entity
   
 # Bugs
 
