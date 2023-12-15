@@ -5,6 +5,7 @@
 - #5432 : In question card build in template add date column for responses
 - #5428 : Add a rate limiter for mail sending per destination address
 - #5422 : Added the role attribute to entity
+- #5595 : Message or question list template - Add option in config file to choose severity
   
 # Bugs
 
