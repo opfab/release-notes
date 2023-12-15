@@ -26,12 +26,15 @@
 
 # Dependencies upgrade
 
-- Updated Spring Kafka to 3.1.0
-- Update rabbitmq Docker tag to v3.12.10
-- Update dependency commons-io:commons-io to v2.15.1
-- Update dependency org.apache.commons:commons-lang3 to v3.14.0
-- Update dependency ol to v8.2.0 
-- Update dependency rrule to v2.8.1
-- Migrate to angular 17
-- Update dependency chart.js to v4.4.1
+- Spring Kafka v3.1.0
+- Rabbitmq Docker v3.12.10
+- Commons-io:commons-io v2.15.1
+- org.apache.commons:commons-lang3 v3.14.0
+- ol(openlayer) v8.2.0 
+- rrule v2.8.1
+- Angular v17
+- chart.js v4.4.1
+- Spring Security v6.2.0
+- org.springframework:spring-webflux v6.1.2
+- io.micrometer:micrometer-registry-prometheus v1.12.1
 
