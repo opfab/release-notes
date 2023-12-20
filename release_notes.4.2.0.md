@@ -37,4 +37,5 @@
 - Spring Security v6.2.0
 - org.springframework:spring-webflux v6.1.2
 - io.micrometer:micrometer-registry-prometheus v1.12.1
+- com.google.guava:guava v33
 
