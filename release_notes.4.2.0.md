@@ -34,7 +34,7 @@
 - rrule v2.8.1
 - Angular v17
 - chart.js v4.4.1
-- Spring Security v6.2.0
+- Spring Security v6.2.1
 - org.springframework:spring-webflux v6.1.2
 - io.micrometer:micrometer-registry-prometheus v1.12.1
 - com.google.guava:guava v33
