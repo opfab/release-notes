@@ -26,7 +26,7 @@
 
 # Dependencies upgrade
 
-- Spring Kafka v3.1.0
+- Spring Kafka v3.1.1
 - Rabbitmq Docker v3.12.10
 - Commons-io:commons-io v2.15.1
 - org.apache.commons:commons-lang3 v3.14.0
