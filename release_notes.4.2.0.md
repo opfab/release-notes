@@ -38,4 +38,5 @@
 - org.springframework:spring-webflux v6.1.2
 - io.micrometer:micrometer-registry-prometheus v1.12.1
 - com.google.guava:guava v33
+- angular-oauth2-oidc v17.0.1
 
