@@ -32,7 +32,7 @@
 - org.apache.commons:commons-lang3 v3.14.0
 - ol(openlayer) v8.2.0 
 - rrule v2.8.1
-- Angular v17
+- Angular v17.0.8
 - chart.js v4.4.1
 - Spring Security v6.2.1
 - org.springframework:spring-webflux v6.1.2
