@@ -26,18 +26,17 @@
 
 # Dependencies upgrade
 
-- Spring Kafka v3.1.1
-- Rabbitmq Docker v3.12.10
+- Angular v17.0.8
+- angular-oauth2-oidc v17.0.1
+- chart.js v4.4.1
 - Commons-io:commons-io v2.15.1
+- com.google.guava:guava v33
+- io.micrometer:micrometer-registry-prometheus v1.12.1
 - org.apache.commons:commons-lang3 v3.14.0
 - ol(openlayer) v8.2.0 
+- Rabbitmq Docker v3.12.10
 - rrule v2.8.1
-- Angular v17.0.8
-- chart.js v4.4.1
-- Spring Security v6.2.1
-- org.springframework:spring-webflux v6.1.2
-- io.micrometer:micrometer-registry-prometheus v1.12.1
-- com.google.guava:guava v33
-- angular-oauth2-oidc v17.0.1
 - Spring boot v3.2.1
-
+- Spring Kafka v3.1.1
+- Spring Security v6.2.1
+- Spring Webflux v6.1.2
