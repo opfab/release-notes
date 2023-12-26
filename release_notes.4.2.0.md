@@ -19,6 +19,7 @@
 - #5474 : Prevent non admin users from accessing the admin screen through the URL
 - #5483 : Recurrent card : add a control in the code to forbid negative number for "minutes to remind before task"
 - #5295 : Allow to delete card with id containing special characters
+- #5482 : Task advanced : the text for a negative number in "nth day of the month" is not right
 
 # Tasks
 
