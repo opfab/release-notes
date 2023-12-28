@@ -31,6 +31,7 @@
 - angular-oauth2-oidc v17.0.1
 - chart.js v4.4.1
 - Commons-io:commons-io v2.15.1
+- com.fasterxml.jackson.core:jackson-databind v2.16.1
 - com.google.guava:guava v33
 - cypress v13.6.2
 - io.micrometer:micrometer-registry-prometheus v1.12.1
