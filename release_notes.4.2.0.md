@@ -41,3 +41,4 @@
 - Spring Kafka v3.1.1
 - Spring Security v6.2.1
 - Spring Webflux v6.1.2
+- typescript-eslint monorepo v6.16.0
