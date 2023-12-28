@@ -36,6 +36,7 @@
 - com.google.guava:guava v33
 - cypress v13.6.2
 - io.micrometer:micrometer-registry-prometheus v1.12.1
+- moment v2.30.1
 - org.apache.commons:commons-lang3 v3.14.0
 - ol(openlayer) v8.2.0 
 - Rabbitmq Docker v3.12.10
