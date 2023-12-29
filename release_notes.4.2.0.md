@@ -38,8 +38,9 @@
 - cypress v13.6.2
 - io.micrometer:micrometer-registry-prometheus v1.12.1
 - moment v2.30.1
+- ol(openlayer) v8.2.0
 - org.apache.commons:commons-lang3 v3.14.0
-- ol(openlayer) v8.2.0 
+- org.slf4j:slf4j-api v2.0.10
 - Rabbitmq Docker v3.12.10
 - rrule v2.8.1
 - Spring boot v3.2.1
