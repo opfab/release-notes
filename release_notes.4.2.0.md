@@ -51,4 +51,4 @@
 - Spring Security v6.2.1
 - Spring Webflux v6.1.2
 - types/node v20.10.6
-- typescript-eslint monorepo v6.16.0
+- typescript-eslint monorepo v6.17.0
