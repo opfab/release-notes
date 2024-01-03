@@ -37,7 +37,7 @@
 - com.google.guava:guava v33
 - cypress v13.6.2
 - io.micrometer:micrometer-registry-prometheus v1.12.1
-- io.swagger:swagger-codegen-cli v2.4.38
+- io.swagger:swagger-codegen-cli v2.4.39
 - moment v2.30.1
 - moment-timezone v0.5.44
 - nodemailer v6.9.8
