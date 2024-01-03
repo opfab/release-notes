@@ -43,7 +43,7 @@
 - nodemailer v6.9.8
 - ol(openlayer) v8.2.0
 - org.apache.commons:commons-lang3 v3.14.0
-- org.assertj:assertj-core v3.25.0
+- org.assertj:assertj-core v3.25.1
 - org.slf4j:slf4j-api v2.0.10
 - Rabbitmq Docker v3.12.10
 - rrule v2.8.1
