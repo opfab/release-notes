@@ -20,6 +20,7 @@
 - #5483 : Recurrent card : add a control in the code to forbid negative number for "minutes to remind before task"
 - #5295 : Allow to delete card with id containing special characters
 - #5482 : Task advanced : the text for a negative number in "nth day of the month" is not right
+- #5502 : Business data management tab : missing accents for french version
 
 # Tasks
 
