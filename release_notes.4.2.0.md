@@ -24,6 +24,7 @@
 - #5482 : Task advanced : the text for a negative number in "nth day of the month" is not right
 - #5502 : Business data management tab : missing accents for french version
 - #5652 : Archives/loggging screen : disable admin mode shall reset the search result if admin has no processes
+- #5617 : Cards reminder error when Task advanced card has "nth day of month" field greater than month number of days
 
 # Tasks
 
