@@ -6,6 +6,7 @@
 - #5428 : Add a rate limiter for mail sending per destination address
 - #5422 : Added the role attribute to entity
 - #5595 : Message or question list template - Add option in config file to choose severity
+- #5488 : Add a tooltip for icon to zoom on geo map
   
 # Bugs
 
