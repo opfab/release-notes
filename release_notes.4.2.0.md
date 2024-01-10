@@ -44,7 +44,7 @@
 - com.fasterxml.jackson.core:jackson-databind v2.16.1
 - com.google.guava:guava v33
 - cypress v13.6.2
-- io.micrometer:micrometer-registry-prometheus v1.12.1
+- io.micrometer:micrometer-registry-prometheus v1.12.2
 - moment v2.30.1
 - moment-timezone v0.5.44
 - nodemailer v6.9.8
