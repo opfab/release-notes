@@ -40,7 +40,6 @@
 - config (js) to v3.3.10
 - confluent to v7.5.3
 - Commons-io:commons-io v2.15.1
-- com.fasterxml.jackson.core:jackson-annotations v2.16.1
 - com.fasterxml.jackson.core:jackson-databind v2.16.1
 - com.google.guava:guava v33
 - cypress v13.6.2
@@ -59,3 +58,4 @@
 - Spring Security v6.2.1
 - Spring Webflux v6.1.2
 - virtual-select-plugin v1.0.41
+- zone.js v0.14.3
