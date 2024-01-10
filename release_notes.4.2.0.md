@@ -37,6 +37,7 @@
 - angular-oauth2-oidc v17.0.1
 - axios v1.6.3
 - chart.js v4.4.1
+- config (js) to v3.3.10
 - confluent to v7.5.3
 - Commons-io:commons-io v2.15.1
 - com.fasterxml.jackson.core:jackson-annotations v2.16.1
