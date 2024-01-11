@@ -10,6 +10,7 @@
 - #5596 : Message or question list template - Add option in config file to choose entity publisher list
 - #5607 : Added Entity Roles to Activity Area Screen
 - #5434 : Entities need the CARD_SENDER role to send a card and the CARD_RECEIVER role to receive a card
+- #5614 : Removed entityNotAllowedToSendCard attribute
   
 # Bugs
 
