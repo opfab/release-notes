@@ -14,6 +14,7 @@
 - #5707 : Added the ACTIVITY_AREA role
 - #5461 : Add actions field to Card. Handle PROPAGATE_READ_ACK_TO_PARENT_CARD action
 - #5722 : Add "task title" field in task advanced build in template
+- #5727 : Added the email template as a config property
   
 # Bugs
 
