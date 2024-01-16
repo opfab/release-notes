@@ -56,11 +56,12 @@
 - org.apache.commons:commons-lang3 v3.14.0
 - org.assertj:assertj-core v3.25.1
 - org.slf4j:slf4j-api v2.0.11
-- Rabbitmq Docker v3.12.12 rabbitmq
+- Rabbitmq Docker v3.12.12
 - rrule v2.8.1
 - Spring boot v3.2.1
 - Spring Kafka v3.1.1
 - Spring Security v6.2.1
-- Spring Webflux v6.1.2
+- Spring Webflux v6.1.3
 - virtual-select-plugin v1.0.41
 - zone.js v0.14.3
+
