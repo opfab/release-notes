@@ -35,7 +35,8 @@
 
 # Tasks
 
-- Card external diffusion : store in mongoDB mails already sent (#5589)
+- #5589 : Card external diffusion : store in mongoDB mails already sent (#5589)
+- #5615 : Added a migration script for entity roles
 
 # Dependencies upgrade
 
