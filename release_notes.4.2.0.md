@@ -44,7 +44,7 @@
 
 # Dependencies upgrade
 
-- Angular v17.0.10
+- Angular v17.1.0
 - angular-oauth2-oidc v17.0.1
 - axios v1.6.3
 - chart.js v4.4.1
