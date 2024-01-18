@@ -15,6 +15,7 @@
 - #5461 : Add actions field to Card. Handle PROPAGATE_READ_ACK_TO_PARENT_CARD action
 - #5722 : Add "task title" field in task advanced build in template
 - #5727 : Added the email template as a config property
+- #5748 : Message buildin template : add a field "title of the message"
   
 # Bugs
 
