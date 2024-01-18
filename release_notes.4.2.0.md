@@ -38,6 +38,7 @@
 
 - #5589 : Card external diffusion : store in mongoDB mails already sent (#5589)
 - #5615 : Added a migration script for entity roles
+- #5069 : Load test on SSE connection
 
 # Dependencies upgrade
 
