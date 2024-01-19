@@ -17,6 +17,7 @@
 - #5727 : Added the email template as a config property
 - #5748 : Message buildin template : add a field "title of the message"
 - #4791 : Remove deprecated methods in templateGateway / usercardTemplateGateway
+- #5743 : Add new card action KEEP_CHILD_CARDS to replace keepChildCards
   
 # Bugs
 
