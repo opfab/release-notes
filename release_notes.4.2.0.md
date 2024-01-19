@@ -58,6 +58,7 @@
 - io.micrometer:micrometer-registry-prometheus v1.12.2
 - moment v2.30.1
 - moment-timezone v0.5.44
+- Node.js v20.11.0
 - nodemailer v6.9.8
 - ol(openlayer) v8.2.0
 - org.apache.commons:commons-lang3 v3.14.0
