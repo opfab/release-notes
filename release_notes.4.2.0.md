@@ -66,7 +66,7 @@
 - org.slf4j:slf4j-api v2.0.11
 - Rabbitmq Docker v3.12.12
 - rrule v2.8.1
-- Spring boot v3.2.1
+- Spring boot v3.2.2
 - Spring Kafka v3.1.1
 - Spring Security v6.2.1
 - Spring Webflux v6.1.3
