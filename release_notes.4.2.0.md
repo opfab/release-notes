@@ -19,6 +19,7 @@
 - #4791 : Remove deprecated methods in templateGateway / usercardTemplateGateway
 - #5743 : Add new card action KEEP_CHILD_CARDS to replace keepChildCards
 - #5737 : Add rich text editor in message or question list build in template
+- #5777 : Add a helper html page to deal with delta quills format (rich text editor format)
   
 # Bugs
 
