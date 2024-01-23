@@ -21,6 +21,7 @@
 - #5737 : Add rich text editor in message or question list build in template
 - #5777 : Add a helper html page to deal with delta quills format (rich text editor format)
 - #5729 : Added content of the cards to the mail body
+- #5736 : Add the summary as an option in the buildin template of "message or question list" usercard
   
 # Bugs
 
