@@ -22,6 +22,7 @@
 - #5777 : Add a helper html page to deal with delta quills format (rich text editor format)
 - #5729 : Added content of the cards to the mail body
 - #5736 : Add the summary as an option in the buildin template of "message or question list" usercard
+- #5491 : Activity area : show a message when user has no activity area
   
 # Bugs
 
