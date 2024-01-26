@@ -53,7 +53,7 @@
 
 - Angular v17.1.1
 - angular-oauth2-oidc v17.0.1
-- axios v1.6.6
+- axios v1.6.7
 - chart.js v4.4.1
 - config (js) to v3.3.10
 - confluent to v7.5.3
