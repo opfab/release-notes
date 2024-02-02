@@ -24,6 +24,7 @@
 - #5736 : Add the summary as an option in the buildin template of "message or question list" usercard
 - #5491 : Activity area : show a message when user has no activity area
 - #5738 : Add the option to configure rich text in config file for message or question list build-in template
+- #5049 : Implement cancel ack at the entity level
   
 # Bugs
 
