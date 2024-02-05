@@ -26,6 +26,7 @@
 - #5738 : Add the option to configure rich text in config file for message or question list build-in template
 - #5049 : Implement cancel ack at the entity level
 - #5815 : Add a filter by process in feed filter screen
+- #5784 : Geomap pop up : option to show summary
   
 # Bugs
 
