@@ -27,6 +27,7 @@
 - #5049 : Implement cancel ack at the entity level
 - #5815 : Add a filter by process in feed filter screen
 - #5784 : Geomap pop up : option to show summary
+- #5844 : Geographical map: visualize which Polygon representing a line on the geo-map belongs to which card in the card list
   
 # Bugs
 
