@@ -29,6 +29,7 @@
 - #5784 : Geomap pop up : option to show summary
 - #5844 : Geographical map: visualize which Polygon representing a line on the geo-map belongs to which card in the card list
 - #5817 : Add a filter by state in feed filter screen
+- #5732 : Added the option to send the emails as plain text
   
 # Bugs
 
