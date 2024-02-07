@@ -1,35 +1,52 @@
 
 # Features
-- #5475 : Rich text editor: highlight active styling buttons
-- #5448 : Use badge to show entity recipients for user card preview
-- #5432 : In question card build in template add date column for responses
-- #5428 : Add a rate limiter for mail sending per destination address
-- #5422 : Added the role attribute to entity
-- #5595 : Message or question list template : Add option in config file to choose severity
-- #5488 : Add a tooltip for icon to zoom on geo map
-- #5596 : Message or question list template - Add option in config file to choose entity publisher list
-- #5607 : Added Entity Roles to Activity Area Screen
-- #5434 : Entities need the CARD_SENDER role to send a card and the CARD_RECEIVER role to receive a card
-- #5614 : Removed entityNotAllowedToSendCard attribute
-- #5707 : Added the ACTIVITY_AREA role
-- #5461 : Add actions field to Card. Handle PROPAGATE_READ_ACK_TO_PARENT_CARD action
-- #5722 : Add "task title" field in task advanced build in template
-- #5727 : Added the email template as a config property
-- #5748 : Message buildin template : add a field "title of the message"
-- #4791 : Remove deprecated methods in templateGateway / usercardTemplateGateway
-- #5743 : Add new card action KEEP_CHILD_CARDS to replace keepChildCards
-- #5737 : Add rich text editor in message or question list build in template
-- #5777 : Add a helper html page to deal with delta quills format (rich text editor format)
-- #5729 : Added content of the cards to the mail body
-- #5736 : Add the summary as an option in the buildin template of "message or question list" usercard
-- #5491 : Activity area : show a message when user has no activity area
-- #5738 : Add the option to configure rich text in config file for message or question list build-in template
-- #5049 : Implement cancel ack at the entity level
-- #5815 : Add a filter by process in feed filter screen
-- #5784 : Geomap pop up : option to show summary
-- #5844 : Geographical map: visualize which Polygon representing a line on the geo-map belongs to which card in the card list
-- #5817 : Add a filter by state in feed filter screen
-- #5732 : Added the option to send the emails as plain text
+
+- Build-in templates :
+  - #5432 : In question card build in template add date column for responses
+  - #5736 : In message or question list template add the summary as an option
+  - #5737 : In message or question list template add rich text editor
+  - #5738 : In message or question list template add the option to configure rich text in config file
+  - #5595 : In message or question list template add option in config file to choose severity
+  - #5596 : In message or question list template add option in config file to choose entity publisher list
+  - #5748 : In message template add a field "title of the message"
+  - #5722 : In task advanced template add "task title" field
+    
+- Emails:
+  - #5428 : Add a rate limiter for mail sending per destination address
+  - #5727 : Added the email template as a config property
+  - #5729 : Added content of the cards to the mail body
+  - #5732 : Added the option to send the emails as plain text
+    
+- Entity roles :
+  - #5422 : Added the role attribute to entity
+  - #5607 : Added Entity Roles to Activity Area Screen
+  - #5434 : Entities need the CARD_SENDER role to send a card and the CARD_RECEIVER role to receive a card
+  - #5614 : Removed entityNotAllowedToSendCard attribute
+  - #5707 : Added the ACTIVITY_AREA role
+    
+- Action Field in cards:
+  - #5461 : Add actions field to Card. Handle PROPAGATE_READ_ACK_TO_PARENT_CARD action
+  - #5743 : Add new card action KEEP_CHILD_CARDS to replace keepChildCards
+    
+- Rich text editor: 
+  - #5475 : Rich text editor: highlight active styling buttons
+  - #5777 : Add a helper html page to deal with delta quills format (rich text editor format)
+    
+- Geo map :
+  - #5488 : Add a tooltip for icon to zoom on geo map
+  - #5784 : Geomap pop up : option to show summary
+  - #5844 : Geographical map: visualize which Polygon representing a line on the geo-map belongs to which card in the card list
+    
+- Feed Filtering
+  - #5815 : Add a filter by process in feed filter screen
+  - #5817 : Add a filter by state in feed filter screen
+  - #5819 : Add link from Dashboard to Feed setting process/state filters
+
+- Misc :
+  - #5448 : Use badge to show entity recipients for user card preview
+  - #4791 : Remove deprecated methods in templateGateway / usercardTemplateGateway
+  - #5491 : Activity area : show a message when user has no activity area
+  - #5049 : Implement cancel ack at the entity level
   
 # Bugs
 
