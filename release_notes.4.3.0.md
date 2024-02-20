@@ -16,6 +16,7 @@
 - moment-timezone to v0.5.45
 - nginx v1.25.4
 - org.slf4j:slf4j-api v2.0.12
+- rabbitmq v3.12.13
 - winston-daily-rotate-file  v5 
 
 
