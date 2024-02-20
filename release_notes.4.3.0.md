@@ -1,7 +1,7 @@
 
 # Features
 
-- Remove deprecated use of group admin to set the admin rights (#5792)
+- #5792 Remove deprecated use of group admin to set the admin rights
   
 # Bugs
 
