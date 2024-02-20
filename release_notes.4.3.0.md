@@ -3,6 +3,7 @@
 
 - #5792 Remove deprecated use of group admin to set the admin rights
 - #5921 Do not try again to send mail for user rate limited
+- #5869 : Add logLevel endpoint for node services
   
 # Bugs
 
