@@ -19,6 +19,7 @@
 - moment-timezone to v0.5.45
 - nginx v1.25.4
 - Node.js v20.11.1
+- openjdk v17.0.10
 - org.slf4j:slf4j-api v2.0.12
 - org.springframework:spring-webflux to v6.1.4
 - rabbitmq v3.12.13
