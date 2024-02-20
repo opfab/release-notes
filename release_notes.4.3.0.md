@@ -15,6 +15,7 @@
 - io.micrometer:micrometer-registry-prometheus v1.12.3
 - moment-timezone to v0.5.45
 - nginx v1.25.4
+- Node.js v20.11.1
 - org.slf4j:slf4j-api v2.0.12
 - org.springframework:spring-webflux to v6.1.4
 - rabbitmq v3.12.13
