@@ -15,7 +15,7 @@
 
 # Dependencies upgrade
 
-- Angular v17.2.0
+- Angular v17.2.2
 - Confluent v7.6.0
 - io.micrometer:micrometer-registry-prometheus v1.12.3
 - moment-timezone to v0.5.45
