@@ -6,6 +6,7 @@
 - #5869 : Add logLevel endpoint for node services
 - #5870 : Add the possibility to manage user group membership in the group creation/modification screen
 - #5871 : Add the ability to manage user entity membership in the entity creation/modification screen
+- #5612 : Add an option to set the default opfab entry page
   
 # Bugs
 
