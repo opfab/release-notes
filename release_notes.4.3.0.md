@@ -23,8 +23,10 @@
 - nginx v1.25.4
 - Node.js v20.11.1
 - openjdk v17.0.10
+  org.apache.commons:commons-compress v1.26.0
 - org.slf4j:slf4j-api v2.0.12
-- org.springframework:spring-webflux to v6.1.4
+- org.springframework:spring-webflux v6.1.4
+- spring security v6.2.2
 - rabbitmq v3.12.13
 - winston-daily-rotate-file  v5 
 
