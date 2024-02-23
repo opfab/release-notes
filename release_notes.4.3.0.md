@@ -10,6 +10,7 @@
   
 # Bugs
 
+- #5938 : Fix admin screen reload error
 
 # Tasks
 
