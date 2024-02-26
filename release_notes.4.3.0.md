@@ -28,7 +28,7 @@
 - org.springframework:spring-webflux v6.1.4
   spring boot v3.2.3
 - spring security v6.2.2
-- rabbitmq v3.12.13
+- rabbitmq v3.13.0
 - winston-daily-rotate-file v5
 - zone.js v0.14.4 
 
