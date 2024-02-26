@@ -26,7 +26,8 @@
   org.apache.commons:commons-compress v1.26.0
 - org.slf4j:slf4j-api v2.0.12
 - org.springframework:spring-webflux v6.1.4
-  spring boot v3.2.3
+-  spring boot v3.2.3
+-  spring kafka v3.1.2
 - spring security v6.2.2
 - rabbitmq v3.13.0
 - winston-daily-rotate-file v5
