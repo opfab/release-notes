@@ -23,6 +23,7 @@
   - #5434 : Entities need the CARD_SENDER role to send a card and the CARD_RECEIVER role to receive a card
   - #5614 : Removed entityNotAllowedToSendCard attribute
   - #5707 : Added the ACTIVITY_AREA role
+  - #5435,#6014 : Realtime screen uses entity role
     
 - Action Field in cards:
   - #5461 : Add actions field to Card. Handle PROPAGATE_READ_ACK_TO_PARENT_CARD action
