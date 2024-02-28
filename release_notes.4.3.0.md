@@ -7,6 +7,7 @@
 - #5870 : Add the possibility to manage user group membership in the group creation/modification screen
 - #5871 : Add the ability to manage user entity membership in the entity creation/modification screen
 - #5612 : Add an option to set the default opfab entry page
+- #5948 : Propose to save when exiting notification configuration screen
   
 # Bugs
 
