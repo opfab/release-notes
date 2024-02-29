@@ -20,6 +20,7 @@
 - ag-grid-angular v31.1.1
 - ag-grid-community v31.1.1
 - Angular v17.2.2
+- bootstrap v5.3.3,
 - Confluent v7.6.0
 - io.micrometer:micrometer-registry-prometheus v1.12.3
 - moment-timezone to v0.5.45
