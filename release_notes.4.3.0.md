@@ -8,6 +8,7 @@
 - #5871 : Add the ability to manage user entity membership in the entity creation/modification screen
 - #5612 : Add an option to set the default opfab entry page
 - #5948 : Propose to save when exiting notification configuration screen
+- #4249 : Replace current date picker with standard date picker of browser
   
 # Bugs
 
