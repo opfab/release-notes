@@ -22,6 +22,7 @@
 - Angular v17.2.3
 - bootstrap v5.3.3,
 - Confluent v7.6.0
+- express v4.18.3
 - io.micrometer:micrometer-registry-prometheus v1.12.3
 - moment-timezone to v0.5.45
 - nginx v1.25.4
