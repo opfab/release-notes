@@ -26,7 +26,7 @@
 - moment-timezone to v0.5.45
 - nginx v1.25.4
 - Node.js v20.11.1
-- nodemailer v6.9.10
+- nodemailer v6.9.11
 - openjdk v17.0.10
   org.apache.commons:commons-compress v1.26.0
 - org.slf4j:slf4j-api v2.0.12
