@@ -27,6 +27,7 @@
 - express v4.18.3
 - io.micrometer:micrometer-registry-prometheus v1.12.3
 - moment-timezone to v0.5.45
+- mongodb (npm package) v6.4.0
 - nginx v1.25.4
 - Node.js v20.11.1
 - nodemailer v6.9.11
