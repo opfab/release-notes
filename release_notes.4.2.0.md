@@ -48,6 +48,7 @@
   - #4791 : Remove deprecated methods in templateGateway / usercardTemplateGateway
   - #5491 : Activity area : show a message when user has no activity area
   - #5049 : Implement cancel ack at the entity level
+  - #6067 : Do not exclude current user connected on activity area screen 
   
 # Bugs
 
