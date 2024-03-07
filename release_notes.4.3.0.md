@@ -11,6 +11,7 @@
 - #4249 : Replace current date picker with standard date picker of browser
 - #5949 : Allow to add new external devices from UI
 - #5951 : Add a delete button to delete an external device configuration
+- #6032 : Add an export button for "user action logs" screen
   
 # Bugs
 
