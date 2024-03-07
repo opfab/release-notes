@@ -17,6 +17,7 @@
 
 
 # Tasks
+- #6079: Remove legacy field realtime in group object
 
 
 # Dependencies upgrade
