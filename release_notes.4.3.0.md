@@ -12,6 +12,7 @@
 - #5949 : Allow to add new external devices from UI
 - #5951 : Add a delete button to delete an external device configuration
 - #6032 : Add an export button for "user action logs" screen
+- #5733 : Added the option to send daily recap by email
   
 # Bugs
 
