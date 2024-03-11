@@ -35,7 +35,7 @@
 - mongodb (npm package) v6.4.0
 - nginx v1.25.4
 - Node.js v20.11.1
-- nodemailer v6.9.11
+- nodemailer v6.9.12
 - openjdk v17.0.10
   org.apache.commons:commons-compress v1.26.0
 - org.slf4j:slf4j-api v2.0.12
