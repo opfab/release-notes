@@ -38,7 +38,7 @@
 - Node.js v20.11.1
 - nodemailer v6.9.12
 - openjdk v17.0.10
-  org.apache.commons:commons-compress v1.26.0
+- org.apache.commons:commons-compress v1.26.1
 - org.slf4j:slf4j-api v2.0.12
 - org.springframework:spring-webflux v6.1.4
 - spring boot v3.2.3
