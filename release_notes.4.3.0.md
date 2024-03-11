@@ -28,7 +28,8 @@
 - ag-grid-angular v31.1.1
 - ag-grid-community v31.1.1
 - Angular v17.2.4
-- bootstrap v5.3.3,
+- bootstrap v5.3.3
+- chart.js v4.4.2
 - Confluent v7.6.0
 - com.fasterxml.jackson.core:jackson-databind v2.16.2
 - com.github.jknack:handlebars v4.4.0
@@ -39,6 +40,7 @@
 - nginx v1.25.4
 - Node.js v20.11.1
 - nodemailer v6.9.12
+- ol v9.0.0
 - openjdk v17.0.10
 - org.apache.commons:commons-compress v1.26.1
 - org.slf4j:slf4j-api v2.0.12
