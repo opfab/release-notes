@@ -13,6 +13,7 @@
 - #5951 : Add a delete button to delete an external device configuration
 - #6032 : Add an export button for "user action logs" screen
 - #5733 : Added the option to send daily recap by email
+- #5878 : Permit to render rich text in mail body via a handlebar helper
   
 # Bugs
 
