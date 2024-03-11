@@ -28,7 +28,8 @@
 - Angular v17.2.4
 - bootstrap v5.3.3,
 - Confluent v7.6.0
-- com.fasterxml.jackson.core:jackson-databind to v2.16.2
+- com.fasterxml.jackson.core:jackson-databind v2.16.2
+- com.github.jknack:handlebars v4.4.0
 - express v4.18.3
 - io.micrometer:micrometer-registry-prometheus v1.12.3
 - moment-timezone to v0.5.45
