@@ -21,6 +21,7 @@
 
 # Tasks
 - #6079: Remove legacy field realtime in group object
+- #6026 : Add a geojson example
 
 
 # Dependencies upgrade
