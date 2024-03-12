@@ -67,6 +67,7 @@
 - #5652 : Archives/loggging screen : disable admin mode shall reset the search result if admin has no processes
 - #5617 : Cards reminder error when Task advanced card has "nth day of month" field greater than month number of days
 - #5728 : Fix isAcknowledgmentAllowed() method
+- #6104 : usercard error appears only once
 
 # Tasks
 
