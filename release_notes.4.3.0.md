@@ -15,7 +15,7 @@
 - #5733 : Added the option to send daily recap by email
 - #5878 : Permit to render rich text in mail body via a handlebar helper
 - #6023 : Do not save automatically settings
-- #6021 : Add multiple map layers
+- #6021 : Add multiple geopmap layers
   
 # Bugs
 
