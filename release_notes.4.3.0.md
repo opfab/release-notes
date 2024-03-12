@@ -16,6 +16,7 @@
 - #5878 : Permit to render rich text in mail body via a handlebar helper
 - #6023 : Do not save automatically settings
 - #6021 : Add multiple geopmap layers
+- #6013 : Added warning in the UI in case of cycle in parent entity references
   
 # Bugs
 
