@@ -32,6 +32,7 @@
 - chart.js v4.4.2
 - Confluent v7.6.0
 - com.fasterxml.jackson.core:jackson-databind v2.16.2
+- com.fasterxml.jackson.core:jackson-annotations to v2.16.2
 - com.github.jknack:handlebars v4.4.0
 - express v4.18.3
 - io.micrometer:micrometer-registry-prometheus v1.12.3
