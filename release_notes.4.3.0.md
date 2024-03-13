@@ -18,7 +18,7 @@
 - #6021 : Add multiple geopmap layers
 - #6013 : Added warning in the UI in case of cycle in parent entity references
   
-# Bugs
+# Bug Fixes
 
 
 # Tasks
