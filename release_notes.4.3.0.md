@@ -36,7 +36,7 @@
 - bootstrap v5.3.3
 - chart.js v4.4.2
 - Confluent v7.6.0
-- com.fasterxml.jackson.core:jackson-databind v2.16.2
+- com.fasterxml.jackson.core:jackson-databind v2.17.0
 - com.fasterxml.jackson.core:jackson-annotations to v2.16.2
 - com.github.jknack:handlebars v4.4.0
 - com.google.guava:guava v33.1.0-jre
