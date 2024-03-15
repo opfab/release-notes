@@ -17,6 +17,7 @@
 - #6023 : Do not save automatically settings
 - #6021 : Add multiple geopmap layers
 - #6013 : Added warning in the UI in case of cycle in parent entity references
+- #5821 : Geopmap geojson layers: configure custom style
   
 # Bug Fixes
 
