@@ -20,6 +20,8 @@
   
 # Bug Fixes
 
+- #6020 : Geopmap geojson layer : deactivate infobubble on click if no information to display
+
 
 # Tasks
 - #6079: Remove legacy field realtime in group object
