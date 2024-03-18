@@ -35,6 +35,7 @@
 - ag-grid-angular v31.1.1
 - ag-grid-community v31.1.1
 - Angular v17.3.0
+- axios v1.6.8
 - bootstrap v5.3.3
 - chart.js v4.4.2
 - Confluent v7.6.0
