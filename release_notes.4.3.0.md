@@ -24,6 +24,9 @@
 - #6020 : Geopmap geojson layer : deactivate infobubble on click if no information to display
 - #6123 : Fixed color of time filter in feed
 - #5904 : Turned off email autocomplete to fix styling bug
+- #5906 : Fixed sorting of entities in admin tables
+
+
 - 
 # Tasks
 - #6079: Remove legacy field realtime in group object
