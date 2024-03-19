@@ -18,6 +18,7 @@
 - #6021 : Add multiple geopmap layers
 - #6013 : Added warning in the UI in case of cycle in parent entity references
 - #5821 : Geopmap geojson layers: configure custom style
+- #6167 : Search for entities when creating supervised entities enabled
   
 # Bug Fixes
 
