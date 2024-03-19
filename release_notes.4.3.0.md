@@ -60,7 +60,7 @@
 - org.springframework:spring-webflux v6.1.5
 - spring boot v3.2.3
 - spring kafka v3.1.3
-- spring security v6.2.2
+- spring security v6.2.3
 - rabbitmq v3.13.0
 - winston-daily-rotate-file v5
 - zone.js v0.14.4 
