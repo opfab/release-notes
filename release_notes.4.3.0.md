@@ -26,6 +26,7 @@
 - #6123 : Fixed color of time filter in feed
 - #5904 : Turned off email autocomplete to fix styling bug
 - #5906 : Fixed sorting of entities in admin tables
+- #6170 : Supervisor: fix Supervised Entity Not Deleted Until Service Restart
 
 
 - 
