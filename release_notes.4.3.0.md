@@ -38,7 +38,7 @@
 
 - ag-grid-angular v31.1.1
 - ag-grid-community v31.1.1
-- Angular v17.3.0
+- Angular v17.3.1
 - axios v1.6.8
 - bootstrap v5.3.3
 - chart.js v4.4.2
@@ -53,7 +53,7 @@
 - mongodb (npm package) v6.5.0
 - nginx v1.25.4
 - Node.js v20.11.1
-- nodemailer v6.9.12
+- nodemailer v6.9.13
 - ol v9.0.0
 - openjdk v17.0.10
 - org.apache.commons:commons-compress v1.26.1
