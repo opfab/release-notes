@@ -52,6 +52,7 @@
 - io.micrometer:micrometer-registry-prometheus v1.12.4
 - moment-timezone to v0.5.45
 - mongodb (npm package) v6.5.0
+- net.minidev:json-smart v2.5.1
 - nginx v1.25.4
 - Node.js v20.11.1
 - nodemailer v6.9.13
@@ -60,12 +61,13 @@
 - org.apache.commons:commons-compress v1.26.1
 - org.slf4j:slf4j-api v2.0.12
 - org.springframework:spring-webflux v6.1.5
-- spring boot v3.2.3
+- spring boot v3.2.4
 - spring kafka v3.1.3
 - spring security v6.2.3
 - typescript to v5.4.3
 - rabbitmq v3.13.0
 - winston-daily-rotate-file v5
-- zone.js v0.14.4 
+- zone.js v0.14.4
+
 
 
