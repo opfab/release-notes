@@ -48,7 +48,7 @@
 - com.fasterxml.jackson.core:jackson-annotations to v2.17.0
 - com.github.jknack:handlebars v4.4.0
 - com.google.guava:guava v33.1.0-jre
-- express v4.18.3
+- express v4.19.1 express
 - io.micrometer:micrometer-registry-prometheus v1.12.4
 - moment-timezone to v0.5.45
 - mongodb (npm package) v6.5.0
