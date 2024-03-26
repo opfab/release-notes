@@ -28,6 +28,7 @@
 - #5906 : Fixed sorting of entities in admin tables
 - #6170 : Supervisor: fix Supervised Entity Not Deleted Until Service Restart
 - #5902 : Fix login input cursor color
+- #6156 : User action logs menu is not limited by ADMIN role anymore
 
 # Tasks
 - #6079: Remove legacy field realtime in group object
