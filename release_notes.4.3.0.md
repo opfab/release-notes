@@ -29,8 +29,6 @@
 - #6170 : Supervisor: fix Supervised Entity Not Deleted Until Service Restart
 - #5902 : Fix login input cursor color
 
-
-- 
 # Tasks
 - #6079: Remove legacy field realtime in group object
 - #6026 : Add a geojson example
@@ -40,7 +38,7 @@
 
 - ag-grid-angular v31.1.1
 - ag-grid-community v31.1.1
-- Angular v17.3.1
+- Angular v17.3.2
 - axios v1.6.8
 - bootstrap v5.3.3
 - chart.js v4.4.2
