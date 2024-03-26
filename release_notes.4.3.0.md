@@ -27,6 +27,7 @@
 - #5904 : Turned off email autocomplete to fix styling bug
 - #5906 : Fixed sorting of entities in admin tables
 - #6170 : Supervisor: fix Supervised Entity Not Deleted Until Service Restart
+- #5902 : Fix login input cursor color
 
 
 - 
