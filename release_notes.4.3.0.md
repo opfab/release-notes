@@ -41,7 +41,7 @@
 
 - ag-grid-angular v31.2.0
 - ag-grid-community v31.2.0
-- Angular v17.3.2
+- Angular v17.3.3
 - angular-oauth2-oidc v17.0.2
 - axios v1.6.8
 - bootstrap v5.3.3
