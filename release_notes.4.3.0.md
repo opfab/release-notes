@@ -36,6 +36,7 @@
 - #6079: Remove legacy field realtime in group object
 - #6026 : Add a geojson example
 - #6115 : Add path controls in PathUtils to mitigate path manipulation vulnerabilities
+- #6198 : Enforce Explicit Setting of applicationBasePath in PathUtils
 
 # Dependencies upgrade
 
