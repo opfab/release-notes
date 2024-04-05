@@ -20,6 +20,7 @@
 - #5821 : Geopmap geojson layers: configure custom style
 - #6167 : Search for entities when creating supervised entities enabled
 - #6181 : Implement KEEP_EXISTING_ACKS_AND_READS Action for Card Updates
+- #6183 : Implement KEEP_EXISTING_PUBLISH_DATE Action for Card Updates
   
 # Bug Fixes
 
