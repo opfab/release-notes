@@ -22,6 +22,7 @@
 - #6181 : Implement KEEP_EXISTING_ACKS_AND_READS Action for Card Updates
 - #6183 : Implement KEEP_EXISTING_PUBLISH_DATE Action for Card Updates
 - #5950 : Add an edit button to edit an external device configuration
+- #6240 : Refuse login of a user without groups
   
 # Bug Fixes
 
