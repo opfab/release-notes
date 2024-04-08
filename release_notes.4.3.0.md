@@ -62,7 +62,7 @@
 - mongodb (npm package) v6.5.0
 - net.minidev:json-smart v2.5.1
 - nginx v1.25.4
-- Node.js v20.11.1
+- Node.js v20.12.1
 - nodemailer v6.9.13
 - ol v9.1.0,
 - openjdk v17.0.10
