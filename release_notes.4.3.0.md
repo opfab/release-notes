@@ -58,7 +58,7 @@
 - com.google.guava:guava v33.1.0-jre
 - com.rabbitmq:amqp-client v5.21.0
 - express v4.19.2
-- io.micrometer:micrometer-registry-prometheus v1.12.4
+- io.micrometer:micrometer-registry-prometheus v1.12.5
 - moment-timezone to v0.5.45
 - mongodb (npm package) v6.5.0
 - net.minidev:json-smart v2.5.1
