@@ -56,6 +56,7 @@
 - com.fasterxml.jackson.core:jackson-annotations to v2.17.0
 - com.github.jknack:handlebars v4.4.0
 - com.google.guava:guava v33.1.0-jre
+- com.rabbitmq:amqp-client v5.21.0
 - express v4.19.2
 - io.micrometer:micrometer-registry-prometheus v1.12.4
 - moment-timezone to v0.5.45
@@ -74,7 +75,6 @@
 - spring kafka v3.1.3
 - spring security v6.2.3
 - typescript to v5.4.4
-- rabbitmq v3.13.0
 - winston v3.13.0
 - winston-daily-rotate-file v5
 - zone.js v0.14.4
