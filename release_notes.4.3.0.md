@@ -23,6 +23,7 @@
 - #6183 : Implement KEEP_EXISTING_PUBLISH_DATE Action for Card Updates
 - #5950 : Add an edit button to edit an external device configuration
 - #6240 : Refuse login of a user without groups
+- #6248 : The date of the most recent modification to a card is now saved in the "lastUpdate" field
   
 # Bug Fixes
 
