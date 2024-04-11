@@ -52,7 +52,7 @@
 - axios v1.6.8
 - bootstrap v5.3.3
 - chart.js v4.4.2
-- Confluent v7.6.0
+- Confluent v7.6.1
 - commons-io:commons-io v2.16.1
 - com.fasterxml.jackson.core:jackson-databind v2.17.0
 - com.fasterxml.jackson.core:jackson-annotations to v2.17.0
