@@ -51,6 +51,7 @@
 - ag-grid-community v31.2.0
 - Angular v17.3.4
 - angular-oauth2-oidc v17.0.2
+- amqplib v0.10.4
 - axios v1.6.8
 - bootstrap v5.3.3
 - chart.js v4.4.2
