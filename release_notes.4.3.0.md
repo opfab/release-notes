@@ -37,6 +37,7 @@
 - #5902 : Fix login input cursor color
 - #6156 : User action logs menu is not limited by ADMIN role anymore
 - #5908 : Fix Very long name for process (or state) cut the text on archives/logging screens
+- #6202 : Fix child cards dates when updating parent card and keeping child cards
 
 # Tasks
 - #6079: Remove legacy field realtime in group object
