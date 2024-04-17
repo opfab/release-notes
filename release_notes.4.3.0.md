@@ -33,18 +33,19 @@
 - #6123 : Fixed color of time filter in feed
 - #5904 : Turned off email autocomplete to fix styling bug
 - #5906 : Fixed sorting of entities in admin tables
-- #6170 : Supervisor: fix Supervised Entity Not Deleted Until Service Restart
+- #6170 : Supervisor: fix supervised entity not deleted until service restart
 - #5902 : Fix login input cursor color
 - #6156 : User action logs menu is not limited by ADMIN role anymore
-- #5908 : Fix Very long name for process (or state) cut the text on archives/logging screens
+- #5908 : Fix very long name for process (or state) cut the text on archives/logging screens
 - #6202 : Fix child cards dates when updating parent card and keeping child cards
 - #5390 : List of user entity on top-right takes a few seconds to update when user changes activity area
+- #6258 : Fix process monitoring export for list fields
 
 # Tasks
 - #6079: Remove legacy field realtime in group object
 - #6026 : Add a geojson example
 - #6115 : Add path controls in PathUtils to mitigate path manipulation vulnerabilities
-- #6198 : Enforce Explicit Setting of applicationBasePath in PathUtils
+- #6198 : Enforce explicit setting of applicationBasePath in PathUtils
 
 # Dependencies upgrade
 
