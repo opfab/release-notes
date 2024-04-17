@@ -38,6 +38,7 @@
 - #6156 : User action logs menu is not limited by ADMIN role anymore
 - #5908 : Fix Very long name for process (or state) cut the text on archives/logging screens
 - #6202 : Fix child cards dates when updating parent card and keeping child cards
+- #5390 : List of user entity on top-right takes a few seconds to update when user changes activity area
 
 # Tasks
 - #6079: Remove legacy field realtime in group object
