@@ -76,7 +76,7 @@
 - org.apache.commons:commons-compress v1.26.1
 - org.slf4j:slf4j-api v2.0.13
 - org.springframework:spring-webflux v6.1.6
-- org.webjars:swagger-ui v5.15.1
+- org.webjars:swagger-ui v5.15.2
 - rabbitmq Docker tag v3.13.1
 - spring boot v3.2.4
 - spring kafka v3.1.3
