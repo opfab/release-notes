@@ -80,7 +80,7 @@
 - rabbitmq Docker tag v3.13.1
 - spring boot v3.2.4
 - spring kafka v3.1.3
-- spring security v6.2.3
+- spring security v6.2.4
 - typescript to v5.4.5
 - winston v3.13.0
 - winston-daily-rotate-file v5
