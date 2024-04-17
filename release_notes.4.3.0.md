@@ -74,6 +74,7 @@
 - ol v9.1.0,
 - openjdk v17.0.10
 - org.apache.commons:commons-compress v1.26.1
+- org.apache.commons:commons-text v1.12.0
 - org.slf4j:slf4j-api v2.0.13
 - org.springframework:spring-webflux v6.1.6
 - org.webjars:swagger-ui v5.15.2
