@@ -48,8 +48,8 @@
 
 # Dependencies upgrade
 
-- ag-grid-angular v31.2.0
-- ag-grid-community v31.2.0
+- ag-grid-angular v31.2.1
+- ag-grid-community v31.2.1
 - Angular v17.3.4
 - angular-oauth2-oidc v17.0.2
 - amqplib v0.10.4
