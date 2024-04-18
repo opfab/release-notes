@@ -40,6 +40,7 @@
 - #6202 : Fix child cards dates when updating parent card and keeping child cards
 - #5390 : List of user entity on top-right takes a few seconds to update when user changes activity area
 - #6258 : Fix process monitoring export for list fields
+- #6297 : Archives/Logging : fix buttons display with small resolution
 
 # Tasks
 - #6079: Remove legacy field realtime in group object
