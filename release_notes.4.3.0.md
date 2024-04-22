@@ -71,7 +71,7 @@
 - moment-timezone to v0.5.45
 - mongodb (npm package) v6.5.0
 - net.minidev:json-smart v2.5.1
-- nginx v1.25.4
+- nginx v1.25.5
 - Node.js v20.12.1
 - nodemailer v6.9.13
 - ol v9.1.0,
