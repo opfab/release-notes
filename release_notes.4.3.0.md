@@ -82,7 +82,7 @@
 - org.springframework:spring-webflux v6.1.6
 - org.webjars:swagger-ui v5.15.2-1
 - rabbitmq Docker tag v3.13.1
-- spring boot v3.2.4
+- spring boot v3.2.5 
 - spring kafka v3.1.4
 - spring security v6.2.4
 - typescript to v5.4.5
