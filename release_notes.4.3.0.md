@@ -90,6 +90,7 @@
 - typescript to v5.4.5
 - winston v3.13.0
 - winston-daily-rotate-file v5
+- xlsx 0.20.2
 - zone.js v0.14.4
 
 
