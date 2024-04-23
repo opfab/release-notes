@@ -19,14 +19,14 @@
 - #6013 : Added warning in the UI in case of cycle in parent entity references
 - #5821 : Geopmap geojson layers: configure custom style
 - #6167 : Search for entities when creating supervised entities enabled
-- #6181 : Implement KEEP_EXISTING_ACKS_AND_READS Action for Card Updates
-- #6183 : Implement KEEP_EXISTING_PUBLISH_DATE Action for Card Updates
+- #6181 : Implement KEEP_EXISTING_ACKS_AND_READS action for card updates
+- #6183 : Implement KEEP_EXISTING_PUBLISH_DATE action for card updates
 - #5950 : Add an edit button to edit an external device configuration
 - #6240 : Refuse login of a user without groups
 - #6248 : The date of the most recent modification to a card is now saved in the "lastUpdate" field
 - #6243 : Add an option to view all cards in process monitoring screen
 - #6282 : Updated recovery mechanism to check for lastUpdate and not publishDate
-- #6241 : Implement Date Navigation Links in Process Monitoring Scree
+- #6241 : Implement date navigation links in process monitoring screen
   
 # Bug Fixes
 
