@@ -27,6 +27,7 @@
 - #6243 : Add an option to view all cards in process monitoring screen
 - #6282 : Updated recovery mechanism to check for lastUpdate and not publishDate
 - #6241 : Implement date navigation links in process monitoring screen
+- #6242 : Add geographical view for monitoring process screen
   
 # Bug Fixes
 
