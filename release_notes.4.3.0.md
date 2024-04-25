@@ -1,33 +1,42 @@
 
 # Features
 
-- #5792 : Remove deprecated use of group admin to set the admin rights
-- #5921 : Do not try again to send mail for user rate limited
-- #5869 : Add logLevel endpoint for node services
+Administration features : 
 - #5870 : Add the possibility to manage user group membership in the group creation/modification screen
 - #5871 : Add the ability to manage user entity membership in the entity creation/modification screen
-- #5612 : Add an option to set the default opfab entry page
-- #5948 : Propose to save when exiting notification configuration screen
-- #4249 : Replace current date picker with standard date picker of browser
 - #5949 : Allow to add new external devices from UI
 - #5951 : Add a delete button to delete an external device configuration
 - #6032 : Add an export button for "user action logs" screen
+- #6167 : Search for entities when creating supervised entities enabled
+- #5950 : Add an edit button to edit an external device configuration
+- #6013 : Added warning in the UI in case of cycle in parent entity references
+
+Email feature: 
+- #5921 : Do not try again to send mail for user rate limited
 - #5733 : Added the option to send daily recap by email
 - #5878 : Permit to render rich text in mail body via a handlebar helper
-- #6023 : Do not save automatically settings
+
+Geographical map:
 - #6021 : Add multiple geopmap layers
-- #6013 : Added warning in the UI in case of cycle in parent entity references
 - #5821 : Geopmap geojson layers: configure custom style
-- #6167 : Search for entities when creating supervised entities enabled
-- #6181 : Implement KEEP_EXISTING_ACKS_AND_READS action for card updates
-- #6183 : Implement KEEP_EXISTING_PUBLISH_DATE action for card updates
-- #5950 : Add an edit button to edit an external device configuration
-- #6240 : Refuse login of a user without groups
-- #6248 : The date of the most recent modification to a card is now saved in the "lastUpdate" field
+
+Process monitoring screen :
 - #6243 : Add an option to view all cards in process monitoring screen
-- #6282 : Updated recovery mechanism to check for lastUpdate and not publishDate
 - #6241 : Implement date navigation links in process monitoring screen
 - #6242 : Add geographical view for monitoring process screen
+
+Misc :
+- #5792 : Remove deprecated use of group admin to set the admin rights
+- #5869 : Add logLevel endpoint for node services
+- #5612 : Add an option to set the default opfab entry page
+- #5948 : Propose to save when exiting notification configuration screen
+- #4249 : Replace current date picker with standard date picker of browser
+- #6023 : Do not save automatically settings
+- #6181 : Implement KEEP_EXISTING_ACKS_AND_READS action for card updates
+- #6183 : Implement KEEP_EXISTING_PUBLISH_DATE action for card updates
+- #6240 : Refuse login of a user without groups
+- #6282, #6248 : Updated recovery mechanism to check for a new field lastUpdate and not publishDate
+
   
 # Bug Fixes
 
@@ -46,6 +55,7 @@
 - #6056 : External devices: show error message when enable/disable fails
 
 # Tasks
+
 - #6079: Remove legacy field realtime in group object
 - #6026 : Add a geojson example
 - #6115 : Add path controls in PathUtils to mitigate path manipulation vulnerabilities
