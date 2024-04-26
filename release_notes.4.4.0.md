@@ -9,4 +9,4 @@
 
 # Dependencies upgrade
 
-- xxx : v x.x 
+- Node.js: v20.12.2
