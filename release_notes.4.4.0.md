@@ -5,6 +5,8 @@
 
 # Bug Fixes
 
+- #6367 : Corners of pop-up are not rounded
+
 # Tasks
 
 # Dependencies upgrade
