@@ -1,7 +1,7 @@
 
 # Features
 
-- #XXXX : XX
+- #6308: Add security authorization logs in java services
 
 # Bug Fixes
 
