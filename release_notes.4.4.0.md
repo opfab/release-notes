@@ -11,6 +11,7 @@
 
 # Dependencies upgrade
 
-- nginx: v1.26.0
-- Node.js: v20.12.2
+- angular v17.3.6
+- nginx v1.26.0
+- Node.js v20.12.2
 
