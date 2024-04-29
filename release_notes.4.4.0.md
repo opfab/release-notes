@@ -14,4 +14,5 @@
 - angular v17.3.6
 - nginx v1.26.0
 - Node.js v20.12.2
+- virtual-select-plugin v1.0.44 
 
