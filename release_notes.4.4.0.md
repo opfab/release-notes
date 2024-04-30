@@ -2,6 +2,7 @@
 # Features
 
 - #6308 : Add security authorization logs in java services
+- #6309 : Add security authentication logs in java services
 - #6359 : Activity area - show a popup if too many users are connected
 
 # Bug Fixes
