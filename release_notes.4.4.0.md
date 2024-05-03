@@ -17,8 +17,10 @@
 # Dependencies upgrade
 
 - angular v17.3.7
+- com.google.guava:guava v33.2.0-jre
 - nginx v1.26.0
 - Node.js v20.12.2
 - openjdk v17.0.11
+- rabbitmq v3.13.2
 - virtual-select-plugin v1.0.44 
 
