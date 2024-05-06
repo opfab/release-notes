@@ -18,7 +18,9 @@
 # Dependencies upgrade
 
 - angular v17.3.7
+- com.fasterxml.jackson.core:jackson-databind v2.17.1
 - com.google.guava:guava v33.2.0-jre
+- mongodb(npm package) v6.6.0
 - nginx v1.26.0
 - Node.js v20.12.2
 - openjdk v17.0.11
