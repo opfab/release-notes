@@ -7,6 +7,7 @@
 - #6230 : In monitoring processus : memorize selected tags in preferences
 - #6301 : Add security authorization logs in node services
 - #6302 : Add security authentication logs in node services
+- #6407 : Restrict access to endPoint /rateLimiter in cards-publication to admin only
 
 # Bug Fixes
 
