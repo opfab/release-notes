@@ -15,6 +15,7 @@
 - #6367 : Corners of pop-up are not rounded
 - #6374 : When going in the administration menu, the "User management" table is pre selected but not highlighted
 - #6381 : Wrong display of pagination in user action logs screen
+- #6388 : Fix incoherent translations of menus in dutch
 
 # Tasks
 
