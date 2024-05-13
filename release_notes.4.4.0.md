@@ -29,6 +29,7 @@
 - nginx v1.26.0
 - Node.js v20.12.2
 - openjdk v17.0.11
+- quill v2.0.1
 - rabbitmq v3.13.2
 - virtual-select-plugin v1.0.44 
 
