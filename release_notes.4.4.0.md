@@ -21,7 +21,7 @@
 
 # Dependencies upgrade
 
-- angular v17.3.7
+- angular v17.3.8
 - com.fasterxml.jackson.core:jackson-annotations v2.17.1
 - com.fasterxml.jackson.core:jackson-databind v2.17.1
 - com.google.guava:guava v33.2.0-jre
