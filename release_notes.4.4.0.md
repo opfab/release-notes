@@ -19,6 +19,8 @@
 
 # Tasks
 
+- #6363 : Update the dates in the "Planned outage" example card
+
 # Dependencies upgrade
 
 - angular v17.3.8
