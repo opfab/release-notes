@@ -24,6 +24,8 @@
 
 # Dependencies upgrade
 
+- ag-grid-angular v31.3.1
+- ag-grid-community v31.3.1
 - angular v17.3.8
 - com.fasterxml.jackson.core:jackson-annotations v2.17.1
 - com.fasterxml.jackson.core:jackson-databind v2.17.1
