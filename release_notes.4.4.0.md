@@ -10,6 +10,7 @@
 - #6407 : Restrict access to endPoint /rateLimiter in cards-publication to admin only
 - #6416 : Rich Text Editor: allow to disable component
 - #6319 : Add filters LESSTHAN & GREATERTHAN to FilterMatchTypeEnum
+- #6360 : Add input validation for email address settings
 
 # Bug Fixes
 
