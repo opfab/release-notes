@@ -19,6 +19,7 @@
 - #6381 : Wrong display of pagination in user action logs screen
 - #6388 : Fix incoherent translations of menus in dutch
 - #6380 : Fix "bad request" error message translation
+- #6369 : Add new supervised entity modal : aesthetic defect
 
 # Tasks
 
