@@ -22,6 +22,7 @@
 - #6369 : Add new supervised entity modal : aesthetic defect
 - #6362 : Set fixed and big enough width for the selectors in "User action logs" screen
 - #6472 : Setting hidden value "sendCardsByEmail" in web-ui.json does not hide email field in settings
+- #6379 : Admin perimeters : fix filter on state rights column
 
 # Tasks
 
