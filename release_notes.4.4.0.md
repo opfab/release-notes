@@ -11,6 +11,7 @@
 - #6416 : Rich Text Editor: allow to disable component
 - #6319 : Add filters LESSTHAN & GREATERTHAN to FilterMatchTypeEnum
 - #6360 : Add input validation for email address settings
+- #6457 : Add the possiblity to load custom javascript on startup
 
 # Bug Fixes
 
