@@ -12,6 +12,7 @@
 - #6319 : Add filters LESSTHAN & GREATERTHAN to FilterMatchTypeEnum
 - #6360 : Add input validation for email address settings
 - #6457 : Add the possiblity to load custom javascript on startup
+- #6361 : Confirmation pop up when leaving Activity Area screen without saving
 
 # Bug Fixes
 
