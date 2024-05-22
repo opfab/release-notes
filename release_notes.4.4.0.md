@@ -13,6 +13,7 @@
 - #6360 : Add input validation for email address settings
 - #6457 : Add the possiblity to load custom javascript on startup
 - #6361 : Confirmation pop up when leaving Activity Area screen without saving
+- #6468 : Use rich text editor for question built-in template
 
 # Bug Fixes
 
