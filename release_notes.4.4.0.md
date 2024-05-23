@@ -42,7 +42,7 @@
 - com.google.guava:guava v33.2.0-jre
 - mongodb(npm package) v6.6.2
 - nginx v1.26.0
-- Node.js v20.12.2
+- Node.js v20.13.1
 - openjdk v17.0.11
 - org.springframework:spring-webflux v6.1.7
 - quill v2.0.2
