@@ -14,6 +14,7 @@
 - #6457 : Add the possiblity to load custom javascript on startup
 - #6361 : Confirmation pop up when leaving Activity Area screen without saving
 - #6468 : Use rich text editor for question built-in template
+- #6463 : Link the period selection for the Dashboard, Card Feed and Monitoring screens
 
 # Bug Fixes
 
