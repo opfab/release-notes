@@ -48,5 +48,6 @@
 - org.springframework:spring-webflux v6.1.7
 - quill v2.0.2
 - rabbitmq v3.13.2
-- virtual-select-plugin v1.0.44 
+- virtual-select-plugin v1.0.44
+- zone.js v0.14.6
 
