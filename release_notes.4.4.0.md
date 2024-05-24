@@ -46,7 +46,6 @@
 - Node.js v20.13.1
 - openjdk v17.0.11
 - org.apache.commons:commons-compress v1.26.2
-- org.springframework:spring-webflux v6.1.7
 - org.springframework:spring-webflux v6.1.8
 - quill v2.0.2
 - rabbitmq v3.13.2
