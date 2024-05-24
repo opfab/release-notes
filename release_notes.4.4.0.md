@@ -45,6 +45,7 @@
 - nginx v1.26.0
 - Node.js v20.13.1
 - openjdk v17.0.11
+- org.apache.commons:commons-compress v1.26.2
 - org.springframework:spring-webflux v6.1.7
 - quill v2.0.2
 - rabbitmq v3.13.2
