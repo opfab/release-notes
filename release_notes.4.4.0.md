@@ -15,6 +15,7 @@
 - #6361 : Confirmation pop up when leaving Activity Area screen without saving
 - #6468 : Use rich text editor for question built-in template
 - #6463 : Link the period selection for the Dashboard, Card Feed and Monitoring screens
+- #6490 : Add possibility to delete Admin group
 
 # Bug Fixes
 
