@@ -29,6 +29,7 @@
 - #6472 : Setting hidden value "sendCardsByEmail" in web-ui.json does not hide email field in settings
 - #6379 : Admin perimeters : fix filter on state rights column
 - #6372 : Signal mapping screen : mapping with negative numbers is not well displayed
+- #6480 : Fix logout procedure in IMPLICIT mode
 
 # Tasks
 
