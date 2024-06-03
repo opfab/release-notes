@@ -17,6 +17,7 @@
 - #6463 : Link the period selection for the Dashboard, Card Feed and Monitoring screens
 - #6490 : Add possibility to delete Admin group
 - #6516 : Allow POST requests to update existing perimeters
+- #6534 : Add user ui version in user action logs screen
 
 # Bug Fixes
 
