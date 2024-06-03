@@ -18,6 +18,7 @@
 - #6490 : Add possibility to delete Admin group
 - #6516 : Allow POST requests to update existing perimeters
 - #6534 : Add user ui version in user action logs screen
+- #6239 : Allow to get the list of tags from a custom code
 
 # Bug Fixes
 
