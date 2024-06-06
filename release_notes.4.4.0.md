@@ -38,6 +38,7 @@
 # Tasks
 
 - #6363 : Update the dates in the "Planned outage" example card
+- #6573 : Add a more consistent nginx configuration
 
 # Dependencies upgrade
 
