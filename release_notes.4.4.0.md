@@ -58,7 +58,7 @@
 - org.apache.commons:commons-compress v1.26.2
 - org.springframework:spring-webflux v6.1.8
 - quill v2.0.2
-- rabbitmq v3.13.2
+- rabbitmq v3.13.3
 - springboot 3.3.0
 - virtual-select-plugin v1.0.44
 - zone.js v0.14.6
