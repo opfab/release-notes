@@ -39,6 +39,7 @@
 
 - #6363 : Update the dates in the "Planned outage" example card
 - #6573 : Add a more consistent nginx configuration
+- #6583 : Set base path for businessconfig service to /
 
 # Dependencies upgrade
 
