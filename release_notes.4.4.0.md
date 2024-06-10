@@ -53,7 +53,7 @@
 - com.google.guava:guava v33.2.1-jre
 - jsdom v24.1.0 
 - micrometer v1.13.0
-- mongodb(npm package) v6.6.2
+- mongodb(npm package) v6.7.0
 - nginx v1.26.0
 - Node.js v20.13.1
 - openjdk v17.0.11
