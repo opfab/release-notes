@@ -51,6 +51,7 @@
 - com.fasterxml.jackson.core:jackson-annotations v2.17.1
 - com.fasterxml.jackson.core:jackson-databind v2.17.1
 - com.google.guava:guava v33.2.1-jre
+- jsdom v24.1.0 
 - micrometer v1.13.0
 - mongodb(npm package) v6.6.2
 - nginx v1.26.0
