@@ -45,7 +45,7 @@
 
 - ag-grid-angular v31.3.2
 - ag-grid-community v31.3.2
-- angular v17.3.10
+- angular v17.3.11
 - axios v1.7.2
 - chart.js v4.4.3
 - com.fasterxml.jackson.core:jackson-annotations v2.17.1
