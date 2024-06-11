@@ -55,7 +55,7 @@
 - micrometer v1.13.0
 - mongodb(npm package) v6.7.0
 - nginx v1.26.0
-- Node.js v20.13.1
+- Node.js v20.14.0 
 - openjdk v17.0.11
 - org.apache.commons:commons-compress v1.26.2
 - org.springframework:spring-webflux v6.1.8
