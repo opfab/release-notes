@@ -35,6 +35,7 @@
 - #6372 : Signal mapping screen : mapping with negative numbers is not well displayed
 - #6480 : Fix logout procedure in IMPLICIT mode
 - #6553 : Impossible to change opfab url base path
+- #6532 : Fix bug to avoid sound notification is played when it should not
 
 # Tasks
 
