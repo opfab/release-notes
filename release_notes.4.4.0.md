@@ -20,6 +20,7 @@
 - #6534 : Add user ui version in user action logs screen
 - #6239 : Allow to get the list of tags from a custom code
 - #6456 : Give the possibility to update an existing card by modifying only some properties
+- #6623 : Card-external-diffusion: send mail even if user is currently connected
 
 # Bug Fixes
 
