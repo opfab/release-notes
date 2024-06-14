@@ -57,12 +57,12 @@
 - io.micrometer:micrometer-registry-prometheus v1.13.1
 - jsdom v24.1.0 
 - mongodb(npm package) v6.7.0
-- nginx v1.26.0
+- nginx v1.27.0
 - Node.js v20.14.0
 - ol v9.2.4
 - openjdk v17.0.11
 - org.apache.commons:commons-compress v1.26.2
-- org.springframework:spring-webflux v6.1.8
+- org.springframework:spring-webflux v6.1.9
 - quill v2.0.2
 - rabbitmq v3.13.3
 - springboot 3.3.0
