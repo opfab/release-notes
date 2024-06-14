@@ -66,5 +66,5 @@
 - rabbitmq v3.13.3
 - springboot 3.3.0
 - virtual-select-plugin v1.0.44
-- zone.js v0.14.6
+- zone.js v0.14.7
 
