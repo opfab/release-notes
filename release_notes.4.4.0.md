@@ -22,6 +22,7 @@
 - #6456 : Give the possibility to update an existing card by modifying only some properties
 - #6623 : Card-external-diffusion: send mail even if user is currently connected
 - #5879 : Add sound and notification when receiving child card with action PROPAGATE_READ ACK_TO_PARENT_CARD (#5879)
+- #6668 : Add a title in built-in question card
 
 # Bug Fixes
 
