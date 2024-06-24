@@ -61,6 +61,7 @@
 - jsdom v24.1.0 
 - mongodb(npm package) v6.7.0
 - nginx v1.27.0
+- nodemailer v6.9.14
 - Node.js v20.14.0
 - ol v9.2.4
 - openjdk v17.0.11
