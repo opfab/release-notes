@@ -24,6 +24,7 @@
 - #5879 : Add sound and notification when receiving child card with action PROPAGATE_READ ACK_TO_PARENT_CARD (#5879)
 - #6668 : Add a title in built-in question card
 - #6705 : In message or question list : permit to hide summary in usercard
+- #6660 : Add new endpoints to set a process / state as notified/not notified for all user
 
 
 
