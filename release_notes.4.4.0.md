@@ -65,7 +65,7 @@
 - fullcalendar v6.1.14
 - io.micrometer:micrometer-registry-prometheus v1.13.1
 - jsdom v24.1.0 
-- mongodb(npm package) v6.7.0
+- mongodb(npm package) v6.8.0
 - nginx v1.27.0
 - nodemailer v6.9.14
 - Node.js v20.14.0
