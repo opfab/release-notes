@@ -25,6 +25,7 @@
 - #6668 : Add a title in built-in question card
 - #6705 : In message or question list : permit to hide summary in usercard
 - #6660 : Add new endpoints to set a process / state as notified/not notified for all user
+- #5479 : Task advanced usercard, use rich text editor for task description field
 
 
 
