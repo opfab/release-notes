@@ -75,7 +75,7 @@
 - org.apache.commons:commons-compress v1.26.2
 - org.springframework:spring-webflux v6.1.10
 - quill v2.0.2
-- rabbitmq v3.13.3
+- rabbitmq v3.13.4
 - springboot 3.3.1
 - spring-kafka v3.2.1 
 - spring security v6.3.1
