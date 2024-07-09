@@ -62,7 +62,7 @@
 - chart.js v4.4.3
 - config v3.3.12
 - com.fasterxml.jackson.core:jackson-annotations v2.17.2
-- com.fasterxml.jackson.core:jackson-databind v2.17.1
+- com.fasterxml.jackson.core:jackson-databind v2.17.2
 - com.google.guava:guava v33.2.1-jre
 - fullcalendar v6.1.14
 - io.micrometer:micrometer-registry-prometheus v1.13.1
@@ -70,7 +70,7 @@
 - mongodb(npm package) v6.8.0
 - nginx v1.27.0
 - nodemailer v6.9.14
-- Node.js v20.14.0
+- Node.js v20.15.0
 - ol v9.2.4
 - openjdk v17.0.11
 - org.apache.commons:commons-compress v1.26.2
