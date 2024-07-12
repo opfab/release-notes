@@ -27,6 +27,7 @@
 - #6660 : Add new endpoints to set a process / state as notified/not notified for all user
 - #5479 : Task advanced usercard, use rich text editor for task description field
 - #6244 : Add the possibility to define columns per process in monitoring processus screen
+- #6715 : Set default settings in mongoDB
 
 
 
