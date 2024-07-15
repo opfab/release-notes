@@ -69,7 +69,7 @@
 - com.fasterxml.jackson.core:jackson-databind v2.17.2
 - com.google.guava:guava v33.2.1-jre
 - fullcalendar v6.1.14
-- io.micrometer:micrometer-registry-prometheus v1.13.1
+- io.micrometer:micrometer-registry-prometheus v1.13.2 
 - jsdom v24.1.0 
 - mongodb(npm package) v6.8.0
 - nginx v1.27.0
