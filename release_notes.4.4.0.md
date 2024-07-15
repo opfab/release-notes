@@ -78,7 +78,7 @@
 - ol v9.2.4
 - openjdk v17.0.11
 - org.apache.commons:commons-compress v1.26.2
-- org.springframework:spring-webflux v6.1.10
+- org.springframework:spring-webflux v6.1.11 
 - quill v2.0.2
 - rabbitmq v3.13.4
 - springboot 3.3.1
