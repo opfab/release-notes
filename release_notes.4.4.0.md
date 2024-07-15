@@ -28,7 +28,7 @@
 - #5479 : Task advanced usercard, use rich text editor for task description field
 - #6244 : Add the possibility to define columns per process in monitoring processus screen
 - #6715 : Set default settings in mongoDB
-
+- #6670 : In built-in question usercard add option to keep response history
 
 
 # Bug Fixes
