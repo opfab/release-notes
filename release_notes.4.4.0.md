@@ -55,6 +55,7 @@
 - #6573 : Add a more consistent nginx configuration
 - #6583 : Set base path for businessconfig service to /
 - #6740 : Remove unneeded client_id parameter in password flow
+- #6747 : Correct swagger description for get card
 
 # Dependencies upgrade
 
