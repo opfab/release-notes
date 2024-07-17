@@ -29,7 +29,7 @@
 - #6244 : Add the possibility to define columns per process in monitoring processus screen
 - #6715 : Set default settings in mongoDB
 - #6670 : In built-in question usercard add option to keep response history
-
+- #6785 : Add severity action for question builtInTemplate
 
 # Bug Fixes
 
