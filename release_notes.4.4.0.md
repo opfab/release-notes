@@ -74,7 +74,7 @@
 - mongodb(npm package) v6.8.0
 - nginx v1.27.0
 - nodemailer v6.9.14
-- Node.js v20.15.0
+- Node.js v20.15.1
 - ol v9.2.4
 - openjdk v17.0.11
 - org.apache.commons:commons-compress v1.26.2
