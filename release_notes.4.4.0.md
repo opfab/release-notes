@@ -30,6 +30,7 @@
 - #6715 : Set default settings in mongoDB
 - #6670 : In built-in question usercard add option to keep response history
 - #6785 : Add severity action for question builtInTemplate
+- #6669 : Added choice to keep child cards in usercard
 
 # Bug Fixes
 
