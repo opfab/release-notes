@@ -33,6 +33,7 @@
 - #6669 : Added choice to keep child cards in usercard
 - #6742 : Added client id to user logs
 - #6784 : Add an option to set severity in built in templates
+- #6767 : Improve the display of feed notification configuration screen
 
 # Bug Fixes
 
