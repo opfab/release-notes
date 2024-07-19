@@ -32,6 +32,7 @@
 - #6785 : Add severity action for question builtInTemplate
 - #6669 : Added choice to keep child cards in usercard
 - #6742 : Added client id to user logs
+- #6784 : Add an option to set severity in built in templates
 
 # Bug Fixes
 
