@@ -31,6 +31,7 @@
 - #6670 : In built-in question usercard add option to keep response history
 - #6785 : Add severity action for question builtInTemplate
 - #6669 : Added choice to keep child cards in usercard
+- #6742 : Added client id to user logs
 
 # Bug Fixes
 
