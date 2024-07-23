@@ -1,39 +1,55 @@
 
 # Features
-- Opfab-CLI 
-- #6308 : Add security authorization logs in java services
-- #6309 : Add security authentication logs in java services
-- #6359 : Activity area - show a popup if too many users are connected
-- #6230 : In monitoring processus : memorize selected tags in preferences
-- #6301 : Add security authorization logs in node services
-- #6302 : Add security authentication logs in node services
-- #6407 : Restrict access to endPoint /rateLimiter in cards-publication to admin only
-- #6416 : Rich Text Editor: allow to disable component
+
+This release introduces a Command Line Interface (CLI) to ease interaction with operator fabric.  
+
+Cyber-Security 
+  - #6308 : Add security authorization logs in java services
+  - #6309 : Add security authentication logs in java services
+  - #6301 : Add security authorization logs in node services
+  - #6302 : Add security authentication logs in node services
+  - #6407 : Restrict access to endPoint /rateLimiter in cards-publication to admin only
+
+Activity Area 
+- #6359 : Show a popup if too many users are connected
+- #6361 : Confirmation pop up when leaving Activity Area screen without saving
+
+Built-in cards :
+- #6468 : Use rich text editor for question built-in template
+- #5479 : Task advanced usercard, use rich text editor for task description field
+- #6705 : In message or question list : permit to hide summary in usercard
+- #6668 : Add a title in built-in question card
+- #6884 : Question usercard built-in template set title from question if empty
+- #6785 : Add severity action for question builtInTemplate
+- #6784 : Add an option to set severity in built in templates
+- #6670 : In built-in question usercard add option to keep response history
+
+Monitoring processus :
+- #6230 : Memorize selected tags in preferences
+- #6244 : Add the possibility to define columns per process
+
+API :
 - #6319 : Add filters LESSTHAN & GREATERTHAN to FilterMatchTypeEnum
+- #6516 : Allow POST requests to update existing perimeters
+- #6660 : Add new endpoints to set a process / state as notified/not notified for all user
+- #6456 : Give the possibility to update an existing card by modifying only some properties
+
+User Action logs :
+- #6534 : Add user ui version in user action logs screen
+- #6742 : Added client id to user logs
+
+Misc:
+- #6416 : Rich Text Editor: allow to disable component
 - #6360 : Add input validation for email address settings
 - #6457 : Add the possiblity to load custom javascript on startup
-- #6361 : Confirmation pop up when leaving Activity Area screen without saving
-- #6468 : Use rich text editor for question built-in template
-- #6463 : Link the period selection for the Dashboard, Card Feed and Monitoring screens
 - #6490 : Add possibility to delete Admin group
-- #6516 : Allow POST requests to update existing perimeters
-- #6534 : Add user ui version in user action logs screen
 - #6239 : Allow to get the list of tags from a custom code
-- #6456 : Give the possibility to update an existing card by modifying only some properties
 - #6623 : Card-external-diffusion: send mail even if user is currently connected
 - #5879 : Add sound and notification when receiving child card with action PROPAGATE_READ ACK_TO_PARENT_CARD (#5879)
-- #6668 : Add a title in built-in question card
-- #6705 : In message or question list : permit to hide summary in usercard
-- #6660 : Add new endpoints to set a process / state as notified/not notified for all user
-- #5479 : Task advanced usercard, use rich text editor for task description field
-- #6244 : Add the possibility to define columns per process in monitoring processus screen
 - #6715 : Set default settings in mongoDB
-- #6670 : In built-in question usercard add option to keep response history
-- #6785 : Add severity action for question builtInTemplate
 - #6669 : Added choice to keep child cards in usercard
-- #6742 : Added client id to user logs
-- #6784 : Add an option to set severity in built in templates
 - #6767 : Improve the display of feed notification configuration screen
+
 
 # Bug Fixes
 
