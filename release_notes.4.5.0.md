@@ -10,5 +10,5 @@
 
 # Dependencies upgrade
 
-- 
+- Spring boot v3.3.2
 
