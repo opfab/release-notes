@@ -1,6 +1,7 @@
 
 # Features
 
+- #6814 : Do not permit to send child card of child card
 
 # Bug Fixes
 
