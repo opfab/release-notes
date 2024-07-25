@@ -3,6 +3,7 @@
 
 - #6814 : Do not permit to send child card of child card
 - #6854 : User action logs: add CLOSE_SUBSCRIPTION in action filter
+- #6835 : Added a body postfix to sent emails
 
 # Bug Fixes
 
