@@ -17,6 +17,7 @@
 - Angular v17.3.12
 - Confluent v7.6.2
 - Jsdom  v24.1.1
+- Rabbitmq v3.13.6
 - Spring-kafka v3.2.2
 - Spring boot v3.3.2
 
