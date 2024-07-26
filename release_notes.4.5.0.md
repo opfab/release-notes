@@ -11,6 +11,7 @@
 
 # Tasks
 
+ #6901 : Unused field in CardDeletionService
 
 # Dependencies upgrade
 
