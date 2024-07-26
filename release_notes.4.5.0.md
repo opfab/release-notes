@@ -5,6 +5,7 @@
 - #6854 : User action logs: add CLOSE_SUBSCRIPTION in action filter
 - #6835 : Added a body postfix to sent emails
 - #6841 : Opfab Cli : Add a command to execute a list of cli commands
+- #6531 : Allow to load a custom handlebars helpers file
 
 # Bug Fixes
 
