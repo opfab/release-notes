@@ -18,6 +18,8 @@
 
 - Angular v17.3.12
 - Confluent v7.6.2
+- io.confluent:kafka-avro-serializer v7.7.0
+- io.confluent:kafka-schema-registry-client v7.7.0
 - Jsdom  v24.1.1
 - Rabbitmq v3.13.6
 - Spring-kafka v3.2.2
