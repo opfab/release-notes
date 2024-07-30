@@ -14,6 +14,7 @@
 # Tasks
 
  #6901 : Unused field in CardDeletionService
+ #6828 : Remove spring logs when bad request to card consultation service
 
 # Dependencies upgrade
 
