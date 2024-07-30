@@ -6,6 +6,7 @@
 - #6835 : Added a body postfix to sent emails
 - #6841 : Opfab Cli : Add a command to execute a list of cli commands
 - #6531 : Allow to load a custom handlebars helpers file
+- #6753 : Set as impossible to load a perimeter with no right field
 
 # Bug Fixes
 
