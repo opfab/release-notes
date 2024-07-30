@@ -18,7 +18,7 @@
 
 # Dependencies upgrade
 
-- ag-grid to v32.0.2
+- ag-grid v32.0.2
 - Angular v17.3.12
 - Confluent v7.6.2
 - io.confluent:kafka-avro-serializer v7.7.0
@@ -28,4 +28,4 @@
 - Rabbitmq v3.13.6
 - Spring-kafka v3.2.2
 - Spring boot v3.3.2
-- Zone.js to v0.14.8
+- Zone.js v0.14.8
