@@ -13,7 +13,7 @@
 
 # Tasks
 
- #6901 : Unused field in CardDeletionService
+- #6901 : Unused field in CardDeletionService
 - #6828 : Remove spring logs when bad request to card consultation service
 
 # Dependencies upgrade
@@ -28,5 +28,6 @@
 - Spring-kafka v3.2.2
 - Spring boot v3.3.2
 - Zone.js to v0.14.8
+- ag-grid to v32.0.2
 
 
