@@ -10,6 +10,7 @@
 
 # Bug Fixes
 
+- #6914 : "Publish from" field is reset in archives screen when clicking on "See only the cards I am recipient of"
 
 # Tasks
 
