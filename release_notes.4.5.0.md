@@ -21,10 +21,14 @@
 - ag-grid v32.0.2
 - Angular v17.3.12
 - Confluent v7.6.2
+- eslint-plugin-prettier v5.2.1
+- eslint-plugin-promise v6.6.0
 - io.confluent:kafka-avro-serializer v7.7.0
 - io.confluent:kafka-schema-registry-client v7.7.0
 - io.swagger:swagger-codegen-cli v2.4.42
 - Jsdom  v24.1.1
+- org.apache.commons:commons-lang3 v3.15.0
+- org.apache.kafka:kafka-clients v7.7.0-ce
 - Rabbitmq v3.13.6
 - Spring-kafka v3.2.2
 - Spring boot v3.3.2
