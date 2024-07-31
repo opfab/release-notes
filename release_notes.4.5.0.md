@@ -15,6 +15,7 @@
 
 - #6901 : Unused field in CardDeletionService
 - #6828 : Remove spring logs when bad request to card consultation service
+- #6847 : Add consistent response for log level on cli
 
 # Dependencies upgrade
 
