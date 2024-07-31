@@ -7,6 +7,7 @@
 - #6841 : Opfab Cli : Add a command to execute a list of cli commands
 - #6531 : Allow to load a custom handlebars helpers file
 - #6753 : Set as impossible to load a perimeter with no right field
+- #6863 : Don't display confirmation pop up if no changes have been made
 
 # Bug Fixes
 
