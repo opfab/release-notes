@@ -23,6 +23,11 @@
 
 - ag-grid v32.0.2
 - Angular v17.3.12
+- angular-eslint/builder v18.2.0
+- angular-eslint/eslint-plugin v18.2.0
+- angular-eslint/eslint-plugin-template v18.2.0
+- angular-eslint/schematics v18.2.0
+- angular-eslint/template-parser v18.2.0
 - Confluent v7.6.2
 - cypress 13.13.2
 - eslint-plugin-prettier v5.2.1
