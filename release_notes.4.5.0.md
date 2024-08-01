@@ -33,9 +33,11 @@
 - io.swagger:swagger-codegen-cli v2.4.42
 - Jsdom  v24.1.1
 - karma v6.4.4
+- node v20.16.0
 - org.apache.commons:commons-lang3 v3.15.0
 - org.apache.kafka:kafka-clients v7.7.0-ce
 - Rabbitmq v3.13.6
 - Spring-kafka v3.2.2
 - Spring boot v3.3.2
+- types/node v20.14.13
 - Zone.js v0.14.8
