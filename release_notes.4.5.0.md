@@ -24,6 +24,7 @@
 - ag-grid v32.0.2
 - Angular v17.3.12
 - Confluent v7.6.2
+- cypress 13.13.2
 - eslint-plugin-prettier v5.2.1
 - eslint-plugin-promise v6.6.0
 - io.confluent:kafka-avro-serializer v7.7.0
