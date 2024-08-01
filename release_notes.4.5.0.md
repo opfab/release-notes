@@ -32,6 +32,7 @@
 - io.confluent:kafka-schema-registry-client v7.7.0
 - io.swagger:swagger-codegen-cli v2.4.42
 - Jsdom  v24.1.1
+- karma v6.4.4
 - org.apache.commons:commons-lang3 v3.15.0
 - org.apache.kafka:kafka-clients v7.7.0-ce
 - Rabbitmq v3.13.6
