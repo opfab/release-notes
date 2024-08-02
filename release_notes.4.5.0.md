@@ -37,6 +37,7 @@
 - node v20.16.0
 - org.apache.commons:commons-lang3 v3.15.0
 - org.apache.kafka:kafka-clients v7.7.0-ce
+- ossf/scorecard-action v2.4.0
 - Rabbitmq v3.13.6
 - rimraf v5.0.10
 - Spring-kafka v3.2.2
