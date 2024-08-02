@@ -38,6 +38,7 @@
 - org.apache.commons:commons-lang3 v3.15.0
 - org.apache.kafka:kafka-clients v7.7.0-ce
 - Rabbitmq v3.13.6
+- rimraf v5.0.10
 - Spring-kafka v3.2.2
 - Spring boot v3.3.2
 - types/node v20.14.13
