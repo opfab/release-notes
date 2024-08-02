@@ -31,6 +31,7 @@
 - io.confluent:kafka-avro-serializer v7.7.0
 - io.confluent:kafka-schema-registry-client v7.7.0
 - io.swagger:swagger-codegen-cli v2.4.42
+- jasmine-core v5.2.0
 - Jsdom  v24.1.1
 - karma v6.4.4
 - node v20.16.0
