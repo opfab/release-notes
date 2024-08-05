@@ -27,6 +27,7 @@
 - ag-grid v32.0.2
 - Angular v17.3.12
 - angular-eslint monorepo v18.2.0
+- axios v1.7.3
 - Confluent v7.6.2
 - cypress 13.13.2
 - eslint-plugin-prettier v5.2.1
