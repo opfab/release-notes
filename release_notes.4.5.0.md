@@ -20,6 +20,7 @@
 - #6828 : Remove spring logs when bad request to card consultation service
 - #6847 : Add consistent response for log level on cli
 - #6979 : Github actions : Fix docker-compose command not found. Upgrade to docker compose v2
+- #6877 : ReadOnly group renamed Maintainer group to avoid confusion
 
 # Dependencies upgrade
 
