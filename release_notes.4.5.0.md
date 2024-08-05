@@ -12,6 +12,7 @@
 # Bug Fixes
 
 - #6914 : "Publish from" field is reset in archives screen when clicking on "See only the cards I am recipient of"
+- #6965 : Documentation for registerFunctionToGetTags function is not compliant with the implementation
 
 # Tasks
 
