@@ -8,6 +8,7 @@
 - #6531 : Allow to load a custom handlebars helpers file
 - #6753 : Set as impossible to load a perimeter with no right field
 - #6863 : Don't display confirmation pop up if no changes have been made
+- #6736 : Update to angular v18, ng-bootstrap v17
 
 # Bug Fixes
 
@@ -24,6 +25,7 @@
 - #6847 : Add consistent response for log level on cli
 - #6979 : Github actions : Fix docker-compose command not found. Upgrade to docker compose v2
 - #6877 : ReadOnly group renamed Maintainer group to avoid confusion
+- #6895 : Replace moment.js with date-fns in timeline
 
 # Dependencies upgrade
 
