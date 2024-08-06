@@ -52,5 +52,5 @@
 - Spring boot v3.3.2
 - tj-actions/changed-files v44.5.7
 - ts-jest v29.2.4
-- types/node v20.14.13
+- types/node v20.14.14
 - Zone.js v0.14.8
