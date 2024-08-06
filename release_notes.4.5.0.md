@@ -45,7 +45,7 @@
 - org.apache.kafka:kafka-clients v7.7.0-ce
 - ossf/scorecard-action v2.4.0
 - Rabbitmq v3.13.6
-- rimraf v5.0.10
+- rimraf v6.0.1
 - Spring-kafka v3.2.2
 - Spring boot v3.3.2
 - tj-actions/changed-files v44.5.7
