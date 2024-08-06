@@ -15,6 +15,7 @@
 - #6965 : Documentation for registerFunctionToGetTags function is not compliant with the implementation
 - #6924 : Show an error in settings if an email checkbox is set and no email address is provided
 - #6878 : Do not show "create copy" if user is not allowed to send card
+- #6870 : Task advanced : Add a control on negative numbers
 
 # Tasks
 
