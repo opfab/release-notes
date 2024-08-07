@@ -49,6 +49,7 @@
 - ol v10.0.0
 - org.apache.commons:commons-lang3 v3.15.0
 - org.apache.kafka:kafka-clients v7.7.0-ce
+- org.slf4j:slf4j-api v2.0.14
 - ossf/scorecard-action v2.4.0
 - Rabbitmq v3.13.6
 - rimraf v6.0.1
