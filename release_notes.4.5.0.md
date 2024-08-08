@@ -60,4 +60,4 @@
 - tj-actions/changed-files v44.5.7
 - ts-jest v29.2.4
 - types/node v20.14.14
-- Zone.js v0.14.8
+- zone.js v0.14.10
