@@ -32,7 +32,7 @@
 # Dependencies upgrade
 
 - actions/upload-artifact v4.3.6
-- ag-grid v32.0.2
+- ag-grid v32.1.0
 - Angular v17.3.12
 - angular-eslint monorepo v18.2.0
 - axios v1.7.3
