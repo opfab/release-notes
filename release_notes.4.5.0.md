@@ -61,4 +61,5 @@
 - tj-actions/changed-files v44.5.7
 - ts-jest v29.2.4
 - types/node v20.14.14
+- winston v3.14.1
 - zone.js v0.14.10
