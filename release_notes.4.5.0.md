@@ -49,6 +49,7 @@
 - node v20.16.0
 - ol v10.0.0
 - org.apache.avro:avro v1.12.0
+- org.apache.commons:commons-compress v1.27.0
 - org.apache.commons:commons-lang3 v3.16.0
 - org.apache.kafka:kafka-clients v7.7.0-ce
 - org.slf4j:slf4j-api v2.0.16
