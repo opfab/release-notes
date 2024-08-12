@@ -51,7 +51,7 @@
 - org.apache.avro:avro v1.12.0
 - org.apache.commons:commons-lang3 v3.16.0
 - org.apache.kafka:kafka-clients v7.7.0-ce
-- org.slf4j:slf4j-api v2.0.14
+- org.slf4j:slf4j-api v2.0.16
 - ossf/scorecard-action v2.4.0
 - Rabbitmq v3.13.6
 - rimraf v6.0.1
