@@ -37,7 +37,7 @@
 - angular-eslint monorepo v18.3.0
 - axios v1.7.4
 - Confluent v7.6.2
-- cypress 13.13.2
+- cypress 13.13.3
 - eslint-plugin-prettier v5.2.1
 - eslint-plugin-promise v6.6.0
 - io.confluent:kafka-avro-serializer v7.7.0
