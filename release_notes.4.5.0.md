@@ -34,7 +34,7 @@
 - actions/upload-artifact v4.3.6
 - ag-grid v32.1.0
 - Angular v17.3.12
-- angular-eslint monorepo v18.2.0
+- angular-eslint monorepo v18.3.0
 - axios v1.7.4
 - Confluent v7.6.2
 - cypress 13.13.2
