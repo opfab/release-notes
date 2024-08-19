@@ -19,6 +19,7 @@
 - #6878 : Do not show "create copy" if user is not allowed to send card
 - #6870 : Task advanced : Add a control on negative numbers
 - #6998 : Settings screen: "Interval between sound replays" is set to 5 when entering a string on firefox
+- #7039 : Monitoring processus screen : fields not in default config are not displayed
 
 # Tasks
 
