@@ -36,6 +36,7 @@
 - Angular v17.3.12
 - angular-eslint monorepo v18.3.0
 - axios v1.7.4
+- com.google.guava:guava v33.3.0-jre
 - Confluent v7.6.2
 - cypress 13.13.3
 - eslint-plugin-prettier v5.2.1
