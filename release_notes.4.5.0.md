@@ -48,7 +48,7 @@
 - jasmine-core v5.2.0
 - Jsdom  v24.1.1
 - karma v6.4.4
-- node v20.16.0
+- node v20.16.1
 - ol v10.0.0
 - org.apache.avro:avro v1.12.0
 - org.apache.commons:commons-compress v1.27.0
