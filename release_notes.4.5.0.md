@@ -66,7 +66,7 @@
 - Spring boot v3.3.2
 - tj-actions/changed-files v44.5.7
 - ts-jest v29.2.4
-- typescript-eslint monorepo v8.1.0
+- typescript-eslint monorepo v8.2.0
 - types/node v20.14.15
 - winston v3.14.2
 - zone.js v0.14.10
