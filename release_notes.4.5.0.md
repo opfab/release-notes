@@ -20,6 +20,7 @@
 - #6870 : Task advanced : Add a control on negative numbers
 - #6998 : Settings screen: "Interval between sound replays" is set to 5 when entering a string on firefox
 - #7039 : Monitoring processus screen : fields not in default config are not displayed
+- #6829 : Json format check when loading business data is not working
 
 # Tasks
 
