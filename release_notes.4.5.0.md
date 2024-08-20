@@ -35,7 +35,6 @@
 
 - actions/upload-artifact v4.3.6
 - ag-grid v32.1.0
-- alpine v1.27.1
 - Angular v18.2.0
 - angular-eslint monorepo v18.3.0
 - axios v1.7.4
@@ -50,8 +49,9 @@
 - io.micrometer:micrometer-registry-prometheus v1.13.3
 - io.swagger:swagger-codegen-cli v2.4.43
 - jasmine-core v5.2.0
-- Jsdom  v24.1.1
+- Jsdom v24.1.1
 - karma v6.4.4
+- nginx v1.27.1
 - node v20.16.1
 - ol v10.0.0
 - org.apache.avro:avro v1.12.0
