@@ -65,7 +65,8 @@
 - ossf/scorecard-action v2.4.0
 - Rabbitmq v3.13.6
 - rimraf v6.0.1
-- Spring boot v3.3.2
+- spring boot v3.3.2
+- spring security v6.3.2
 - tj-actions/changed-files v44.5.7
 - ts-jest v29.2.4
 - typescript-eslint monorepo v8.2.0
