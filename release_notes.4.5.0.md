@@ -39,6 +39,7 @@
 - Angular v18.2.0
 - angular-eslint monorepo v18.3.0
 - axios v1.7.4
+- chart.js v4.4.4
 - com.google.guava:guava v33.3.0-jre
 - Confluent v7.6.2
 - cypress 13.13.3
