@@ -37,7 +37,7 @@
 
 - actions/upload-artifact v4.3.6
 - ag-grid v32.1.0
-- Angular v18.2.0
+- Angular v18.2.1
 - angular-eslint monorepo v18.3.0
 - axios v1.7.4
 - chart.js v4.4.4
