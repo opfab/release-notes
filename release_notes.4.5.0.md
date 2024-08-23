@@ -22,6 +22,7 @@
 - #7039 : Monitoring processus screen : fields not in default config are not displayed
 - #6829 : Json format check when loading business data is not working
 - #6866 : Top border line of rich text editor component thicker than others
+- #7061 : Cards-external-diffusion : start/end dates in a mail are not coherent with those of the card
 
 # Tasks
 
