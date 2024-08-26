@@ -45,7 +45,7 @@
 - com.google.guava:guava v33.3.0-jre
 - Confluent v7.6.2
 - cypress 13.13.3
-- eslint-config-love v62.0.0
+- eslint-config-love v62.0.1
 - eslint-plugin-prettier v5.2.1
 - eslint-plugin-promise v7.1.0
 - io.confluent:kafka-avro-serializer v7.7.0
