@@ -37,25 +37,16 @@
 
 # Dependencies upgrade
 
-- actions/upload-artifact v4.3.6
 - ag-grid v32.1.0
 - Angular v18.2.1
-- angular-eslint monorepo v18.3.0
 - axios v1.7.4
 - chart.js v4.4.4
 - com.google.guava:guava v33.3.0-jre
 - Confluent v7.6.2
-- cypress 13.13.3
-- eslint-config-love v62.0.1
-- eslint-plugin-prettier v5.2.1
-- eslint-plugin-promise v7.1.0
 - io.confluent:kafka-avro-serializer v7.7.0
 - io.confluent:kafka-schema-registry-client v7.7.0
 - io.micrometer:micrometer-registry-prometheus v1.13.3
-- io.swagger:swagger-codegen-cli v2.4.43
-- jasmine-core v5.2.0
 - Jsdom v24.1.1
-- karma v6.4.4
 - nginx v1.27.1
 - node v20.16.1
 - ol v10.0.0
@@ -66,14 +57,10 @@
 - org.slf4j:slf4j-api v2.0.16
 - org.springframework.kafka:spring-kafka v3.2.3
 - org.springframework:spring-webflux v6.1.12
-- ossf/scorecard-action v2.4.0
 - Rabbitmq v3.13.6
 - rimraf v6.0.1
 - spring boot v3.3.3
 - spring security v6.3.3
-- tj-actions/changed-files v44.5.7
-- ts-jest v29.2.4
-- typescript-eslint monorepo v8.2.0
 - types/node v20.14.15
 - winston v3.14.2
 - zone.js v0.14.10
