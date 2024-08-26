@@ -49,6 +49,7 @@ Misc:
 - #6715 : Set default settings in mongoDB
 - #6669 : Added choice to keep child cards in usercard
 - #6767 : Improve the display of feed notification configuration screen
+- #6826 : Use HTML in tooltip component
 
 
 # Bug Fixes
