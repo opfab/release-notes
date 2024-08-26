@@ -10,6 +10,7 @@
 - #6863 : Don't display confirmation pop up if no changes have been made
 - #6736 : Update to angular v18, ng-bootstrap v17
 - #6881 : Interval between sound should be better controlled in settings screen
+- #6927 : Add in the email content the start date and the end date as for the title
 
 # Bug Fixes
 
