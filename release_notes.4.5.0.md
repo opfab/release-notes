@@ -24,6 +24,7 @@
 - #6829 : Json format check when loading business data is not working
 - #6866 : Top border line of rich text editor component thicker than others
 - #7061 : Cards-external-diffusion : start/end dates in a mail are not coherent with those of the card
+- #7084 : Fix usercard error if one Entity has no roles (Usercard error if one Entity has no roles #7084)
 
 # Tasks
 
