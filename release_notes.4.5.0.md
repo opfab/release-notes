@@ -49,7 +49,7 @@
 - io.micrometer:micrometer-registry-prometheus v1.13.3
 - Jsdom v24.1.1
 - nginx v1.27.1
-- node v20.16.1
+- node v20.17.0
 - ol v10.0.0
 - org.apache.avro:avro v1.12.0
 - org.apache.commons:commons-compress v1.27.1
@@ -62,6 +62,6 @@
 - rimraf v6.0.1
 - spring boot v3.3.3
 - spring security v6.3.3
-- types/node v20.14.15
+- types/node v20.16.2
 - winston v3.14.2
 - zone.js v0.14.10
