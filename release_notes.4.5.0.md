@@ -10,6 +10,7 @@
 - #6736 : Update to angular v18, ng-bootstrap v17
 - #6881 : Interval between sound should be better controlled in settings screen
 - #7102 : Add a confirmation message when business data file is loaded
+- #6858 : Prevented saving invalid settings by exiting the settings screen
 
 
 # Bug Fixes
