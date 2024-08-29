@@ -28,6 +28,10 @@ Monitoring processus :
 - #6230 : Memorize selected tags in preferences
 - #6244 : Add the possibility to define columns per process
 
+Mails: 
+- #6835 : Added a body postfix to sent emails
+- #6927 : Add in the email content the start date and the end date as for the title
+
 API :
 - #6319 : Add filters LESSTHAN & GREATERTHAN to FilterMatchTypeEnum
 - #6516 : Allow POST requests to update existing perimeters
