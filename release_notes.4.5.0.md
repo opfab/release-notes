@@ -9,6 +9,7 @@
 - #6863 : Don't display confirmation pop up if no changes have been made
 - #6736 : Update to angular v18, ng-bootstrap v17
 - #6881 : Interval between sound should be better controlled in settings screen
+- #7102 : Add a confirmation message when business data file is loaded
 
 
 # Bug Fixes
