@@ -3,19 +3,17 @@
 
 - #6814 : Do not permit to send child card of child card
 - #6854 : User action logs: add CLOSE_SUBSCRIPTION in action filter
-- #6835 : Added a body postfix to sent emails
 - #6841 : Opfab Cli : Add a command to execute a list of cli commands
 - #6531 : Allow to load a custom handlebars helpers file
 - #6753 : Set as impossible to load a perimeter with no right field
 - #6863 : Don't display confirmation pop up if no changes have been made
 - #6736 : Update to angular v18, ng-bootstrap v17
 - #6881 : Interval between sound should be better controlled in settings screen
-- #6927 : Add in the email content the start date and the end date as for the title
+
 
 # Bug Fixes
 
 - #6914 : "Publish from" field is reset in archives screen when clicking on "See only the cards I am recipient of"
-- #6965 : Documentation for registerFunctionToGetTags function is not compliant with the implementation
 - #6924 : Show an error in settings if an email checkbox is set and no email address is provided
 - #6878 : Do not show "create copy" if user is not allowed to send card
 - #6870 : Task advanced : Add a control on negative numbers
@@ -23,7 +21,6 @@
 - #7039 : Monitoring processus screen : fields not in default config are not displayed
 - #6829 : Json format check when loading business data is not working
 - #6866 : Top border line of rich text editor component thicker than others
-- #7061 : Cards-external-diffusion : start/end dates in a mail are not coherent with those of the card
 - #7084 : Fix usercard error if one Entity has no roles (Usercard error if one Entity has no roles #7084)
 
 # Tasks
