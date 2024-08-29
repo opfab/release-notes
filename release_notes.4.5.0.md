@@ -22,8 +22,8 @@
 - #6998 : Settings screen: "Interval between sound replays" is set to 5 when entering a string on firefox
 - #7039 : Monitoring processus screen : fields not in default config are not displayed
 - #6829 : Json format check when loading business data is not working
-- #6866 : Top border line of rich text editor component thicker than others
-- #7084 : Fix usercard error if one Entity has no roles (Usercard error if one Entity has no roles #7084)
+- #6866 : Top border line of rich text editor component thicker than other
+- #6865 : Fix geolocalization link when card detail is open
 
 # Tasks
 
