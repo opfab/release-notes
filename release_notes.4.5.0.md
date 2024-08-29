@@ -44,7 +44,7 @@
 - io.confluent:kafka-avro-serializer v7.7.0
 - io.confluent:kafka-schema-registry-client v7.7.0
 - io.micrometer:micrometer-registry-prometheus v1.13.3
-- Jsdom v24.1.1
+- Jsdom v25.0.0
 - nginx v1.27.1
 - node v20.17.0
 - ol v10.0.0
