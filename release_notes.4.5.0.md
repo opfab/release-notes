@@ -62,5 +62,6 @@
 - spring boot v3.3.3
 - spring security v6.3.3
 - types/node v20.16.2
+- virtual-select-plugin v1.0.45
 - winston v3.14.2
 - zone.js v0.14.10
