@@ -39,7 +39,7 @@
 
 - ag-grid v32.1.0
 - Angular v18.2.2 
-- axios v1.7.5
+- axios v1.7.7
 - chart.js v4.4.4
 - com.google.guava:guava v33.3.0-jre
 - Confluent v7.6.2
