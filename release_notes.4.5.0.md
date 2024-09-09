@@ -48,6 +48,7 @@
 - io.confluent:kafka-schema-registry-client v7.7.0
 - io.micrometer:micrometer-registry-prometheus v1.13.3
 - Jsdom v25.0.0
+- mongodb v6.8.1 (node)
 - ng-bootstrap v17.0.1
 - nginx v1.27.1
 - node v20.17.0
