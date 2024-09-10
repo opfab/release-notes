@@ -52,6 +52,7 @@
 - ng-bootstrap v17.0.1
 - nginx v1.27.1
 - node v20.17.0
+- nodemailer v6.9.15
 - ol v10.0.0
 - org.apache.avro:avro v1.12.0
 - org.apache.commons:commons-compress v1.27.1
