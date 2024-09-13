@@ -48,7 +48,7 @@
 - express v4.21.0
 - io.confluent:kafka-avro-serializer v7.7.0
 - io.confluent:kafka-schema-registry-client v7.7.0
-- io.micrometer:micrometer-registry-prometheus v1.13.3
+- io.micrometer:micrometer-registry-prometheus v1.13.4
 - Jsdom v25.0.0
 - mongodb v6.8.1 (node)
 - ng-bootstrap v17.0.1
