@@ -25,6 +25,7 @@
 - #6829 : Json format check when loading business data is not working
 - #6866 : Top border line of rich text editor component thicker than other
 - #6865 : Fix geolocalization link when card detail is open
+- #7139 Mail notification configuration not available when only daily mail selected
 
 # Tasks
 
