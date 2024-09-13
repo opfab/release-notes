@@ -44,7 +44,7 @@
 - chart.js v4.4.4
 - com.google.guava:guava v33.3.0-jre
 - Confluent v7.6.2
-- express v4.20.0
+- express v4.21.0
 - io.confluent:kafka-avro-serializer v7.7.0
 - io.confluent:kafka-schema-registry-client v7.7.0
 - io.micrometer:micrometer-registry-prometheus v1.13.3
