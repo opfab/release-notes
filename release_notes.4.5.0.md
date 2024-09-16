@@ -36,6 +36,7 @@
 - #6877 : ReadOnly group renamed Maintainer group to avoid confusion
 - #6895 : Replace moment.js with date-fns in timeline
 - #6876 : Cards Reminder: modify log message when a card is deleted
+- #7215 : Implement ui lazy loading
 
 # Dependencies upgrade
 
