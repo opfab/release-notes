@@ -62,7 +62,7 @@
 - org.apache.kafka:kafka-clients v7.7.0-ce
 - org.slf4j:slf4j-api v2.0.16
 - org.springframework.kafka:spring-kafka v3.2.3
-- org.springframework:spring-webflux v6.1.12
+- org.springframework:spring-webflux v6.1.13
 - Rabbitmq v3.13.7
 - rimraf v6.0.1
 - spring boot v3.3.3
