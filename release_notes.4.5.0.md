@@ -68,6 +68,7 @@
 - Rabbitmq v3.13.7
 - rimraf v6.0.1
 - spring boot v3.3.3
+- spring-kafka v3.2.4
 - spring security v6.3.3
 - types/node v20.16.2
 - virtual-select-plugin v1.0.45
