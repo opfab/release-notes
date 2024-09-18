@@ -40,37 +40,52 @@
 
 # Dependencies upgrade
 
+## Frontend
+
 - ag-grid v32.1.0
 - Angular v18.2.2 
-- axios v1.7.7
 - chart.js v4.4.4
-- com.google.guava:guava v33.3.0-jre
-- com.rabbitmq:amqp-client v5.22.0
-- Confluent to v7.7.1
-- express v4.21.0
-- io.confluent:kafka-avro-serializer v7.7.0
-- io.confluent:kafka-schema-registry-client v7.7.0
-- io.micrometer:micrometer-registry-prometheus v1.13.4
-- Jsdom v25.0.0
-- mongodb v6.9.0 (node)
 - ng-bootstrap v17.0.1
-- nginx v1.27.1
-- node v20.17.0
-- nodemailer v6.9.15
+- virtual-select-plugin v1.0.45
+- zone.js v0.14.10
+  
+## Backend 
+
+### Java services 
+
+- avro v1.12.0
+- amqp-client v5.22.0
+- commons-compress v1.27.1
+- commons-lang3 v3.17.0
+- confluent v7.7.1
+- guava v33.3.0-jre
+- kafka-avro-serializer v7.7.0
+- kafka-clients v7.7.0-ce
+- kafka-schema-registry-client v7.7.0
+- micrometer-registry-prometheus v1.13.4
 - ol v10.0.0
-- org.apache.avro:avro v1.12.0
-- org.apache.commons:commons-compress v1.27.1
-- org.apache.commons:commons-lang3 v3.17.0
-- org.apache.kafka:kafka-clients v7.7.0-ce
-- org.slf4j:slf4j-api v2.0.16
-- org.springframework.kafka:spring-kafka v3.2.3
-- org.springframework:spring-webflux v6.1.13
-- Rabbitmq v3.13.7
-- rimraf v6.0.1
+- slf4j-api v2.0.16
 - spring boot v3.3.3
 - spring-kafka v3.2.4
 - spring security v6.3.3
-- types/node v20.16.2
-- virtual-select-plugin v1.0.45
+- spring-webflux v6.1.13
+
+### Node services
+
+- axios v1.7.7
+- express v4.21.0
+- Jsdom v25.0.0
+- mongodb v6.9.0
+- node v20.17.0
+- nodemailer v6.9.15
+- rimraf v6.0.1
 - winston v3.14.2
-- zone.js v0.14.10
+
+## Misc 
+
+- nginx v1.27.1
+- rabbitmq v3.13.7
+
+
+
+
