@@ -56,6 +56,7 @@
 - avro v1.12.0
 - amqp-client v5.22.0
 - commons-compress v1.27.1
+- commons-io v2.17.0
 - commons-lang3 v3.17.0
 - confluent v7.7.1
 - guava v33.3.0-jre
