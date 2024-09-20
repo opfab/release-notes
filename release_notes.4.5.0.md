@@ -7,7 +7,6 @@
 - #6531 : Allow to load a custom handlebars helpers file
 - #6753 : Set as impossible to load a perimeter with no right field
 - #6863 : Don't display confirmation pop up if no changes have been made
-- #6736 : Update to angular v18, ng-bootstrap v17
 - #6881 : Interval between sound should be better controlled in settings screen
 - #7102 : Add a confirmation message when business data file is loaded
 - #6858 : Prevented saving invalid settings by exiting the settings screen
