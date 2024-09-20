@@ -8,7 +8,7 @@
 - #6753 : Set as impossible to load a perimeter with no right field
 - #6863 : Don't display confirmation pop up if no changes have been made
 - #6881 : Interval between sound should be better controlled in settings screen
-- #7102 : Add a confirmation message when business data file is loaded
+- #7102 : Add a confirmation message when business data file is loaded
 - #6858 : Prevented saving invalid settings by exiting the settings screen
 - #7124 : Send mail even if card has been read
 - #6729 : Add three dots and dropdown text when too many entities in acknowledgment footer
