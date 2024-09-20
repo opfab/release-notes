@@ -12,6 +12,7 @@
 - #7102 : Add a confirmation message when business data file is loaded
 - #6858 : Prevented saving invalid settings by exiting the settings screen
 - #7124 : Send mail even if card has been read
+- #6729 : Add three dots and dropdown text when too many entities in acknowledgment footer
 
 
 # Bug Fixes
