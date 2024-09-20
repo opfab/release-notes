@@ -86,6 +86,7 @@
 
 - nginx v1.27.1
 - rabbitmq v3.13.7
+- mongodb v6.0.4
 
 
 
