@@ -67,7 +67,7 @@
 - micrometer-registry-prometheus v1.13.4
 - ol v10.0.0
 - slf4j-api v2.0.16
-- spring boot v3.3.3
+- spring boot v3.3.4
 - spring-kafka v3.2.4
 - spring security v6.3.3
 - spring-webflux v6.1.13
