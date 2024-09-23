@@ -43,7 +43,7 @@
 ## Frontend
 
 - ag-grid v32.1.0
-- Angular v18.2.2 
+- Angular v18.2.5
 - chart.js v4.4.4
 - ng-bootstrap v17.0.1
 - virtual-select-plugin v1.0.45
