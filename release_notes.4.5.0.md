@@ -76,7 +76,7 @@
 
 - axios v1.7.7
 - express v4.21.0
-- Jsdom v25.0.0
+- Jsdom v25.0.1
 - mongodb v6.9.0
 - node v20.17.0
 - nodemailer v6.9.15
