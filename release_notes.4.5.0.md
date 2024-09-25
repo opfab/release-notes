@@ -60,7 +60,7 @@
 - commons-io v2.17.0
 - commons-lang3 v3.17.0
 - confluent v7.7.1
-- guava v33.3.0-jre
+- guava v33.3.1-jre
 - kafka-avro-serializer v7.7.0
 - kafka-clients v7.7.0-ce
 - kafka-schema-registry-client v7.7.0
