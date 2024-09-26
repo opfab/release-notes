@@ -39,6 +39,7 @@
 - #6895 : Replace moment.js with date-fns in timeline
 - #6876 : Cards Reminder: modify log message when a card is deleted
 - #7215 : Implement ui lazy loading
+- #6734 : Move monitoring process configuration in a specific configuration file loaded via businessconfig API
 
 # Dependencies upgrade
 
