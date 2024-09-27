@@ -15,6 +15,7 @@
 - #7230 : Add entities answers popover in card header
 - #7017 : Add opfab.alertMessage API
 - #7277 : Improve file completion of Opfab CLI
+- #6848 : Add opfab cli completion in docker cli
 
 
 # Bug Fixes
