@@ -18,6 +18,7 @@
 - #6848 : Add opfab cli completion in docker cli
 - #7236 : Opfab cli : add a command to add/remove a user from an entity
 - #7235 : Opfab cli : add a command to add/remove a user from a group
+- #7238 : Opfab cli : add a command to delete a user
 
 # Bug Fixes
 
