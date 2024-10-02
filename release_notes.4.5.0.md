@@ -54,6 +54,7 @@
 - ag-grid v32.1.0
 - Angular v18.2.5
 - chart.js v4.4.4
+- date-fns v4 
 - date-fns-tz v3.2.0
 - ng-bootstrap v17.0.1
 - ol v10.2.0
@@ -71,6 +72,7 @@
 - commons-lang3 v3.17.0
 - com.fasterxml.jackson.core:jackson-databind v2.18.0
 - confluent v7.7.1
+- date-fns v4 
 - date-fns-tz v3.2.0
 - guava v33.3.1-jre
 - kafka-avro-serializer v7.7.0
