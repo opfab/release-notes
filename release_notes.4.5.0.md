@@ -51,7 +51,7 @@
 
 ## Frontend
 
-- ag-grid v32.1.0
+- ag-grid v32.2.1
 - Angular v18.2.5
 - chart.js v4.4.4
 - date-fns v4 
