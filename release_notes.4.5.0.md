@@ -99,7 +99,7 @@
 
 ## Misc 
 
-- nginx v1.27.1
+- nginx v1.27.2
 - rabbitmq v4.0.2
 - mongodb v7.0.14
 
