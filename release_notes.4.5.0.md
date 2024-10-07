@@ -77,7 +77,7 @@
 - kafka-avro-serializer v7.7.0
 - kafka-clients v7.7.0-ce
 - kafka-schema-registry-client v7.7.0
-- micrometer-registry-prometheus v1.13.4
+- micrometer-registry-prometheus v1.13.5
 - ol v10.2.1
 - slf4j-api v2.0.16
 - spring boot v3.3.4
