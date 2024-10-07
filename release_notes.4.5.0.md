@@ -59,7 +59,6 @@
 - ng-bootstrap v17.0.1
 - ol v10.2.0
 - virtual-select-plugin v1.0.45
-- zone.js v0.14.10
   
 ## Backend 
 
