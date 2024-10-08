@@ -21,6 +21,7 @@
 - #7238 : Opfab cli : add a command to delete a user
 - #7237 : Opfab cli : add a command to load a list of users
 - #7293 : Opfab cli : add a command to set or unset an activity area
+- #6283 : Remove VIEW_ALL_ARCHIVED_CARDS and VIEW_ALL_ARCHIVED_CARDS_FOR_USER_PERIMETERS permissions
 
 # Bug Fixes
 
