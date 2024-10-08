@@ -73,6 +73,7 @@
 - commons-io v2.17.0
 - commons-lang3 v3.17.0
 - com.fasterxml.jackson.core:jackson-databind v2.18.0
+- com.fasterxml.jackson.core:jackson-annotations v2.18.0
 - confluent v7.7.1
 - date-fns v4 
 - date-fns-tz v3.2.0
