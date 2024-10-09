@@ -25,6 +25,7 @@
 - #7243 : Update UI monitoring configuration when new monitoring configuration file is uploaded
 - #6837 : Remove deprecated API method opfab.currentCard.getEntityUsedForUserResponse
 - #6836 : Remove keepChildCards deprecated feature
+- #7083 : Add a timezone selection for email notifications in user settings
 
 # Bug Fixes
 
