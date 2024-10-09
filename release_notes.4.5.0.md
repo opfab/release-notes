@@ -26,6 +26,7 @@
 - #6837 : Remove deprecated API method opfab.currentCard.getEntityUsedForUserResponse
 - #6836 : Remove keepChildCards deprecated feature
 - #7083 : Add a timezone selection for email notifications in user settings
+- #7323 : Opfab cli : Add a command to delete all bundles
 
 # Bug Fixes
 
