@@ -24,6 +24,7 @@
 - #6283 : Remove VIEW_ALL_ARCHIVED_CARDS and VIEW_ALL_ARCHIVED_CARDS_FOR_USER_PERIMETERS permissions
 - #7243 : Update UI monitoring configuration when new monitoring configuration file is uploaded
 - #6837 : Remove deprecated API method opfab.currentCard.getEntityUsedForUserResponse
+- #6836 : Remove keepChildCards deprecated feature
 
 # Bug Fixes
 
