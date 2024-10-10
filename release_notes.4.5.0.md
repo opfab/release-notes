@@ -29,6 +29,7 @@
 - #7323 : Opfab cli : Add a command to delete all bundles
 - #7296 : Add hallway mode in user settings
 - #7349 : Opfab Cli : add version option
+- #7332 : Opfab cli : add a command to add/remove user external devices
 
 # Bug Fixes
 
