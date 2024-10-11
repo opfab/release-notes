@@ -44,6 +44,7 @@
 - #6866 : Top border line of rich text editor component thicker than other
 - #6865 : Fix geolocalization link when card detail is open
 - #7139 : Mail notification configuration not available when only daily mail selected
+- #7305 Invalid timeline view when switching from calendar view to feed with day period
 
 # Tasks
 
