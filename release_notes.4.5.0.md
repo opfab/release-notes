@@ -31,6 +31,9 @@
 - #7349 : Opfab Cli : add version option
 - #7332 : Opfab cli : add a command to add/remove user external devices
 - #7362 : Add search option for process/state selection in feed filters
+- #7336 : Opfab cli : Add reminder command
+
+
 
 # Bug Fixes
 
