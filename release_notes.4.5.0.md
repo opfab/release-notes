@@ -33,6 +33,7 @@
 - #7362 : Add search option for process/state selection in feed filters
 - #7336 : Opfab cli : Add reminder command
 - #7347 : Hallway mode : do not show card deleted message
+- #7338 : Opfab cli : add singular to all commands
 
 
 
