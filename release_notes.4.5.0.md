@@ -73,7 +73,7 @@
 - date-fns-tz v3.2.0
 - ng-bootstrap v17.0.1
 - ol v10.2.0
-- virtual-select-plugin v1.0.45
+- virtual-select-plugin v1.0.46
   
 ## Backend 
 
