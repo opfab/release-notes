@@ -34,6 +34,7 @@
 - #7336 : Opfab cli : Add reminder command
 - #7347 : Hallway mode : do not show card deleted message
 - #7338 : Opfab cli : add singular to all commands
+- #7337 : Opfab cli : rename commands for log
 
 
 
