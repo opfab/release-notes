@@ -38,6 +38,7 @@
 - #7330 : Add consistent command name in cli
 - #7331 : Opfab Cli : Add a command line to add or remove a supervised entity
 - #7360 : Add user settings for showing acknowledgment footer in card details
+- #7334 : Opfab cli: add command to enable / disable external device
 
 
 # Bug Fixes
