@@ -36,7 +36,8 @@
 - #7338 : Opfab cli : add singular to all commands
 - #7337 : Opfab cli : rename commands for log
 - #7330 : Add consistent command name in cli
-- #7331 Opfab Cli : Add a command line to add or remove a supervised entity
+- #7331 : Opfab Cli : Add a command line to add or remove a supervised entity
+- #7360 : Add user settings for showing acknowledgment footer in card details
 
 
 # Bug Fixes
