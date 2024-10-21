@@ -41,6 +41,7 @@
 - #7334 : Opfab cli: add command to enable / disable external device
 - #6509 : Improve navbar menu accessibility
 - #7379 : Task advanced : add the possibility to create non-recurrent card
+- #7333 : Opfab cli : add a command to add/remove an external device
 
 
 # Bug Fixes
