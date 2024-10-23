@@ -1,47 +1,54 @@
 
 # Features
 
+Deprecation removal :
+- #6837 : Remove deprecated API method opfab.currentCard.getEntityUsedForUserResponse
+- #6836 : Remove keepChildCards deprecated feature
+
+Settings :
+- #6881 : Interval between sound should be better controlled in settings screen
+- #6858 : Prevented saving invalid settings by exiting the settings screen
+- #7083 : Add a timezone selection for email notifications in user settings
+- #7296 : Add hallway mode in user settings
+- #7360 : Add user settings for showing acknowledgment footer in card details
+
+CLI : 
+- #6841 : Add a command to execute a list of cli commands
+- #6848 : Add opfab cli completion in docker cli
+- #7277 : Improve file completion of Opfab CLI
+- #7236 : Add a command to add/remove a user from an entity
+- #7235 : Add a command to add/remove a user from a group
+- #7238 : Add a command to delete a user
+- #7237 : Add a command to load a list of users
+- #7293 : Add a command to set or unset an activity area
+- #7323 : Add a command to delete all bundles
+- #7336 : Add reminder command
+- #7349 : Add version option
+- #7332 : Add a command to add/remove user external devices
+- #7331 : Add a command line to add or remove a supervised entity
+- #7338 : Add singular to all commands
+- #7337 : Rename commands for log
+- #7330 : Add consistent command name in cli
+- #7334 : Add command to enable / disable external device
+- #7333 : Add a command to add/remove an external device
+
+Misc : 
 - #6814 : Do not permit to send child card of child card
 - #6854 : User action logs: add CLOSE_SUBSCRIPTION in action filter
-- #6841 : Opfab Cli : Add a command to execute a list of cli commands
 - #6531 : Allow to load a custom handlebars helpers file
 - #6753 : Set as impossible to load a perimeter with no right field
 - #6863 : Don't display confirmation pop up if no changes have been made
-- #6881 : Interval between sound should be better controlled in settings screen
 - #7102 : Add a confirmation message when business data file is loaded
-- #6858 : Prevented saving invalid settings by exiting the settings screen
 - #7124 : Send mail even if card has been read
 - #6729 : Add three dots and dropdown text when too many entities in acknowledgment footer
 - #7230 : Add entities answers popover in card header
 - #7017 : Add opfab.alertMessage API
-- #7277 : Improve file completion of Opfab CLI
-- #6848 : Add opfab cli completion in docker cli
-- #7236 : Opfab cli : add a command to add/remove a user from an entity
-- #7235 : Opfab cli : add a command to add/remove a user from a group
-- #7238 : Opfab cli : add a command to delete a user
-- #7237 : Opfab cli : add a command to load a list of users
-- #7293 : Opfab cli : add a command to set or unset an activity area
 - #6283 : Remove VIEW_ALL_ARCHIVED_CARDS and VIEW_ALL_ARCHIVED_CARDS_FOR_USER_PERIMETERS permissions
 - #7243 : Update UI monitoring configuration when new monitoring configuration file is uploaded
-- #6837 : Remove deprecated API method opfab.currentCard.getEntityUsedForUserResponse
-- #6836 : Remove keepChildCards deprecated feature
-- #7083 : Add a timezone selection for email notifications in user settings
-- #7323 : Opfab cli : Add a command to delete all bundles
-- #7296 : Add hallway mode in user settings
-- #7349 : Opfab Cli : add version option
-- #7332 : Opfab cli : add a command to add/remove user external devices
 - #7362 : Add search option for process/state selection in feed filters
-- #7336 : Opfab cli : Add reminder command
 - #7347 : Hallway mode : do not show card deleted message
-- #7338 : Opfab cli : add singular to all commands
-- #7337 : Opfab cli : rename commands for log
-- #7330 : Add consistent command name in cli
-- #7331 : Opfab Cli : Add a command line to add or remove a supervised entity
-- #7360 : Add user settings for showing acknowledgment footer in card details
-- #7334 : Opfab cli: add command to enable / disable external device
 - #6509 : Improve navbar menu accessibility
 - #7379 : Task advanced : add the possibility to create non-recurrent card
-- #7333 : Opfab cli : add a command to add/remove an external device
 
 
 # Bug Fixes
