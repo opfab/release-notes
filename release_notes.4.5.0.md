@@ -5,12 +5,14 @@ Deprecation removal :
 - #6837 : Remove deprecated API method opfab.currentCard.getEntityUsedForUserResponse
 - #6836 : Remove keepChildCards deprecated feature
 
+
 Settings :
 - #6881 : Interval between sound should be better controlled in settings screen
 - #6858 : Prevented saving invalid settings by exiting the settings screen
 - #7083 : Add a timezone selection for email notifications in user settings
 - #7296 : Add hallway mode in user settings
 - #7360 : Add user settings for showing acknowledgment footer in card details
+
 
 CLI : 
 - #6841 : Add a command to execute a list of cli commands
@@ -31,6 +33,7 @@ CLI :
 - #7330 : Add consistent command name in cli
 - #7334 : Add command to enable / disable external device
 - #7333 : Add a command to add/remove an external device
+
 
 Misc : 
 - #6814 : Do not permit to send child card of child card
