@@ -3,6 +3,7 @@
 
 
 # Bug Fixes
+- #7418 : Check for entity name in the entity creation form doesn't handle empty spaces
 
 
 # Tasks
