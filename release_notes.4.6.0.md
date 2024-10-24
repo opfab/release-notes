@@ -17,7 +17,8 @@
 
 ### Java services 
 
-- io.micrometer:micrometer-registry-prometheus v1.13.6
+- micrometer-registry-prometheus v1.13.6
+- spring-webflux v6.1.14
 
 ### Node services
 
