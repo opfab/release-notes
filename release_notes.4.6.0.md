@@ -11,13 +11,13 @@
 
 # Dependencies upgrade
 
-
 ## Frontend
   
 ## Backend 
 
 ### Java services 
 
+- io.micrometer:micrometer-registry-prometheus v1.13.6
 
 ### Node services
 
