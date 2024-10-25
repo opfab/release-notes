@@ -20,6 +20,7 @@
 ### Java services 
 
 - micrometer-registry-prometheus v1.13.6
+- spring security v6.3.4
 - spring-webflux v6.1.14
 
 ### Node services
