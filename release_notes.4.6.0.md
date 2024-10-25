@@ -1,6 +1,7 @@
 
 # Features
-- #7335 Opfab Cli : Add a command line to start or stop the supervisor service
+- #7335 : Opfab Cli - Add a command line to start or stop the supervisor service
+- #7339 : Add a user action log when user change notification configuration
 
 # Bug Fixes
 - #7418 : Check for entity name in the entity creation form doesn't handle empty spaces
