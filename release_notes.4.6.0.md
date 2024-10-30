@@ -14,6 +14,8 @@
 # Dependencies upgrade
 
 ## Frontend
+
+- ag-grid 32.3.1
   
 ## Backend 
 
