@@ -15,7 +15,7 @@
 
 ## Frontend
 
-- ag-grid 32.3.1
+- ag-grid 32.3.2
   
 ## Backend 
 
