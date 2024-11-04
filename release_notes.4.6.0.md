@@ -10,6 +10,7 @@
 - #7427 : UserCard: do not show "Create copy" button if user not allowed to publish the card
 - #7413 : User action logs : close popover when clicking on link in card detail
 - #7414 : No entities in ack visible if one entity is not existing
+- #7425 : Archives/Logging screens : display error if there is no process group and no tag
 
 # Tasks
 
