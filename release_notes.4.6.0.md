@@ -20,7 +20,7 @@
 
 ## Frontend
 
-- ag-grid 32.3.2
+- ag-grid v32.3.2
   
 ## Backend 
 
@@ -28,13 +28,14 @@
 
 - jackson-annotations v2.18.1
 - jackson-databind to v2.18.1
-- micrometer-registry-prometheus 1.13.6
-- spring boot 3.3.5
-- spring security 6.3.4
-- spring-webflux 6.1.14
+- micrometer-registry-prometheus v1.13.6
+- spring boot v3.3.5
+- spring security v6.3.4
+- spring-webflux v6.1.14
 
 ### Node services
 
+- node v20.18.0
 
 ## Misc 
 
