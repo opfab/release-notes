@@ -27,6 +27,7 @@
 ### Java services 
 
 - jackson-annotations v2.18.1
+- jackson-databind to v2.18.1
 - micrometer-registry-prometheus 1.13.6
 - spring boot 3.3.5
 - spring security 6.3.4
