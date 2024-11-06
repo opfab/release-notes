@@ -12,6 +12,7 @@
 - #7413 : User action logs : close popover when clicking on link in card detail
 - #7414 : No entities in ack visible if one entity is not existing
 - #7425 : Archives/Logging screens : display error if there is no process group and no tag
+- #7403 : Missing space in templates if startDate, endDate and severity are not visible
 
 # Tasks
 
