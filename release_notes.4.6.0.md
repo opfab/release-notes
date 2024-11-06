@@ -22,6 +22,7 @@
 ## Frontend
 
 - ag-grid v32.3.2
+- chart.js v4.4.6
   
 ## Backend 
 
