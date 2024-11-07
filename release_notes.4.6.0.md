@@ -14,6 +14,7 @@
 - #7425 : Archives/Logging screens : display error if there is no process group and no tag
 - #7403 : Missing space in templates if startDate, endDate and severity are not visible
 - #7404 : Fix modal style
+- #7152 : Fix archives screen sublines columns width
 
 # Tasks
 
