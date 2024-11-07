@@ -38,6 +38,7 @@
 ### Node services
 
 - node v20.18.0
+- mongodb v6.10.0
 
 ## Misc 
 
