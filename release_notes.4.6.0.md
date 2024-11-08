@@ -4,6 +4,7 @@
 - #7339 : Add a user action log when user change notification configuration
 - #7446 : Localized error message when impossible to send alarm signal to external device
 - #7447 : Replace toNotify field with STORE_ONLY_IN_ARCHIVES card Action
+- #7386 : Add setting to open next card on acknowledgment
 
 # Bug Fixes
 - #7418 : Check for entity name in the entity creation form doesn't handle empty spaces
