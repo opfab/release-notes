@@ -5,6 +5,7 @@
 - #7446 : Localized error message when impossible to send alarm signal to external device
 - #7447 : Replace toNotify field with STORE_ONLY_IN_ARCHIVES card Action
 - #7386 : Add setting to open next card on acknowledgment
+- #7448 : See all connected users via the cli
 
 # Bug Fixes
 - #7418 : Check for entity name in the entity creation form doesn't handle empty spaces
