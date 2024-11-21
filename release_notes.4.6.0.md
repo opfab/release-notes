@@ -35,7 +35,7 @@
 
 - jackson-annotations v2.18.1
 - jackson-databind to v2.18.1
-- micrometer-registry-prometheus v1.14.0
+- micrometer-registry-prometheus v1.14.1
 - spring boot v3.3.5
 - spring security v6.3.4
 - spring-webflux to v6.2.0
