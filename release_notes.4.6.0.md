@@ -20,6 +20,7 @@
 
 # Tasks
 
+- #7554 : Rename timeline domain TR to RT (Real Time)
 
 # Dependencies upgrade
 
