@@ -38,7 +38,7 @@
 - jackson-databind to v2.18.1
 - micrometer-registry-prometheus v1.14.1
 - spring boot v3.3.5
-- spring security v6.3.4
+- spring security v6.4.1
 - spring-webflux to v6.2.0
 
 ### Node services
