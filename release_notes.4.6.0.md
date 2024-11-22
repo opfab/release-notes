@@ -29,6 +29,7 @@
 
 - ag-grid v32.3.2
 - chart.js v4.4.6
+- fortawesome/fontawesome-free v6.7.1
   
 ## Backend 
 
