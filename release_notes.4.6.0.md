@@ -6,6 +6,7 @@
 - #7447 : Replace toNotify field with STORE_ONLY_IN_ARCHIVES card Action
 - #7386 : Add setting to open next card on acknowledgment
 - #7448 : See all connected users via the cli
+- #7498 : Allow to create a popup in a card
 
 # Bug Fixes
 - #7418 : Check for entity name in the entity creation form doesn't handle empty spaces
