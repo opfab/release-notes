@@ -45,7 +45,7 @@
 
 ### Node services
 
-- node v20.18.0
+- node v22.11.0
 - nodemailer v6.9.16
 - mongodb v6.10.0
 
