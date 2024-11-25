@@ -7,6 +7,7 @@
 - #7386 : Add setting to open next card on acknowledgment
 - #7448 : See all connected users via the cli
 - #7498 : Allow to create a popup in a card
+- #7547 : Dashboard - Add a link to business menu for certain process/states
 
 # Bug Fixes
 - #7418 : Check for entity name in the entity creation form doesn't handle empty spaces
