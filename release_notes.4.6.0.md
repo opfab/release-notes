@@ -29,6 +29,8 @@
 ## Frontend
 
 - ag-grid v32.3.2
+- ag-grid-angular v32.3.3
+- ag-grid-community v32.3.3
 - chart.js v4.4.6
 - fortawesome/fontawesome-free v6.7.1
 - swimlane/ngx-charts v21.0.0
