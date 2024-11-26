@@ -10,17 +10,18 @@
 - #7547 : Dashboard - Add a link to business menu for certain process/states
 
 # Bug Fixes
-- #7418 : Check for entity name in the entity creation form doesn't handle empty spaces
-- #7410 : Opfab cli : fix error message when removing user from group/entity
-- #7411 : It should not be possible to set string in "Interval between sound" in settings
-- #7526 : Exception in console when editing cards
-- #7427 : UserCard: do not show "Create copy" button if user not allowed to publish the card
-- #7413 : User action logs : close popover when clicking on link in card detail
-- #7414 : No entities in ack visible if one entity is not existing
-- #7425 : Archives/Logging screens : display error if there is no process group and no tag
+
+- #7152 : Fix archives screen sublines columns width
 - #7403 : Missing space in templates if startDate, endDate and severity are not visible
 - #7404 : Fix modal style
-- #7152 : Fix archives screen sublines columns width
+- #7410 : Opfab cli : fix error message when removing user from group/entity
+- #7411 : It should not be possible to set string in "Interval between sound" in settings
+- #7413 : User action logs : close popover when clicking on link in card detail
+- #7414 : No entities in ack visible if one entity is not existing
+- #7418 : Check for entity name in the entity creation form doesn't handle empty spaces
+- #7425 : Archives/Logging screens : display error if there is no process group and no tag
+- #7427 : UserCard: do not show "Create copy" button if user not allowed to publish the card
+- #7526 : Exception in console when editing cards
 - #7549 : Fix Supervisor default config value for arrays
 - #7571 : Memory leak in regularlyCheckLttd in card
 
