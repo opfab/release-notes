@@ -20,6 +20,7 @@
 - #7404 : Fix modal style
 - #7152 : Fix archives screen sublines columns width
 - #7549 : Fix Supervisor default config value for arrays
+- #7571 : Memory leak in regularlyCheckLttd in card
 
 # Tasks
 
