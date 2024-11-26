@@ -11,6 +11,7 @@
 
 # Bug Fixes
 - #7418 : Check for entity name in the entity creation form doesn't handle empty spaces
+- #7410 : Opfab cli : fix error message when removing user from group/entity
 - #7411 : It should not be possible to set string in "Interval between sound" in settings
 - #7526 : Exception in console when editing cards
 - #7427 : UserCard: do not show "Create copy" button if user not allowed to publish the card
