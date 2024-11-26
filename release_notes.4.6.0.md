@@ -33,8 +33,8 @@
 - ag-grid v32.3.3
 - chart.js v4.4.6
 - fortawesome/fontawesome-free v6.7.1
-- swimlane/ngx-charts v21.0.0
 - ngx-translate/core v16.0.3
+- swimlane/ngx-charts v21.0.0
   
 ## Backend 
 
