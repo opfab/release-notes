@@ -51,7 +51,7 @@
 - spring-webflux to v6.2.0
 
 ### Node services
-
+- axios v1.7.8
 - node v22.11.0
 - nodemailer v6.9.16
 - mongodb v6.10.0
