@@ -8,6 +8,7 @@
 - #7448 : See all connected users via the cli
 - #7498 : Allow to create a popup in a card
 - #7547 : Dashboard - Add a link to business menu for certain process/states
+- #7564 : Permit to receive mail for not notified state in UI
 
 # Bug Fixes
 
