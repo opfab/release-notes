@@ -55,6 +55,7 @@
 - node v22.11.0
 - nodemailer v6.9.16
 - mongodb v6.10.0
+- winston v3.17.0
 
 ## Misc 
 
