@@ -35,6 +35,7 @@
 ## Frontend
 
 - ag-grid v32.3.3
+- angular 18.2.13
 - chart.js v4.4.6
 - fortawesome/fontawesome-free v6.7.1
 - ngx-translate/core v16.0.3
