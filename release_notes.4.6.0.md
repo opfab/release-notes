@@ -62,6 +62,7 @@
 ## Misc 
 
 -  rabbitmq Docker v4.0.3
+-  nginx Docker v1.27.3
 
 
 
