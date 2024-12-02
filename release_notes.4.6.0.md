@@ -25,6 +25,7 @@
 - #7526 : Exception in console when editing cards
 - #7549 : Fix Supervisor default config value for arrays
 - #7571 : Memory leak in regularlyCheckLttd in card
+- #7585 : Impossible to change entity name for some entities
 
 # Tasks
 
