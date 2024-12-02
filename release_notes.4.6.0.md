@@ -46,6 +46,7 @@
 
 ### Java services 
 
+- commons-io v2.18.0
 - jackson-annotations v2.18.1
 - jackson-databind to v2.18.1
 - micrometer-registry-prometheus v1.14.1
