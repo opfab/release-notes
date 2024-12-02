@@ -9,6 +9,7 @@
 - #7498 : Allow to create a popup in a card
 - #7547 : Dashboard - Add a link to business menu for certain process/states
 - #7564 : Permit to receive mail for not notified state in UI
+- #7565 : Opfab API : Add a method to get the current visible period
 
 # Bug Fixes
 
