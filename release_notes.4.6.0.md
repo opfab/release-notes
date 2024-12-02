@@ -47,6 +47,7 @@
 
 ### Java services 
 
+- confluent v7.7.2
 - commons-io v2.18.0
 - jackson-annotations v2.18.2 
 - jackson-databind to v2.18.2
