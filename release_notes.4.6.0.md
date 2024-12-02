@@ -47,8 +47,8 @@
 ### Java services 
 
 - commons-io v2.18.0
-- jackson-annotations v2.18.1
-- jackson-databind to v2.18.1
+- jackson-annotations v2.18.1 
+- jackson-databind to v2.18.2
 - micrometer-registry-prometheus v1.14.1
 - rabbitmq:amqp-client v5.23.0
 - spring boot v3.3.5
