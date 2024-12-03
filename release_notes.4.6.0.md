@@ -10,6 +10,7 @@
 - #7547 : Dashboard - Add a link to business menu for certain process/states
 - #7564 : Permit to receive mail for not notified state in UI
 - #7565 : Opfab API : Add a method to get the current visible period
+- #7267 : Add a date range picker for archives / logging screens
 
 # Bug Fixes
 
