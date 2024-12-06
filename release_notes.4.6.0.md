@@ -55,6 +55,7 @@
 - micrometer-registry-prometheus v1.14.1
 - rabbitmq:amqp-client v5.23.0
 - spring boot v3.3.5
+- springKafka v3.3.0
 - spring security v6.4.1
 - spring-webflux to v6.2.0
 
