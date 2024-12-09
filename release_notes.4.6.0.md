@@ -37,41 +37,41 @@
 
 ## Frontend
 
-- ag-grid v32.3.3
+- ag-grid 32.3.3
 - angular 18.2.13
-- chart.js v4.4.6
-- fortawesome/fontawesome-free v6.7.1
-- ngx-translate/core v16.0.3
-- swimlane/ngx-charts v21.0.0
+- chart.js 4.4.6
+- fortawesome/fontawesome-free 6.7.1
+- ngx-translate/core 16.0.3
+- swimlane/ngx-charts 21.0.0
   
 ## Backend 
 
 ### Java services 
 
-- confluent v7.7.2
-- commons-io v2.18.0
-- jackson-annotations v2.18.2 
-- jackson-databind to v2.18.2
-- micrometer-registry-prometheus v1.14.1
-- rabbitmq:amqp-client v5.23.0
-- spring boot v3.3.5
-- springKafka v3.3.0
-- spring security v6.4.1
-- spring-webflux to v6.2.0
+- confluent 7.8.0
+- commons-io 2.18.0
+- jackson-annotations 2.18.2 
+- jackson-databind to 2.18.2
+- micrometer-registry-prometheus 1.14.1
+- rabbitmq:amqp-client 5.23.0
+- spring boot 3.3.5
+- springKafka 3.3.0
+- spring security 6.4.1
+- spring-webflux to 6.2.0
 
 ### Node services
-- amqplib to v0.10.5
-- axios v1.7.8
-- node v22.11.0
-- nodemailer v6.9.16
-- mongodb v6.10.0
-- winston v3.17.0
+- amqplib to 0.10.5
+- axios 1.7.8
+- node 22.11.0
+- nodemailer 6.9.16
+- mongodb 6.10.0
+- winston 3.17.0
 
 ## Misc 
 
--  nginx Docker v1.27.3
--  rabbitmq Docker v4.0.4
--  typescript-eslint v8.16.0
+-  nginx Docker 1.27.3
+-  rabbitmq Docker 4.0.4
+-  typescript-eslint 8.16.0
 
 
 
