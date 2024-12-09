@@ -28,6 +28,7 @@
 - #7549 : Fix Supervisor default config value for arrays
 - #7571 : Memory leak in regularlyCheckLttd in card
 - #7585 : Impossible to change entity name for some entities
+- #7632 : Redirection lost when using link provided in opfab email
 
 # Tasks
 
