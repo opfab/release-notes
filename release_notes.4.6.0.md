@@ -61,7 +61,7 @@
 
 ### Node services
 - amqplib to 0.10.5
-- axios 1.7.8
+- axios 1.7.9
 - node 22.11.0
 - nodemailer 6.9.16
 - mongodb 6.10.0
