@@ -11,6 +11,7 @@
 - #7564 : Permit to receive mail for not notified state in UI
 - #7565 : Opfab API : Add a method to get the current visible period
 - #7267 : Add a date range picker for archives / logging screens
+- #7588 : Add the list of child entities in recipient and recipient for information multiselect
 
 # Bug Fixes
 
