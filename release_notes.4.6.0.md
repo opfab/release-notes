@@ -76,7 +76,7 @@
 -  nginx Docker 1.27.3
 -  rabbitmq Docker 4.0.4
 -  typescript-eslint 8.16.0
-
+-  quill 2.0.3
 
 
 
