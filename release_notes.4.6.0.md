@@ -14,6 +14,7 @@
 - #7588 : Add the list of child entities in recipient and recipient for information multiselect
 - #7566 : Opfab API : Add a method to get a list of cards
 - #7551 : Archives / Logging : permit to choose the number of line to display
+- #5734 : Add an option to receive a weekly email recap
 
 # Bug Fixes
 
