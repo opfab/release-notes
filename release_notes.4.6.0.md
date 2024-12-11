@@ -65,7 +65,7 @@
 ### Node services
 - amqplib to 0.10.5
 - axios 1.7.9
-- express v4.21.2
+- express 4.21.2
 - node 22.11.0
 - nodemailer 6.9.16
 - mongodb 6.10.0
@@ -73,10 +73,12 @@
 
 ## Misc 
 
+-  eslint 9.16.0
+-  quill 2.0.3
 -  nginx Docker 1.27.3
 -  rabbitmq Docker 4.0.4
 -  typescript-eslint 8.16.0
--  quill 2.0.3
+
 
 
 
