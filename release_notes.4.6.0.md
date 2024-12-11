@@ -13,6 +13,7 @@
 - #7267 : Add a date range picker for archives / logging screens
 - #7588 : Add the list of child entities in recipient and recipient for information multiselect
 - #7566 : Opfab API : Add a method to get a list of cards
+- #7551 : Archives / Logging : permit to choose the number of line to display
 
 # Bug Fixes
 
