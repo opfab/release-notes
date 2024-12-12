@@ -44,7 +44,7 @@
 
 - ag-grid 32.3.3
 - angular 18.2.13
-- chart.js 4.4.6
+- chart.js 4.4.7
 - fortawesome/fontawesome-free 6.7.1
 - quill 2.0.3
 - ngx-translate/core 16.0.3
