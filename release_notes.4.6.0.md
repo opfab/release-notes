@@ -46,6 +46,7 @@
 - angular 18.2.13
 - chart.js 4.4.6
 - fortawesome/fontawesome-free 6.7.1
+- quill 2.0.3
 - ngx-translate/core 16.0.3
 - swimlane/ngx-charts 21.0.0
   
@@ -70,18 +71,16 @@
 - axios 1.7.9
 - express 4.21.2
 - express-jwt 8.5.1
-- node 22.11.0
+- node 22.12.0
 - nodemailer 6.9.16
 - mongodb 6.12.0
 - winston 3.17.0
 
 ## Misc 
 
--  eslint 9.16.0
--  quill 2.0.3
 -  nginx Docker 1.27.3
 -  rabbitmq Docker 4.0.4
--  typescript-eslint 8.16.0
+
 
 
 
