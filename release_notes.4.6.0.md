@@ -71,7 +71,7 @@
 - express-jwt 8.5.1
 - node 22.11.0
 - nodemailer 6.9.16
-- mongodb 6.10.0
+- mongodb 6.12.0
 - winston 3.17.0
 
 ## Misc 
