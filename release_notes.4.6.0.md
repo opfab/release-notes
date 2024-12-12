@@ -57,7 +57,7 @@
 - commons-io 2.18.0
 - jackson-annotations 2.18.2 
 - jackson-databind to 2.18.2
-- micrometer-registry-prometheus 1.14.1
+- micrometer-registry-prometheus 1.14.2
 - rabbitmq:amqp-client 5.23.0
 - spring boot 3.3.5
 - springKafka 3.3.0
@@ -65,6 +65,7 @@
 - spring-webflux to 6.2.0
 
 ### Node services
+
 - amqplib to 0.10.5
 - axios 1.7.9
 - express 4.21.2
