@@ -63,7 +63,7 @@
 - spring boot 3.3.5
 - springKafka 3.3.0
 - spring security 6.4.1
-- spring-webflux to 6.2.0
+- spring-webflux to 6.2.1
 
 ### Node services
 
