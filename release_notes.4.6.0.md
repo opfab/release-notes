@@ -63,7 +63,9 @@
 - jackson-annotations 2.18.2 
 - jackson-databind to 2.18.2
 - micrometer-registry-prometheus 1.14.2
-- rabbitmq:amqp-client 5.23.0
+- rabbitmq:amqp-client 5.24.0
+
+
 - spring boot 3.3.5
 - springKafka 3.3.0
 - spring security 6.4.1
