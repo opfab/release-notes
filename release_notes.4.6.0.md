@@ -58,7 +58,8 @@
 ### Java services 
 
 - confluent 7.8.0
-- commons-io 2.18.0
+- commons-text v1.13.0
+- commons-io 2.18.0 
 - jackson-annotations 2.18.2 
 - jackson-databind to 2.18.2
 - micrometer-registry-prometheus 1.14.2
