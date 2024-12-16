@@ -16,7 +16,7 @@
 - #7551 : Archives / Logging : permit to choose the number of line to display
 - #5734 : Add an option to receive a weekly email recap
 - #7651 : Usercard preview : show child entities as tooltip
-
+- #7663 Added body prefix to recap emails
 
 
 # Bug Fixes
