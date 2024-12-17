@@ -17,6 +17,7 @@
 - #5734 : Add an option to receive a weekly email recap
 - #7651 : Usercard preview : show child entities as tooltip
 - #7663 : Added body prefix to recap emails
+- #7625 : Archives : add vertical scrollbar in the table body
 
 
 # Bug Fixes
