@@ -19,6 +19,7 @@
 - #7663 : Added body prefix to recap emails
 - #7664 : Added body postfix to recap emails
 - #7625 : Archives : add vertical scrollbar in the table body
+- #7653 : Cards-external-diffusion : permit to configure Timezone  
 
 
 # Bug Fixes
