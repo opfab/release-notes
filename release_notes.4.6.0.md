@@ -38,6 +38,7 @@
 - #7571 : Memory leak in regularlyCheckLttd in card
 - #7585 : Impossible to change entity name for some entities
 - #7632 : Redirection lost when using link provided in opfab email
+- #7680 : Wrong dates send to external recipients
 
 # Tasks
 
