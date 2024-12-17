@@ -64,11 +64,9 @@
 - jackson-databind to 2.18.2
 - micrometer-registry-prometheus 1.14.2
 - rabbitmq:amqp-client 5.24.0
-
-
 - spring boot 3.3.5
 - springKafka 3.3.0
-- spring security 6.4.1
+- spring security 6.4.2
 - spring-webflux to 6.2.1
 
 ### Node services
