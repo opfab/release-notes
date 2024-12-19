@@ -64,6 +64,7 @@
 ### Java services 
 
 - confluent 7.8.0
+- com.google.guava:guava v33.4.0-jre
 - commons-text v1.13.0
 - commons-io 2.18.0 
 - jackson-annotations 2.18.2 
