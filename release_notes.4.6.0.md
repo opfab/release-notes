@@ -21,6 +21,7 @@
 - #7625 : Archives : add vertical scrollbar in the table body
 - #7653 : Cards-external-diffusion : permit to configure Timezone
 - #7525 : Add the possibility to have a button to edit card
+- #7662 : Add entity ID in entity selection for admin screens
 
 
 # Bug Fixes
