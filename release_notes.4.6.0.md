@@ -58,7 +58,7 @@
 - chart.js 4.4.7
 - fortawesome/fontawesome-free 6.7.2
 - quill 2.0.3
-- ngx-translate/core 16.0.3
+- ngx-translate/core 16.0.4 
 - swimlane/ngx-charts 21.1.2
   
 ## Backend 
