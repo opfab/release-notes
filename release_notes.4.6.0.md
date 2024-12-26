@@ -3,7 +3,7 @@
 - #7335 : Opfab Cli - Add a command line to start or stop the supervisor service
 - #7339 : Add a user action log when user change notification configuration
 - #7446 : Localized error message when impossible to send alarm signal to external device
-- #7447 : Replace toNotify field with STORE_ONLY_IN_ARCHIVES card Action
+- #7447, #7480 : Replace toNotify field with STORE_ONLY_IN_ARCHIVES card Action
 - #7386 : Add setting to open next card on acknowledgment
 - #7448 : See all connected users via the cli
 - #7498 : Allow to create a popup in a card
