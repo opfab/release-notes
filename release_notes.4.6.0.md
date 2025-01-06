@@ -48,6 +48,7 @@
 # Tasks
 
 - #7554 : Rename timeline domain TR to RT (Real Time)
+- #7499 : Remove field "timespans.recurrence" in opfab
 
 # Dependencies upgrade
 
