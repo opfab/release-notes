@@ -93,7 +93,7 @@
 ## Misc 
 
 -  nginx Docker 1.27.3
--  rabbitmq Docker 4.0.4
+-  rabbitmq Docker 4.0.5
 -  mongo v7.0.16
 
 
