@@ -10,7 +10,7 @@
 - #7547 : Dashboard - Add a link to business menu for certain process/states
 - #7564 : Permit to receive mail for not notified state in UI
 - #7565 : Opfab API : Add a method to get the current visible period
-- #7267 : Add a date range picker for archives / logging screens
+- #7267, #7710: Add a date range picker for archives / logging screens Added date ranges selection to date picker
 - #7588 : Add the list of child entities in recipient and recipient for information multiselect
 - #7566 : Opfab API : Add a method to get a list of cards
 - #7551 : Archives / Logging : permit to choose the number of line to display
