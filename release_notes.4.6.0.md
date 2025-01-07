@@ -24,6 +24,7 @@
 - #7662 : Add entity ID in entity selection for admin screens
 - #7699 : Card-external-diffusion : add the possiblity to access config parameters in handlebars template
 - #7761 : Homogenize number of lines for table multiselect position
+- #7705 : Add the possibility to set field groupRecipients when sending user card
 
 
 # Bug Fixes
