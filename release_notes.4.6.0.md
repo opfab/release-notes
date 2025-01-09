@@ -46,6 +46,7 @@
 - #7632 : Redirection lost when using link provided in opfab email
 - #7680 : Wrong dates send to external recipients
 - #7665 : Took daylight savings time into account for recap emails
+- #7811 : Opfab-cli : "opfab get log-level" for external-devices failed
 
 # Tasks
 
