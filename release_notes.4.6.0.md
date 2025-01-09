@@ -1,31 +1,39 @@
 
 # Features
-- #7335 : Opfab Cli - Add a command line to start or stop the supervisor service
-- #7339 : Add a user action log when user change notification configuration
-- #7446 : Localized error message when impossible to send alarm signal to external device
-- #7447, #7480 : Replace toNotify field with STORE_ONLY_IN_ARCHIVES card Action
-- #7386 : Add setting to open next card on acknowledgment
-- #7448 : See all connected users via the cli
-- #7498 : Allow to create a popup in a card
-- #7547 : Dashboard - Add a link to business menu for certain process/states
-- #7564 : Permit to receive mail for not notified state in UI
-- #7565 : Opfab API : Add a method to get the current visible period
-- #7267, #7710: Add a date range picker for archives / logging screens Added date ranges selection to date picker
-- #7588 : Add the list of child entities in recipient and recipient for information multiselect
-- #7566 : Opfab API : Add a method to get a list of cards
-- #7551 : Archives / Logging : permit to choose the number of line to display
-- #5734 : Add an option to receive a weekly email recap
-- #7651 : Usercard preview : show child entities as tooltip
-- #7663 : Added body prefix to recap emails
-- #7664 : Added body postfix to recap emails
-- #7625 : Archives : add vertical scrollbar in the table body
-- #7653 : Cards-external-diffusion : permit to configure Timezone
-- #7525 : Add the possibility to have a button to edit card
-- #7662 : Add entity ID in entity selection for admin screens
-- #7699 : Card-external-diffusion : add the possiblity to access config parameters in handlebars template
-- #7761 : Homogenize number of lines for table multiselect position
-- #7705 : Add the possibility to set field groupRecipients when sending user card
-- #7783 : Added vertical scroll to Logging screen
+
+- Archives and logging screens :
+  - #7551 : Permit to choose the number of line to display
+  - #7625 : Add vertical scrollbar to Archive screen
+  - #7783 : Adde vertical scrollbar to Logging screen
+  - #7267, #7710: Add a date range picker
+- Emails :
+  - #7663 : Added body prefix to recap emails
+  - #7664 : Added body postfix to recap emails
+  - #7564 : Permit to receive mail for not notified state in UI
+  - #5734 : Add an option to receive a weekly email recap
+  - #7653 : Permit to configure Timezone
+  - #7699 : Add the possiblity to access config parameters in handlebars mail template
+- Cli :
+  - #7335 : Add a command line to start or stop the supervisor service
+  - #7448 : See all connected users via the cli
+- Opfab API :
+  - #7565 : Add a method to get the current visible period
+  - #7566 : Add a method to get a list of cards
+- User cards  :
+  - #7588 : Add the list of child entities in recipient and recipient for information multiselect
+  - #7651 : Usercard preview : show child entities as tooltip
+  - #7705 : Add the possibility to set field groupRecipients when sending user card
+- Card detail :
+  - #7498 : Allow to create a popup in a card
+  - #7525 : Add the possibility to have a button to edit card
+- Misc :    
+  - #7339 : Add a user action log when user change notification configuration
+  - #7446 : Localized error message when impossible to send alarm signal to external device
+  - #7447, #7480 : Replace toNotify field with STORE_ONLY_IN_ARCHIVES card Action
+  - #7386 : Add setting to open next card on acknowledgment
+  - #7547 : Dashboard - Add a link to business menu for certain process/states
+  - #7662 : Add entity ID in entity selection for admin screens
+  - #7761 : Homogenize number of lines for table multiselect position
 
 
 # Bug Fixes
