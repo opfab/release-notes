@@ -4,7 +4,7 @@
 - Archives and logging screens :
   - #7551 : Permit to choose the number of line to display
   - #7625 : Add vertical scrollbar to Archive screen
-  - #7783 : Adde vertical scrollbar to Logging screen
+  - #7783 : Add vertical scrollbar to Logging screen
   - #7267, #7710: Add a date range picker
 - Emails :
   - #7663 : Added body prefix to recap emails
