@@ -25,6 +25,7 @@
 - #7699 : Card-external-diffusion : add the possiblity to access config parameters in handlebars template
 - #7761 : Homogenize number of lines for table multiselect position
 - #7705 : Add the possibility to set field groupRecipients when sending user card
+- #7783 : Added vertical scroll to Logging screen
 
 
 # Bug Fixes
