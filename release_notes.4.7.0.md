@@ -1,6 +1,8 @@
 
 # Features
 
+- #7787 Add vertical scrolling inside array in admin screens
+
 # Bug Fixes
 
 # Tasks
