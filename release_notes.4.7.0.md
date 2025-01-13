@@ -19,7 +19,10 @@
 
 ### Node services
 
+- Node v22.13.0
+
 ## Misc 
+
 
 
 
