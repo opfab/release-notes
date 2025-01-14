@@ -1,7 +1,8 @@
 
 # Features
 
-- #7787 Add vertical scrolling inside array in admin screens
+- #7787 : Add vertical scrolling inside array in admin screens
+- #7592 : Add an API frontend method to send response card
 
 # Bug Fixes
 
