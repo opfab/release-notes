@@ -18,11 +18,11 @@
 
 ### Java services 
 
-- micrometer-registry-prometheus v1.14.3
+- micrometer-registry-prometheus 1.14.3
 
 ### Node services
 
-- Node v22.13.0
+- Node 22.13.0
 
 ## Misc 
 
