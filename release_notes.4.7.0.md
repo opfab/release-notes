@@ -3,6 +3,7 @@
 
 - #7787 : Add vertical scrolling inside array in admin screens
 - #7592 : Add an API frontend method to send response card
+- #7706 : Add the possibility to send card on behalf of user instead of entity
 
 # Bug Fixes
 
