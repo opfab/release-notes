@@ -18,7 +18,7 @@
 
 ### Java services 
 
-- micrometer-registry-prometheus to v1.14.3
+- micrometer-registry-prometheus v1.14.3
 
 ### Node services
 
