@@ -9,6 +9,8 @@
 
 # Bug Fixes
 
+- #7803 In archives card display edit button shall never appears in message card example
+
 # Tasks
 
 - #7826 : Avoid security log in cards-publication service on startup
