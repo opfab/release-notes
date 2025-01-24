@@ -6,6 +6,9 @@
 - #7706 : Add the possibility to send card on behalf of user instead of entity
 - #7847 : Add first name and last name on real time screen instead of login
 - #7850 : Add possibility to hide publisher multiselect in usercard
+- #7876 : Add first name and last name of user on activity area screen
+
+
 
 # Bug Fixes
 
