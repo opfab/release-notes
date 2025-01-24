@@ -28,7 +28,7 @@
 
 ### Node services
 
-- Node 22.13.0
+- Node 22.13.1
 
 ## Misc 
 
