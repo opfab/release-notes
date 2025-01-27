@@ -97,7 +97,7 @@
 - axios 1.7.9
 - express 4.21.2
 - express-jwt 8.5.1
-- node 22.12.0
+- node 22.13.1
 - nodemailer 6.9.16
 - mongodb 6.12.0
 - winston 3.17.0
