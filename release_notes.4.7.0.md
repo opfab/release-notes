@@ -27,6 +27,7 @@
 ## Frontend
 
 - virtual-select-plugin v1.0.47
+- ngx-charts v21.1.3 
   
 ## Backend 
 
