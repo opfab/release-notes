@@ -33,7 +33,9 @@
 ### Java services 
 
 - micrometer-registry-prometheus 1.14.3
+- org.apache.commons:commons-pool2 2.12.1
 - spring-webflux v6.2.2
+
 
 ### Node services
 
