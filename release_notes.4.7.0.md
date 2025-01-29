@@ -40,7 +40,9 @@
 
 ### Node services
 
+- jsdom v26
 - Node 22.13.1
+
 
 ## Misc 
 
