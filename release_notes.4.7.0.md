@@ -8,7 +8,7 @@
 - #7850 : Add possibility to hide publisher multiselect in usercard
 - #7876 : Add first name and last name of user on activity area screen
 - #7877 : Add an option to not received card details
-
+- #7708 : Add support for loading custom global CSS
 
 
 # Bug Fixes
