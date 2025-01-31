@@ -70,8 +70,8 @@
 - angular 18.2.13
 - chart.js 4.4.7
 - fortawesome/fontawesome-free 6.7.2
+- ngx-translate/core 16.0.4
 - quill 2.0.3
-- ngx-translate/core 16.0.4 
 - swimlane/ngx-charts 21.1.2
   
 ## Backend 
@@ -80,8 +80,8 @@
 
 - confluent 7.8.0
 - com.google.guava:guava v33.4.0-jre
-- commons-text v1.13.0
 - commons-io 2.18.0 
+- commons-text v1.13.0
 - jackson-annotations 2.18.2 
 - jackson-databind to 2.18.2
 - micrometer-registry-prometheus 1.14.2
@@ -97,16 +97,16 @@
 - axios 1.7.9
 - express 4.21.2
 - express-jwt 8.5.1
+- mongodb 6.12.0
 - node 22.13.1
 - nodemailer 6.9.16
-- mongodb 6.12.0
 - winston 3.17.0
 
 ## Misc 
 
--  nginx Docker 1.27.3
--  rabbitmq Docker 4.0.5
--  mongo v7.0.16
+- mongo v7.0.16
+- nginx Docker 1.27.3
+- rabbitmq Docker 4.0.5
 
 
 
