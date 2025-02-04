@@ -40,6 +40,7 @@
 - org.apache.commons:commons-pool2 2.12.1
 - spring-kafka v3.3.2
 - spring-webflux v6.2.2
+- spring boot v3.4.2
 
 
 ### Node services
