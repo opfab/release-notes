@@ -9,8 +9,11 @@
 - #7876 : Add first name and last name of user on activity area screen
 - #7877 : Add an option to not received card details
 - #7708 : Add support for loading custom global CSS
+
+## Custom card list screen
 - #7881 : Add the possibility to define custom card list screens
 - #7917 : Add process and type of state filters for custom card list screen
+- #7920 : In custom card list screen, add colored circle field type
 
 # Bug Fixes
 
