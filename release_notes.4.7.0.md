@@ -10,7 +10,7 @@
 - #7877 : Add an option to not received card details
 - #7708 : Add support for loading custom global CSS
 - #7881 : Add the possibility to define custom card list screens
-
+- #7917 : Add process and type of state filters for custom card list screen
 
 # Bug Fixes
 
