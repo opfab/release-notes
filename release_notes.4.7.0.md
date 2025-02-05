@@ -9,6 +9,7 @@
 - #7876 : Add first name and last name of user on activity area screen
 - #7877 : Add an option to not received card details
 - #7708 : Add support for loading custom global CSS
+- #7883 : Add an option to notify the user only when the card is reminded
 
 ## Custom card list screen
 - #7881 : Add the possibility to define custom card list screens
