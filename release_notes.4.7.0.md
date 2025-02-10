@@ -12,6 +12,7 @@
 - #7883 : Add an option to notify the user only when the card is reminded
 - #7922 : Custom card list screen : add response from my entities column
 - #7923 : Custom card list screen : add response from my entities filter
+- #7786 : In activity area, permit to select/unselect a group of activity area in one click
 
 ## Custom card list screen
 - #7881 : Add the possibility to define custom card list screens
