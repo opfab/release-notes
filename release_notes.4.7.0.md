@@ -11,6 +11,7 @@
 - #7708 : Add support for loading custom global CSS
 - #7883 : Add an option to notify the user only when the card is reminded
 - #7922 : Custom card list screen : add response from my entities column
+- #7923 : Custom card list screen : add response from my entities filter
 
 ## Custom card list screen
 - #7881 : Add the possibility to define custom card list screens
