@@ -10,7 +10,6 @@
 - #7877 : Add an option to not received card details
 - #7708 : Add support for loading custom global CSS
 - #7883 : Add an option to notify the user only when the card is reminded
-
 - #7786 : In activity area, permit to select/unselect a group of activity area in one click
 
 ## Custom card list screen
