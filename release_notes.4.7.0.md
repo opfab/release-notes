@@ -56,6 +56,7 @@
 ### Node services
 
 - jsdom v26
+- mongodb v6.13.0 
 - Node 22.13.1
 
 
