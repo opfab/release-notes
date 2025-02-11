@@ -17,6 +17,7 @@
   - #7922 : Custom card list screen : add response from my entities column
   - #7923 : Custom card list screen : add response from my entities filter
   - #7920 : In custom card list screen, add colored circle field type
+  - #7947 : Custom card list screen : add option to show a response button
 
 # Bug Fixes
 
