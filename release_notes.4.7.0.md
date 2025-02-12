@@ -11,6 +11,7 @@
 - #7708 : Add support for loading custom global CSS
 - #7883 : Add an option to notify the user only when the card is reminded
 - #7786 : In activity area, permit to select/unselect a group of activity area in one click
+- #7952 : Simplify interface for getting user response from template
 - Custom card list screen
   - #7881 : Add the possibility to define custom card list screens
   - #7917 : Add process and type of state filters for custom card list screen
@@ -18,7 +19,8 @@
   - #7923 : Custom card list screen : add response from my entities filter
   - #7920 : In custom card list screen, add colored circle field type
   - #7947 : Custom card list screen : add option to show a response button
-  - #7880 Add the possibility to access custom opfab screen in menu
+  - #7880 : Add the possibility to access custom opfab screen in menu
+
 
 # Bug Fixes
 
