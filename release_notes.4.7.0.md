@@ -13,6 +13,7 @@
 - #7786 : In activity area, permit to select/unselect a group of activity area in one click
 - #7952 : Simplify interface for getting user response from template
 - #7852 : Add the possibility to add comments in opfab cli commands file
+- #7902 : Add the possibility to call a custom method before sending usercard
 - Custom card list screen
   - #7881 : Add the possibility to define custom card list screens
   - #7917 : Add process and type of state filters for custom card list screen
