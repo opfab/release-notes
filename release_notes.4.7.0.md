@@ -30,7 +30,7 @@
 - #7803 In archives card display edit button shall never appears in message card example
 - #7867 Fixed long state names in notification configuration
 - #7851 cli : "opfab help commands" does not work
-
+- #7799 : Monitoring screen clicking on unlock icon is not updating monitoring result
 
 
 # Tasks
