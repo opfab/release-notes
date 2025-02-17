@@ -22,6 +22,7 @@
   - #7920 : In custom card list screen, add colored circle field type
   - #7947 : Custom card list screen : add option to show a response button
   - #7880 : Add the possibility to access custom opfab screen in menu
+  - #7870 : Add custom data field to light cards 
 
 
 # Bug Fixes
