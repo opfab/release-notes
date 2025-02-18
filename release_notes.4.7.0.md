@@ -52,6 +52,7 @@
 ### Java services 
 
 - amqp-client v5.25.0
+- kafka-clients 7.8.1-ce 
 - micrometer-registry-prometheus 1.14.4
 - org.apache.commons:commons-pool2 2.12.1
 - spring-kafka v3.3.2
