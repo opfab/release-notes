@@ -41,6 +41,7 @@
 
 - #7826 : Avoid security log in cards-publication service on startup
 - #7878 : Defined charset to UTF-8 in when saving process monitoring file
+- #7989 : Improve "loading in progress" mechanism
 
 # Dependencies upgrade
 
