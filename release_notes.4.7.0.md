@@ -36,6 +36,7 @@
 - #7851 cli : "opfab help commands" does not work
 - #7799 : Monitoring screen clicking on unlock icon is not updating monitoring result
 - #7907 : Do not take emojis into account when sorting AG Grid columns
+- #7982 : Process Monitoring Screen: Text column search returns no results
 
 
 # Tasks
