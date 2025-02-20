@@ -16,6 +16,7 @@
 - #7902 : Add the possibility to call a custom method before sending usercard
 - #7784 : Add selection of number of lines per page in user action logs
 - #7875 : Always set child card startDate to parent startDate
+- #8004 : In some screens, switching pagination row number sometimes does not refresh correctly the tables
 - Custom card list screen
   - #7881 : Add the possibility to define custom card list screens
   - #7917 : Add process and type of state filters for custom card list screen
