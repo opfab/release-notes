@@ -47,10 +47,10 @@
 # Dependencies upgrade
 
 ## Frontend
-- ag-grid v33.0.4
-- angular  v18.2.14
-- ngx-charts v21.1.3
-- virtual-select-plugin v1.0.47
+- ag-grid 33.0.4
+- angular  18.2.14
+- ngx-charts 21.1.3
+- virtual-select-plugin 1.0.47
 
 
   
@@ -58,27 +58,28 @@
 
 ### Java services 
 
-- amqp-client v5.25.0
-- confluent v7.8.1
-- json-smart v2.5.2
+- amqp-client 5.25.0
+- confluent 7.8.1
+- json-smart 2.5.2
 - kafka-clients 7.8.1-ce 
 - micrometer-registry-prometheus 1.14.4
 - org.apache.commons:commons-pool2 2.12.1
-- spring boot v3.4.2
-- spring-kafka v3.3.2
-- spring-webflux v6.2.3
+- spring boot 3.4.2
+- spring-kafka 3.3.2
+- spring-webflux 6.2.3
 
 ### Node services
 
-- jsdom v26
-- mongodb v6.13.0 
+- jsdom 26
+- mongodb 6.13.0 
 - Node 22.13.1
-- nodemailer v6.10.0
+- nodemailer 6.10.0
   
 
 ## Misc 
 
-- nginx v1.27.4
+- nginx 1.27.4
+- rabbitMQ 4.0.6
 
 
 
