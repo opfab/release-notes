@@ -48,9 +48,10 @@
 
 ## Frontend
 - ag-grid v33.0.4
-- angular  v18.2.14 
-- virtual-select-plugin v1.0.47
+- angular  v18.2.14
 - ngx-charts v21.1.3
+- virtual-select-plugin v1.0.47
+
 
   
 ## Backend 
@@ -63,17 +64,17 @@
 - kafka-clients 7.8.1-ce 
 - micrometer-registry-prometheus 1.14.4
 - org.apache.commons:commons-pool2 2.12.1
+- spring boot v3.4.2
 - spring-kafka v3.3.2
 - spring-webflux v6.2.3
-- spring boot v3.4.2
-
 
 ### Node services
 
 - jsdom v26
 - mongodb v6.13.0 
 - Node 22.13.1
-
+- nodemailer v6.10.0
+  
 
 ## Misc 
 
