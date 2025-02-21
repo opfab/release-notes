@@ -63,6 +63,7 @@
 
 - amqp-client 5.25.0
 - confluent 7.8.1
+- jre 17.0.14
 - json-smart 2.5.2
 - kafka-clients 7.8.1-ce 
 - micrometer-registry-prometheus 1.14.4
