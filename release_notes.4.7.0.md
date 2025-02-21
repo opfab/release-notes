@@ -69,7 +69,8 @@
 - micrometer-registry-prometheus 1.14.4
 - org.apache.commons:commons-pool2 2.12.1
 - spring boot 3.4.2
-- spring-kafka 3.3.3 
+- spring-kafka 3.3.3
+- spring security 6.4.3
 - spring-webflux 6.2.3
 
 ### Node services
