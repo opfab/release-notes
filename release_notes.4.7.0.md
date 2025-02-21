@@ -47,6 +47,7 @@
 - #7826 : Avoid security log in cards-publication service on startup
 - #7878 : Defined charset to UTF-8 in when saving process monitoring file
 - #7989 : Improve "loading in progress" mechanism
+- #7896 : Migration to java 21
 
 # Dependencies upgrade
 
@@ -65,7 +66,7 @@
 
 - amqp-client 5.25.0
 - confluent 7.8.1
-- jre 17.0.14
+- jre 21.0.6
 - json-smart 2.5.2
 - kafka-clients 7.8.1-ce 
 - micrometer-registry-prometheus 1.14.4
