@@ -18,6 +18,7 @@
 - #7875 : Always set child card startDate to parent startDate
 - #8004 : In some screens, switching pagination row number sometimes does not refresh correctly the tables
 - #7961 : Add possibility in ui templates to set severity for child cards when responding to card
+- #7997 : Do not erase entity/group membership when updating an entity/group via API
 - Custom card list screen
   - #7881 : Add the possibility to define custom card list screens
   - #7917 : Add process and type of state filters for custom card list screen
