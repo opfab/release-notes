@@ -81,7 +81,7 @@
 
 - jsdom 26
 - mongodb 6.13.1 
-- Node 22.13.1
+- Node 22.14.0
 - nodemailer 6.10.0
   
 
