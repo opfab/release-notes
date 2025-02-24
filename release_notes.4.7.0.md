@@ -80,7 +80,7 @@
 ### Node services
 
 - jsdom 26
-- mongodb 6.13.0 
+- mongodb 6.13.1 
 - Node 22.13.1
 - nodemailer 6.10.0
   
