@@ -66,7 +66,7 @@
 ### Java services 
 
 - amqp-client 5.25.0
-- confluent 7.8.1
+- confluent 7.9.0
 - jre 21.0.6
 - json-smart 2.5.2
 - kafka-clients 7.8.1-ce 
