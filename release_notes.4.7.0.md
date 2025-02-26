@@ -88,7 +88,7 @@
 
 ## Misc 
 
-- mongo v7.0.17
+- mongo 7.0.17
 - nginx 1.27.4
 - rabbitMQ 4.0.6
 
