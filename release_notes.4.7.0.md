@@ -53,7 +53,7 @@
 # Dependencies upgrade
 
 ## Frontend
-- ag-grid 33.0.4
+- ag-grid 33.1.1
 - angular  18.2.14
 - chart.js to v4.4.8
 - ngx-charts 21.1.3
