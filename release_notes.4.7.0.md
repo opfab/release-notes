@@ -80,6 +80,7 @@
 
 ### Node services
 
+- axios 1.8.1
 - jsdom 26
 - mongodb 6.13.1 
 - Node 22.14.0
