@@ -22,16 +22,17 @@
 - Custom card list screen
   - #7881 : Add the possibility to define custom card list screens
   - #7917 : Add process and type of state filters for custom card list screen
-  - #7922 : Custom card list screen : add response from my entities column
-  - #7923 : Custom card list screen : add response from my entities filter
-  - #7920 : In custom card list screen, add colored circle field type
-  - #7947 : Custom card list screen : add option to show a response button
+  - #7922 : Add response from my entities column
+  - #7923 : Add response from my entities filter
+  - #7920 : Add colored circle field type
+  - #7947 : Add option to show a response button
   - #7880 : Add the possibility to access custom opfab screen in menu
   - #7870 : Add custom data field to light cards
-  - #7976 : Custom card list screen : add the possibility to put user input in responses
-  - #7925 : Custom card list screen : add lines per page choice for result table
-  - #7981 : Custom screen : add the possiblity to integrate user responses in the result array
+  - #7976 : Add the possibility to put user input in responses
+  - #7925 : Add lines per page choice for result table
+  - #7981 : Add the possiblity to integrate user responses in the result array
   - #8021 : Dashboard : permit to redirect to a custom screen
+  - #7967 : Add a header filter ack an read
 
 
 # Bug Fixes
