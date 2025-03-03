@@ -90,6 +90,7 @@
 
 ## Misc 
 
+- jackson monorepo 2.18.3
 - mongo 7.0.17
 - nginx 1.27.4
 - rabbitMQ 4.0.6
