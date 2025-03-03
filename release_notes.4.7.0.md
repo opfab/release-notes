@@ -31,6 +31,7 @@
   - #7976 : Custom card list screen : add the possibility to put user input in responses
   - #7925 : Custom card list screen : add lines per page choice for result table
   - #7981 : Custom screen : add the possiblity to integrate user responses in the result array
+  - #8021 : Dashboard : permit to redirect to a custom screen
 
 
 # Bug Fixes
