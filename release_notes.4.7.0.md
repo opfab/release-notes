@@ -70,6 +70,7 @@
 ### Java services 
 
 - amqp-client 5.25.0
+- amqplib 0.10.7
 - confluent 7.9.0
 - jre 21.0.6
 - json-smart 2.5.2
