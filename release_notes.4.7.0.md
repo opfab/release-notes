@@ -34,6 +34,7 @@
   - #8021 : Dashboard : permit to redirect to a custom screen
   - #7967 : Add a header filter ack an read
   - #7904 : Add loading spinner in custom card list screen
+  - #8066 : Adjust response button size to content
 
 
 # Bug Fixes
