@@ -73,7 +73,7 @@
 - confluent 7.9.0
 - jre 21.0.6
 - json-smart 2.5.2
-- kafka-clients 7.8.1-ce 
+- kafka-clients 7.9.0-ce 
 - micrometer-registry-prometheus 1.14.4
 - org.apache.commons:commons-pool2 2.12.1
 - slf4j-api 2.0.17
