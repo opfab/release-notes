@@ -85,7 +85,7 @@
 
 ### Node services
 
-- axios 1.8.1
+- axios 1.8.2
 - jsdom 26
 - mongodb 6.14.2
 - Node 22.14.0
