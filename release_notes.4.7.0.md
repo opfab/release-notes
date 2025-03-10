@@ -35,6 +35,7 @@
   - #7967 : Add a header filter ack an read
   - #7904 : Add loading spinner in custom card list screen
   - #8066 : Adjust response button size to content
+  - #7998 : Show response buttons and checkboxes only when all cards have been loaded
 
 
 # Bug Fixes
