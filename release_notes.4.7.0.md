@@ -37,6 +37,7 @@
   - #8066 : Adjust response button size to content
   - #7998 : Show response buttons and checkboxes only when all cards have been loaded
   - #8009 : Use processIds to restrict the process list
+  - #8064 : Use getValue if exist in customscreen configuration
 
 
 # Bug Fixes
