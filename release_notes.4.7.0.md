@@ -38,6 +38,7 @@
   - #7998 : Show response buttons and checkboxes only when all cards have been loaded
   - #8009 : Use processIds to restrict the process list
   - #8064 : Use getValue if exist in customscreen configuration
+  - #7999 : Stop updating screen when user is editing
 
 
 # Bug Fixes
