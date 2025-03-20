@@ -40,6 +40,7 @@
   - #8064 : Use getValue if exist in customscreen configuration
   - #7999 : Stop updating screen when user is editing
   - #8109 : Add the possibility to define minWidth for CustomCardList screen
+  - #8065 : Add HTML field type
 
 
 # Bug Fixes
