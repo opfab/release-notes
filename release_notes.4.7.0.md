@@ -51,6 +51,7 @@
 - #7907 : Do not take emojis into account when sorting AG Grid columns
 - #7982 : Process Monitoring Screen: Text column search returns no results
 - #8097: Acknowledgment at the entity level only working with entities with roles sender
+- #8117: Updating a business data with the UI does not work
 
 
 # Tasks
