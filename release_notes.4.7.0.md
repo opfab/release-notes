@@ -107,6 +107,7 @@
 - mongo 7.0.17
 - nginx 1.27.4
 - rabbitMQ 4.0.7
+- actions/upload-artifact 4.6.2
 
 
 
