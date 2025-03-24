@@ -89,7 +89,7 @@
 - slf4j-api 2.0.17
 - spring boot 3.4.4
 - spring-kafka 3.3.3
-- spring security 6.4.3
+- spring security 6.4.4
 - spring-webflux 6.2.3
 
 ### Node services
