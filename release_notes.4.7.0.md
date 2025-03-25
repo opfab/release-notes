@@ -63,6 +63,7 @@
 - #7878 : Defined charset to UTF-8 in when saving process monitoring file
 - #7989 : Improve "loading in progress" mechanism
 - #7896 : Migration to java 21
+- #8130 : Correct swagger files for URLs in API documentation
 
 # Dependencies upgrade
 
