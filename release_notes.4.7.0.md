@@ -82,6 +82,7 @@
 - amqp-client 5.25.0
 - amqplib 0.10.7
 - confluent 7.9.0
+- guava v33.4.5-jre
 - jre 21.0.6
 - json-smart 2.5.2
 - kafka-clients 7.9.0-ce 
