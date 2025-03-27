@@ -19,6 +19,7 @@
 - #8004 : In some screens, switching pagination row number sometimes does not refresh correctly the tables
 - #7961 : Add possibility in ui templates to set severity for child cards when responding to card
 - #7997 : Do not erase entity/group membership when updating an entity/group via API
+- #8083 : Admin screen : make the text selectable
 - Custom card list screen
   - #7881 : Add the possibility to define custom card list screens
   - #7917 : Add process and type of state filters for custom card list screen
@@ -43,7 +44,7 @@
   - #8065 : Add HTML field type
   - #8095 : Add an ack selected button
   - #7921 : add response field in export
-  - #8083 : Admin screen : make the text selectable
+
 
 
 # Bug Fixes
