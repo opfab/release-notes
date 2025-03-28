@@ -43,7 +43,7 @@
   - #8109 : Add the possibility to define minWidth for CustomCardList screen
   - #8065 : Add HTML field type
   - #8095 : Add an ack selected button
-  - #7921 : add response field in export
+  - #7921 : Add response field in export
   - #8147 : Filter by state
   - #8013 : Add the possibility to add a select option for user input
 
