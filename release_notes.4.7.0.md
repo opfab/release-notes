@@ -46,6 +46,7 @@
   - #7921 : Add response field in export
   - #8147 : Filter by state
   - #8013 : Add the possibility to add a select option for user input
+  - #8146 : Restricted or authorise one or more lists of entities to respond
 
 
 
