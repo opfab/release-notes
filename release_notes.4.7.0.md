@@ -45,19 +45,20 @@
   - #8095 : Add an ack selected button
   - #7921 : add response field in export
   - #8147 : Filter by state
+  - #8013 : Add the possibility to add a select option for user input
 
 
 
 # Bug Fixes
 
-- #7803 In archives card display edit button shall never appears in message card example
-- #7867 Fixed long state names in notification configuration
+- #7803 : In archives card display edit button shall never appears in message card example
+- #7867 : Fixed long state names in notification configuration
 - #7851 cli : "opfab help commands" does not work
 - #7799 : Monitoring screen clicking on unlock icon is not updating monitoring result
 - #7907 : Do not take emojis into account when sorting AG Grid columns
 - #7982 : Process Monitoring Screen: Text column search returns no results
-- #8097: Acknowledgment at the entity level only working with entities with roles sender
-- #8117: Updating a business data with the UI does not work
+- #8097 : Acknowledgment at the entity level only working with entities with roles sender
+- #8117 : Updating a business data with the UI does not work
 
 
 # Tasks
