@@ -103,6 +103,7 @@
 
 ### Node services
 
+- amqplib 0.10.7
 - axios 1.8.4
 - jsdom 26
 - mongodb 6.15.0
