@@ -47,7 +47,7 @@
   - #8147 : Filter by state
   - #8013 : Add the possibility to add a select option for user input
   - #8146 : Restricted or authorise one or more lists of entities to respond
-  - #8145 : add alert message when responses are sent
+  - #8145 : Add alert message when responses are sent
 
 
 
