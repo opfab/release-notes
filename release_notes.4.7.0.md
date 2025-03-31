@@ -104,7 +104,7 @@
 
 - axios 1.8.4
 - jsdom 26
-- mongodb 6.14.2
+- mongodb 6.15.0
 - Node 22.14.0
 - nodemailer 6.10.0
   
