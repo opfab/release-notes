@@ -48,6 +48,7 @@
   - #8013 : Add the possibility to add a select option for user input
   - #8146 : Restricted or authorise one or more lists of entities to respond
   - #8145 : Add alert message when responses are sent
+  - #8137 : Custom card list screen : add field types STATE_NAME and PROCESS_NAME
 
 
 
