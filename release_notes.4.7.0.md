@@ -51,6 +51,7 @@
   - #8145 : Add alert message when responses are sent
   - #8137 : Custom card list screen : add field types STATE_NAME and PROCESS_NAME
   - #8184 : Custom card list screen : permit to have more than one line in cells
+  - #8129 : Disable buttons if action is not possible
 
 
 
