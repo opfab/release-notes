@@ -20,6 +20,7 @@
 - #7961 : Add possibility in ui templates to set severity for child cards when responding to card
 - #7997 : Do not erase entity/group membership when updating an entity/group via API
 - #8083 : Admin screen : make the text selectable
+- #8184 : Change color of answer in card detail to be coherent with custom screen
 - Custom card list screen
   - #7881 : Add the possibility to define custom card list screens
   - #7917 : Add process and type of state filters for custom card list screen
