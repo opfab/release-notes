@@ -81,7 +81,7 @@
 
 ## Frontend
 - ag-grid 33.2.1
-- angular  18.2.15
+- angular 18.2.17
 - bootstrap 5.3.4
 - chart.js to v4.4.8
 - fullcalendar 6.1.17
