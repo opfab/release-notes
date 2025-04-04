@@ -53,6 +53,7 @@
   - #8184 : Permit to have more than one line in cells
   - #8129 : Disable buttons if action is not possible
   - #8128 : Enable the ability to configure a column containing acknowledgment icons
+  - #8194 : Set a maximum size option for input
 
 
 
