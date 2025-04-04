@@ -111,6 +111,7 @@
 
 - amqplib 0.10.7
 - axios 1.8.4
+- express 5.1.0
 - jsdom 26
 - mongodb 6.15.0
 - Node 22.14.0
