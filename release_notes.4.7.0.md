@@ -21,6 +21,7 @@
 - #7997 : Do not erase entity/group membership when updating an entity/group via API
 - #8083 : Admin screen : make the text selectable
 - #8184 : Change color of answer in card detail to be coherent with custom screen
+- #8159 - Date picker - add new predefined date range
 - Custom card list screen
   - #7881 : Add the possibility to define custom card list screens
   - #7917 : Add process and type of state filters for custom card list screen
