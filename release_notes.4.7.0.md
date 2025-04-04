@@ -84,6 +84,7 @@
 - angular  18.2.15
 - bootstrap 5.3.4
 - chart.js to v4.4.8
+- fullcalendar 6.1.17
 - ngx-charts 21.1.3
 - virtual-select-plugin 1.0.47
 
