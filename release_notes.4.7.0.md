@@ -64,7 +64,7 @@
 
 - #7803 : In archives card display edit button shall never appears in message card example
 - #7867 : Fixed long state names in notification configuration
-- #7851 cli : "opfab help commands" does not work
+- #7851 : Opfab cli : "opfab help commands" does not work
 - #7799 : Monitoring screen clicking on unlock icon is not updating monitoring result
 - #7907 : Do not take emojis into account when sorting AG Grid columns
 - #7982 : Process Monitoring Screen: Text column search returns no results
