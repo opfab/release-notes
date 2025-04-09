@@ -1,6 +1,9 @@
 
 # Features
 
+- Custom card list screen:
+    The option to have a custom card list screen has been added. This screen has filtering features and allows to define custom interactions with received cards. Multiple screens can be configured in the same file. It is possible to define columns displaying directly some fields of the cards. The columns can also be filled with a function taking a card field as input. It is also possible to define response buttons to answer or acknowledge multiple cards at once. For further details please refer to the documentation under the section "Card List Custom Screen"
+
 - #7787 : Add vertical scrolling inside array in admin screens
 - #7592 : Add an API frontend method to send response card
 - #7706 : Add the possibility to send card on behalf of user instead of entity
@@ -22,42 +25,6 @@
 - #8083 : Admin screen : make the text selectable
 - #8184 : Change color of answer in card detail to be coherent with custom screen
 - #8159 - Date picker - add new predefined date range
-- Custom card list screen
-  - #7881 : Add the possibility to define custom card list screens
-  - #7917 : Add process and type of state filters for custom card list screen
-  - #7922 : Add response from my entities column
-  - #7923 : Add response from my entities filter
-  - #7920 : Add colored circle field type
-  - #7947 : Add option to show a response button
-  - #7880 : Add the possibility to access custom opfab screen in menu
-  - #7870 : Add custom data field to light cards
-  - #7976 : Add the possibility to put user input in responses
-  - #7925 : Add lines per page choice for result table
-  - #7981 : Add the possiblity to integrate user responses in the result array
-  - #8021 : Dashboard : permit to redirect to a custom screen
-  - #7967 : Add a header filter ack an read
-  - #7904 : Add loading spinner in custom card list screen
-  - #8066 : Adjust response button size to content
-  - #7998 : Show response buttons and checkboxes only when all cards have been loaded
-  - #8009 : Use processIds to restrict the process list
-  - #8064 : Use getValue if exist in customscreen configuration
-  - #7999 : Stop updating screen when user is editing
-  - #8109 : Add the possibility to define minWidth for CustomCardList screen
-  - #8065 : Add HTML field type
-  - #8095 : Add an ack selected button
-  - #7921 : Add response field in export
-  - #8147 : Filter by state
-  - #8013 : Add the possibility to add a select option for user input
-  - #8146 : Restricted or authorise one or more lists of entities to respond
-  - #8145 : Add alert message when responses are sent
-  - #8137 : Add field types STATE_NAME and PROCESS_NAME
-  - #8184 : Permit to have more than one line in cells
-  - #8129 : Disable buttons if action is not possible
-  - #8128 : Enable the ability to configure a column containing acknowledgment icons
-  - #8194 : Set a maximum size option for input
-  - #8121 : Add the possibility to filter for HTML field in custom card list screen
-  - #8209 : Add custom links on dashboard screen
-
 
 
 # Bug Fixes
