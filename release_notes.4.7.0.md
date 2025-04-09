@@ -2,6 +2,7 @@
 # Features
 
 - Custom card list screen:
+  
     The option to have a custom card list screen has been added. This screen has filtering features and allows to define custom interactions with received cards. Multiple screens can be configured in the same file. It is possible to define columns displaying directly some fields of the cards. The columns can also be filled with a function taking a card field as input. It is also possible to define response buttons to answer or acknowledge multiple cards at once. For further details please refer to the documentation under the section "Card List Custom Screen"
 
 - #7787 : Add vertical scrolling inside array in admin screens
