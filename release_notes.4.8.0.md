@@ -17,7 +17,7 @@
 # Dependencies upgrade
 
 ## Frontend
-
+- angular 18.2.18
 - bootstrap 5.3.5
   
 ## Backend 
