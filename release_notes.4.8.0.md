@@ -28,6 +28,8 @@
 
 ### Node services
 
+- nodemailer 6.10.1
+
 
 ## Misc 
 
