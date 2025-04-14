@@ -17,6 +17,7 @@
 # Dependencies upgrade
 
 ## Frontend
+- ag-grid 33.2.3
 - angular 18.2.18
 - bootstrap 5.3.5
   
