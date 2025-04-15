@@ -27,7 +27,7 @@
 
 - commons-io 2.19.0
 - commons-text 1.13.1
-- guava 33.4.7-jre
+- guava 33.4.8-jre
 
 ### Node services
 
