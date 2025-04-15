@@ -28,6 +28,7 @@
 - commons-io 2.19.0
 - commons-text 1.13.1
 - guava 33.4.8-jre
+- micrometer-registry-prometheus 1.14.6
 
 ### Node services
 
