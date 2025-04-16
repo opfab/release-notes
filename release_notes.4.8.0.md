@@ -17,6 +17,7 @@
 # Dependencies upgrade
 
 ## Frontend
+
 - ag-grid 33.2.3
 - angular 18.2.18
 - bootstrap 5.3.5
@@ -35,8 +36,9 @@
 
 - nodemailer 6.10.1
 
+## Misc
 
-## Misc 
+- mongo 7.0.19
 
 
 
