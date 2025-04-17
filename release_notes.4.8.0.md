@@ -34,6 +34,7 @@
 
 ### Node services
 
+- jsdom 26.1.0
 - nodemailer 6.10.1
 
 ## Misc
