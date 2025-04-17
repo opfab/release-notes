@@ -41,6 +41,7 @@
 
 - mongo 7.0.19
 - nginx 1.27.5
+- rabbitMQ 4.1.0
 
 
 
