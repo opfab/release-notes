@@ -32,6 +32,7 @@
 - guava 33.4.8-jre
 - jre 21.0.7
 - micrometer-registry-prometheus 1.14.6
+- spring-security 6.4.5
 - spring-webflux 6.2.6
 
 ### Node services
