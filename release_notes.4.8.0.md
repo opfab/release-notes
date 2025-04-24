@@ -32,17 +32,22 @@
 - guava 33.4.8-jre
 - jre 21.0.7
 - micrometer-registry-prometheus 1.14.6
+- spring-webflux 6.2.6
 
 ### Node services
 
 - jsdom 26.1.0
+- mongodb 6.16.0
 - nodemailer 6.10.1
 
 ## Misc
 
+- cypress 14.3.2
+- io.gatling.gradle 3.13.5.4
 - mongo 7.0.19
 - nginx 1.27.5
 - rabbitMQ 4.1.0
+- swagger-ui 5.21.0
 
 
 
