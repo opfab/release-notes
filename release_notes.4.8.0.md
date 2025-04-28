@@ -12,9 +12,7 @@
 
 # Tasks
 
-- #ZZZ :
 
-- 
 # Dependencies upgrade
 
 ## Frontend
