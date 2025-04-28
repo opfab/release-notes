@@ -2,6 +2,7 @@
 # Features
 
 - #8244 : Make text selectable in logging screen and in external device configuration
+- #8248 : Horizontal scrolling in cards for wide content
 
 
 # Bug Fixes
