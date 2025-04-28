@@ -1,7 +1,7 @@
 
 # Features
 
-- #XXX  : 
+- #8244 : Make text selectable in logging screen and in external device configuration
 
 
 # Bug Fixes
