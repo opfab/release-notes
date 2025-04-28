@@ -27,16 +27,20 @@
 
 ### Java services 
 
+- commons-collections4 v4.5.0
 - commons-io 2.19.0
-- commons-text 1.13.1
+- commons-text 1.13.1 
 - guava 33.4.8-jre
 - jre 21.0.7
 - micrometer-registry-prometheus 1.14.6
+- spring boot v3.4.5
+- spring-kafka v3.3.5
 - spring-security 6.4.5
 - spring-webflux 6.2.6
 
 ### Node services
 
+- axios v1.9.0
 - jsdom 26.1.0
 - mongodb 6.16.0
 - nodemailer 6.10.1
