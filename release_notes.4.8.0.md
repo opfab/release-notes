@@ -47,8 +47,6 @@
 
 ## Misc
 
-- cypress 14.3.2
-- io.gatling.gradle 3.13.5.4
 - mongo 7.0.19
 - nginx 1.27.5
 - rabbitMQ 4.1.0
