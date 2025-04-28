@@ -7,6 +7,7 @@
 # Bug Fixes
 
 - #8131 : Impossible to load font for external app example
+- #8268 : Conference template example does not work
 
 
 # Tasks
