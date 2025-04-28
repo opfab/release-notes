@@ -6,7 +6,7 @@
 
 # Bug Fixes
 
-- #8131 : Impossible to load font for external app example #8131
+- #8131 : Impossible to load font for external app example
 
 
 # Tasks
