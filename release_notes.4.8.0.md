@@ -32,6 +32,7 @@
 - commons-io 2.19.0
 - commons-text 1.13.1 
 - guava 33.4.8-jre
+- jackson v2.19.0
 - jre 21.0.7
 - micrometer-registry-prometheus 1.14.6
 - spring boot v3.4.5
