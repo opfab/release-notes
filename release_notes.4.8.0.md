@@ -51,9 +51,8 @@
 ## Misc
 
 - mongo 7.0.19
-- nginx 1.27.5
+- nginx 1.28.0
 - rabbitMQ 4.1.0
-- swagger-ui 5.21.0
 
 
 
