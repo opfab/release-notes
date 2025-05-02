@@ -50,7 +50,7 @@
 
 ## Misc
 
-- mongo 7.0.19
+- mongo 7.0.20
 - nginx 1.28.0
 - rabbitMQ 4.1.0
 
