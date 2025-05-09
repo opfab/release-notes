@@ -4,6 +4,7 @@
 - #8244 : Make text selectable in logging screen and in external device configuration
 - #8248 : Horizontal scrolling in cards for wide content
 - #8247 : Usercard Payload Size Limitation - Error Handling
+- #8361 : Authorize special characters in processInstanceId (except the slash)
 
 
 # Bug Fixes
