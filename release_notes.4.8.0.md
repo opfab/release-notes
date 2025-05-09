@@ -47,7 +47,7 @@
 - axios v1.9.0
 - jsdom 26.1.0
 - mongodb 6.16.0
-- nodemailer 6.10.1
+- nodemailer 7.0.3
 
 ## Misc
 
