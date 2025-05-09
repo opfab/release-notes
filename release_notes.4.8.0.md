@@ -30,6 +30,7 @@
 
 ### Java services 
 
+- amqplib 0.10.8
 - commons-collections4 v4.5.0
 - commons-io 2.19.0
 - commons-text 1.13.1 
