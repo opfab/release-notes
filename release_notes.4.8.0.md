@@ -25,6 +25,7 @@
 - angular 18.2.18
 - bootstrap 5.3.6
 - chart.js 4.4.9
+- ngx-charts 22.0.0
   
 ## Backend 
 
