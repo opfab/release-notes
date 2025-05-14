@@ -38,7 +38,7 @@
 - guava 33.4.8-jre
 - jackson v2.19.0
 - jre 21.0.7
-- micrometer-registry-prometheus 1.14.6
+- micrometer-registry-prometheus 1.15.0
 - spring boot v3.4.5
 - spring-kafka v3.3.5
 - spring-security 6.4.5
