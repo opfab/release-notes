@@ -46,17 +46,18 @@
 
 ### Node services
 
-- axios v1.9.0
+- axios 1.9.0
+- globals 16.1.0
 - jsdom 26.1.0
 - mongodb 6.16.0
 - nodemailer 7.0.3
 
 ## Misc
 
+- kafka-clients 7.9.1-ce
 - mongo 7.0.20
 - nginx 1.28.0
 - rabbitMQ 4.1.0
-- kafka-clients 7.9.1-ce
 
 
 
