@@ -48,6 +48,7 @@
 ### Node services
 
 - axios 1.9.0
+- config v4.0.0
 - globals 16.1.0
 - jsdom 26.1.0
 - mongodb 6.16.0
