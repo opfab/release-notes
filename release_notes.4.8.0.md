@@ -6,6 +6,7 @@
 - #8247 : Usercard Payload Size Limitation - Error Handling
 - #8361 : Authorize special characters in processInstanceId (except the slash)
 - #8349 : Optional confirmation popup when responding to a card
+- #8261 : Add date range picker in monitoring process screen
 
 # Bug Fixes
 
