@@ -7,6 +7,7 @@
 - #8361 : Authorize special characters in processInstanceId (except the slash)
 - #8349 : Optional confirmation popup when responding to a card
 - #8261 : Add date range picker in monitoring process screen
+- #8416 : Opfab input mono-select with free text possibility in Custom screen
 
 # Bug Fixes
 
