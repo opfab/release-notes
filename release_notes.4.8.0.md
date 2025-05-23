@@ -43,7 +43,7 @@
 - micrometer-registry-prometheus 1.15.0
 - spring boot 3.4.5
 - spring-kafka 3.3.6
-- spring-security 6.4.5
+- spring-security 6.5.0
 - spring-webflux 6.2.7
 
 ### Node services
