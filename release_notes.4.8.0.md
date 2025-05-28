@@ -8,7 +8,8 @@
 - #8349 : Optional confirmation popup when responding to a card
 - #8261 : Add date range picker in monitoring process screen
 - #8416 : Opfab input mono-select with free text possibility in Custom screen
-- #8418 Custom card list : add the option to set response possible only for specific process states
+- #8418 : Custom card list : add the option to set response possible only for specific process states
+- #8392 : Permit to use the e-mail address from the Jwt Token
 
 # Bug Fixes
 
