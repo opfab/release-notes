@@ -15,6 +15,7 @@
 
 - #8131 : Impossible to load font for external app example
 - #8268 : Conference template example does not work
+- #8438 : Custom screen - response text in last column is cut
 
 
 # Tasks
