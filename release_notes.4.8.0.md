@@ -26,7 +26,7 @@
 
 ## Frontend
 
-- ag-grid 33.3.0
+- ag-grid 33.3.1
 - angular 18.2.18
 - bootstrap 5.3.6
 - chart.js 4.4.9
