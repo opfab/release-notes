@@ -11,6 +11,7 @@
 - #8418 : Custom card list : add the option to set response possible only for specific process states
 - #8392 : Permit to use the e-mail address from the Jwt Token
 - #8417 : Custom screen - Pre-selected value for type of state multiselect
+- #8439 : Custom screen : sorting and filtering of answers column
 
 # Bug Fixes
 
