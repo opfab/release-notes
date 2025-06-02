@@ -12,6 +12,7 @@
 - #8392 : Permit to use the e-mail address from the Jwt Token
 - #8417 : Custom screen - Pre-selected value for type of state multiselect
 - #8439 : Custom screen : sorting and filtering of answers column
+- #8420 : Make possible to not include the card link in the e-mail notifications
 
 # Bug Fixes
 
