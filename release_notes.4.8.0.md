@@ -14,6 +14,7 @@
 - #8439 : Custom screen : sorting and filtering of answers column
 - #8420 : Make possible to not include the card link in the e-mail notifications
 - #8419 : Make configurable the possibility to force the e-mail format
+- #8440 : Custom card list screen : add an option to show only cards emitted by current user entities
 
 # Bug Fixes
 
