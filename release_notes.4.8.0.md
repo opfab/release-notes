@@ -33,10 +33,12 @@
 ## Frontend
 
 - ag-grid 33.3.1
-- angular 18.2.18
+- angular 19.2.14
 - bootstrap 5.3.6
 - chart.js 4.4.9
+- ng-bootstrap 18.0.0
 - ngx-charts 22.0.0
+- typescript 5.8.3
   
 ## Backend 
 
