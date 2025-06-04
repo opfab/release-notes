@@ -15,8 +15,9 @@
 - #8420 : Make possible to not include the card link in the e-mail notifications
 - #8419 : Make configurable the possibility to force the e-mail format
 - #8440 : Custom card list screen : add an option to show only cards emitted by current user entities
+- #8421 : Remove the setting related to the "card content in emails" (#8421)
 
-# Bug Fixes
+# Bug
 
 - #8131 : Impossible to load font for external app example
 - #8268 : Conference template example does not work
