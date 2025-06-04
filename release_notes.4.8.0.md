@@ -39,7 +39,6 @@
 - chart.js 4.4.9
 - ng-bootstrap 18.0.0
 - ngx-charts 22.0.0
-- typescript 5.8.3
   
 ## Backend 
 
