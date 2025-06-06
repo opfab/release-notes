@@ -24,6 +24,7 @@
 - #8268 : Conference template example does not work
 - #8438 : Custom screen - response text in last column is cut
 - #8462 : Custom screen menu shall be bold and underline if selected
+- #8484 : Custom screens : inconsistency between filters when new cards arrive
 
 
 # Tasks
