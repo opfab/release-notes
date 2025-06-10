@@ -25,6 +25,7 @@
 - #8438 : Custom screen - response text in last column is cut
 - #8462 : Custom screen menu shall be bold and underline if selected
 - #8484 : Custom screens : inconsistency between filters when new cards arrive
+- #8476 : Export of html field in custom screen does not work
 
 
 # Tasks
