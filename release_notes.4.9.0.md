@@ -22,6 +22,7 @@
 
 ### Node services
 
+ - typescript 5.8.3
 
 ## Misc
 
