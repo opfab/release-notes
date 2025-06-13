@@ -1,6 +1,7 @@
 
 # Features
 
+#8470 : Do not wrap lines for mail in plain text
 
 # Bug
 
