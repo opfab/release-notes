@@ -19,6 +19,7 @@
 - #8485 : Dashboard: show process even if only processCustomLinks are visible for the user
 - #8470 : Mail in plain text : add unit test and do not wrap lines
 - #8526 : Custom Screen - Pre-selected value for ack/read filter
+- #8534 : Custom screen : Use of maxInputLength option for fieldType SELECT
 
 # Bug
 
