@@ -17,6 +17,7 @@
 - #8440 : Custom card list screen : add an option to show only cards emitted by current user entities
 - #8421 : Remove the setting related to the "card content in emails"
 - #8485 : Dashboard: show process even if only processCustomLinks are visible for the user
+- #8470 : Mail in plain text : add unit test and do not wrap lines
 
 # Bug
 
