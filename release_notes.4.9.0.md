@@ -9,6 +9,7 @@
 
 # Tasks
 
+- Simplify opfab start and configuration
   
 # Dependencies upgrade
 
