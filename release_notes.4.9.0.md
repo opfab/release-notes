@@ -1,8 +1,8 @@
 
 # Features
 
-- #8470 : Do not wrap lines for mail in plain text
-- #8245 : Custom screen : buttons shall be grey as soon as response has been send 
+- #8245 : Custom screen : buttons shall be grey as soon as response has been send
+- #8479 :  Add style for dropdown menus when selected
 
 # Bug
 
