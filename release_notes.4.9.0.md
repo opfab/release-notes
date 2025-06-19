@@ -32,7 +32,7 @@
 
 ## Misc
 
-
+rabbitmq 4.1.1
 
 
 
