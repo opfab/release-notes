@@ -21,6 +21,8 @@
   
 ## Backend 
 
+- confluent 7.9.2
+
 ### Java services 
 
 
