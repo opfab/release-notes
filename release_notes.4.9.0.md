@@ -28,7 +28,7 @@
 
 
 ### Node services
-
+ - axios 1.10.0
  - typescript 5.8.3
 
 ## Misc
