@@ -22,6 +22,7 @@
 ## Backend 
 
 - confluent 7.9.2
+- kafka-clients 7.9.2-ce
 
 ### Java services 
 
