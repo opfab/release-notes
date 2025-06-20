@@ -34,6 +34,7 @@
 ## Misc
 
 rabbitmq 4.1.1
+spring-webflux 6.2.8
 
 
 
