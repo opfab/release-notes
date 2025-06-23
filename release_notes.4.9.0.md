@@ -21,11 +21,12 @@
   
 ## Backend 
 
-- confluent 7.9.2
-- kafka-clients 7.9.2-ce
 
 ### Java services 
 
+- confluent 7.9.2
+- kafka-clients 7.9.2-ce
+- spring-kafka to 3.3.7
 
 ### Node services
  - axios 1.10.0
