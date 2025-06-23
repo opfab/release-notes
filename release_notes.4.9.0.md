@@ -36,9 +36,9 @@
 
 ## Misc
 
-rabbitmq 4.1.1
-spring-webflux 6.2.8
-jackson 2.19.1
+- rabbitmq 4.1.1
+- spring-webflux 6.2.8
+- jackson 2.19.1
 
 
 
