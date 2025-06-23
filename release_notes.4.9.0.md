@@ -29,6 +29,7 @@
 - spring boot v3.5.3
 - spring-kafka 3.3.7
 - spring security 6.5.1
+- spring-webflux 6.2.8
   
 ### Node services
  - axios 1.10.0
@@ -37,7 +38,6 @@
 ## Misc
 
 - rabbitmq 4.1.1
-- spring-webflux 6.2.8
 - jackson 2.19.1
 
 
