@@ -28,7 +28,8 @@
 - kafka-clients 7.9.2-ce
 - spring boot v3.5.3
 - spring-kafka to 3.3.7
-
+- spring security to v6.5.1
+  
 ### Node services
  - axios 1.10.0
  - typescript 5.8.3
