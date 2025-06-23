@@ -26,6 +26,7 @@
 
 - confluent 7.9.2
 - kafka-clients 7.9.2-ce
+- micrometer-registry-prometheus 1.15.1
 - spring boot v3.5.3
 - spring-kafka 3.3.7
 - spring security 6.5.1
