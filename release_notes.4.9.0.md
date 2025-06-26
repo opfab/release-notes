@@ -3,6 +3,7 @@
 
 - #8245 : Custom screen : buttons shall be grey as soon as response has been send
 - #8479 :  Add style for dropdown menus when selected
+- #8482 : Custom screens : make sorting by severity possible
 
 # Bug
 
