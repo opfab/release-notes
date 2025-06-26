@@ -11,6 +11,7 @@
 # Tasks
 
 - Simplify opfab start and configuration
+- #8545 Remove ngx-chips library
   
 # Dependencies upgrade
 
