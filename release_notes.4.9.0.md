@@ -28,6 +28,7 @@
 ### Java services 
 
 - confluent 7.9.2
+- jackson 2.19.1
 - kafka-clients 7.9.2-ce
 - micrometer-registry-prometheus 1.15.1
 - spring boot v3.5.3
@@ -43,7 +44,7 @@
 ## Misc
 
 - rabbitmq 4.1.1
-- jackson 2.19.1
+
 
 
 
