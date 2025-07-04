@@ -39,6 +39,7 @@
 ### Node services
  - axios 1.10.0
  - mongodb 6.17.0
+ - Node 22.17.0
  - typescript 5.8.3
 
 ## Misc
