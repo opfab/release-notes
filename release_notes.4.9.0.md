@@ -27,7 +27,7 @@
 
 ### Java services 
 
-- confluent 7.9.2
+- confluent 8.0.0
 - jackson 2.19.1
 - kafka-clients 7.9.2-ce
 - micrometer-registry-prometheus 1.15.1
