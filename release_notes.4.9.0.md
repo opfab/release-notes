@@ -1,12 +1,13 @@
 
 # Features
 
-- #8245 : Custom screen : buttons shall be grey as soon as response has been send
+- #8245 : Custom screen - buttons shall be grey as soon as response has been send
 - #8479 : Add style for dropdown menus when selected
-- #8482 : Custom screens : make sorting by severity possible
+- #8482 : Custom screens - make sorting by severity possible
 
 # Bug
 
+- #8239 : Custom screens - Sorting takes into account emoticones whereas it should not
 
 # Tasks
 
