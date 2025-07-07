@@ -15,6 +15,7 @@
 - Simplify opfab start and configuration
 - #8545 : Remove ngx-chips library
 - #8478 : Incorrect URL in Card Management API doc
+- #8564 : Remove ngx-charts library
   
 # Dependencies upgrade
 
