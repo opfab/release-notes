@@ -2,7 +2,7 @@
 # Features
 
 - #8245 : Custom screen : buttons shall be grey as soon as response has been send
-- #8479 :  Add style for dropdown menus when selected
+- #8479 : Add style for dropdown menus when selected
 - #8482 : Custom screens : make sorting by severity possible
 
 # Bug
@@ -11,7 +11,8 @@
 # Tasks
 
 - Simplify opfab start and configuration
-- #8545 Remove ngx-chips library
+- #8545 : Remove ngx-chips library
+- #8478 : Incorrect URL in Card Management API doc
   
 # Dependencies upgrade
 
