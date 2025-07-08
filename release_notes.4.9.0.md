@@ -6,6 +6,7 @@
 - #8482 : Custom screens - make sorting by severity possible
 - #8503 : Add an option to update first name and last name from token
 - #8331 : Store last user connection in database
+- #8599 : Improve escapeHtml method and security documentation
 
 # Bug
 
