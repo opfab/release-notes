@@ -52,7 +52,7 @@
 ## Misc
 
 - nginx Docker 1.29.0
-- rabbitmq 4.1.1
+- rabbitmq 4.1.2
 
 
 
