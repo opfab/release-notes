@@ -34,6 +34,7 @@
 
 ### Java services 
 
+- commons-lang3 v3.18.0
 - confluent 8.0.0
 - jackson 2.19.1
 - kafka-clients 7.9.2-ce
