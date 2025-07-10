@@ -27,6 +27,7 @@
 - ag-grid 34.0.0
 - angular 19.2.15
 - chart.js v4.5.0
+- fullcalendar v6.1.18
 - ol(openlayer) 10.6.1
   
 ## Backend 
