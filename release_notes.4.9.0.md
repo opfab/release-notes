@@ -8,6 +8,7 @@
 - #8331 : Store last user connection in database
 - #8599 : Improve escapeHtml method and security documentation
 - #8262 : Add entity emitter and recipients in archives filters
+- #8477 : keep header table visible when scrolling for admin and logging screens
 
 # Bug
 
