@@ -7,7 +7,7 @@
 - #8503 : Add an option to update first name and last name from token
 - #8331 : Store last user connection in database
 - #8599 : Improve escapeHtml method and security documentation
-- Add entity emitter and recipients in archives filters
+- #8262 : Add entity emitter and recipients in archives filters
 
 # Bug
 
