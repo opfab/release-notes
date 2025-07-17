@@ -16,6 +16,7 @@
 - #8239 : Custom screens - Sorting takes into account emoticones whereas it should not
 - #8472 : Feed : Process multifilter list not visible
 - #8606 : Export in Excel of a select type value from a custom screen
+- #8625 : Menu with custom screens links does not disappear
 
 # Tasks
 
