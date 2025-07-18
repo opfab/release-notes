@@ -31,7 +31,7 @@
 
 ## Frontend
 
-- ag-grid 34.0.0
+- ag-grid 34.0.2
 - angular 19.2.15
 - chart.js v4.5.0
 - fullcalendar v6.1.18
@@ -45,12 +45,12 @@
 - commons-lang3 3.18.0
 - confluent 8.0.0
 - jackson 2.19.1
-- kafka-clients 7.9.2-ce
+- kafka-clients 8.0.0-ce
 - micrometer-registry-prometheus 1.15.1
 - spring boot v3.5.3
 - spring-kafka 3.3.7
 - spring security 6.5.1
-- spring-webflux 6.2.8
+- spring-webflux 6.2.9
   
 ### Node services
  - axios 1.10.0
