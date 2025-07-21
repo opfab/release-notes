@@ -11,6 +11,7 @@
 - #8477 : keep header table visible when scrolling for admin and logging screens
 - #7951 : Custom screens: change table checkbox style to opfab style
 - #8574 : Set font-size to 24 for question template
+- #8603 : Numerical filtering/sorting in custom screens
 
 # Bug
 
