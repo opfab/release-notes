@@ -13,6 +13,7 @@
 - #8574 : Set font-size to 24 for question template
 - #8603 : Numerical filtering/sorting in custom screens
 - #8646 : Add a UI API method to retrieve child cards for current user
+- #8657 : Remove summary and business date from mail title and mail body
 
 # Bug
 
