@@ -24,6 +24,7 @@
 - #8625 : Menu with custom screens links does not disappear
 - #8637 : Realtime screen - with option onlyDisplayUsersInGroups users with firstname and lastname are not visible
 - #8394 : Set consistant font-size between preview and card detail
+- #8664 : Inconsistency in archives deletion dates
 
 # Tasks
 
