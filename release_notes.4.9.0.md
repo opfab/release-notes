@@ -14,6 +14,7 @@
 - #8603 : Numerical filtering/sorting in custom screens
 - #8646 : Add a UI API method to retrieve child cards for current user
 - #8657 : Remove summary and business date from mail title and mail body
+- #8659 : Geomap : add WMTS support and refacto configuration format
 
 # Bug
 
