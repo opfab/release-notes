@@ -59,7 +59,7 @@
 - spring-webflux 6.2.9
   
 ### Node services
- - axios 1.10.0
+ - axios 1.11.0
  - config 4.0.1
  - mongodb 6.17.0
  - node 22.17.0
