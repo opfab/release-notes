@@ -15,6 +15,7 @@
 - #8646 : Add a UI API method to retrieve child cards for current user
 - #8657 : Remove summary and business date from mail title and mail body
 - #8659 : Geomap : add WMTS support and refacto configuration format
+- #8658 : Add an option to hide card title in mail body
 
 # Bug
 
