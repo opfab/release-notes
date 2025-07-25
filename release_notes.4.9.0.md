@@ -51,7 +51,7 @@
 
 - commons-lang3 3.18.0
 - confluent 8.0.0
-- jackson 2.19.1
+- jackson 2.19.2
 - kafka-clients 8.0.0-ce
 - micrometer-registry-prometheus 1.15.2
 - spring boot v3.5.3
