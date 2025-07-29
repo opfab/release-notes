@@ -20,6 +20,7 @@
 - #8670 : Add action USER in user actions logs
 - #8671 : Add action BUSINESS_CONFIG in user actions logs
 - #8667 : Add card deletion in user actions logs
+- #8260 : Remove monitoring screen
 
 # Bug
 
