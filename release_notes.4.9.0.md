@@ -18,6 +18,7 @@
 - #8658 : Add an option to hide card title in mail body
 - #8655 : Custom screen : add option to set initial business period
 - #8670 : Add action USER in user actions logs
+- #8671 : Add action BUSINESS_CONFIG in user actions logs
 
 # Bug
 
