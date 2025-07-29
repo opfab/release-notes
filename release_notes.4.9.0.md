@@ -16,6 +16,7 @@
 - #8657 : Remove summary and business date from mail title and mail body
 - #8659 : Geomap : add WMTS support and refacto configuration format
 - #8658 : Add an option to hide card title in mail body
+- #8655 : Custom screen : add option to set initial business period
 
 # Bug
 
