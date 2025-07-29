@@ -19,6 +19,7 @@
 - #8655 : Custom screen : add option to set initial business period
 - #8670 : Add action USER in user actions logs
 - #8671 : Add action BUSINESS_CONFIG in user actions logs
+- #8667 : Add card deletion in user actions logs
 
 # Bug
 
