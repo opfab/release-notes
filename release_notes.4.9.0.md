@@ -31,6 +31,7 @@
 - #8637 : Realtime screen - with option onlyDisplayUsersInGroups users with firstname and lastname are not visible
 - #8394 : Set consistant font-size between preview and card detail
 - #8664 : Inconsistency in archives deletion dates
+- #8702 : Translation issue in process monitoring screen
 
 # Tasks
 
