@@ -1,7 +1,7 @@
 
 # Features
 
-- #8245 : Custom screen - buttons shall be grey as soon as response has been send
+- #8245 : Custom screen - buttons shall be grey as soon as response has been sent
 - #8479 : Add style for dropdown menus when selected
 - #8482 : Custom screens - make sorting by severity possible
 - #8503 : Add an option to update first name and last name from token
