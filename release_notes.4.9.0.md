@@ -32,6 +32,7 @@
 - #8394 : Set consistant font-size between preview and card detail
 - #8664 : Inconsistency in archives deletion dates
 - #8702 : Translation issue in process monitoring screen
+- #8703 : Translation issue in custom screen for process status
 
 # Tasks
 
