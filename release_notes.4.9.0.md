@@ -33,6 +33,7 @@
 - #8664 : Inconsistency in archives deletion dates
 - #8702 : Translation issue in process monitoring screen
 - #8703 : Translation issue in custom screen for process status
+- #8708 : CustomScreen : some answer fields are not visible when settings 100 lines per pages 
 
 # Tasks
 
