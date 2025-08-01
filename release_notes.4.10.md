@@ -20,8 +20,10 @@
 
 ### Java services 
 
-- spring boot v3.5.4
-- spring security v6.5.2
+- commons-io 2.20.0
+- spring boot 3.5.4
+- spring security 6.5.2
+
 
   
 ### Node services
