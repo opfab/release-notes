@@ -28,6 +28,7 @@
   
 ### Node services
 
+- config 4.1.0
 
 ## Misc
 
