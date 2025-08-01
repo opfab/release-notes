@@ -21,6 +21,7 @@
 ### Java services 
 
 - commons-io 2.20.0
+- rabbitMQ 5.26.0
 - spring boot 3.5.4
 - spring security 6.5.2
 
