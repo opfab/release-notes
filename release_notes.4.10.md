@@ -13,7 +13,7 @@
 # Dependencies upgrade
 
 ## Frontend
-
+- virtual-select-plugin 1.1.0
 
 ## Backend 
 
