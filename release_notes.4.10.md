@@ -35,7 +35,7 @@
 
 ## Misc
 
-
+- apache.commons-compress 1.28.0
 
 
 
