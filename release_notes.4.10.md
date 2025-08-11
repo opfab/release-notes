@@ -31,6 +31,7 @@
 ### Node services
 
 - config 4.1.0
+- mongodb 6.18.0
 
 ## Misc
 
