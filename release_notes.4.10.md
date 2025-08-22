@@ -33,6 +33,7 @@
 
 - config 4.1.0
 - mongodb 6.18.0
+- types/node 22.17.2
 
 ## Misc
 
