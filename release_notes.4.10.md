@@ -25,6 +25,7 @@
 - micrometer-registry-prometheus 1.15.3
 - rabbitMQ 5.26.0
 - spring boot 3.5.4
+- spring-kafka 3.3.9
 - spring security 6.5.2
 - spring-webflux 6.2.10
 
