@@ -13,6 +13,7 @@
 # Dependencies upgrade
 
 ## Frontend
+- fullcalendar v6.1.19
 - node 22.18.0
 - virtual-select-plugin 1.1.0
 
