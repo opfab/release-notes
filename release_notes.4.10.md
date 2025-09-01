@@ -33,6 +33,7 @@
   
 ### Node services
 
+- amqplib 0.10.9 
 - config 4.1.1
 - mongodb 6.18.0
 - types/node 22.17.2
