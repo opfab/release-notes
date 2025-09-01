@@ -9,6 +9,7 @@
 
 # Tasks
 
+- #8002 : Remove deprecated way of responding to opfab.currentCard.registerFunctionToGetUserResponse
   
 # Dependencies upgrade
 
