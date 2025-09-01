@@ -1,7 +1,7 @@
 
 # Features
 
-- #XXXX : ....
+- #8698 : Cli : Add an error message when trying to remove unexisting supervised entity
 
 # Bug
 
