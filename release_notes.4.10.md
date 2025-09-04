@@ -4,6 +4,7 @@
 - #8698 : Cli : Add an error message when trying to remove unexisting supervised entity
 - #8678 : Process Monitoring Screen : add a panel to filter column list
 - #8797 : Geomap : Add an option to include credentials for WMTS layer
+- #8620 : Improve timeline navigation for past data
 
 # Bug
 
