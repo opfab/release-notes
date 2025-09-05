@@ -28,7 +28,8 @@
 ### Java services 
 
 - commons-io 2.20.0
-- handlebars v4.5.0
+- handlebars 4.5.0
+- json-smart 2.6.0
 - micrometer-registry-prometheus 1.15.3
 - rabbitMQ 5.26.0
 - spring boot 3.5.5 
