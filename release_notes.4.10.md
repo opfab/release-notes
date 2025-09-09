@@ -6,13 +6,16 @@
 - #8797 : Geomap : Add an option to include credentials for WMTS layer
 - #8620 : Improve timeline navigation for past data
 
-# Bug
 
+# Bugs
+
+- #8828 : Impossible to filter on more than one column on process monitoring screen
 
 
 # Tasks
 
 - #8002 : Remove deprecated way of responding to opfab.currentCard.registerFunctionToGetUserResponse
+
   
 # Dependencies upgrade
 
