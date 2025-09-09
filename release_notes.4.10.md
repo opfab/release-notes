@@ -5,6 +5,7 @@
 - #8678 : Process Monitoring Screen : add a panel to filter column list
 - #8797 : Geomap : Add an option to include credentials for WMTS layer
 - #8620 : Improve timeline navigation for past data
+- #8810 : Remove active date range picker in Logging screen
 
 
 # Bugs
