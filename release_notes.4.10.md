@@ -6,6 +6,7 @@
 - #8797 : Geomap : Add an option to include credentials for WMTS layer
 - #8620 : Improve timeline navigation for past data
 - #8810 : Remove active date range picker in Logging screen
+- #8821 : Make unchecked by default checkbox 'cards with response from my entities' for a custom screen
 
 
 # Bugs
