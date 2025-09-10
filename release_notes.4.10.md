@@ -23,8 +23,10 @@
 # Dependencies upgrade
 
 ## Frontend
-- fullcalendar v6.1.19
-- nginx docker v1.29.1
+- angular 20.2.4
+- fullcalendar 6.1.19
+- ng-bootstrap 19.0.1
+- nginx docker 1.29.1
 - node 22.18.0
 - virtual-select-plugin 1.1.0
 
