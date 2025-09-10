@@ -7,6 +7,7 @@
 - #8620 : Improve timeline navigation for past data
 - #8810 : Remove active date range picker in Logging screen
 - #8821 : Make unchecked by default checkbox 'cards with response from my entities' for a custom screen
+- #8707 : Implement set filter in process monitoring
 
 
 # Bugs
