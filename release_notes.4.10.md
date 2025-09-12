@@ -55,7 +55,8 @@
 
 - amqplib 0.10.9 
 - config 4.1.1
-- mongodb 6.19.0 
+- mongodb 6.19.0
+- node.js 22.19.0
 - types/node 22.17.2
 
 ## Misc
