@@ -25,12 +25,13 @@
 
 ## Frontend
 - angular 20.2.4
+- bootstrap 5.3.8
 - fullcalendar 6.1.19
 - ng-bootstrap 19.0.1
 - nginx docker 1.29.1
+- ngx-translate 17.0.0
 - node 22.18.0
 - virtual-select-plugin 1.1.0
-- ngx-translate 17.0.0
 
 ## Backend 
 
