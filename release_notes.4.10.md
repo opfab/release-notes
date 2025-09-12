@@ -30,6 +30,7 @@
 - nginx docker 1.29.1
 - node 22.18.0
 - virtual-select-plugin 1.1.0
+- ngx-translate 17.0.0
 
 ## Backend 
 
