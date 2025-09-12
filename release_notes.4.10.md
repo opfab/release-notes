@@ -27,6 +27,7 @@
 - angular 20.2.4
 - bootstrap 5.3.8
 - fullcalendar 6.1.19
+- jasmine 5.1.9
 - ng-bootstrap 19.0.1
 - nginx docker 1.29.1
 - ngx-translate 17.0.0
