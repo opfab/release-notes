@@ -59,7 +59,7 @@
 - config 4.1.1
 - mongodb 6.19.0
 - node.js 22.19.0
-- types/node 22.17.2
+- types/node 22.18.3
 
 ## Misc
 
