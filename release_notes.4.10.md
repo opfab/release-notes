@@ -48,7 +48,7 @@
 - spring boot 3.5.5 
 - spring-kafka 3.3.9
 - spring security 6.5.3 
-- spring-webflux 6.2.10
+- spring-webflux 6.2.11
 
 
   
