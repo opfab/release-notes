@@ -66,7 +66,7 @@
 - apache.commons-text 1.14.0
 - mongo 7.0.24
 - rabbitmq Docker v4.1.4 
-- swagger-ui 5.27.1
+- swagger-ui 5.28.1
 
 
 
