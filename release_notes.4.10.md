@@ -27,7 +27,7 @@
 ## Frontend
 
 - ag-grid 34.2.0
-- angular 20.2.4
+- angular 20.3.0
 - bootstrap 5.3.8
 - fullcalendar 6.1.19
 - jasmine 5.1.9
@@ -44,8 +44,9 @@
 
 - commons-io 2.20.0
 - handlebars 4.5.0
+- jackson 2.20.0
 - json-smart 2.6.0
-- micrometer-registry-prometheus 1.15.3
+- micrometer-registry-prometheus 1.15.4
 - rabbitMQ 5.26.0
 - spring boot 3.5.5 
 - spring-kafka 3.3.9
