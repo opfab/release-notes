@@ -14,6 +14,7 @@
 # Bugs
 
 - #8828 : Impossible to filter on more than one column on process monitoring screen
+- #8712 : Built in template task : should not be possibe to set empty time
 
 
 # Tasks
