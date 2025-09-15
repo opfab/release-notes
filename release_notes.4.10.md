@@ -25,6 +25,8 @@
 # Dependencies upgrade
 
 ## Frontend
+
+- ag-grid 34.2.0
 - angular 20.2.4
 - bootstrap 5.3.8
 - fullcalendar 6.1.19
