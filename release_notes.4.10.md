@@ -30,6 +30,7 @@
 - ag-grid 34.2.0
 - angular 20.3.0
 - bootstrap 5.3.8
+- fortawesome/fontawesome-free 7.0.1
 - fullcalendar 6.1.19
 - jasmine 5.1.9
 - ng-bootstrap 19.0.1
