@@ -59,7 +59,7 @@
 ### Node services
 
 - amqplib 0.10.9
-- axios 1.12.0
+- axios 1.12.2
 - config 4.1.1
 - globals 16.4.0
 - mongodb 6.19.0
