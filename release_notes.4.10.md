@@ -21,6 +21,7 @@
 # Tasks
 
 - #8002 : Remove deprecated way of responding to opfab.currentCard.registerFunctionToGetUserResponse
+- #8899 : Remove default rabbit password from services
 
   
 # Dependencies upgrade
