@@ -53,7 +53,7 @@
 - rabbitMQ 5.26.0
 - spring boot 3.5.6
 - spring-kafka 3.3.10
-- spring security 6.5.3 
+- spring security 6.5.5
 - spring-webflux 6.2.11
 
 
