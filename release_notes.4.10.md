@@ -38,6 +38,7 @@
 - nginx docker 1.29.1
 - ngx-translate 17.0.0
 - node 22.18.0
+- typescript 5.9.2
 - virtual-select-plugin 1.1.0
 
 ## Backend 
