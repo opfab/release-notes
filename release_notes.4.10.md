@@ -67,7 +67,7 @@
 - mongodb 6.19.0
 - node.js 22.19.0
 - typescript 5.9.2
-- types/node 22.18.5
+- types/node 22.18.6
 
 ## Misc
 
