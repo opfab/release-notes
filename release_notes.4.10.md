@@ -66,7 +66,7 @@
 - axios 1.12.2
 - config 4.1.1
 - globals 16.4.0
-- mongodb 6.19.0
+- mongodb 6.20.0
 - node.js 22.19.0
 - typescript 5.9.2
 - types/node 22.18.6
