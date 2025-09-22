@@ -12,10 +12,12 @@
 - #8713 : User actions log : replace the two date pickers with a date range picker
 
 
+
 # Bugs
 
 - #8828 : Impossible to filter on more than one column on process monitoring screen
 - #8712 : Built in template task : should not be possibe to set empty time
+- #8902 : Wrong display on activity area screen when user is member of an entity having two parents with one not an activity area group
 
 
 # Tasks
