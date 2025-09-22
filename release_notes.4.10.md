@@ -47,6 +47,7 @@
 ### Java services 
 
 - commons-io 2.20.0
+- guava 33.5.0-jre
 - handlebars 4.5.0
 - jackson 2.20.0
 - json-smart 2.6.0
