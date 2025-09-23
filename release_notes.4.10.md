@@ -48,7 +48,9 @@
 
 ### Java services 
 
+- commons-compress 1.28.0
 - commons-io 2.20.0
+- commons-text 1.14.0
 - guava 33.5.0-jre
 - handlebars 4.5.0
 - jackson 2.20.0
@@ -81,11 +83,8 @@
 
 ## Misc
 
-- apache.commons-compress 1.28.0
-- apache.commons-text 1.14.0
 - mongo 7.0.24
 - rabbitmq Docker v4.1.4 
-- swagger-ui 5.28.1
 
 
 
