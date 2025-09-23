@@ -73,6 +73,11 @@
 - typescript 5.9.2
 - types/node 22.18.6
 
+## Command Line Interface (CLI)
+
+- tar: 7.4.
+
+
 ## Misc
 
 - apache.commons-compress 1.28.0
