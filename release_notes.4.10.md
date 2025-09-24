@@ -10,6 +10,7 @@
 - #8707 : Implement set filter in process monitoring
 - #8811 : Change label to 'Send email on card reception' on settings screen
 - #8713 : User actions log : replace the two date pickers with a date range picker
+- #8932 : Using JSON5 instead of JSON format for CLI (permit to have comments in json files)
 
 
 
