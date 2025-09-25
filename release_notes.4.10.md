@@ -32,7 +32,7 @@
 ## Frontend
 
 - ag-grid 34.2.0
-- angular 20.3.1
+- angular 20.3.2
 - bootstrap 5.3.8
 - fortawesome/fontawesome-free 7.0.1
 - fullcalendar 6.1.19
