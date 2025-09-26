@@ -79,14 +79,14 @@
 - jsdom 27.0.0
 - mongodb 6.20.0
 - nodemailer 7.0.6
-- node.js 22.19.0
+- node.js 22.20.0
 - typescript 5.9.2
 - types/node 22.18.6
 
 ## Command Line Interface (CLI)
 
 - tar: 7.5.1
-
+- node.js 22.20.0
 
 ## Misc
 
