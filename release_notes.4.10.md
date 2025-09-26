@@ -12,6 +12,7 @@
 - #8713 : User actions log : replace the two date pickers with a date range picker
 - #8932 : Using JSON5 instead of JSON format for CLI (permit to have comments in json files)
 - #8923 : Dates in e-mail recaps - Reception date instead of period
+- #8830 : Add ArcGIS and Lambert93 Support to OpFab GeoMap
 
 
 # Bugs
