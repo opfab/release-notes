@@ -83,7 +83,7 @@
 
 ## Command Line Interface (CLI)
 
-- tar: 7.4.4
+- tar: 7.5.1
 
 
 ## Misc
