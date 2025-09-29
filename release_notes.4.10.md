@@ -51,12 +51,11 @@
 
 ### Java services 
 
-
-
 - commons-compress 1.28.0
 - commons-io 2.20.0
 - commons-lang3 3.19.0
 - commons-text 1.14.0
+- confluent 8.0.1
 - guava 33.5.0-jre
 - handlebars 4.5.0
 - jackson 2.20.0
