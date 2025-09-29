@@ -61,6 +61,7 @@
 - handlebars 4.5.0
 - jackson 2.20.0
 - json-smart 2.6.0
+- kafka-clients 8.0.1-ce
 - micrometer-registry-prometheus 1.15.4
 - rabbitMQ 5.26.0
 - spring boot 3.5.6
