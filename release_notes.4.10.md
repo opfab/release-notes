@@ -73,6 +73,7 @@
   
 ### Node services
 
+- amqp-connection-manager 4.1.15
 - amqplib 0.10.9
 - axios 1.12.2
 - config 4.1.1
