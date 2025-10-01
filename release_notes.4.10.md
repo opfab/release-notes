@@ -15,6 +15,7 @@
 - #8830 : Add ArcGIS and Lambert93 Support to OpFab GeoMap
 - #8937 : Custom screen : add a number array column type
 - #8953 : Custom screen : add a period array column type
+- #8964 : Add table formatting for emails in plain text
 
 
 # Bugs
