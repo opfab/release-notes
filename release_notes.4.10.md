@@ -17,6 +17,7 @@
 - #8953 : Custom screen : add a period array column type
 - #8964 : Add table formatting for emails in plain text
 - #8917 : Permit to load custom handlebars helpers for emails
+- #8709 : Use scroll bar in rich text editor for build in template message (#8709)
 
 
 # Bugs
