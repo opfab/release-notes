@@ -54,7 +54,6 @@ Misc :
 - bootstrap 5.3.8
 - fortawesome/fontawesome-free 7.0.1
 - fullcalendar 6.1.19
-- jasmine 5.1.9
 - ng-bootstrap 19.0.1
 - nginx docker 1.29.1
 - ngx-translate 17.0.0
@@ -84,7 +83,6 @@ Misc :
 - spring security 6.5.5
 - spring-webflux 6.2.11
 
-
   
 ### Node services
 
@@ -98,7 +96,6 @@ Misc :
 - nodemailer 7.0.6
 - node.js 22.20.0
 - typescript 5.9.2
-- types/node 22.18.6
 
 ## Command Line Interface (CLI)
 
