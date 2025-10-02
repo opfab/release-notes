@@ -1,22 +1,33 @@
 
 # Features
 
-- #8698 : Cli : Add an error message when trying to remove unexisting supervised entity
-- #8678 : Process Monitoring Screen : add a panel to filter column list
-- #8797 : Geomap : Add an option to include credentials for WMTS layer
+Process Monitoring Screen : 
+  - #8678 : Add a panel to filter column list
+  - #8707 : Implement set filter
+
+Custom Screen : 
+  - #8937 : Add a number array column type
+  - #8953 : Add a period array column type
+  - #8821 : Make unchecked by default checkbox 'cards with response from my entities'
+
+Emails : 
+  - #8917 : Permit to load custom handlebars helpers
+  - #8923 : Dates in e-mail recaps - Reception date instead of period
+  - #8964 : Add table formatting for emails in plain text
+  - #8811 : Change label to 'Send email on card reception' on settings screen
+
+Geomap : 
+  - #8797 : Add an option to include credentials for WMTS layer
+  - #8830 : Add ArcGIS and Lambert93 Support
+
+Command Line Interface (CLI) :
+  - #8698 : Add an error message when trying to remove unexisting supervised entity
+  - #8932 : Using JSON5 instead of JSON format (permit to have comments in json files)
+
+Misc : 
 - #8620 : Improve timeline navigation for past data
 - #8810 : Remove active date range picker in Logging screen
-- #8821 : Make unchecked by default checkbox 'cards with response from my entities' for a custom screen
-- #8707 : Implement set filter in process monitoring
-- #8811 : Change label to 'Send email on card reception' on settings screen
 - #8713 : User actions log : replace the two date pickers with a date range picker
-- #8932 : Using JSON5 instead of JSON format for CLI (permit to have comments in json files)
-- #8923 : Dates in e-mail recaps - Reception date instead of period
-- #8830 : Add ArcGIS and Lambert93 Support to OpFab GeoMap
-- #8937 : Custom screen : add a number array column type
-- #8953 : Custom screen : add a period array column type
-- #8964 : Add table formatting for emails in plain text
-- #8917 : Permit to load custom handlebars helpers for emails
 - #8709 : Use scroll bar in rich text editor for build in template message
 
 
@@ -96,7 +107,6 @@
 
 ## Misc
 
-- mongo 7.0.24
 - rabbitmq Docker v4.1.4 
 
 
