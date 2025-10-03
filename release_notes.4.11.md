@@ -20,6 +20,7 @@
   
 ### Node services
 
+- winston 3.18.3
 
 
 ## Command Line Interface (CLI)
