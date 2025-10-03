@@ -12,6 +12,8 @@
 
 ## Frontend
 
+- fortawesome/fontawesome-free 7.1.0
+
 ## Backend 
 
 
