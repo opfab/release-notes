@@ -12,6 +12,7 @@
 
 ## Frontend
 
+- angular 20.3.3
 - fortawesome/fontawesome-free 7.1.0
 
 ## Backend 
