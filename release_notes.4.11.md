@@ -22,6 +22,7 @@
   
 ### Node services
 
+- typescript 5.9.3
 - winston 3.18.3
 
 
