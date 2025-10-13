@@ -24,6 +24,7 @@
 ### Java services 
 
 - confluent 8.0.2
+- kafka-clients 8.0.2-ce
 
   
 ### Node services
