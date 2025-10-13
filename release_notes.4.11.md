@@ -12,6 +12,7 @@
 # Tasks
 
 - #9014 : Add new api documentation based on openapi V3
+- #9015 : Remove client library
 
   
 # Dependencies upgrade
