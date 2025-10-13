@@ -3,12 +3,15 @@
 
 - #8979 : Display of firstname even if lastname is empty (and vice versa)
 
+
 # Bugs
 
 - #9034 : Too much messages USER_CONFIG_CHANGE received by front
 
 
 # Tasks
+
+- #9014 : Add new api documentation based on openapi V3
 
   
 # Dependencies upgrade
