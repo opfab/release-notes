@@ -23,6 +23,8 @@
 
 ### Java services 
 
+- confluent 8.0.2
+
   
 ### Node services
 
