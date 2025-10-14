@@ -6,8 +6,6 @@
 
 # Bugs
 
-- #9034 : Too much messages USER_CONFIG_CHANGE received by front
-
 
 # Tasks
 
