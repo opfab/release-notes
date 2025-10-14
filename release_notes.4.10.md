@@ -38,6 +38,7 @@ Misc :
 - #8902 : Wrong display on activity area screen when user is member of an entity having two parents with one not an activity area group
 - #8943 : Custom Screen : no translation for tooltip "has response from your entity"
 - #8980 : Process monitoring - table filter shall be reset when switching on geographical map
+- #9034 : Too much messages USER_CONFIG_CHANGE received by front
 
 
 # Tasks
