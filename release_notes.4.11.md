@@ -27,6 +27,7 @@
 
 - confluent 8.0.2
 - kafka-clients 8.0.2-ce
+- micrometer-registry-prometheus 1.15.5
 
   
 ### Node services
