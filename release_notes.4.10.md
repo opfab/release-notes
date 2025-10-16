@@ -39,6 +39,7 @@ Misc :
 - #8943 : Custom Screen : no translation for tooltip "has response from your entity"
 - #8980 : Process monitoring - table filter shall be reset when switching on geographical map
 - #9034 : Too much messages USER_CONFIG_CHANGE received by front
+- #9071 : Handlebars helper 'dateFormat' in card external diffusion does not take into account timezone
 
 
 # Tasks
