@@ -2,7 +2,8 @@
 # Features
 
 - #8979 : Display of firstname even if lastname is empty (and vice versa)
-- #8987 : Custom screen : add acknowledgment column title for export 
+- #8987 : Custom screen : add acknowledgment column title for export
+- #8695 : Add an attachment option for email sent
 
 # Bugs
 
