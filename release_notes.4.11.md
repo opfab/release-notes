@@ -25,7 +25,7 @@
 
 
 ### Java services 
-
+- avro v1.12.1
 - confluent 8.0.2
 - kafka-clients 8.0.2-ce
 - micrometer-registry-prometheus 1.15.5
