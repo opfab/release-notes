@@ -6,6 +6,7 @@
 
 # Bugs
 
+- #9071 : Handlebars helper 'dateFormat' in card external diffusion does not take into account timezone
 
 # Tasks
 
