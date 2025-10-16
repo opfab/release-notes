@@ -6,8 +6,6 @@
 
 # Bugs
 
-- #9071 : Handlebars helper 'dateFormat' in card external diffusion does not take into account timezone
-
 # Tasks
 
 - #9014 : Add new api documentation based on openapi V3
