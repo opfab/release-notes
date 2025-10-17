@@ -29,6 +29,7 @@
 - confluent 8.1.0
 - kafka-clients 8.0.2-ce
 - micrometer-registry-prometheus 1.15.5
+- spring-webflux 6.2.12
 
   
 ### Node services
