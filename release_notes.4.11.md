@@ -17,7 +17,7 @@
 
 ## Frontend
 
-- angular 20.3.5
+- angular 20.3.6
 - chart.js 4.5.1
 - fortawesome/fontawesome-free 7.1.0
 
