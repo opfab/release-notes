@@ -25,6 +25,7 @@
 
 
 ### Java services 
+- amqp-client v5.27.0
 - avro v1.12.1
 - confluent 8.1.0
 - kafka-clients 8.0.2-ce
