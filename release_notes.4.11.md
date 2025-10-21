@@ -28,8 +28,8 @@
 - amqp-client v5.27.0
 - avro v1.12.1
 - confluent 8.1.0
-- kafka-clients 8.0.2-ce
 - micrometer-registry-prometheus 1.15.5
+- spring security v6.5.6
 - spring-webflux 6.2.12
 
   
