@@ -7,10 +7,13 @@
 
 # Bugs
 
+- #9027 Solve issue if ack list is too long by adding a vertical scroll bar
+
 # Tasks
 
 - #9014 : Add new api documentation based on openapi V3
 - #9015 : Remove client library
+
 
   
 # Dependencies upgrade
