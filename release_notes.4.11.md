@@ -43,7 +43,7 @@
 - amqp-connection-manager v5
 - axios v1.13.1 
 - nodemailer 7.0.10 
-- node.js 22.21.0 
+- node.js 24.11.0 
 - typescript 5.9.3
 - winston 3.18.3
 
