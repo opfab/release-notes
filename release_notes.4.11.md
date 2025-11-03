@@ -54,7 +54,7 @@
 
 ## Misc
 
-
+- rabbitmq v4.2.0 
 
 
 
