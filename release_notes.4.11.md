@@ -41,14 +41,15 @@
 
 - amqp-connection-manager v5
 - nodemailer 7.0.10 
-- node.js to 22.21.0 
+- node.js 22.21.0 
 - typescript 5.9.3
 - winston 3.18.3
 
 
 ## Command Line Interface (CLI)
 
-- node.js to 22.21.0 
+- node.js 22.21.0
+- tar v7.5.2 
 
 ## Misc
 
