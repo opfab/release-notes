@@ -9,6 +9,7 @@
 # Bugs
 
 - #9027 Solve issue if ack list is too long by adding a vertical scroll bar
+- #8909 : Admin screen : id of group exceeds the width of its column sometimes
 
 # Tasks
 
