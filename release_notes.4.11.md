@@ -35,7 +35,7 @@
 - avro 1.12.1
 - confluent 8.1.0
 - jackson 2.20.1
-- micrometer-registry-prometheus 1.15.5
+- micrometer-registry-prometheus 1.16.0
 - spring boot to 3.5.7
 - spring security 6.5.6
 - spring-webflux 6.2.12
