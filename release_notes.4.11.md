@@ -34,6 +34,7 @@
 - amqp-client v5.27.0
 - avro v1.12.1
 - confluent 8.1.0
+- jackson 2.20.1
 - micrometer-registry-prometheus 1.15.5
 - spring boot to 3.5.7
 - spring security v6.5.6
