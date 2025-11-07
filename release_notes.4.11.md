@@ -43,8 +43,8 @@
   
 ### Node services
 
-- amqp-connection-manager v5
-- axios v1.13.1 
+- amqp-connection-manager 5
+- axios 1.13.2
 - nodemailer 7.0.10 
 - node.js 24.11.0 
 - typescript 5.9.3
