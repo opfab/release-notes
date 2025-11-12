@@ -26,6 +26,7 @@
 - angular 20.3.10
 - chart.js 4.5.1
 - fortawesome/fontawesome-free 7.1.0
+- mongodb 7
 - ol(openlayer) 10.7.0
 
 ## Backend 
