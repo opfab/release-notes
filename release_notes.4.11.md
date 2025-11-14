@@ -42,7 +42,7 @@
 - micrometer-registry-prometheus 1.16.0
 - spring boot to 3.5.7
 - spring security 6.5.6
-- spring-webflux 6.2.12
+- spring-webflux 6.2.13
 
   
 ### Node services
