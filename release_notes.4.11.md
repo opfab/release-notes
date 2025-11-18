@@ -51,7 +51,7 @@
 - axios 1.13.2
 - js-yaml 4.1.1
 - nodemailer 7.0.10 
-- node.js 24.11.0 
+- node.js 24.11.1
 - typescript 5.9.3
 - winston 3.18.3
 
@@ -59,7 +59,7 @@
 ## Command Line Interface (CLI)
 
 - node.js 22.21.0
-- tar v7.5.2 
+- tar 7.5.2 
 
 ## Misc
 
