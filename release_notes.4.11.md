@@ -24,7 +24,7 @@
 ## Frontend
 
 - ag-grid 34.3.1
-- angular 20.3.10
+- angular 20.3.11
 - chart.js 4.5.1
 - fortawesome/fontawesome-free 7.1.0
 - mongodb 7
