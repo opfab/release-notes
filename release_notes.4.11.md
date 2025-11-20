@@ -38,6 +38,7 @@
 - amqp-client 5.27.1
 - avro 1.12.1
 - commons-io 2.21.0
+- commons-lang3 3.20.0
 - confluent 8.1.0
 - jackson 2.20.1
 - micrometer-registry-prometheus 1.16.0
