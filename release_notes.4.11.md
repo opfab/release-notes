@@ -43,6 +43,7 @@
 - jackson 2.20.1
 - micrometer-registry-prometheus 1.16.0
 - spring boot to 3.5.7
+- spring-kafka 3.3.11
 - spring security 6.5.6
 - spring-webflux 7.0.0
 
