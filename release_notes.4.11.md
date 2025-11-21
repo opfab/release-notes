@@ -56,6 +56,7 @@
 - js-yaml 4.1.1
 - nodemailer 7.0.10 
 - node.js 24.11.1
+- rimraf 6.1.2
 - typescript 5.9.3
 - winston 3.18.3
 
