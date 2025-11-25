@@ -12,6 +12,7 @@
 - #8909 : Admin screen : id of group exceeds the width of its column sometimes
 - #9186 : Do not show tooltip if tooltip content is empty
 - #9235 : Missing parent entity prevents card acknowledgment
+- #8989 : Custom screen : warnings when displaying custom screen
 
 # Tasks
 
