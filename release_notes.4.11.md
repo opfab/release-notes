@@ -55,7 +55,7 @@
 - amqp-connection-manager 5
 - axios 1.13.2
 - js-yaml 4.1.1
-- nodemailer 7.0.10 
+- nodemailer 7.0.11 
 - node.js 24.11.1
 - rimraf 6.1.2
 - typescript 5.9.3
