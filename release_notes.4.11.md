@@ -9,11 +9,12 @@
 
 # Bugs
 
-- #9027 Solve issue if ack list is too long by adding a vertical scroll bar
+- #9027 : Solve issue if ack list is too long by adding a vertical scroll bar
 - #8909 : Admin screen : id of group exceeds the width of its column sometimes
 - #9186 : Do not show tooltip if tooltip content is empty
 - #9235 : Missing parent entity prevents card acknowledgment
 - #8989 : Custom screen : warnings when displaying custom screen
+- #9303 : Realtime screen : popup positioning error
 
 # Tasks
 
