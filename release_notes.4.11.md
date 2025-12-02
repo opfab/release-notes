@@ -6,6 +6,7 @@
 - #8695 : Add an attachment option for email sent
 - #9155 : For accessiblity, add the possiblity to validate activity area via return key
 - #9278 : Add email field to user admin interface
+- #9309 : Permit template to provide a destroy method
 
 # Bugs
 
