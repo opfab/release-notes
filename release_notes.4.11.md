@@ -45,6 +45,7 @@
 - commons-io 2.21.0
 - commons-lang3 3.20.0
 - confluent 8.1.1
+- kafka-clients 8.1.1-ce
 - jackson 2.20.1
 - micrometer-registry-prometheus 1.16.0
 - spring boot to 3.5.8
