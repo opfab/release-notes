@@ -44,6 +44,7 @@
 - avro 1.12.1
 - commons-io 2.21.0
 - commons-lang3 3.20.0
+- commons-text 1.15.0 
 - confluent 8.1.1
 - kafka-clients 8.1.1-ce
 - jackson 2.20.1
