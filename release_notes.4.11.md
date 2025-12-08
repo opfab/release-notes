@@ -40,7 +40,7 @@
 
 
 ### Java services 
-- amqp-client 5.27.1
+- amqp-client 5.28.0
 - avro 1.12.1
 - commons-io 2.21.0
 - commons-lang3 3.20.0
