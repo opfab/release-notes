@@ -21,8 +21,7 @@
 
 - #9014 : Add new api documentation based on openapi V3
 - #9015 : Remove client library
-
-
+- #9345 : Rename docker names for consistency
   
 # Dependencies upgrade
 
@@ -50,7 +49,7 @@
 - jackson 2.20.1
 - micrometer-registry-prometheus 1.16.0
 - spring boot to 3.5.8
-- spring-kafka 4.0.0
+- spring-kafka 3.3.11
 - spring security 6.5.7
 - spring-webflux 7.0.1
 
