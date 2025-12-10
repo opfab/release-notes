@@ -47,7 +47,7 @@
 - confluent 8.1.1
 - kafka-clients 8.1.1-ce
 - jackson 2.20.1
-- micrometer-registry-prometheus 1.16.0
+- micrometer-registry-prometheus 1.16.1
 - spring boot to 3.5.8
 - spring-kafka 3.3.11
 - spring security 6.5.7
