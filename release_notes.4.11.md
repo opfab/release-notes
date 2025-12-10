@@ -64,7 +64,7 @@
 - node.js 24.11.1
 - rimraf 6.1.2
 - typescript 5.9.3
-- winston 3.18.3
+- winston 3.19.0
 
 
 ## Command Line Interface (CLI)
