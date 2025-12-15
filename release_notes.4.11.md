@@ -7,6 +7,7 @@
 - #9155 : For accessiblity, add the possiblity to validate activity area via return key
 - #9278 : Add email field to user admin interface
 - #9309 : Permit template to provide a destroy method
+- #9358 : Usercard : use entity description for searching in multi-select
 
 # Bugs
 
