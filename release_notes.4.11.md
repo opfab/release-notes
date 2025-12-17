@@ -8,6 +8,7 @@
 - #9278 : Add email field to user admin interface
 - #9309 : Permit template to provide a destroy method
 - #9358 : Usercard : use entity description for searching in multi-select
+- #9319 : Move state parameter emailBodyTemplate to email.bodyTemplate
 
 # Bugs
 
