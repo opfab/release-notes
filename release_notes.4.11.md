@@ -64,7 +64,7 @@
 - express 5.2.1
 - js-yaml 4.1.1
 - nodemailer 7.0.11 
-- node.js 24.11.1
+- node.js 24.12.0
 - rimraf 6.1.2
 - typescript 5.9.3
 - winston 3.19.0
