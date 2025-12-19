@@ -9,6 +9,7 @@
 - #9309 : Permit template to provide a destroy method
 - #9358 : Usercard : use entity description for searching in multi-select
 - #9319 : Move state parameter emailBodyTemplate to email.bodyTemplate
+- #9381 : Allow hiding connected users in the activity area screen
 
 # Bugs
 
