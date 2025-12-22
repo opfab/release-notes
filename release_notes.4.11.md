@@ -79,5 +79,5 @@
 
 ## Misc
 
-- rabbitmq 4.2.1
+- rabbitmq 4.2.2
 
