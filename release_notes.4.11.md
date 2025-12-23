@@ -66,7 +66,7 @@
 - axios 1.13.2
 - express 5.2.1
 - js-yaml 4.1.1
-- nodemailer 7.0.11 
+- nodemailer 7.0.12 
 - node.js 24.12.0
 - rimraf 6.1.2
 - typescript 5.9.3
