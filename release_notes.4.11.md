@@ -26,6 +26,7 @@
 - #9014 : Add new api documentation based on openapi V3
 - #9015 : Remove client library
 - #9345 : Rename docker names for consistency
+- #9382 : Move selectActivityAreaOnLogin web-ui param in activityArea
   
 # Dependencies upgrade
 
