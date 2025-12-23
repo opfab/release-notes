@@ -41,6 +41,7 @@
 - mongodb 7
 - ol(openlayer) 10.7.0
 - proj4 2.20.2
+- zone.js 0.16.0
 
 ## Backend 
 
