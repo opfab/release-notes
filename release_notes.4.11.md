@@ -11,6 +11,7 @@
 - #9319 : Move state parameter emailBodyTemplate to email.bodyTemplate
 - #9381 : Allow hiding connected users in the activity area screen
 - #9277 : Do not set email in the settings
+- #9281 : Add an option to hide body prefix and postfix for mail per process/state
 
 # Bugs
 
