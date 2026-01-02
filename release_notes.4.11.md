@@ -68,6 +68,7 @@
 - amqp-connection-manager 5
 - axios 1.13.2
 - express 5.2.1
+- globals 17.0.0
 - js-yaml 4.1.1
 - nodemailer 7.0.12 
 - node.js 24.12.0
