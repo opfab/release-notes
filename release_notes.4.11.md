@@ -16,6 +16,8 @@
 - #9387 : Opfab cli : add a delete bundle by version method
 - #9388 : Process montoring screen : set column width with pixel instead of relative numbers
 - #9386 : Process Monitoring screen : export only visible columns
+- #9385 : Process monitoring screen : permit user to set column width
+  
 # Bugs
 
 - #9027 : Solve issue if ack list is too long by adding a vertical scroll bar
