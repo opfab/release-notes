@@ -15,6 +15,7 @@
 - #9283 : Add an option to set a sender for mail per process/state
 - #9387 : Opfab cli : add a delete bundle by version method
 - #9388 : Process montoring screen : set column width with pixel instead of relative numbers
+- #9386 : Process Monitoring screen : export only visible columns
 # Bugs
 
 - #9027 : Solve issue if ack list is too long by adding a vertical scroll bar
