@@ -13,6 +13,7 @@
 - #9277 : Do not set email in the settings
 - #9281 : Add an option to hide body prefix and postfix for mail per process/state
 - #9283 : Add an option to set a sender for mail per process/state
+- #9387 : Opfab cli : add a delete bundle by version method
 # Bugs
 
 - #9027 : Solve issue if ack list is too long by adding a vertical scroll bar
