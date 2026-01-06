@@ -17,6 +17,7 @@
 - #9388 : Process montoring screen : set column width with pixel instead of relative numbers
 - #9386 : Process Monitoring screen : export only visible columns
 - #9385 : Process monitoring screen : permit user to set column width
+- #9383 : Delete user settings when deleted user
   
 # Bugs
 
