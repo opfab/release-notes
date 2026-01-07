@@ -18,6 +18,8 @@
 - #9386 : Process Monitoring screen : export only visible columns
 - #9385 : Process monitoring screen : permit user to set column width
 - #9383 : Delete user settings when deleted user
+- #9367 : Hide card reponse header if no entity allowed to respond
+  
   
 # Bugs
 
