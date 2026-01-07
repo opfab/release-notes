@@ -30,6 +30,7 @@
 - #9235 : Missing parent entity prevents card acknowledgment
 - #8989 : Custom screen : warnings when displaying custom screen
 - #9303 : Realtime screen : popup positioning error
+- #9408 : Calendar - slot in agenda are not correctly style for week and day mode
 
 # Tasks
 
