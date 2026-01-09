@@ -20,6 +20,7 @@
 - #9383 : Delete user settings when deleted user
 - #9367 : Hide card reponse header if no entity allowed to respond
 - #9351 : Add a frontend api method to listen for business data files updates
+- #9384 : Process monitoring screen : memorize column width and position
   
   
 # Bugs
