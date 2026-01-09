@@ -39,6 +39,7 @@
 - #9015 : Remove client library
 - #9345 : Rename docker names for consistency
 - #9382 : Move selectActivityAreaOnLogin web-ui param in activityArea
+- #9188 : Implement code flow with angular oidc lib
   
 # Dependencies upgrade
 
