@@ -46,7 +46,7 @@
 ## Frontend
 
 - ag-grid 35.0.0
-- angular 21.0.7
+- angular 21.0.8
 - chart.js 4.5.1
 - fortawesome/fontawesome-free 7.1.0
 - fullcalendar 6.1.20
