@@ -10,7 +10,6 @@
 - #9358 : Usercard : use entity description for searching in multi-select
 - #9319 : Move state parameter emailBodyTemplate to email.bodyTemplate
 - #9381 : Allow hiding connected users in the activity area screen
-- #9277 : Do not set email in the settings
 - #9281 : Add an option to hide body prefix and postfix for mail per process/state
 - #9283 : Add an option to set a sender for mail per process/state
 - #9387 : Opfab cli : add a delete bundle by version method
