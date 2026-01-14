@@ -22,6 +22,7 @@
 - #9384 : Process monitoring screen : memorize column width and position
 - #9282 : Add an option to set a title for mail per process/state
 - #9439 : Process Monitoring - Preserve column order for export
+- #9450 : Add a get settings method for opfab cli
   
   
 # Bugs
