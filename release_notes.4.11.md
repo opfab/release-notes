@@ -34,6 +34,7 @@
 - #8989 : Custom screen : warnings when displaying custom screen
 - #9303 : Realtime screen : popup positioning error
 - #9408 : Calendar - slot in agenda are not correctly style for week and day mode
+- #9462 : Processus Monitoring - impossible to use nested field in data for card table
 
 # Tasks
 
