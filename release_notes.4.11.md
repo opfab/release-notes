@@ -24,6 +24,7 @@
 - #9439 : Process Monitoring - Preserve column order for export
 - #9450 : Add a get settings method for opfab cli
 - #9451 : Add a patch settings method for opfab cli
+- #8696 : Add the possibility for the admin to edit user settings 
   
   
 # Bugs
