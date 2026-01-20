@@ -37,6 +37,7 @@
 - #9303 : Realtime screen : popup positioning error
 - #9408 : Calendar - slot in agenda are not correctly style for week and day mode
 - #9462 : Processus Monitoring - impossible to use nested field in data for card table
+- #9467 : Archives : Duplicate entites in emitter or recipients
 
 # Tasks
 
