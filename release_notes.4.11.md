@@ -96,8 +96,7 @@
 ## Command Line Interface (CLI)
 
 - node.js 22.21.0
-- tar 7.5.2 
-
+- tar 7.5.3
 ## Misc
 
 - rabbitmq 4.2.2
