@@ -78,7 +78,7 @@
 - spring boot 3.5.9
 - spring-kafka 3.3.12
 - spring security 6.5.7
-- spring-webflux 7.0.2
+- spring-webflux 7.0.3
 
   
 ### Node services
