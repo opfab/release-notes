@@ -73,7 +73,7 @@
 - commons-text 1.15.0 
 - confluent 8.1.1
 - kafka-clients 8.1.1-ce
-- jackson 2.20.1
+- jackson 2.21.0
 - micrometer-registry-prometheus 1.16.2
 - spring boot 3.5.9
 - spring-kafka 3.3.12
