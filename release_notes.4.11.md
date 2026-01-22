@@ -85,6 +85,7 @@
 
 - amqp-connection-manager 5
 - axios 1.13.2
+- config 4.2.0
 - express 5.2.1
 - globals 17.0.0
 - js-yaml 4.1.1
