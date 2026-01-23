@@ -107,5 +107,7 @@
   
 ## Misc
 
+- rabbitmq 4.2.3
+
 - rabbitmq 4.2.2
 
