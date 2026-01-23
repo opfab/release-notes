@@ -56,6 +56,7 @@
 - chart.js 4.5.1
 - fortawesome/fontawesome-free 7.1.0
 - fullcalendar 6.1.20
+- lodash-es 4.17.23
 - mongodb 7
 - ol(openlayer) 10.7.0
 - proj4 2.20.2
