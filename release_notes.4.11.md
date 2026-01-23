@@ -101,7 +101,7 @@
 
 ## Command Line Interface (CLI)
 
-- node.js 22.21.0
+- node.js 24.13.0
 - tar 7.5.4
 
   
