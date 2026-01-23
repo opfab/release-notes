@@ -76,7 +76,7 @@
 - kafka-clients 8.1.1-ce
 - jackson 2.21.0
 - micrometer-registry-prometheus 1.16.2
-- spring boot 3.5.9
+- spring boot 3.5.10 
 - spring-kafka 3.3.12
 - spring security 6.5.7
 - spring-webflux 7.0.3
