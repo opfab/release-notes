@@ -87,7 +87,7 @@
 - axios 1.13.3
 - config 4.2.0
 - express 5.2.1
-- globals 17.0.0
+- globals 17.1.0
 - js-yaml 4.1.1
 - jwks-rsa 3.2.2
 - node.js 24.13.0 
