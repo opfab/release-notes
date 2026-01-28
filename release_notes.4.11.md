@@ -84,7 +84,7 @@
 ### Node services
 
 - amqp-connection-manager 5
-- axios 1.13.3
+- axios 1.13.4
 - config 4.2.0
 - express 5.2.1
 - globals 17.1.0
