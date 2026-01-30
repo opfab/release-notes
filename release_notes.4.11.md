@@ -92,7 +92,7 @@
 - js-yaml 4.1.1
 - jwks-rsa 3.2.2
 - node.js 24.13.0 
-- nodemailer 7.0.12 
+- nodemailer 7.0.13
 - node.js 24.12.0
 - rimraf 6.1.2
 - typescript 5.9.3
