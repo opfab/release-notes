@@ -26,6 +26,7 @@
 - #9451 : Add a patch settings method for opfab cli
 - #8696 : Add the possibility for the admin to edit user settings
 - #8988 : User action logs screen : set a minimum size for date / action / username / card uid#8988 : User action logs screen : set a minimum size for date / action / username / card uid
+- #8986 : Add a more meaningfull error when try to download a none json file as business data
   
   
 # Bugs
