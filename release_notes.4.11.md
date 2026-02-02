@@ -54,6 +54,7 @@ Misc :
 - #9462 : Processus Monitoring - impossible to use nested field in data for card table
 - #9467 : Archives : Duplicate entites in emitter or recipients
 - #9354 : Date range filter does not take into account local time
+- #9562 : Cards external diffusion - Setting activateCardsDiffusionRateLimiter to false does not deactivate rate limiter 
 
 # Tasks
 
