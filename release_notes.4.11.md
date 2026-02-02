@@ -9,7 +9,7 @@ Email :
 - #9281 : Add an option to hide body prefix and postfix for mail per process/state
 - #9283 : Add an option to set a sender for mail per process/state
 - #9282 : Add an option to set a title for mail per process/state
-- 
+ 
 Process Monitoring Screen : 
 - #9388 : Set column width with pixel instead of relative numbers
 - #9386 : Export only visible columns
