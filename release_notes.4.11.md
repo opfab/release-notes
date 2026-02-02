@@ -1,33 +1,46 @@
 
 # Features
 
-- #8979 : Display of firstname even if lastname is empty (and vice versa)
-- #8987 : Custom screen : add acknowledgment column title for export
+
+Email :
 - #8695 : Add an attachment option for email sent
-- #9155 : For accessiblity, add the possiblity to validate activity area via return key
 - #9278 : Add email field to user admin interface
-- #9309 : Permit template to provide a destroy method
-- #9358 : Usercard : use entity description for searching in multi-select
 - #9319 : Move state parameter emailBodyTemplate to email.bodyTemplate
-- #9381 : Allow hiding connected users in the activity area screen
 - #9281 : Add an option to hide body prefix and postfix for mail per process/state
 - #9283 : Add an option to set a sender for mail per process/state
-- #9387 : Opfab cli : add a delete bundle by version method
-- #9388 : Process montoring screen : set column width with pixel instead of relative numbers
-- #9386 : Process Monitoring screen : export only visible columns
-- #9385 : Process monitoring screen : permit user to set column width
+- #9282 : Add an option to set a title for mail per process/state
+- 
+Process Monitoring Screen : 
+- #9388 : Set column width with pixel instead of relative numbers
+- #9386 : Export only visible columns
+- #9385 : Permit user to set column width
+- #9439 : Preserve column order for export
+- #9384 : Memorize column width and position
+
+Opfab CLI :
+- #9387 : Add a delete bundle by version method
+- #9450 : Add a get settings method
+- #9451 : Add a patch settings method
+
+Activity Area :
+- #9155 : For accessiblity, add the possiblity to validate activity area via return key
+- #9381 : Allow hiding connected users in the activity area screen
+- #9382 : Move selectActivityAreaOnLogin web-ui param in activityArea
+    
+Administration :  
+- #8696 : Add the possibility for the admin to edit user settings
+- #8988 : User action logs screen : set a minimum size for date / action / username / card uid
+- #8986 : Add a more meaningfull error when try to download a none json file as business data
+
+Misc :
+- #8979 : Display of firstname even if lastname is empty (and vice versa)
+- #8987 : Custom screen : add acknowledgment column title for export
+- #9309 : Permit template to provide a destroy method
+- #9358 : Usercard : use entity description for searching in multi-select
 - #9383 : Delete user settings when deleted user
 - #9367 : Hide card reponse header if no entity allowed to respond
 - #9351 : Add a frontend api method to listen for business data files updates
-- #9384 : Process monitoring screen : memorize column width and position
-- #9282 : Add an option to set a title for mail per process/state
-- #9439 : Process Monitoring - Preserve column order for export
-- #9450 : Add a get settings method for opfab cli
-- #9451 : Add a patch settings method for opfab cli
-- #8696 : Add the possibility for the admin to edit user settings
-- #8988 : User action logs screen : set a minimum size for date / action / username / card uid#8988 : User action logs screen : set a minimum size for date / action / username / card uid
-- #8986 : Add a more meaningfull error when try to download a none json file as business data
-  
+
   
 # Bugs
 
@@ -47,7 +60,6 @@
 - #9014 : Add new api documentation based on openapi V3
 - #9015 : Remove client library
 - #9345 : Rename docker names for consistency
-- #9382 : Move selectActivityAreaOnLogin web-ui param in activityArea
 - #9188 : Implement code flow with angular oidc lib
   
 # Dependencies upgrade
