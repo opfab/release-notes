@@ -1,6 +1,7 @@
 
 # Features
 
+- #9565 : Notification configuration: add thicker red line to the “mail not activated” icon
   
 # Bugs
 
