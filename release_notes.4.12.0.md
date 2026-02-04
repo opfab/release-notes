@@ -20,6 +20,7 @@
 
 ### Java services 
 
+- java 21.0.10
   
 ### Node services
 
