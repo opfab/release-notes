@@ -9,6 +9,7 @@
 
 # Tasks
 
+- #9581 : Rename cards-external-diffusion to email-gateway
 
   
 # Dependencies upgrade
