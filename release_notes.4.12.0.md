@@ -10,6 +10,7 @@
 # Tasks
 
 - #9581 : Rename cards-external-diffusion to email-gateway
+- #9590 : Move configuration parameters operatorfabric.mail* to operatorfabric.emailGateway.smtpServer
 
   
 # Dependencies upgrade
