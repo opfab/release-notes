@@ -2,6 +2,7 @@
 # Features
 
 - #9565 : Notification configuration: add thicker red line to the “mail not activated” icon
+- #9564 : Monitoring processus screen : set entity names in entity recipients columns
   
 # Bugs
 
