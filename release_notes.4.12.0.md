@@ -11,6 +11,7 @@
 
 - #9581 : Rename cards-external-diffusion to email-gateway
 - #9590 : Move configuration parameters operatorfabric.mail* to operatorfabric.emailGateway.smtpServer
+- #9592 : Move configuration parameters operatorfabric.emailGateway.defaultConfig.* to operatorfabric.emailGateway.defaultConfig.outgoingEmails  
 
   
 # Dependencies upgrade
