@@ -29,7 +29,9 @@
   
 ### Node services
 
+- config 4.2.1
 - mongodb 7.1.0
+
 
 ## Command Line Interface (CLI)
 
