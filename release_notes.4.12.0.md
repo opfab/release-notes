@@ -26,6 +26,7 @@
 ### Java services 
 
 - java 21.0.10
+- micrometer-registry-prometheus 1.16.3 
 - spring boot 4.0.2
   
 ### Node services
