@@ -32,6 +32,7 @@
 - axios 1.13.5
 - config 4.2.1
 - mongodb 7.1.0
+- nodemailer 8
 
 
 ## Command Line Interface (CLI)
