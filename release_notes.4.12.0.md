@@ -18,7 +18,7 @@
 
 ## Frontend
 
-- angular 21.1.2 
+- angular 21.1.3 
 
 ## Backend 
 
