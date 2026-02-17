@@ -42,6 +42,7 @@
 
 ## Command Line Interface (CLI)
 
+- tar 7.5.9
   
 ## Misc
 
