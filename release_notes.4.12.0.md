@@ -18,7 +18,8 @@
 
 ## Frontend
 
-- angular 21.1.3 
+- ag-grid 35.1.0
+- angular 21.1.3
 
 ## Backend 
 
