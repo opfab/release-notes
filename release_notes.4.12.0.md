@@ -37,6 +37,7 @@
 - mongodb 7.1.0
 - nodemailer 8
 - node.js 24.13.1
+- rimraf 6.1.3
 
 
 ## Command Line Interface (CLI)
