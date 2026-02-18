@@ -20,6 +20,7 @@
 
 - ag-grid 35.1.0
 - angular 21.1.3
+- ol(openlayer) 10.8.0
 
 ## Backend 
 
