@@ -3,6 +3,7 @@
 
 - #9565 : Notification configuration: add thicker red line to the “mail not activated” icon
 - #9564 : Monitoring processus screen : set entity names in entity recipients columns
+- #9566 : In all adminstration screens do not close popups with esc key
   
 # Bugs
 
