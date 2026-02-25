@@ -43,7 +43,7 @@
 - nodemailer 8
 - node.js 24.13.1
 - rimraf 6.1.3
-- yaml 2.8.1
+- yaml 2.8.2
 
 
 ## Command Line Interface (CLI)
