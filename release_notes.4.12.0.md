@@ -38,7 +38,7 @@
 ### Node services
 
 - axios 1.13.5
-- config 4.4.0
+- config 4.4.1
 - mongodb 7.1.0
 - nodemailer 8
 - node.js 24.13.1
