@@ -20,7 +20,7 @@
 ## Frontend
 
 - ag-grid 35.1.0
-- angular 21.1.5
+- angular 21.1.6
 - fortawesome/fontawesome-free 7.2.0
 - ol(openlayer) 10.8.0
 - zone.js 0.16.1
