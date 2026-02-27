@@ -43,13 +43,14 @@
 - config 4.4.1
 - mongodb 7.1.0
 - nodemailer 8
-- node.js 24.13.1
+- node.js 24.14.0
 - rimraf 6.1.3
 - yaml 2.8.2
 
 
 ## Command Line Interface (CLI)
 
+- node.js 24.14.0
 - tar 7.5.9
   
 ## Misc
