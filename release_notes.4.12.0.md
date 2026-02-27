@@ -9,6 +9,8 @@
   
 # Bugs
 
+- #9615 : Multiple stop and start of supervisor trigger too much check
+
 
 # Tasks
 
