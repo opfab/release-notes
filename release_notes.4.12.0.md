@@ -27,6 +27,7 @@
 - angular 21.2.0
 - fortawesome/fontawesome-free 7.2.0
 - ol(openlayer) 10.8.0
+- proj4 2.20.3
 - zone.js 0.16.1
 
 ## Backend 
