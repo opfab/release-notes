@@ -46,7 +46,7 @@
 - axios 1.13.6
 - config 4.4.1
 - globals 17.4.0
-- jwks-rsa 4.0.0
+- jwks-rsa 4.0.1
 - mongodb 7.1.0
 - nodemailer 8
 - node.js 24.14.0
