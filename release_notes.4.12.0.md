@@ -6,7 +6,8 @@
 - #9566 : In all adminstration screens do not close popups with esc key
 - #9662 : Opfab CLI : offer more options for command "user last-user-action"
 - #9661 : Add creation date in admin user screen
-- #9609 : Allow asynchronous processing in templates before sending response or usercard 
+- #9609 : Allow asynchronous processing in templates before sending response or usercard
+- #9610 : Add a possibility for template to get response from child card sending
   
 # Bugs
 
