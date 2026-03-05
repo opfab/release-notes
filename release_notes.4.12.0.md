@@ -26,7 +26,7 @@
 ## Frontend
 
 - ag-grid 35.1.0
-- angular 21.2.0
+- angular 21.2.1
 - fortawesome/fontawesome-free 7.2.0
 - ol(openlayer) 10.8.0
 - proj4 2.20.3
