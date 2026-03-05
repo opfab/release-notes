@@ -8,6 +8,7 @@
 - #9661 : Add creation date in admin user screen
 - #9609 : Allow asynchronous processing in templates before sending response or usercard
 - #9610 : Add a possibility for template to get response from child card sending
+- #8693 : Add the possiblity to pop mailboxes and convert mail to cards
   
 # Bugs
 
