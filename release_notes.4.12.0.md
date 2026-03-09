@@ -38,6 +38,7 @@
 
 ### Java services 
 
+- amqp-client 5.29.0
 - java 21.0.10
 - kafka-clients 8.2.0-ce
 - micrometer-registry-prometheus 1.16.3 
