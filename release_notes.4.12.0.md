@@ -41,7 +41,7 @@
 - amqp-client 5.29.0
 - java 21.0.10
 - kafka-clients 8.2.0-ce
-- micrometer-registry-prometheus 1.16.3 
+- micrometer-registry-prometheus 1.16.4 
 - spring boot 4.0.3
 - spring security 7.0.3
   
