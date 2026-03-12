@@ -49,10 +49,8 @@
 
 - axios 1.13.6
 - config 4.4.1
-- fast-xml-parser 5.3.8
 - globals 17.4.0
 - jwks-rsa 4.0.1
-- mailparser 3.9.3
 - mongodb 7.1.0
 - nodemailer 8.0.2
 - node.js 24.14.0
