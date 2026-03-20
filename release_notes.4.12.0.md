@@ -66,4 +66,4 @@
   
 ## Misc
 
-- RabbitMQ 4.2.4-management
+- RabbitMQ 4.2.5-management 
