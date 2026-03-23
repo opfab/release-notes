@@ -14,6 +14,7 @@
 # Bugs
 
 - #9615 : Multiple stop and start of supervisor trigger too much check
+- #9750 : In archives : Collapsible updates does not take to account publish date filter and active date 
 
 
 # Tasks
