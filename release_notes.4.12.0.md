@@ -10,7 +10,8 @@
 - #9610 : Add a possibility for template to get response from child card sending
 - #8693 : Add the possiblity to pop mailboxes and convert mail to cards
 - #9744 : Permit to use slash for card ids
-- #9770 : Center tiles and permit tiles to take more space in dashboard screen 
+- #9770 : Center tiles and permit tiles to take more space in dashboard screen
+- #9532 : Reload ui menu conf dynamically
   
 # Bugs
 
