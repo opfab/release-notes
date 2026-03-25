@@ -12,6 +12,7 @@
 - #9744 : Permit to use slash for card ids
 - #9770 : Center tiles and permit tiles to take more space in dashboard screen
 - #9532 : Reload ui menu conf dynamically
+- #9743 : Email gateway : add an option to set mail as plain text for a specific process state
   
 # Bugs
 
