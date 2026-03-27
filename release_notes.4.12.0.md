@@ -37,6 +37,7 @@
 - ag-grid 35.1.0
 - angular 21.2.5
 - fortawesome/fontawesome-free 7.2.0
+- handlebars 4.7.9
 - ol(openlayer) 10.8.0
 - proj4 2.20.4
 - zone.js 0.16.1
