@@ -56,7 +56,7 @@
   
 ### Node services
 
-- axios 1.13.6
+- axios 1.14.0
 - config 4.4.1
 - globals 17.4.0
 - jwks-rsa 4.0.1
