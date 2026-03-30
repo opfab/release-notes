@@ -15,6 +15,7 @@
 - #9743 : Email gateway : add an option to set mail as plain text for a specific process state
 - #9736 : Email gateway : replace hideDefaultBodyPrefixAndPostfix config param by useOnlyTemplateForBodyRendering
 - #9764 : Add a back button on custom card list screen as an option
+- #9832 : Dashboard : add the possibility to define the list of process to show
   
 # Bugs
 
