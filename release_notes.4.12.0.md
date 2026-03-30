@@ -56,7 +56,7 @@
 - spring security 7.0.4
   
 ### Node services
-
+- amqplib 1.0.2
 - axios 1.14.0
 - config 4.4.1
 - globals 17.4.0
