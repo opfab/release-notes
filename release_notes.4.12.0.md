@@ -17,6 +17,7 @@
 - #9764 : Add a back button on custom card list screen as an option
 - #9832 : Dashboard : add the possibility to define the list of process to show
 - #9847 : Improve error managment for card period request
+- #9849 : Dashboard : set year mode in "restOfYearMode"
   
 # Bugs
 
