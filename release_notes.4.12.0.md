@@ -16,6 +16,7 @@
 - #9736 : Email gateway : replace hideDefaultBodyPrefixAndPostfix config param by useOnlyTemplateForBodyRendering
 - #9764 : Add a back button on custom card list screen as an option
 - #9832 : Dashboard : add the possibility to define the list of process to show
+- #9847 : Improve error managment for card period request
   
 # Bugs
 
