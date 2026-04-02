@@ -18,6 +18,7 @@
 - #9832 : Dashboard : add the possibility to define the list of process to show
 - #9847 : Improve error managment for card period request
 - #9849 : Dashboard : set year mode in "restOfYearMode"
+- #9766 : Add the possibility to have more than one dashboard custom screen
   
 # Bugs
 
