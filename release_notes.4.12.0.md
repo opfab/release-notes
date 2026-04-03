@@ -19,6 +19,7 @@
 - #9847 : Improve error managment for card period request
 - #9849 : Dashboard : set year mode in "restOfYearMode"
 - #9766 : Add the possibility to have more than one dashboard custom screen
+- #9828 : Dashboard : remove processStateRedirects option
   
 # Bugs
 
