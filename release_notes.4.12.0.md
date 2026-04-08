@@ -48,7 +48,7 @@
 - handlebars 4.7.9
 - lodash-es 4.18.1
 - ol(openlayer) 10.8.0
-- proj4 2.20.4
+- proj4 2.20.8
 - zone.js 0.16.1
 
 ## Backend 
