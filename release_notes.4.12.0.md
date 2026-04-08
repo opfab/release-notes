@@ -70,7 +70,7 @@
 - globals 17.4.0
 - jwks-rsa 4.0.1
 - mongodb 7.1.1
-- nodemailer 8.0.4
+- nodemailer 8.0.5
 - node.js 24.14.1
 - rimraf 6.1.3
 - yaml 2.8.3
