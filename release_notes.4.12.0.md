@@ -42,7 +42,7 @@
 
 ## Frontend
 
-- ag-grid 35.2.0
+- ag-grid 35.2.1
 - angular 21.2.7
 - fortawesome/fontawesome-free 7.2.0
 - handlebars 4.7.9
