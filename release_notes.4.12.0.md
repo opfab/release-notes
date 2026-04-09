@@ -22,6 +22,7 @@
 - #9828 : Dashboard : remove processStateRedirects option
 - #9857 : Dashboard : add the possibilty to define custom tiles
 - #9868 : Add export links on all external devices configuration screen
+- #9869 : Remove processCustomLinks option in dashboard configuration
   
 # Bugs
 
