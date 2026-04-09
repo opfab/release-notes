@@ -65,7 +65,7 @@
   
 ### Node services
 - amqplib 1.0.3
-- axios 1.14.0
+- axios 1.15.0
 - config 4.4.1
 - globals 17.4.0
 - jwks-rsa 4.0.1
