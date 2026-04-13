@@ -23,6 +23,7 @@
 - #9857 : Dashboard : add the possibilty to define custom tiles
 - #9868 : Add export links on all external devices configuration screen
 - #9869 : Remove processCustomLinks option in dashboard configuration
+- #9754 : Card list custom screens: do not take into account user notification filter
   
 # Bugs
 
