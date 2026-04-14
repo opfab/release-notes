@@ -1,30 +1,42 @@
 
 # Features
 
+## Dashboard 
+
+- #9764 : Add a back button on custom card list screen as an option
+- #9832 : Add the possibility to define the list of process to show
+- #9770 : Center tiles and permit tiles to take more space in dashboard screen
+- #9849 : Set year mode in "restOfYearMode"
+- #9766 : Add the possibility to have more than one dashboard custom screen
+- #9828 : Remove processStateRedirects option
+- #9857 : Add the possibilty to define custom tiles
+- #9869 : Remove processCustomLinks option in dashboard configuration
+- #9767 : Add bubbles for custom tiles
+  
+## Email gateway 
+
+- #9743 : Add an option to set mail as plain text for a specific process state
+- #9736 : Replace hideDefaultBodyPrefixAndPostfix config param by useOnlyTemplateForBodyRenderin
+- #8693 : Add the possiblity to pop mailboxes and convert mail to cards
+
+## Administration
+
+- #9566 : In all adminstration screens do not close popups with esc key
+- #9868 : Add export links on all external devices configuration screen
+- #9661 : Add creation date in admin user screen
+
+## Misc
+
 - #9565 : Notification configuration: add thicker red line to the “mail not activated” icon
 - #9564 : Monitoring processus screen : set entity names in entity recipients columns
-- #9566 : In all adminstration screens do not close popups with esc key
 - #9662 : Opfab CLI : offer more options for command "user last-user-action"
-- #9661 : Add creation date in admin user screen
 - #9609 : Allow asynchronous processing in templates before sending response or usercard
 - #9610 : Add a possibility for template to get response from child card sending
-- #8693 : Add the possiblity to pop mailboxes and convert mail to cards
 - #9744 : Permit to use slash for card ids
-- #9770 : Center tiles and permit tiles to take more space in dashboard screen
 - #9532 : Reload ui menu conf dynamically
-- #9743 : Email gateway : add an option to set mail as plain text for a specific process state
-- #9736 : Email gateway : replace hideDefaultBodyPrefixAndPostfix config param by useOnlyTemplateForBodyRendering
-- #9764 : Add a back button on custom card list screen as an option
-- #9832 : Dashboard : add the possibility to define the list of process to show
 - #9847 : Improve error managment for card period request
-- #9849 : Dashboard : set year mode in "restOfYearMode"
-- #9766 : Add the possibility to have more than one dashboard custom screen
-- #9828 : Dashboard : remove processStateRedirects option
-- #9857 : Dashboard : add the possibilty to define custom tiles
-- #9868 : Add export links on all external devices configuration screen
-- #9869 : Remove processCustomLinks option in dashboard configuration
 - #9754 : Card list custom screens: do not take into account user notification filter
-- #9767 : Dashboard : add bubbles for custom tiles
+
   
 # Bugs
 
