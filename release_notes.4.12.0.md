@@ -16,7 +16,7 @@
 ## Email gateway 
 
 - #9743 : Add an option to set mail as plain text for a specific process state
-- #9736 : Replace hideDefaultBodyPrefixAndPostfix config param by useOnlyTemplateForBodyRenderin
+- #9736 : Replace hideDefaultBodyPrefixAndPostfix config param by useOnlyTemplateForBodyRendering
 - #8693 : Add the possiblity to pop mailboxes and convert mail to cards
 
 ## Administration
