@@ -19,7 +19,8 @@
 
 ### Java services 
 
-- guava v33.6.0-jre
+- guava 33.6.0-jre
+- micrometer-registry-prometheus 1.16.5
 
 
 ### Node services
