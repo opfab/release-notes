@@ -25,6 +25,8 @@
 
 ### Node services
 
+- globals 17.5.0
+
 
 ## Command Line Interface (CLI)
 
