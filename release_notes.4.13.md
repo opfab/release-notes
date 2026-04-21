@@ -13,6 +13,8 @@
 
 ## Frontend
 
+- ol (openlayer) 10.9.0
+
 
 ## Backend 
 
