@@ -26,6 +26,7 @@
 
 ### Node services
 
+- fast-xml-parser 5.7.1
 - globals 17.5.0
 
 
