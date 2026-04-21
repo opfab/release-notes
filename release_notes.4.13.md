@@ -27,6 +27,7 @@
 
 ### Node services
 
+- axios 1.15.1
 - fast-xml-parser 5.7.1
 - globals 17.5.0
 
