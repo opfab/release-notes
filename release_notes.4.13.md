@@ -22,6 +22,7 @@
 - amqp-client 5.30.0
 - guava 33.6.0-jre
 - micrometer-registry-prometheus 1.16.5
+- spring security 7.0.5
 
 
 ### Node services
