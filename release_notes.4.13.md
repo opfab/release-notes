@@ -34,6 +34,7 @@
 - fast-xml-parser 5.7.1
 - globals 17.5.0
 - mongodb 7.2.0
+- node.js 24.15.0
 
 
 ## Command Line Interface (CLI)
