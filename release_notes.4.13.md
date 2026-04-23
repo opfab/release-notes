@@ -33,6 +33,7 @@
 - axios 1.15.2
 - fast-xml-parser 5.7.1
 - globals 17.5.0
+- mongodb 7.2.0
 
 
 ## Command Line Interface (CLI)
