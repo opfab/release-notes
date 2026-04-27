@@ -2,7 +2,7 @@
 
 # Features
 
-- #XXX : xxx
+- #9921 : See all versions of bundles in admin screen
   
 # Bugs
 
