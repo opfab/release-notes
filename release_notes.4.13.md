@@ -43,3 +43,4 @@
   
 ## Misc
 
+- RabbitMQ 4.3.0-management
