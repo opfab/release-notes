@@ -3,6 +3,7 @@
 # Features
 
 - #9921 : See all versions of bundles in admin screen
+- #9930 : Enforce type in custom screen definition 
   
 # Bugs
 
