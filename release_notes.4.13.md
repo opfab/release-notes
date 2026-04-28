@@ -36,6 +36,7 @@
 - fast-xml-parser 5.7.2
 - globals 17.5.0
 - mongodb 7.2.0
+- nodemailer 8.0.7
 - node.js 24.15.0
 
 
