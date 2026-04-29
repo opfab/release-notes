@@ -27,6 +27,7 @@
 - commons-io 2.22.0
 - guava 33.6.0-jre
 - micrometer-registry-prometheus 1.16.5
+- spring boot 4.0.6
 - spring security 7.0.5
 
 
