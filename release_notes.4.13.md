@@ -15,7 +15,7 @@
 ## Frontend
 
 - ol (openlayer) 10.9.0
-- angular 21.2.10
+- angular 21.2.11
 
 
 ## Backend 
