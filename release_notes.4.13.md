@@ -5,6 +5,7 @@
 - #9921 : See all versions of bundles in admin screen
 - #9930 : Enforce type in custom screen definition
 - #9589 : Add a card purging mechanism
+- #8985 : Add the possibility to download a bundle via the admin screen
   
 # Bugs
 
