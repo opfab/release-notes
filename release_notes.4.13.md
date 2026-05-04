@@ -3,7 +3,8 @@
 # Features
 
 - #9921 : See all versions of bundles in admin screen
-- #9930 : Enforce type in custom screen definition 
+- #9930 : Enforce type in custom screen definition
+- #9589 : Add a card purging mechanism
   
 # Bugs
 
