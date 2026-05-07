@@ -37,7 +37,7 @@
 ### Node services
 
 - axios 1.15.2
-- fast-xml-parser 5.7.2
+- fast-xml-parser 5.7.3
 - globals 17.6.0
 - mongodb 7.2.0
 - nodemailer 8.0.7
