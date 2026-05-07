@@ -76,8 +76,8 @@
 - java 21.0.10
 - kafka-clients 8.2.0-ce
 - micrometer-registry-prometheus 1.16.4 
-- spring boot 4.0.5
-- spring security 7.0.4
+- spring boot 4.0.6
+- spring security 7.0.5
   
 ### Node services
 - amqplib 1.0.3
