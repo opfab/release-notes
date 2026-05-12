@@ -43,7 +43,7 @@
 - mongodb 7.2.0
 - nodemailer 8.0.7
 - node.js 24.15.0
-
+- yaml v2.9.0
 
 ## Command Line Interface (CLI)
 
