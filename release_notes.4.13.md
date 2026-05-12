@@ -36,7 +36,7 @@
 
 ### Node services
 
-- amqplib 1.0.6
+- amqplib 1.2.0
 - axios 1.15.2
 - fast-xml-parser 5.7.3
 - globals 17.6.0
