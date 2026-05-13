@@ -16,7 +16,7 @@
 
 ## Frontend
 
-- angular 21.2.11
+- angular 21.2.12
 - ol (openlayer) 10.9.0
 - zone.js 0.16.2
 
