@@ -53,5 +53,5 @@
   
 ## Misc
 
-- mongo 7.0.32
+- mongo 7.0.34
 - RabbitMQ 4.3.0-management
