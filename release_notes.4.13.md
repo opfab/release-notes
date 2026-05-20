@@ -53,5 +53,6 @@
   
 ## Misc
 
+- kafka-clients 8.2.1-ce
 - mongo 7.0.34
 - RabbitMQ 4.3.0-management
