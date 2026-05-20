@@ -6,6 +6,7 @@
   
 # Bugs
 
+#10042 : Option showOnlyForGroups does not work anymore for agenda/usercard icons 
 
 # Tasks
   
