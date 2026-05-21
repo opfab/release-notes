@@ -2,7 +2,7 @@
 
 # Features
 
-- #xxx
+ #10047 : Dashboard : add initialBusinessPeriod parameter like customCardList
   
 # Bugs
 
