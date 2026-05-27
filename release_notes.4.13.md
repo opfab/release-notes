@@ -41,6 +41,7 @@
 
 - amqplib 1.2.0
 - axios 1.16.1
+- date-fns 4.3.0
 - fast-xml-parser 5.8.0
 - globals 17.6.0
 - mongodb 7.2.0
