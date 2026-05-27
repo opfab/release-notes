@@ -3,7 +3,6 @@
 # Features
 
 #10047 : Dashboard : add initialBusinessPeriod parameter like customCardList
-#10054 : Dashboard and CustomCardList: FROM_TODAY_TO_YEAR_END shall activate once on startup
   
 # Bugs
 
