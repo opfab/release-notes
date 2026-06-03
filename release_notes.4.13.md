@@ -32,6 +32,7 @@
 - confluent 8.2.1
 - commons-io 2.22.0
 - guava 33.6.0-jre
+- jackson 2.22
 - micrometer-registry-prometheus 1.16.5
 - mongodb-driver-sync 5.8.0
 - spring boot 4.0.6
