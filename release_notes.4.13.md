@@ -37,6 +37,7 @@
 - mongodb-driver-sync 5.8.0
 - spring boot 4.0.6
 - spring security 7.0.5
+- tomcat 4.0.22
 
 
 ### Node services
