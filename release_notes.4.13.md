@@ -17,7 +17,7 @@
 ## Frontend
 
 - ag-grid 35.3.0
-- angular 21.2.15
+- angular 21.2.16
 - date-fns 4.4.0
 - ol (openlayer) 10.9.0
 - zone.js 0.16.2
