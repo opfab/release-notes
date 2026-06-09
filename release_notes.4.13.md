@@ -33,7 +33,7 @@
 - commons-io 2.22.0
 - guava 33.6.0-jre
 - jackson 2.22
-- micrometer-registry-prometheus 1.16.5
+- micrometer-registry-prometheus 1.17.O
 - mongodb-driver-sync 5.8.0
 - rabbitMQ 5.31.0
 - spring boot 4.0.6
