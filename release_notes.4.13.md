@@ -37,7 +37,7 @@
 - mongodb-driver-sync 5.8.0
 - rabbitMQ 5.31.0
 - spring boot 4.0.6
-- spring security 7.0.5
+- spring security 7.1.0
 - tomcat 4.0.22
 
 
