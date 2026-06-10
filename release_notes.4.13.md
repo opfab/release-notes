@@ -34,6 +34,7 @@
 - commons-io 2.22.0
 - guava 33.6.0-jre
 - jackson 2.22
+- jre 21.0.11
 - micrometer-registry-prometheus 1.17.O
 - mongodb-driver-sync 5.8.0
 - netty 4.2.15.Final
