@@ -36,6 +36,7 @@
 - jackson 2.22
 - micrometer-registry-prometheus 1.17.O
 - mongodb-driver-sync 5.8.0
+- netty 4.2.15.Final
 - rabbitMQ 5.31.0
 - spring boot 4.0.6
 - spring security 7.1.0
