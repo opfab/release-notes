@@ -39,7 +39,7 @@
 - mongodb-driver-sync 5.8.0
 - netty 4.2.15.Final
 - rabbitMQ 5.31.0
-- spring boot 4.0.6
+- spring boot 4.1.0
 - spring security 7.1.0
 - tomcat 4.0.22
 
