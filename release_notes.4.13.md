@@ -51,7 +51,7 @@
 - date-fns 4.3.0
 - fast-xml-parser 5.8.0
 - globals 17.6.0
-- mongodb 7.2.0
+- mongodb 7.3.0 
 - nodemailer 8.0.10
 - node.js 24.16.0
 - yaml v2.9.0
