@@ -17,7 +17,7 @@
 ## Frontend
 
 - ag-grid 35.3.1
-- angular 21.2.16
+- angular 21.2.17
 - angular-oauth2-oidc 20.0.3.
 - date-fns 4.4.0
 - ol (openlayer) 10.9.0
