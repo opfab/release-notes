@@ -52,7 +52,7 @@
 - fast-xml-parser 5.9.0
 - globals 17.6.0
 - mongodb 7.3.0 
-- nodemailer 9.0.0
+- nodemailer 9.0.1
 - node.js 24.16.0
 - yaml v2.9.0
 
