@@ -20,6 +20,7 @@
 - angular 21.2.17
 - angular-oauth2-oidc 20.0.3.
 - date-fns 4.4.0
+- fullcalendar 6.1.21
 - ol (openlayer) 10.9.0
 - zone.js 0.16.2
 
