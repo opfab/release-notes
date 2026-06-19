@@ -68,4 +68,4 @@
 
 - kafka-clients 8.3.0-ce
 - mongo 7.0.37
-- RabbitMQ 4.3.0-management
+- RabbitMQ 4.3.2-management
