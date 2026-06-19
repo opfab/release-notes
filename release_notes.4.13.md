@@ -66,6 +66,6 @@
 
  rabbitmq 4.3.1
 
-- kafka-clients 8.2.1-ce
+- kafka-clients 8.3.0-ce
 - mongo 7.0.37
 - RabbitMQ 4.3.0-management
