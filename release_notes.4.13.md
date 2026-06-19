@@ -22,6 +22,7 @@
 - date-fns 4.4.0
 - fullcalendar 6.1.21
 - ol (openlayer) 10.9.0
+- proj4 2.20.9
 - zone.js 0.16.2
 
 
