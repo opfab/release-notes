@@ -53,6 +53,7 @@
 - date-fns 4.3.0
 - fast-xml-parser 5.9.2
 - globals 17.6.0
+- mailparser 3.9.11
 - mongodb 7.3.0 
 - nodemailer 9.0.1
 - node.js 24.16.0
