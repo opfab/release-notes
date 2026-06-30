@@ -21,6 +21,7 @@
 - angular-oauth2-oidc 20.0.3.
 - date-fns 4.4.0
 - fullcalendar 6.1.21
+- ngx-translate 18.0.0
 - ol (openlayer) 10.9.0
 - proj4 2.20.9
 - zone.js 0.16.2
