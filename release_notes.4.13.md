@@ -32,7 +32,7 @@
 
 ### Java services 
 
-- amqp-client 5.33.1
+- amqp-client 5.34.0
 - confluent 8.3.0
 - commons-io 2.22.0
 - guava 33.6.0-jre
