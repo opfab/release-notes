@@ -40,7 +40,7 @@
 - handlebars 4.5.3
 - jre 21.0.11
 - micrometer-registry-prometheus 1.17.O
-- mongodb-driver-sync 5.9.0
+- mongodb-driver-sync 5.9.0  
 - netty 4.2.15.Final
 - rabbitMQ 5.32.0
 - spring boot 4.1.0
@@ -58,7 +58,7 @@
 - globals 17.7.0
 - jwks-rsa 4.1.0
 - mailparser 3.9.14  
-- mongodb 7.4.0
+- mongodb 7.5.0
 - nodemailer 9.0.3
 - node.js 24.18.0
 - yaml v2.9.0
