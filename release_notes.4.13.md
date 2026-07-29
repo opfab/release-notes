@@ -40,7 +40,7 @@
 - handlebars 4.5.3
 - jre 21.0.11
 - micrometer-registry-prometheus 1.17.O
-- mongodb-driver-sync 5.9.0  
+- mongodb-driver-sync 5.9.1  
 - netty 4.2.15.Final
 - rabbitMQ 5.32.0
 - spring boot 4.1.0
