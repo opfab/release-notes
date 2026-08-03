@@ -37,7 +37,7 @@
 - commons-io 2.22.0
 - guava 33.6.0-jre
 - jackson 2.22
-- handlebars 4.5.3
+- handlebars 4.5.4
 - jre 21.0.11
 - micrometer-registry-prometheus 1.17.O
 - mongodb-driver-sync 5.9.1  
