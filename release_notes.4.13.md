@@ -70,8 +70,7 @@
   
 ## Misc
 
- rabbitmq 4.3.1
-
+- rabbitmq 4.3.4
 - kafka-clients 8.3.0-ce
 - mongo 7.0.39
 - RabbitMQ 4.3.2-management
