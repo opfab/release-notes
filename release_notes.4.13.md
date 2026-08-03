@@ -60,7 +60,7 @@
 - mailparser 3.9.14  
 - mongodb 7.5.0
 - nodemailer 9.0.3
-- node.js 24.18.0
+- node.js 24.18.1
 - yaml v2.9.0
 
 ## Command Line Interface (CLI)
