@@ -6,6 +6,7 @@
 - #9930 : Enforce type in custom screen definition
 - #9589,#9923 : Add a card purging mechanism
 - #8985 : Add the possibility to download a bundle via the admin screen
+- #10378 : Add access to current user data via frontend API opfab.users
   
 # Bugs
 
