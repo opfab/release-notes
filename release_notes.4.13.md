@@ -52,7 +52,7 @@
 ### Node services
 
 - amqplib 2.0.1
-- axios 1.18.1
+- axios 1.19.0
 - config 4.4.2
 - date-fns 4.3.0
 - fast-xml-parser 5.10.1
