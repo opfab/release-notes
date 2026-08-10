@@ -35,7 +35,7 @@
 
 - amqp-client 5.34.0
 - commons-io 2.22.0
-- confluent 8.3.0
+- confluent 8.3.1
 - guava 33.6.0-jre
 - handlebars 4.5.4
 - jackson 2.22
