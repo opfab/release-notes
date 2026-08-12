@@ -56,7 +56,7 @@
 - config 4.4.2
 - date-fns 4.3.0
 - fast-xml-parser 5.10.1
-- globals 17.7.0
+- globals 17.10.0
 - jwks-rsa 4.1.0
 - mailparser 3.9.15
 - mongodb 7.5.0
