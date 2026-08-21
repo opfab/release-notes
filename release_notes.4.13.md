@@ -37,7 +37,7 @@
 - commons-collections4 4.6.0
 - commons-io 2.22.0
 - confluent 8.3.1
-- guava 33.6.0-jre
+- guava 33.7.1-jre
 - handlebars 4.5.4
 - jackson 2.22
 - jre 21.0.11
