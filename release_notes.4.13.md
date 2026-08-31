@@ -18,7 +18,7 @@
 ## Frontend
 
 - ag-grid 36.0.0
-- angular 21.2.18
+- angular 21.2.22
 - angular-oauth2-oidc 20.0.3.
 - date-fns 4.4.0
 - fullcalendar 6.1.21
