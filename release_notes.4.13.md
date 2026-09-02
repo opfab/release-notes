@@ -33,7 +33,7 @@
 
 ### Java services 
 
-- amqp-client 5.34.0
+- amqp-client 5.35.0
 - commons-collections4 4.6.0
 - commons-io 2.22.0
 - confluent 8.3.1
