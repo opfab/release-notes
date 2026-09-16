@@ -64,7 +64,7 @@
 - mongodb 7.5.0
 - nodemailer 10.0.9
 - node.js 24.20.0
-- yaml v2.9.0
+- yaml 2.9.1
 
 ## Command Line Interface (CLI)
 
