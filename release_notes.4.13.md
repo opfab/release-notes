@@ -73,6 +73,6 @@
   
 ## Misc
 
-- kafka-clients 8.3.1-ce
+- kafka-clients 8.3.2-ce
 - mongo 7.0.40
 - rabbitmq 4.3.5
