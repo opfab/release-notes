@@ -55,7 +55,7 @@
 
 - amqplib 2.0.1
 - axios 1.20.0
-- config 5
+- config 5.0.1
 - date-fns 4.3.0
 - fast-xml-parser 5.11.1
 - globals 17.11.0
