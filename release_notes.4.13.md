@@ -60,7 +60,7 @@
 - fast-xml-parser 5.11.1
 - globals 17.11.0
 - jwks-rsa 4.1.0
-- mailparser 3.9.24
+- mailparser 3.9.28
 - mongodb 7.6.0
 - nodemailer 10.0.10
 - node.js 24.21.0
