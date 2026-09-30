@@ -53,7 +53,7 @@
 
 ### Node services
 
-- amqplib 2.0.1
+- amqplib 2.2.0
 - axios 1.20.0
 - config 5.0.1
 - date-fns 4.3.0
