@@ -57,7 +57,7 @@
 - axios 1.20.0
 - config 5.0.1
 - date-fns 4.3.0
-- fast-xml-parser 5.11.1
+- fast-xml-parser 5.11.2
 - globals 17.11.0
 - jsdom 30.1.1
 - jwks-rsa 4.1.0
