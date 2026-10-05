@@ -35,7 +35,9 @@
 ### Java services 
 
 - amqp-client 5.36.0
+- 
 - commons-collections4 4.6.0
+- commons-lang v3.21.0
 - commons-io 2.22.0
 - confluent 8.3.2
 - guava 33.7.2-jre
