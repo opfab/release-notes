@@ -35,14 +35,13 @@
 ### Java services 
 
 - amqp-client 5.36.0
-- 
 - commons-collections4 4.6.0
 - commons-lang v3.21.0
 - commons-io 2.22.0
 - confluent 8.3.2
 - guava 33.7.2-jre
 - handlebars 4.5.5
-- jackson 2.22
+- jackson 2.22.1
 - jre 21.0.11
 - micrometer-registry-prometheus 1.17.1
 - mongodb-driver-sync 5.13.0
