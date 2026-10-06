@@ -23,6 +23,7 @@
 - date-fns 4.4.0
 - fortawesome/fontawesome-free 7.3.1
 - fullcalendar 6.1.21
+- handlebars 4.7.10
 - ngx-translate 18.0.0
 - ol (openlayer) 10.9.0
 - proj4 2.20.9
