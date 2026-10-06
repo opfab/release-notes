@@ -64,7 +64,7 @@
 - jwks-rsa 4.1.0
 - mailparser 3.9.33
 - mongodb 7.6.0
-- nodemailer 10.0.12
+- nodemailer 10.0.15
 - node.js 24.21.0
 - yaml 2.9.1
 
