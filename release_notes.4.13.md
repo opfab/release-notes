@@ -40,7 +40,7 @@
 - commons-io 2.22.0
 - confluent 8.3.2
 - guava 33.7.2-jre
-- handlebars 4.5.5
+- handlebars 4.7.10
 - jackson 2.22.1
 - jre 21.0.11
 - micrometer-registry-prometheus 1.17.1
