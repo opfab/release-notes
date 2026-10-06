@@ -10,6 +10,7 @@
   
 # Bugs
 
+- #10505 : Translation issue with dashboard
 
 # Tasks
   
