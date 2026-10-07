@@ -64,7 +64,7 @@
 - globals 17.13.0
 - jsdom 30.1.1
 - jwks-rsa 4.1.0
-- mailparser 3.9.33
+- mailparser 3.9.36
 - mongodb 7.6.0
 - nodemailer 10.0.15
 - node.js 24.21.0
