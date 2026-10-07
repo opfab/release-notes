@@ -62,7 +62,7 @@
 - date-fns 4.3.0
 - fast-xml-parser 5.11.2
 - globals 17.13.0
-- jsdom 30.1.1
+- jsdom 30.1.2
 - jwks-rsa 4.1.0
 - mailparser 3.9.36
 - mongodb 7.6.0
