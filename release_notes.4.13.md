@@ -11,6 +11,7 @@
 # Bugs
 
 - #10505 : Translation issue with dashboard
+- #10654 : Dashboard is always settings month period on application loading
 
 # Tasks
   
