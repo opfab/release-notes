@@ -19,6 +19,7 @@
 
 ### Node services
 
+- express 5.3.0
 
 ## Command Line Interface (CLI)
 
