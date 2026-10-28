@@ -14,7 +14,9 @@
 ## Backend 
 
 
-### Java services 
+### Java services
+
+- handlebars 4.5.7
 
 
 ### Node services
