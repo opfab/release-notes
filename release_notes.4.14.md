@@ -17,6 +17,7 @@
 ### Java services
 
 - handlebars 4.5.7
+- micrometer-registry-prometheus 1.17.2
 
 
 ### Node services
