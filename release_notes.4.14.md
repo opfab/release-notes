@@ -28,7 +28,7 @@
 - jsdom 30.1.3
 - mailparser 3.12.4
 - nodemailer 10.1.4
-- node.js 24.22.1
+- node.js 24.22.2
 
 ## Command Line Interface (CLI)
 
