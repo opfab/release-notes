@@ -18,6 +18,7 @@
 
 - handlebars 4.5.7
 - micrometer-registry-prometheus 1.17.2
+- spring boot 4.1.2
 
 
 ### Node services
