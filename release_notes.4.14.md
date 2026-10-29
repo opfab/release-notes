@@ -16,7 +16,7 @@
 
 ### Java services
 
-- handlebars 4.5.7
+- handlebars 4.5.8
 - micrometer-registry-prometheus 1.17.2
 - spring boot 4.1.2
 
