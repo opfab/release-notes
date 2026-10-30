@@ -24,6 +24,7 @@
 ### Node services
 
 - amqp-connection-manager 5.0.1
+- axios 1.21.0
 - express 5.3.0
 - jsdom 30.1.3
 - mailparser 3.14.1
