@@ -16,6 +16,7 @@
 
 ### Java services
 
+- confluent 8.4.0
 - handlebars 4.5.8
 - micrometer-registry-prometheus 1.17.2
 - spring boot 4.1.2
