@@ -20,6 +20,7 @@
 - handlebars 4.5.8
 - kafka-clients 8.4.0-ce
 - micrometer-registry-prometheus 1.17.2
+- mongodb-driver-sync 5.14.0
 - spring boot 4.1.2
 - spring security 7.1.2
 
