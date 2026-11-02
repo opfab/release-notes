@@ -41,3 +41,4 @@
 ## Misc
 
 - mongo 7.0.45
+- rabbitmq 4.4.0
