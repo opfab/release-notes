@@ -32,6 +32,7 @@
 - express 5.3.0
 - jsdom 30.1.3
 - mailparser 3.14.1
+- mongodb 7.8.0
 - nodemailer 10.3.1
 - node.js 24.22.2
 
