@@ -32,6 +32,7 @@
 - amqplib 2.2.1
 - axios 1.21.0
 - express 5.3.0
+- globals 17.14.0
 - jsdom 30.1.3
 - mailparser 3.14.1
 - mongodb 7.8.0
