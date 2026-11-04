@@ -19,6 +19,7 @@
 
 - confluent 8.4.0
 - handlebars 4.5.8
+- json-smart 2.6.1
 - kafka-clients 8.4.0-ce
 - micrometer-registry-prometheus 1.17.2
 - mongodb-driver-sync 5.14.0
