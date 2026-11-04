@@ -10,6 +10,7 @@
 
 ## Frontend
 
+- angular v22.2.3
 
 ## Backend 
 
