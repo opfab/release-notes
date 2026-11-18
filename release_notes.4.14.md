@@ -36,7 +36,7 @@
 - express 5.3.0
 - fast-xml-parser 5.12.0
 - globals 17.14.0
-- jsdom 30.1.3
+- jsdom 31.0.1
 - mailparser 3.14.2
 - mongodb 7.8.0
 - nodemailer 10.6.0
