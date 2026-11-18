@@ -38,7 +38,7 @@
 - jsdom 30.1.3
 - mailparser 3.14.2
 - mongodb 7.8.0
-- nodemailer 10.3.1
+- nodemailer 10.6.0
 - node.js 26.13.0
 - rimraf 6.1.4
 
