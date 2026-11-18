@@ -30,7 +30,7 @@
 ### Node services
 
 - amqp-connection-manager 5.0.1
-- amqplib 2.2.1
+- amqplib 2.4.0
 - axios 1.21.0
 - express 5.3.0
 - fast-xml-parser 5.12.0
