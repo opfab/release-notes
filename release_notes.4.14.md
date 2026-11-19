@@ -18,7 +18,7 @@
 ### Java services
 
 - amqp-client 5.38.0
-- confluent 8.4.0
+- confluent 8.4.1
 - handlebars 4.5.8
 - json-smart 2.6.1
 - kafka-clients 8.4.0-ce
