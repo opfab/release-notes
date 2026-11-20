@@ -10,6 +10,7 @@
 
 ## Frontend
 
+- ag-grid 36.3.0
 - angular 22.2.4
 
 ## Backend 
